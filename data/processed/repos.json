@@ -232,7 +232,7 @@
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
     "size_kb": 775,
-    "pushed_at": "2026-05-19T09:47:53Z",
+    "pushed_at": "2026-05-19T14:14:25Z",
     "open_issues": 0,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -243,7 +243,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.821,
-    "ci_runs": 28
+    "ci_success_rate": 0.828,
+    "ci_runs": 29
   }
 ]
