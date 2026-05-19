@@ -195,21 +195,6 @@
     "lead_time_h": 0.02
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/231",
-    "number": 231,
-    "title": "feat: change ci template",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-04-06T08:45:06Z",
-    "merged_at": "2026-04-06T08:46:02Z",
-    "additions": 296,
-    "deletions": 125,
-    "changed_files": 5,
-    "lead_time_h": 0.02
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/42",
     "number": 42,
