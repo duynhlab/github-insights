@@ -15,7 +15,7 @@
     "@tremor/react": "3.18.3"
   },
   "devDependencies": {
-    "typescript": "5.5.4",
+    "typescript": "6.0.3",
     "@types/node": "20.14.10",
     "@types/react": "18.3.3",
     "autoprefixer": "10.4.19",
