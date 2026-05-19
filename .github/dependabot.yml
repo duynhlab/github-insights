@@ -1,0 +1,29 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    labels: [dependencies, ci]
+
+  - package-ecosystem: npm
+    directory: /web
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    labels: [dependencies, web]
+    groups:
+      next:
+        patterns: ["next", "@next/*", "eslint-config-next"]
+      react:
+        patterns: ["react", "react-dom", "@types/react*"]
+      tailwind:
+        patterns: ["tailwindcss", "postcss", "autoprefixer"]
+
+  - package-ecosystem: pip
+    directory: /collector
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    labels: [dependencies, collector]
