@@ -3,9 +3,9 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 23665,
-    "pushed_at": "2026-05-19T09:04:53Z",
-    "open_issues": 6,
+    "size_kb": 23042,
+    "pushed_at": "2026-05-19T18:45:38Z",
+    "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 12,
@@ -72,7 +72,7 @@
     "ttfr_median_h": 0.03,
     "ttfr_p90_h": 0.03,
     "ttfr_sample": 9,
-    "ci_success_rate": 0.83,
+    "ci_success_rate": 0.84,
     "ci_runs": 100
   },
   {
@@ -231,8 +231,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 775,
-    "pushed_at": "2026-05-19T14:14:25Z",
+    "size_kb": 779,
+    "pushed_at": "2026-05-19T14:57:26Z",
     "open_issues": 0,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -243,7 +243,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.828,
-    "ci_runs": 29
+    "ci_success_rate": 0.833,
+    "ci_runs": 30
   }
 ]

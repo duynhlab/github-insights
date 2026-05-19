@@ -34,30 +34,30 @@
     "url": "https://github.com/duynhlab/homelab/pull/282",
     "number": 282,
     "title": "chore(deps): update helm release external-secrets to v2.5.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "renovate",
     "created_at": "2026-05-19T09:03:13Z",
-    "merged_at": null,
+    "merged_at": "2026-05-19T18:45:10Z",
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 9.7
   },
   {
     "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/281",
     "number": 281,
     "title": "chore(deps): update grafana/tempo docker tag to v2.10.5",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "renovate",
     "created_at": "2026-05-19T09:03:11Z",
-    "merged_at": null,
+    "merged_at": "2026-05-19T16:05:12Z",
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 7.03
   },
   {
     "repo": "homelab",
