@@ -1,0 +1,141 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: 248 250 252;
+  --fg: 15 23 42;
+  --muted: 100 116 139;
+  --border: 226 232 240;
+  --card: 255 255 255;
+  --accent: 79 70 229;
+}
+
+.dark {
+  --bg: 9 12 22;
+  --fg: 226 232 240;
+  --muted: 148 163 184;
+  --border: 30 41 59;
+  --card: 17 24 39;
+  --accent: 129 140 248;
+}
+
+html {
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  color-scheme: light;
+}
+
+.dark html,
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  background-color: rgb(var(--bg));
+  color: rgb(var(--fg));
+}
+
+.tnum,
+[data-tabular="true"],
+table td,
+table th {
+  font-variant-numeric: tabular-nums;
+}
+
+:focus-visible {
+  outline: 2px solid rgb(var(--accent));
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Sticky table header */
+.table-sticky thead th {
+  position: sticky;
+  top: 0;
+  background: rgb(var(--card));
+  z-index: 1;
+}
+
+.section-anchor {
+  scroll-margin-top: 5rem;
+}
+
+/* Skeleton shimmer */
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: rgb(var(--border) / 0.45);
+  border-radius: 0.5rem;
+}
+.skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgb(255 255 255 / 0.35),
+    transparent
+  );
+  transform: translateX(-100%);
+  animation: shimmer 1.4s infinite;
+}
+.dark .skeleton::after {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgb(255 255 255 / 0.06),
+    transparent
+  );
+}
+@keyframes shimmer {
+  100% { transform: translateX(100%); }
+}
+
+/* Tremor dark mode tweaks via parent .dark */
+.dark .tremor-Card-root {
+  background-color: rgb(var(--card));
+  border-color: rgb(var(--border));
+}
+.dark .tremor-TableHeaderCell-root,
+.dark .tremor-TableCell-root {
+  color: rgb(var(--fg));
+  border-color: rgb(var(--border));
+}
+.dark .tremor-TableRow-row:hover {
+  background-color: rgb(255 255 255 / 0.03);
+}
+.dark .table-sticky thead th {
+  background: rgb(var(--card));
+}
+
+/* Mobile scroll affordance */
+.scroll-fade {
+  -webkit-mask-image: linear-gradient(
+    to right,
+    black 0,
+    black calc(100% - 24px),
+    transparent 100%
+  );
+          mask-image: linear-gradient(
+    to right,
+    black 0,
+    black calc(100% - 24px),
+    transparent 100%
+  );
+}
+
+/* Hide ugly scrollbars on the tabs row */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }

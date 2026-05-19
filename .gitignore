@@ -1,0 +1,18 @@
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+collector/.venv/
+collector/uv.lock
+
+# Node
+node_modules/
+web/.next/
+web/out/
+
+# Data (raw is regenerated; processed + archive are committed)
+data/raw/*
+!data/raw/.gitkeep
+
+# OS
+.DS_Store

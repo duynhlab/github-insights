@@ -1,0 +1,20 @@
+[
+  {
+    "login": "cubic-dev-ai",
+    "approved": 0,
+    "commented": 87,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 87,
+    "repos": 10
+  },
+  {
+    "login": "qodo-code-review",
+    "approved": 0,
+    "commented": 10,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 10,
+    "repos": 8
+  }
+]

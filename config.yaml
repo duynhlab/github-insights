@@ -1,0 +1,35 @@
+org: duynhlab
+
+# Repo filter
+repos:
+  include: ["*"]
+  exclude:
+    - .github
+    - action-test
+    - pkg
+
+# Bot identities (kept, but routed into "Dependency Pulse" tab)
+bots:
+  - dependabot[bot]
+  - renovate[bot]
+  - github-actions[bot]
+  - duynebot
+  - copilot-swe-agent[bot]
+
+# Time window for rolling metrics (days)
+window_days: 90
+
+# Stale PR threshold (days)
+stale_pr_days: 14
+
+# Output paths (relative to repo root)
+paths:
+  raw: data/raw
+  processed: data/processed
+  archive: data/archive
+  state: data/state.json
+
+# Rate-limit safety
+rate_limit:
+  min_core_remaining: 200
+  min_graphql_remaining: 200

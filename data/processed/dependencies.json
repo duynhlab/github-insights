@@ -1,0 +1,80 @@
+[
+  {
+    "name": "homelab",
+    "bot_open_pr": 1,
+    "bot_merged_pr": 32,
+    "bot_lead_time_median_h": 4.4
+  },
+  {
+    "name": "auth-service",
+    "bot_open_pr": 12,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "user-service",
+    "bot_open_pr": 6,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "product-service",
+    "bot_open_pr": 12,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "cart-service",
+    "bot_open_pr": 5,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "order-service",
+    "bot_open_pr": 6,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "review-service",
+    "bot_open_pr": 6,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "notification-service",
+    "bot_open_pr": 7,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "shipping-service",
+    "bot_open_pr": 8,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "frontend",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "backstage",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "tf-local",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 0.02
+  },
+  {
+    "name": "github-insights",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  }
+]
