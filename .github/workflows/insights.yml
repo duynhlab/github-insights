@@ -58,7 +58,7 @@ jobs:
       - name: Collect + process
         working-directory: collector
         env:
-          GH_INSIGHTS_TOKEN: ${{ secrets.GH_INSIGHTS_TOKEN }}
+          GH_INSIGHTS_TOKEN: ${{ secrets.GH_INSIGHTS_TOKEN || secrets.GITHUB_TOKEN }}
         run: uv run gh-insights ${{ steps.mode.outputs.cmd }} --config ../config.yaml
 
       - name: Commit data snapshot
