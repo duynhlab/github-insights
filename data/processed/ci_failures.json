@@ -236,10 +236,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 6,
+        "total": 7,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.667
+        "fail_rate": 0.571
       }
     ]
   },
