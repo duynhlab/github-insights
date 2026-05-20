@@ -9,6 +9,15 @@
     "repos": 10
   },
   {
+    "login": "sourcery-ai",
+    "approved": 0,
+    "commented": 9,
+    "changes_requested": 4,
+    "dismissed": 0,
+    "total": 13,
+    "repos": 1
+  },
+  {
     "login": "duyhenryer",
     "approved": 8,
     "commented": 0,
@@ -25,5 +34,23 @@
     "dismissed": 0,
     "total": 7,
     "repos": 5
+  },
+  {
+    "login": "sentry",
+    "approved": 0,
+    "commented": 6,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 6,
+    "repos": 1
+  },
+  {
+    "login": "gemini-code-assist",
+    "approved": 0,
+    "commented": 6,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 6,
+    "repos": 1
   }
 ]

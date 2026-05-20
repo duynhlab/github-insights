@@ -1,9 +1,15 @@
 [
   {
+    "name": "packages",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
     "name": "homelab",
     "bot_open_pr": 0,
-    "bot_merged_pr": 32,
-    "bot_lead_time_median_h": 4.93
+    "bot_merged_pr": 31,
+    "bot_lead_time_median_h": 4.1
   },
   {
     "name": "auth-service",

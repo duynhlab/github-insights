@@ -1,6 +1,15 @@
 {
   "by_repo": [
     {
+      "repo": "packages",
+      "XS": 0,
+      "S": 1,
+      "M": 5,
+      "L": 1,
+      "XL": 5,
+      "total": 12
+    },
+    {
       "repo": "homelab",
       "XS": 0,
       "S": 3,
@@ -140,11 +149,11 @@
     {
       "author": "duyhenryer",
       "XS": 1,
-      "S": 18,
-      "M": 16,
-      "L": 1,
-      "XL": 0,
-      "total": 36
+      "S": 19,
+      "M": 21,
+      "L": 2,
+      "XL": 5,
+      "total": 48
     }
   ],
   "buckets": [

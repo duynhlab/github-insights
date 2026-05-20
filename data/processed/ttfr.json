@@ -1,6 +1,12 @@
 {
   "by_repo": [
     {
+      "repo": "packages",
+      "sample": 11,
+      "median_h": 0.01,
+      "p90_h": 0.02
+    },
+    {
       "repo": "homelab",
       "sample": 0,
       "median_h": null,
@@ -86,6 +92,12 @@
     }
   ],
   "by_author": [
+    {
+      "author": "duyhenryer",
+      "sample": 11,
+      "median_h": 0.01,
+      "p90_h": 0.02
+    },
     {
       "author": "duynhne",
       "sample": 79,

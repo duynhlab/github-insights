@@ -1,10 +1,29 @@
 [
   {
+    "name": "packages",
+    "url": "https://github.com/duynhlab/packages",
+    "lang": "Shell",
+    "size_kb": 5554,
+    "pushed_at": "2026-05-20T13:42:50Z",
+    "open_issues": 1,
+    "human_open_pr": 0,
+    "human_stale_pr": 0,
+    "human_merged_pr": 12,
+    "commits_window": 0,
+    "lead_time_median_h": 0.03,
+    "lead_time_p95_h": 3.36,
+    "ttfr_median_h": 0.01,
+    "ttfr_p90_h": 0.02,
+    "ttfr_sample": 11,
+    "ci_success_rate": 0.439,
+    "ci_runs": 41
+  },
+  {
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 23048,
-    "pushed_at": "2026-05-20T09:19:05Z",
+    "size_kb": 22751,
+    "pushed_at": "2026-05-20T11:10:40Z",
     "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -15,7 +34,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.97,
+    "ci_success_rate": 0.98,
     "ci_runs": 100
   },
   {
@@ -231,8 +250,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 820,
-    "pushed_at": "2026-05-20T02:57:38Z",
+    "size_kb": 824,
+    "pushed_at": "2026-05-20T09:28:18Z",
     "open_issues": 0,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -243,8 +262,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.844,
-    "ci_runs": 32
+    "ci_success_rate": 0.848,
+    "ci_runs": 33
   },
   {
     "name": "base64-plugin",
