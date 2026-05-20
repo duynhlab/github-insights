@@ -1,9 +1,9 @@
 [
   {
     "name": "homelab",
-    "bot_open_pr": 3,
-    "bot_merged_pr": 31,
-    "bot_lead_time_median_h": 4.55
+    "bot_open_pr": 1,
+    "bot_merged_pr": 33,
+    "bot_lead_time_median_h": 5.31
   },
   {
     "name": "auth-service",
@@ -67,7 +67,7 @@
   },
   {
     "name": "tf-local",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 0.02
   },

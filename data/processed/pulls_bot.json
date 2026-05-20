@@ -4,30 +4,30 @@
     "url": "https://github.com/duynhlab/homelab/pull/284",
     "number": 284,
     "title": "chore(deps): update helm release rustfs to v0.3.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "renovate",
     "created_at": "2026-05-19T09:03:21Z",
-    "merged_at": null,
+    "merged_at": "2026-05-20T00:26:19Z",
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 15.38
   },
   {
     "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/283",
     "number": 283,
     "title": "chore(deps): update helm release kyverno to v3.8.1",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "renovate",
     "created_at": "2026-05-19T09:03:17Z",
-    "merged_at": null,
+    "merged_at": "2026-05-19T22:16:18Z",
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 13.22
   },
   {
     "repo": "homelab",
@@ -4316,6 +4316,21 @@
     "merged_at": null,
     "additions": 1,
     "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "tf-local",
+    "url": "https://github.com/duynhlab/tf-local/pull/25",
+    "number": 25,
+    "title": "Bump actions/upload-artifact from 6 to 7",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-05-19T23:39:41Z",
+    "merged_at": null,
+    "additions": 2,
+    "deletions": 2,
     "changed_files": 1,
     "lead_time_h": null
   },

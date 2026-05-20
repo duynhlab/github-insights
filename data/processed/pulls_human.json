@@ -196,6 +196,21 @@
   },
   {
     "repo": "auth-service",
+    "url": "https://github.com/duynhlab/auth-service/pull/49",
+    "number": 49,
+    "title": "Update all dependencies",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-05-20T02:50:39Z",
+    "merged_at": null,
+    "additions": 59,
+    "deletions": 59,
+    "changed_files": 4,
+    "lead_time_h": null
+  },
+  {
+    "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/42",
     "number": 42,
     "title": "fix: bump Dockerfile Go to 1.26.2 and update all dependencies to latest",
@@ -481,6 +496,21 @@
   },
   {
     "repo": "user-service",
+    "url": "https://github.com/duynhlab/user-service/pull/50",
+    "number": 50,
+    "title": "Update all dependencies",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-05-20T02:50:53Z",
+    "merged_at": null,
+    "additions": 61,
+    "deletions": 59,
+    "changed_files": 4,
+    "lead_time_h": null
+  },
+  {
+    "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/42",
     "number": 42,
     "title": "chore: bump dependencies to latest versions",
@@ -733,6 +763,21 @@
     "deletions": 1146,
     "changed_files": 11,
     "lead_time_h": 0.21
+  },
+  {
+    "repo": "product-service",
+    "url": "https://github.com/duynhlab/product-service/pull/56",
+    "number": 56,
+    "title": "Update all dependencies",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-05-20T02:51:10Z",
+    "merged_at": null,
+    "additions": 66,
+    "deletions": 67,
+    "changed_files": 4,
+    "lead_time_h": null
   },
   {
     "repo": "product-service",
@@ -1020,19 +1065,19 @@
     "lead_time_h": 0.11
   },
   {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/8",
-    "number": 8,
-    "title": "refactor: rename Docker images to short service names",
-    "state": "MERGED",
+    "repo": "cart-service",
+    "url": "https://github.com/duynhlab/cart-service/pull/54",
+    "number": 54,
+    "title": "Update all dependencies",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-02-06T09:21:26Z",
-    "merged_at": "2026-02-06T09:36:17Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 1,
-    "lead_time_h": 0.25
+    "created_at": "2026-05-20T02:51:25Z",
+    "merged_at": null,
+    "additions": 71,
+    "deletions": 71,
+    "changed_files": 4,
+    "lead_time_h": null
   },
   {
     "repo": "cart-service",
@@ -1290,19 +1335,19 @@
     "lead_time_h": 0.05
   },
   {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/4",
-    "number": 4,
-    "title": "fix: resolve all golangci-lint issues (21 fixes)",
-    "state": "MERGED",
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/51",
+    "number": 51,
+    "title": "Update all dependencies",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-02-06T13:11:21Z",
-    "merged_at": "2026-02-06T13:25:35Z",
-    "additions": 1143,
-    "deletions": 1120,
-    "changed_files": 9,
-    "lead_time_h": 0.24
+    "created_at": "2026-05-20T02:51:40Z",
+    "merged_at": null,
+    "additions": 76,
+    "deletions": 83,
+    "changed_files": 4,
+    "lead_time_h": null
   },
   {
     "repo": "order-service",
@@ -1560,19 +1605,19 @@
     "lead_time_h": 0.06
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/1",
-    "number": 1,
-    "title": "fix: resolve all golangci-lint issues (23 fixes)",
-    "state": "MERGED",
+    "repo": "review-service",
+    "url": "https://github.com/duynhlab/review-service/pull/51",
+    "number": 51,
+    "title": "Update all dependencies",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-02-06T13:18:32Z",
-    "merged_at": "2026-02-06T13:25:51Z",
-    "additions": 1196,
-    "deletions": 1165,
-    "changed_files": 11,
-    "lead_time_h": 0.12
+    "created_at": "2026-05-20T02:51:56Z",
+    "merged_at": null,
+    "additions": 61,
+    "deletions": 59,
+    "changed_files": 4,
+    "lead_time_h": null
   },
   {
     "repo": "review-service",
@@ -1830,19 +1875,19 @@
     "lead_time_h": 0.05
   },
   {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/1",
-    "number": 1,
-    "title": "fix: resolve all golangci-lint issues (19 fixes)",
-    "state": "MERGED",
+    "repo": "notification-service",
+    "url": "https://github.com/duynhlab/notification-service/pull/53",
+    "number": 53,
+    "title": "Update all dependencies",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-02-06T13:11:03Z",
-    "merged_at": "2026-02-06T13:25:16Z",
-    "additions": 1308,
-    "deletions": 1272,
-    "changed_files": 9,
-    "lead_time_h": 0.24
+    "created_at": "2026-05-20T02:52:11Z",
+    "merged_at": null,
+    "additions": 76,
+    "deletions": 83,
+    "changed_files": 4,
+    "lead_time_h": null
   },
   {
     "repo": "notification-service",
@@ -2100,19 +2145,19 @@
     "lead_time_h": 0.07
   },
   {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/3",
-    "number": 3,
-    "title": "chore: add Dependabot config, update README and AGENTS.md",
-    "state": "MERGED",
+    "repo": "shipping-service",
+    "url": "https://github.com/duynhlab/shipping-service/pull/52",
+    "number": 52,
+    "title": "Update all dependencies",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-02-07T08:37:39Z",
-    "merged_at": "2026-02-07T08:42:03Z",
-    "additions": 27,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 0.07
+    "created_at": "2026-05-20T02:52:28Z",
+    "merged_at": null,
+    "additions": 115,
+    "deletions": 119,
+    "changed_files": 4,
+    "lead_time_h": null
   },
   {
     "repo": "shipping-service",
@@ -2368,21 +2413,6 @@
     "deletions": 8,
     "changed_files": 1,
     "lead_time_h": 0.07
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/6",
-    "number": 6,
-    "title": "refactor: enforce 3-layer architecture compliance",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-07T14:20:56Z",
-    "merged_at": "2026-02-07T14:39:42Z",
-    "additions": 240,
-    "deletions": 190,
-    "changed_files": 8,
-    "lead_time_h": 0.31
   },
   {
     "repo": "frontend",

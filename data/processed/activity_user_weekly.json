@@ -172,20 +172,20 @@
     "author": "renovate",
     "is_bot": true,
     "created": 5,
-    "merged": 3
+    "merged": 5
   },
   {
     "week": "2026-W21",
     "author": "duynhne",
     "is_bot": false,
-    "created": 2,
+    "created": 10,
     "merged": 2
   },
   {
     "week": "2026-W21",
     "author": "dependabot",
     "is_bot": true,
-    "created": 10,
+    "created": 11,
     "merged": 0
   }
 ]

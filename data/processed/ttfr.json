@@ -20,37 +20,37 @@
     },
     {
       "repo": "product-service",
-      "sample": 9,
+      "sample": 8,
       "median_h": 0.03,
       "p90_h": 0.03
     },
     {
       "repo": "cart-service",
-      "sample": 8,
+      "sample": 7,
       "median_h": 0.04,
       "p90_h": 0.08
     },
     {
       "repo": "order-service",
-      "sample": 8,
+      "sample": 7,
       "median_h": 0.04,
-      "p90_h": 0.06
+      "p90_h": 0.05
     },
     {
       "repo": "review-service",
-      "sample": 7,
-      "median_h": 0.04,
-      "p90_h": 0.06
-    },
-    {
-      "repo": "notification-service",
       "sample": 6,
-      "median_h": 0.03,
+      "median_h": 0.04,
       "p90_h": 0.04
     },
     {
+      "repo": "notification-service",
+      "sample": 5,
+      "median_h": 0.04,
+      "p90_h": 0.07
+    },
+    {
       "repo": "shipping-service",
-      "sample": 6,
+      "sample": 5,
       "median_h": 0.04,
       "p90_h": 0.07
     },
@@ -82,7 +82,7 @@
   "by_author": [
     {
       "author": "duynhne",
-      "sample": 77,
+      "sample": 71,
       "median_h": 0.03,
       "p90_h": 0.07
     }
