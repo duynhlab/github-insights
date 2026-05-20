@@ -9,6 +9,15 @@
     "repos": 10
   },
   {
+    "login": "duyhenryer",
+    "approved": 8,
+    "commented": 0,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 8,
+    "repos": 8
+  },
+  {
     "login": "qodo-code-review",
     "approved": 0,
     "commented": 7,
@@ -16,14 +25,5 @@
     "dismissed": 0,
     "total": 7,
     "repos": 5
-  },
-  {
-    "login": "duyhenryer",
-    "approved": 1,
-    "commented": 0,
-    "changes_requested": 0,
-    "dismissed": 0,
-    "total": 1,
-    "repos": 1
   }
 ]
