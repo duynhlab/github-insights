@@ -16,6 +16,7 @@ import RepoHealthSection from "./sections/RepoHealthSection";
 import UsersSection from "./sections/UsersSection";
 import ReviewersSection from "./sections/ReviewersSection";
 import PrSizeSection from "./sections/PrSizeSection";
+import MergeHeatmapSection from "./sections/MergeHeatmapSection";
 import TtfrSection from "./sections/TtfrSection";
 import StaleSection from "./sections/StaleSection";
 import CiSection from "./sections/CiSection";
@@ -26,10 +27,10 @@ async function Header() {
   return (
     <header className="flex items-start justify-between gap-4">
       <div className="space-y-1">
-        <h1 className="text-2xl font-semibold tracking-tight">
+        <h1 className="font-mono text-2xl font-semibold tracking-tight bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
           {overview.org} — GitHub Insights
         </h1>
-        <p className="text-sm text-slate-500 dark:text-slate-400">
+        <p className="text-sm text-muted-fg">
           {overview.repo_count} public repos · rolling {overview.window_days}d · generated{" "}
           <time dateTime={overview.generated_at}>
             {new Date(overview.generated_at).toLocaleString()}
@@ -70,8 +71,12 @@ function SectionFallback({
 
 export default function Page() {
   return (
-    <div className="min-h-screen">
-      <main className="mx-auto max-w-7xl space-y-8 px-4 py-6 sm:px-6">
+    <div className="min-h-dvh">
+      <main
+        id="main"
+        tabIndex={-1}
+        className="mx-auto max-w-7xl space-y-8 px-4 py-6 sm:px-6 xl:max-w-[88rem] focus:outline-none"
+      >
         <Suspense
           fallback={
             <header className="space-y-2">
@@ -111,6 +116,10 @@ export default function Page() {
 
         <Suspense fallback={<SectionFallback id="size" title="PR size distribution" kind="chart" />}>
           <PrSizeSection />
+        </Suspense>
+
+        <Suspense fallback={<SectionFallback id="merge-heatmap" title="Merge heatmap (UTC)" kind="chart" />}>
+          <MergeHeatmapSection />
         </Suspense>
 
         <Suspense fallback={<SectionFallback id="ttfr" title="Review speed (time-to-first-review)" />}>

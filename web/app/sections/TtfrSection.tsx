@@ -23,7 +23,7 @@ export default async function TtfrSection() {
     >
       <Card>
         {empty ? (
-          <Text className="text-slate-500 dark:text-slate-400">No reviews in window.</Text>
+          <Text className="text-muted-fg">No reviews in window.</Text>
         ) : (
           <div className="overflow-x-auto scroll-fade">
             <Table className="table-sticky">

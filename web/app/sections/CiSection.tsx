@@ -14,6 +14,7 @@ import {
 } from "@tremor/react";
 import { readJson, type CiFailRepo } from "../lib/data";
 import { Section } from "../components/Section";
+import { Check } from "../components/Icon";
 import { GhLink } from "../lib/ui";
 
 export default async function CiSection() {
@@ -38,9 +39,11 @@ export default async function CiSection() {
     >
       {ciFailures.length === 0 ? (
         <Card>
-          <Flex justifyContent="center" className="flex-col gap-2 py-8">
-            <div className="text-3xl">✓</div>
-            <Text className="text-slate-500 dark:text-slate-400">No CI failures recorded.</Text>
+          <Flex justifyContent="center" className="flex-col gap-3 py-8">
+            <div className="inline-flex h-12 w-12 items-center justify-center rounded-full bg-success/10 text-success">
+              <Check size={24} />
+            </div>
+            <Text className="text-muted-fg">No CI failures recorded.</Text>
           </Flex>
         </Card>
       ) : (

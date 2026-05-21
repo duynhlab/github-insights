@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   Card,
   Title,
@@ -49,6 +49,16 @@ export default function UserActivityChart({ data }: Props) {
   const [metric, setMetric] = useState<Metric>("merged");
   const [includeBots, setIncludeBots] = useState(true);
 
+  useEffect(() => {
+    document.querySelectorAll(".tremor-MultiSelect-clearIconAllItems").forEach((svg) => {
+      const btn = svg.closest("button");
+      if (btn && !btn.getAttribute("aria-label")) {
+        btn.setAttribute("aria-label", "Clear author selection");
+        btn.setAttribute("title", "Clear author selection");
+      }
+    });
+  }, [selected]);
+
   const visible = useMemo(
     () => (selected.length ? selected : defaultPick),
     [selected, defaultPick],
@@ -78,6 +88,10 @@ export default function UserActivityChart({ data }: Props) {
   const categories = visible.filter(
     (a) => includeBots || !authors.find((x) => x.author === a)?.is_bot,
   );
+
+  const summary = `Weekly PRs ${metric} per author for ${categories.length} selected author${
+    categories.length === 1 ? "" : "s"
+  } across ${chartData.length} ISO week${chartData.length === 1 ? "" : "s"}.`;
 
   return (
     <Card>
@@ -124,15 +138,18 @@ export default function UserActivityChart({ data }: Props) {
         </MultiSelect>
       </Flex>
 
-      <AreaChart
-        className="h-72 mt-4"
-        data={chartData}
-        index="week"
-        categories={categories}
-        colors={["indigo", "emerald", "amber", "rose", "cyan", "violet", "lime", "fuchsia"]}
-        stack={false}
-        showLegend
-      />
+      <figure role="img" aria-label={summary} className="mt-4">
+        <AreaChart
+          className="h-72"
+          data={chartData}
+          index="week"
+          categories={categories}
+          colors={["indigo", "emerald", "amber", "rose", "cyan", "violet", "lime", "fuchsia"]}
+          stack={false}
+          showLegend
+        />
+        <figcaption className="sr-only">{summary}</figcaption>
+      </figure>
     </Card>
   );
 }

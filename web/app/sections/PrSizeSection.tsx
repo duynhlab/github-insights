@@ -11,6 +11,10 @@ export default async function PrSizeSection() {
   });
   const xlCount = prSize.by_repo.reduce((a, r) => a + (r.XL ?? 0), 0);
   const data = prSize.by_repo.filter((r) => r.total > 0);
+  const totalPrs = data.reduce((a, r) => a + r.total, 0);
+  const summary = data.length
+    ? `PR size mix across ${data.length} repos: ${totalPrs} PRs total, ${xlCount} XL (≥1000 LOC).`
+    : "No PRs in window.";
 
   return (
     <Section
@@ -33,16 +37,19 @@ export default async function PrSizeSection() {
       }
     >
       <Card>
-        <BarChart
-          className="h-72"
-          data={data}
-          index="repo"
-          categories={["XS", "S", "M", "L", "XL"]}
-          colors={["slate", "cyan", "indigo", "amber", "rose"]}
-          stack
-          showAnimation={false}
-          noDataText="No PRs in window"
-        />
+        <figure role="img" aria-label={summary}>
+          <BarChart
+            className="h-72"
+            data={data}
+            index="repo"
+            categories={["XS", "S", "M", "L", "XL"]}
+            colors={["slate", "cyan", "indigo", "amber", "rose"]}
+            stack
+            showAnimation={false}
+            noDataText="No PRs in window"
+          />
+          <figcaption className="sr-only">{summary}</figcaption>
+        </figure>
       </Card>
     </Section>
   );

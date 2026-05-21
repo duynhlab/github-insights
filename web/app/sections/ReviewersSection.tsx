@@ -1,21 +1,54 @@
-import {
-  Card,
-  Text,
-  Table,
-  TableHead,
-  TableHeaderCell,
-  TableRow,
-  TableBody,
-  TableCell,
-  Badge,
-} from "@tremor/react";
+import { Card, Text, Badge } from "@tremor/react";
 import { readJson, type Reviewer } from "../lib/data";
 import { Section } from "../components/Section";
+import {
+  SortableTable,
+  type Column,
+  type SortableRow,
+} from "../components/SortableTable";
 import { GhLink } from "../lib/ui";
+
+const columns: Column[] = [
+  { key: "login", header: "Reviewer", sortable: true, className: "font-medium" },
+  { key: "total", header: "Total", align: "right", sortable: true },
+  { key: "approved", header: "Approved", align: "right", sortable: true },
+  { key: "commented", header: "Commented", align: "right", sortable: true },
+  { key: "changes_requested", header: "Changes req.", align: "right", sortable: true },
+  { key: "repos", header: "Repos", align: "right", sortable: true },
+];
 
 export default async function ReviewersSection() {
   const reviewers = await readJson<Reviewer[]>("reviewers.json", []);
   const totalReviews = reviewers.reduce((a, r) => a + r.total, 0);
+
+  const rows: SortableRow[] = reviewers.map((r) => ({
+    id: r.login,
+    className: "hover:bg-muted/40",
+    sortValues: {
+      login: r.login,
+      total: r.total,
+      approved: r.approved,
+      commented: r.commented,
+      changes_requested: r.changes_requested,
+      repos: r.repos,
+    },
+    cells: [
+      <GhLink key="l" href={`https://github.com/${r.login}`}>{r.login}</GhLink>,
+      <span key="t" className="font-semibold">{r.total}</span>,
+      r.approved > 0 ? (
+        <Badge key="a" color="emerald" size="xs">{r.approved}</Badge>
+      ) : (
+        "0"
+      ),
+      r.commented,
+      r.changes_requested > 0 ? (
+        <Badge key="cr" color="amber" size="xs">{r.changes_requested}</Badge>
+      ) : (
+        "0"
+      ),
+      r.repos,
+    ],
+  }));
 
   return (
     <Section
@@ -33,54 +66,15 @@ export default async function ReviewersSection() {
     >
       <Card>
         {reviewers.length === 0 ? (
-          <Text className="text-slate-500 dark:text-slate-400">No reviews recorded in window.</Text>
+          <Text className="text-muted-fg">No reviews recorded in window.</Text>
         ) : (
           <div className="overflow-x-auto scroll-fade">
-            <Table className="table-sticky">
-              <TableHead>
-                <TableRow>
-                  <TableHeaderCell>Reviewer</TableHeaderCell>
-                  <TableHeaderCell className="text-right">Total</TableHeaderCell>
-                  <TableHeaderCell className="text-right">Approved</TableHeaderCell>
-                  <TableHeaderCell className="text-right">Commented</TableHeaderCell>
-                  <TableHeaderCell className="text-right">Changes req.</TableHeaderCell>
-                  <TableHeaderCell className="text-right">Repos</TableHeaderCell>
-                </TableRow>
-              </TableHead>
-              <TableBody>
-                {reviewers.map((r) => (
-                  <TableRow
-                    key={r.login}
-                    className="hover:bg-slate-50 dark:hover:bg-white/[0.03]"
-                  >
-                    <TableCell className="font-medium">
-                      <GhLink href={`https://github.com/${r.login}`}>{r.login}</GhLink>
-                    </TableCell>
-                    <TableCell className="text-right tnum font-semibold">{r.total}</TableCell>
-                    <TableCell className="text-right tnum">
-                      {r.approved > 0 ? (
-                        <Badge color="emerald" size="xs">
-                          {r.approved}
-                        </Badge>
-                      ) : (
-                        "0"
-                      )}
-                    </TableCell>
-                    <TableCell className="text-right tnum">{r.commented}</TableCell>
-                    <TableCell className="text-right tnum">
-                      {r.changes_requested > 0 ? (
-                        <Badge color="amber" size="xs">
-                          {r.changes_requested}
-                        </Badge>
-                      ) : (
-                        "0"
-                      )}
-                    </TableCell>
-                    <TableCell className="text-right tnum">{r.repos}</TableCell>
-                  </TableRow>
-                ))}
-              </TableBody>
-            </Table>
+            <SortableTable
+              rows={rows}
+              columns={columns}
+              initialSort={{ key: "total", dir: "desc" }}
+              caption="Reviewers by total reviews and breakdown. Sortable columns."
+            />
           </div>
         )}
       </Card>

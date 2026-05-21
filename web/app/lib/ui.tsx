@@ -7,7 +7,7 @@ export function GhLink({ href, children }: { href?: string | null; children: Rea
       href={href}
       target="_blank"
       rel="noreferrer"
-      className="text-indigo-600 underline-offset-2 hover:text-indigo-800 hover:underline dark:text-indigo-300 dark:hover:text-indigo-200"
+      className="inline-flex min-h-6 items-center text-primary underline-offset-2 transition-colors hover:underline focus-visible:underline"
     >
       {children}
     </a>

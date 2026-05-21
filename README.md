@@ -30,7 +30,7 @@ Engineering insights dashboard for the **[duynhlab](https://github.com/duynhlab)
 - **Dependency Pulse** — bot open / merged / median merge time per repo.
 
 ### UI / DX
-- **Static export** — Next.js 14 + Tailwind + Tremor → GitHub Pages (no backend, no runtime cost).
+- **Static export** — Next.js 16 + Tailwind + Tremor → GitHub Pages (no backend, no runtime cost).
 - **Streaming Server Components** — each section is its own RSC wrapped in `<Suspense>` with a tailored skeleton, so the shell + sticky tabs paint immediately.
 - **Sticky tab nav** — auto-scrolls active tab into view on mobile, fade-mask overflow.
 - **Dark mode** — class strategy with no-flash inline init script + toggle in header.
