@@ -87,7 +87,7 @@ export async function GlossarySection() {
             <b>Dependency Pulse</b> — bot merge velocity per repo; rising median merge time = upgrade debt.
           </li>
         </ul>
-        <Text className="mt-4 text-xs text-slate-500 dark:text-slate-400">
+        <Text className="mt-4 text-xs text-muted-fg">
           Public repos only. Long-term time-series, full DORA, and AI summaries are deferred.
         </Text>
       </Card>

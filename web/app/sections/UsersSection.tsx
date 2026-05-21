@@ -9,6 +9,11 @@ import {
 } from "@tremor/react";
 import { readJson, type PrRow } from "../lib/data";
 import { Section } from "../components/Section";
+import {
+  SortableTable,
+  type Column,
+  type SortableRow,
+} from "../components/SortableTable";
 import { GhLink, median } from "../lib/ui";
 
 type UserAgg = {
@@ -59,22 +64,30 @@ function aggregateByUser(prs: PrRow[]): UserAgg[] {
     r.repos.add(p.repo);
     by.set(a, r);
   }
-  return [...by.entries()]
-    .map(([author, r]) => {
-      const m = median(r.leads);
-      return {
-        author,
-        open_pr: r.open,
-        merged_pr: r.merged,
-        additions: r.add,
-        deletions: r.del,
-        changed_files: r.files,
-        lead_time_median_h: m == null ? null : Math.round(m * 100) / 100,
-        repos: r.repos.size,
-      };
-    })
-    .sort((a, b) => b.merged_pr - a.merged_pr || b.open_pr - a.open_pr);
+  return [...by.entries()].map(([author, r]) => {
+    const m = median(r.leads);
+    return {
+      author,
+      open_pr: r.open,
+      merged_pr: r.merged,
+      additions: r.add,
+      deletions: r.del,
+      changed_files: r.files,
+      lead_time_median_h: m == null ? null : Math.round(m * 100) / 100,
+      repos: r.repos.size,
+    };
+  });
 }
+
+const columns: Column[] = [
+  { key: "author", header: "User", sortable: true, className: "font-medium" },
+  { key: "open_pr", header: "Open", align: "right", sortable: true },
+  { key: "merged_pr", header: "Merged", align: "right", sortable: true },
+  { key: "repos", header: "Repos", align: "right", sortable: true },
+  { key: "diff", header: "+/−", align: "right", sortable: true },
+  { key: "changed_files", header: "Files", align: "right", sortable: true },
+  { key: "lead_time_median_h", header: "Lead med (h)", align: "right", sortable: true },
+];
 
 export default async function UsersSection() {
   const [pullsHuman, pullsBot] = await Promise.all([
@@ -84,6 +97,32 @@ export default async function UsersSection() {
   const users = aggregateByUser(pullsHuman);
   const bots = aggregateByUser(pullsBot);
 
+  const rows: SortableRow[] = users.map((u) => ({
+    id: u.author,
+    className: "hover:bg-muted/40",
+    sortValues: {
+      author: u.author,
+      open_pr: u.open_pr,
+      merged_pr: u.merged_pr,
+      repos: u.repos,
+      diff: u.additions + u.deletions,
+      changed_files: u.changed_files,
+      lead_time_median_h: u.lead_time_median_h,
+    },
+    cells: [
+      <GhLink key="a" href={`https://github.com/${u.author}`}>{u.author}</GhLink>,
+      u.open_pr,
+      u.merged_pr,
+      u.repos,
+      <span key="d">
+        <span className="text-success">+{u.additions.toLocaleString()}</span>{" "}
+        <span className="text-danger">−{u.deletions.toLocaleString()}</span>
+      </span>,
+      u.changed_files,
+      u.lead_time_median_h ?? "—",
+    ],
+  }));
+
   return (
     <Section
       id="users"
@@ -92,50 +131,16 @@ export default async function UsersSection() {
     >
       <Card>
         <div className="overflow-x-auto scroll-fade">
-          <Table className="table-sticky">
-            <TableHead>
-              <TableRow>
-                <TableHeaderCell>User</TableHeaderCell>
-                <TableHeaderCell className="text-right">Open</TableHeaderCell>
-                <TableHeaderCell className="text-right">Merged</TableHeaderCell>
-                <TableHeaderCell className="text-right">Repos</TableHeaderCell>
-                <TableHeaderCell className="text-right">+/−</TableHeaderCell>
-                <TableHeaderCell className="text-right">Files</TableHeaderCell>
-                <TableHeaderCell className="text-right">Lead med (h)</TableHeaderCell>
-              </TableRow>
-            </TableHead>
-            <TableBody>
-              {users.map((u) => (
-                <TableRow
-                  key={u.author}
-                  className="hover:bg-slate-50 dark:hover:bg-white/[0.03]"
-                >
-                  <TableCell className="font-medium">
-                    <GhLink href={`https://github.com/${u.author}`}>{u.author}</GhLink>
-                  </TableCell>
-                  <TableCell className="text-right tnum">{u.open_pr}</TableCell>
-                  <TableCell className="text-right tnum">{u.merged_pr}</TableCell>
-                  <TableCell className="text-right tnum">{u.repos}</TableCell>
-                  <TableCell className="text-right tnum">
-                    <span className="text-emerald-700 dark:text-emerald-300">
-                      +{u.additions.toLocaleString()}
-                    </span>{" "}
-                    <span className="text-rose-700 dark:text-rose-300">
-                      −{u.deletions.toLocaleString()}
-                    </span>
-                  </TableCell>
-                  <TableCell className="text-right tnum">{u.changed_files}</TableCell>
-                  <TableCell className="text-right tnum">
-                    {u.lead_time_median_h ?? "—"}
-                  </TableCell>
-                </TableRow>
-              ))}
-            </TableBody>
-          </Table>
+          <SortableTable
+            rows={rows}
+            columns={columns}
+            initialSort={{ key: "merged_pr", dir: "desc" }}
+            caption="Per-author PR throughput. Sortable columns."
+          />
         </div>
         {bots.length > 0 && (
           <details className="mt-4">
-            <summary className="cursor-pointer text-sm text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-200">
+            <summary className="cursor-pointer text-sm text-muted-fg hover:text-fg">
               Show bot accounts ({bots.length})
             </summary>
             <div className="overflow-x-auto scroll-fade mt-2">

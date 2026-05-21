@@ -1,21 +1,48 @@
-import {
-  Card,
-  Text,
-  Flex,
-  Table,
-  TableHead,
-  TableHeaderCell,
-  TableRow,
-  TableBody,
-  TableCell,
-  Badge,
-} from "@tremor/react";
+import { Card, Text, Flex, Badge } from "@tremor/react";
 import { readJson, type StalePr } from "../lib/data";
 import { Section } from "../components/Section";
+import { Check } from "../components/Icon";
+import {
+  SortableTable,
+  type Column,
+  type SortableRow,
+} from "../components/SortableTable";
 import { GhLink, staleSeverity } from "../lib/ui";
+
+const columns: Column[] = [
+  { key: "repo", header: "Repo", sortable: true },
+  { key: "pr", header: "PR", sortable: true, className: "max-w-md" },
+  { key: "author", header: "Author", sortable: true },
+  { key: "days_idle", header: "Days idle", align: "right", sortable: true },
+  { key: "loc", header: "LOC", align: "right", sortable: true },
+  { key: "state", header: "State", sortable: true },
+];
 
 export default async function StaleSection() {
   const stalePrs = await readJson<StalePr[]>("stale_prs.json", []);
+
+  const rows: SortableRow[] = stalePrs.map((s) => ({
+    id: `${s.repo}-${s.number}`,
+    className: "hover:bg-muted/40",
+    sortValues: {
+      repo: s.repo,
+      pr: s.number,
+      author: s.author ?? "",
+      days_idle: s.days_idle,
+      loc: s.loc,
+      state: s.is_draft ? "draft" : "open",
+    },
+    cells: [
+      s.repo,
+      <GhLink key="pr" href={s.url}>
+        #{s.number} — <span className="text-muted-fg">{s.title}</span>
+      </GhLink>,
+      s.author ?? "—",
+      <Badge key="d" color={staleSeverity(s.days_idle)}>{s.days_idle}d</Badge>,
+      s.loc,
+      s.is_draft ? <Badge key="st" color="slate">draft</Badge> : "open",
+    ],
+  }));
 
   return (
     <Section
@@ -32,48 +59,20 @@ export default async function StaleSection() {
     >
       <Card>
         {stalePrs.length === 0 ? (
-          <Flex justifyContent="center" className="flex-col gap-2 py-8">
-            <div className="text-3xl">✓</div>
-            <Text className="text-slate-500 dark:text-slate-400">No stale PRs. Nice.</Text>
+          <Flex justifyContent="center" className="flex-col gap-3 py-8">
+            <div className="inline-flex h-12 w-12 items-center justify-center rounded-full bg-success/10 text-success">
+              <Check size={24} />
+            </div>
+            <Text className="text-muted-fg">No stale PRs. Nice.</Text>
           </Flex>
         ) : (
           <div className="overflow-x-auto scroll-fade">
-            <Table className="table-sticky">
-              <TableHead>
-                <TableRow>
-                  <TableHeaderCell>Repo</TableHeaderCell>
-                  <TableHeaderCell>PR</TableHeaderCell>
-                  <TableHeaderCell>Author</TableHeaderCell>
-                  <TableHeaderCell className="text-right">Days idle</TableHeaderCell>
-                  <TableHeaderCell className="text-right">LOC</TableHeaderCell>
-                  <TableHeaderCell>State</TableHeaderCell>
-                </TableRow>
-              </TableHead>
-              <TableBody>
-                {stalePrs.map((s) => (
-                  <TableRow
-                    key={`${s.repo}-${s.number}`}
-                    className="hover:bg-slate-50 dark:hover:bg-white/[0.03]"
-                  >
-                    <TableCell>{s.repo}</TableCell>
-                    <TableCell className="max-w-md">
-                      <GhLink href={s.url}>
-                        #{s.number} —{" "}
-                        <span className="text-slate-700 dark:text-slate-300">{s.title}</span>
-                      </GhLink>
-                    </TableCell>
-                    <TableCell>{s.author ?? "—"}</TableCell>
-                    <TableCell className="text-right tnum">
-                      <Badge color={staleSeverity(s.days_idle)}>{s.days_idle}d</Badge>
-                    </TableCell>
-                    <TableCell className="text-right tnum">{s.loc}</TableCell>
-                    <TableCell>
-                      {s.is_draft ? <Badge color="slate">draft</Badge> : "open"}
-                    </TableCell>
-                  </TableRow>
-                ))}
-              </TableBody>
-            </Table>
+            <SortableTable
+              rows={rows}
+              columns={columns}
+              initialSort={{ key: "days_idle", dir: "desc" }}
+              caption="Open PRs untouched beyond threshold. Sortable columns."
+            />
           </div>
         )}
       </Card>

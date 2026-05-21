@@ -9,6 +9,7 @@ const LINKS = [
   { href: "#users", label: "Users" },
   { href: "#reviewers", label: "Review Load" },
   { href: "#size", label: "PR Size" },
+  { href: "#merge-heatmap", label: "Merge Heatmap" },
   { href: "#ttfr", label: "Review Speed" },
   { href: "#stale", label: "Stale PRs" },
   { href: "#ci", label: "CI Failures" },
@@ -50,9 +51,9 @@ export default function StickyNav() {
   return (
     <nav
       aria-label="Section navigation"
-      className="sticky top-0 z-20 -mx-4 sm:-mx-6 mb-4 border-b border-slate-200 bg-slate-50/85 backdrop-blur supports-[backdrop-filter]:bg-slate-50/60 dark:border-slate-800 dark:bg-slate-950/85 dark:supports-[backdrop-filter]:bg-slate-950/60"
+      className="sticky top-0 z-20 -mx-4 sm:-mx-6 mb-4 border-b border-border bg-background/85 backdrop-blur supports-[backdrop-filter]:bg-background/60"
     >
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 py-2 overflow-x-auto no-scrollbar scroll-fade">
+      <div className="mx-auto max-w-7xl xl:max-w-[88rem] px-4 sm:px-6 overflow-x-auto no-scrollbar scroll-fade">
         <ul ref={listRef} className="flex gap-1 whitespace-nowrap text-sm">
           {LINKS.map((l) => {
             const isActive = active === l.href;
@@ -60,12 +61,12 @@ export default function StickyNav() {
               <li key={l.href}>
                 <a
                   href={l.href}
-                  aria-current={isActive ? "true" : undefined}
+                  aria-current={isActive ? "page" : undefined}
                   className={
-                    "inline-block rounded-md px-3 py-1.5 transition-colors " +
+                    "relative inline-flex min-h-10 items-center rounded-md px-3 py-2 font-medium transition-colors " +
                     (isActive
-                      ? "bg-slate-900 text-white dark:bg-white dark:text-slate-900"
-                      : "text-slate-600 hover:bg-slate-200/70 hover:text-slate-900 dark:text-slate-300 dark:hover:bg-slate-800/70 dark:hover:text-white")
+                      ? "text-fg after:absolute after:inset-x-3 after:-bottom-px after:h-0.5 after:rounded-full after:bg-primary"
+                      : "text-muted-fg hover:bg-muted/60 hover:text-fg")
                   }
                 >
                   {l.label}
