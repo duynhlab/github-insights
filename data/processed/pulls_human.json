@@ -181,6 +181,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/291",
+    "number": 291,
+    "title": "Bump CloudNativePG to 1.29.1 and move Barman plugin to controllers",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-05-21T03:50:52Z",
+    "merged_at": "2026-05-21T06:36:52Z",
+    "additions": 354,
+    "deletions": 63,
+    "changed_files": 29,
+    "lead_time_h": 2.77
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/286",
     "number": 286,
     "title": "Disable renovate automerge to force PR creation",
@@ -3283,6 +3298,21 @@
     "deletions": 104,
     "changed_files": 7,
     "lead_time_h": 0.13
+  },
+  {
+    "repo": "github-insights",
+    "url": "https://github.com/duynhlab/github-insights/pull/11",
+    "number": 11,
+    "title": "docs: add AGENTS.md for AI coding agent guidance",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-05-21T07:43:50Z",
+    "merged_at": "2026-05-21T07:43:59Z",
+    "additions": 63,
+    "deletions": 0,
+    "changed_files": 1,
+    "lead_time_h": 0.0
   },
   {
     "repo": "base64-plugin",

@@ -510,21 +510,6 @@
     "lead_time_h": 10.12
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/241",
-    "number": 241,
-    "title": "chore(deps): update otel/opentelemetry-collector-contrib docker tag to v0.149.0",
-    "state": "MERGED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-04-10T18:31:36Z",
-    "merged_at": "2026-04-11T01:11:21Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 6.66
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/48",
     "number": 48,
