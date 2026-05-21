@@ -181,6 +181,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/292",
+    "number": 292,
+    "title": "Add WAL-G/pgBackRest/Barman tool comparison to backup docs",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-05-21T07:46:38Z",
+    "merged_at": "2026-05-21T07:48:16Z",
+    "additions": 154,
+    "deletions": 20,
+    "changed_files": 1,
+    "lead_time_h": 0.03
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/291",
     "number": 291,
     "title": "Bump CloudNativePG to 1.29.1 and move Barman plugin to controllers",
@@ -3298,6 +3313,21 @@
     "deletions": 104,
     "changed_files": 7,
     "lead_time_h": 0.13
+  },
+  {
+    "repo": "github-insights",
+    "url": "https://github.com/duynhlab/github-insights/pull/12",
+    "number": 12,
+    "title": "feat(web): UI refresh with design system, sortable tables, merge heatmap",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-05-21T07:52:13Z",
+    "merged_at": "2026-05-21T07:53:47Z",
+    "additions": 748,
+    "deletions": 335,
+    "changed_files": 24,
+    "lead_time_h": 0.03
   },
   {
     "repo": "github-insights",

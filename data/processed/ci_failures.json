@@ -260,10 +260,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.267
+        "fail_rate": 0.25
       }
     ]
   },
@@ -273,7 +273,7 @@
       {
         "name": "CI Pipeline",
         "fail": 2,
-        "total": 64,
+        "total": 65,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/25709856915",
         "last_fail_at": "2026-05-12T02:36:54Z",
         "fail_rate": 0.031

@@ -13,10 +13,10 @@
       "repo": "homelab",
       "XS": 0,
       "S": 3,
-      "M": 1,
+      "M": 2,
       "L": 4,
       "XL": 8,
-      "total": 16
+      "total": 17
     },
     {
       "repo": "auth-service",
@@ -123,8 +123,8 @@
       "S": 0,
       "M": 1,
       "L": 0,
-      "XL": 0,
-      "total": 1
+      "XL": 1,
+      "total": 2
     },
     {
       "repo": "base64-plugin",
@@ -141,10 +141,10 @@
       "author": "duynhne",
       "XS": 46,
       "S": 27,
-      "M": 66,
+      "M": 67,
       "L": 20,
-      "XL": 22,
-      "total": 181
+      "XL": 23,
+      "total": 183
     },
     {
       "author": "duyhenryer",
