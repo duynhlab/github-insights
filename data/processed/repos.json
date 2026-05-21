@@ -22,7 +22,7 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 22939,
+    "size_kb": 22770,
     "pushed_at": "2026-05-21T07:48:18Z",
     "open_issues": 1,
     "human_open_pr": 0,
@@ -250,8 +250,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 833,
-    "pushed_at": "2026-05-21T07:53:47Z",
+    "size_kb": 878,
+    "pushed_at": "2026-05-21T07:55:10Z",
     "open_issues": 0,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -262,8 +262,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.865,
-    "ci_runs": 37
+    "ci_success_rate": 0.868,
+    "ci_runs": 38
   },
   {
     "name": "base64-plugin",
