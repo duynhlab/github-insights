@@ -990,21 +990,6 @@
     "lead_time_h": 0.06
   },
   {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/1",
-    "number": 1,
-    "title": "Fix/golangci lint",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-06T13:11:52Z",
-    "merged_at": "2026-02-06T13:24:33Z",
-    "additions": 1287,
-    "deletions": 1146,
-    "changed_files": 11,
-    "lead_time_h": 0.21
-  },
-  {
     "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/56",
     "number": 56,
@@ -1558,21 +1543,6 @@
     "deletions": 2,
     "changed_files": 1,
     "lead_time_h": 0.08
-  },
-  {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/5",
-    "number": 5,
-    "title": "chore: add Dependabot config, update README and AGENTS.md",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-07T08:49:13Z",
-    "merged_at": "2026-02-07T08:52:23Z",
-    "additions": 118,
-    "deletions": 2,
-    "changed_files": 3,
-    "lead_time_h": 0.05
   },
   {
     "repo": "order-service",
@@ -2353,21 +2323,6 @@
     "deletions": 12,
     "changed_files": 3,
     "lead_time_h": 1.08
-  },
-  {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/6",
-    "number": 6,
-    "title": "feat: use short image name for multi-level GHCR naming",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-07T13:14:30Z",
-    "merged_at": "2026-02-07T13:18:36Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 1,
-    "lead_time_h": 0.07
   },
   {
     "repo": "shipping-service",

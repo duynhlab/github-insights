@@ -2,10 +2,10 @@
   {
     "login": "cubic-dev-ai",
     "approved": 0,
-    "commented": 80,
+    "commented": 77,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 80,
+    "total": 77,
     "repos": 10
   },
   {
@@ -27,15 +27,6 @@
     "repos": 8
   },
   {
-    "login": "qodo-code-review",
-    "approved": 0,
-    "commented": 7,
-    "changes_requested": 0,
-    "dismissed": 0,
-    "total": 7,
-    "repos": 5
-  },
-  {
     "login": "sentry",
     "approved": 0,
     "commented": 6,
@@ -52,5 +43,14 @@
     "dismissed": 0,
     "total": 6,
     "repos": 1
+  },
+  {
+    "login": "qodo-code-review",
+    "approved": 0,
+    "commented": 6,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 6,
+    "repos": 4
   }
 ]
