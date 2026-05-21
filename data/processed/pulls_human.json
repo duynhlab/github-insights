@@ -2100,21 +2100,6 @@
     "lead_time_h": 0.06
   },
   {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/2",
-    "number": 2,
-    "title": "chore: add Dependabot config, update README and AGENTS.md",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-07T08:43:03Z",
-    "merged_at": "2026-02-07T08:46:05Z",
-    "additions": 118,
-    "deletions": 2,
-    "changed_files": 3,
-    "lead_time_h": 0.05
-  },
-  {
     "repo": "notification-service",
     "url": "https://github.com/duynhlab/notification-service/pull/53",
     "number": 53,

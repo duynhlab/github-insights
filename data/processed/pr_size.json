@@ -67,10 +67,10 @@
       "repo": "review-service",
       "XS": 4,
       "S": 3,
-      "M": 10,
+      "M": 9,
       "L": 1,
       "XL": 0,
-      "total": 18
+      "total": 17
     },
     {
       "repo": "notification-service",
@@ -141,10 +141,10 @@
       "author": "duynhne",
       "XS": 46,
       "S": 27,
-      "M": 67,
+      "M": 66,
       "L": 20,
       "XL": 23,
-      "total": 183
+      "total": 182
     },
     {
       "author": "duyhenryer",
