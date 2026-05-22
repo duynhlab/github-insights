@@ -10,7 +10,7 @@ Engineering insights dashboard for the **[duynhlab](https://github.com/duynhlab)
 - **Public repos only** — no private-data leakage, FREE plan friendly.
 - **Hybrid REST + GraphQL collector** — REST for listings, GraphQL for PRs + reviews + commits in one query.
 - **Incremental sync** — GraphQL cursor + `updated_at` watermark per repo (saves rate-limit).
-- **Bot-aware** — `dependabot`, `renovate`, `*[bot]`, `duynebot` routed into a separate **Dependency Pulse** section so they don't skew human metrics.
+- **Bot-aware** — `dependabot`, `renovate`, `*[bot]`, `duynhbot` routed into a separate **Dependency Pulse** section so they don't skew human metrics.
 - **Configurable include/exclude** via `config.yaml` (`action-test`, `pkg`, `.github` excluded by default).
 - **Rolling 90-day window** + monthly `tar.gz` archives.
 - **Schedule** — every 6h refresh + weekly Sunday backfill & archive (`.github/workflows/insights.yml`).
@@ -86,7 +86,7 @@ org: duynhlab
 repos:
   include: ["*"]
   exclude: [".github", "action-test", "pkg"]
-bots: [dependabot[bot], renovate[bot], github-actions[bot], duynebot]
+bots: [dependabot[bot], renovate[bot], github-actions[bot], duynhbot]
 window_days: 90
 stale_pr_days: 14
 ```
