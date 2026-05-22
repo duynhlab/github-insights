@@ -4,11 +4,11 @@
     "workflows": [
       {
         "name": "CI",
-        "fail": 29,
-        "total": 58,
+        "fail": 28,
+        "total": 57,
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/26083264622",
         "last_fail_at": "2026-05-19T07:37:35Z",
-        "fail_rate": 0.5
+        "fail_rate": 0.491
       },
       {
         "name": ".github/workflows/aws-ci.yml",
@@ -260,10 +260,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 23,
+        "total": 24,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.174
+        "fail_rate": 0.167
       }
     ]
   },
