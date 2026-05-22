@@ -1,15 +1,15 @@
 import "./globals.css";
 import type { ReactNode } from "react";
-import { Fira_Sans, Fira_Code } from "next/font/google";
+import { Geist, Geist_Mono } from "next/font/google";
 
-const sans = Fira_Sans({
+const sans = Geist({
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
   display: "swap",
   variable: "--font-sans",
 });
 
-const mono = Fira_Code({
+const mono = Geist_Mono({
   subsets: ["latin"],
   weight: ["400", "500", "600"],
   display: "swap",

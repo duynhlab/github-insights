@@ -158,3 +158,10 @@ table th {
 
 .no-scrollbar::-webkit-scrollbar { display: none; }
 .no-scrollbar { scrollbar-width: none; }
+
+.tremor-Card-root {
+  box-shadow: none;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-ring-color: transparent;
+  border: 1px solid var(--color-border);
+}
