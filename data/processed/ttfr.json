@@ -26,7 +26,7 @@
     },
     {
       "repo": "product-service",
-      "sample": 9,
+      "sample": 8,
       "median_h": 0.03,
       "p90_h": 0.04
     },
@@ -100,7 +100,7 @@
     },
     {
       "author": "duynhne",
-      "sample": 74,
+      "sample": 73,
       "median_h": 0.04,
       "p90_h": 0.1
     }
