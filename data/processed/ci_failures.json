@@ -84,18 +84,18 @@
       {
         "name": "Check",
         "fail": 9,
-        "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26241727821",
-        "last_fail_at": "2026-05-21T17:19:32Z",
-        "fail_rate": 0.75
+        "total": 11,
+        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26298099176",
+        "last_fail_at": "2026-05-22T15:56:40Z",
+        "fail_rate": 0.818
       },
       {
         "name": "Build",
-        "fail": 2,
-        "total": 3,
+        "fail": 1,
+        "total": 2,
         "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26138583128",
         "last_fail_at": "2026-05-20T03:01:25Z",
-        "fail_rate": 0.667
+        "fail_rate": 0.5
       }
     ]
   },
@@ -260,10 +260,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 24,
+        "total": 25,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.167
+        "fail_rate": 0.16
       }
     ]
   },
