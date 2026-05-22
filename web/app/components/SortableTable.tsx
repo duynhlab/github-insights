@@ -94,7 +94,7 @@ export function SortableTable({
             const align = c.align === "right" ? "text-right" : "text-left";
             if (!c.sortable) {
               return (
-                <TableHeaderCell key={c.key} className={`${align} ${c.className ?? ""}`}>
+                <TableHeaderCell key={c.key} className={`py-2 text-xs uppercase tracking-wider ${align} ${c.className ?? ""}`}>
                   {c.header}
                 </TableHeaderCell>
               );
@@ -103,7 +103,7 @@ export function SortableTable({
               <TableHeaderCell
                 key={c.key}
                 aria-sort={ariaSort}
-                className={`${align} ${c.className ?? ""}`}
+                className={`py-2 text-xs uppercase tracking-wider ${align} ${c.className ?? ""}`}
               >
                 <button
                   type="button"
@@ -137,7 +137,7 @@ export function SortableTable({
               <TableCell
                 key={c.key}
                 className={
-                  "font-mono text-sm " +
+                  "font-mono text-xs py-1.5 " +
                   (c.align === "right" ? "text-right tnum " : "") +
                   (c.className ?? "")
                 }

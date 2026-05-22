@@ -27,10 +27,10 @@ async function Header() {
   return (
     <header className="flex items-start justify-between gap-4">
       <div className="space-y-1">
-        <h1 className="font-mono text-2xl font-semibold tracking-tight bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
+        <h1 className="font-mono text-3xl sm:text-4xl font-semibold tracking-tight leading-none text-fg">
           {overview.org} — GitHub Insights
         </h1>
-        <p className="text-sm text-muted-fg">
+        <p className="text-xs text-muted-fg">
           {overview.repo_count} public repos · rolling {overview.window_days}d · generated{" "}
           <time dateTime={overview.generated_at}>
             {new Date(overview.generated_at).toLocaleString()}
@@ -75,7 +75,7 @@ export default function Page() {
       <main
         id="main"
         tabIndex={-1}
-        className="mx-auto max-w-7xl space-y-8 px-4 py-6 sm:px-6 xl:max-w-[88rem] focus:outline-none"
+        className="mx-auto max-w-6xl space-y-6 px-4 py-6 sm:px-6 focus:outline-none"
       >
         <Suspense
           fallback={
