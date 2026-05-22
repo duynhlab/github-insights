@@ -3256,6 +3256,21 @@
   },
   {
     "repo": "github-insights",
+    "url": "https://github.com/duynhlab/github-insights/pull/15",
+    "number": 15,
+    "title": "style(web): tighten editorial pass with Geist Mono pair",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-05-22T09:57:20Z",
+    "merged_at": "2026-05-22T09:58:58Z",
+    "additions": 21,
+    "deletions": 14,
+    "changed_files": 6,
+    "lead_time_h": 0.03
+  },
+  {
+    "repo": "github-insights",
     "url": "https://github.com/duynhlab/github-insights/pull/14",
     "number": 14,
     "title": "chore(ci): use duynebot identity for data refresh commits",
@@ -3268,21 +3283,6 @@
     "deletions": 2,
     "changed_files": 1,
     "lead_time_h": 0.01
-  },
-  {
-    "repo": "github-insights",
-    "url": "https://github.com/duynhlab/github-insights/pull/13",
-    "number": 13,
-    "title": "chore: rename bot identity duynebot to duynhbot",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-22T09:12:42Z",
-    "merged_at": null,
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 2,
-    "lead_time_h": null
   },
   {
     "repo": "github-insights",
@@ -3313,6 +3313,21 @@
     "deletions": 0,
     "changed_files": 1,
     "lead_time_h": 0.0
+  },
+  {
+    "repo": "github-insights",
+    "url": "https://github.com/duynhlab/github-insights/pull/13",
+    "number": 13,
+    "title": "chore: rename bot identity duynebot to duynhbot",
+    "state": "CLOSED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-05-22T09:12:42Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 2,
+    "lead_time_h": null
   },
   {
     "repo": "base64-plugin",

@@ -120,11 +120,11 @@
     {
       "repo": "github-insights",
       "XS": 2,
-      "S": 0,
+      "S": 1,
       "M": 1,
       "L": 0,
       "XL": 1,
-      "total": 4
+      "total": 5
     },
     {
       "repo": "base64-plugin",
@@ -140,11 +140,11 @@
     {
       "author": "duynhne",
       "XS": 46,
-      "S": 27,
+      "S": 28,
       "M": 65,
       "L": 20,
       "XL": 21,
-      "total": 179
+      "total": 180
     },
     {
       "author": "duyhenryer",
