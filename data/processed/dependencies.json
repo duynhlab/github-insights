@@ -8,8 +8,8 @@
   {
     "name": "homelab",
     "bot_open_pr": 0,
-    "bot_merged_pr": 29,
-    "bot_lead_time_median_h": 1.88
+    "bot_merged_pr": 28,
+    "bot_lead_time_median_h": 2.99
   },
   {
     "name": "auth-service",
@@ -37,7 +37,7 @@
   },
   {
     "name": "order-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 2,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 3,
+    "bot_open_pr": 4,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },

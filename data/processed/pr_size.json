@@ -12,11 +12,11 @@
     {
       "repo": "homelab",
       "XS": 0,
-      "S": 3,
-      "M": 2,
+      "S": 4,
+      "M": 3,
       "L": 4,
-      "XL": 8,
-      "total": 17
+      "XL": 7,
+      "total": 18
     },
     {
       "repo": "auth-service",
@@ -58,10 +58,10 @@
       "repo": "order-service",
       "XS": 3,
       "S": 4,
-      "M": 10,
+      "M": 9,
       "L": 1,
       "XL": 0,
-      "total": 18
+      "total": 17
     },
     {
       "repo": "review-service",
@@ -141,19 +141,19 @@
       "author": "duynhne",
       "XS": 45,
       "S": 27,
-      "M": 65,
+      "M": 64,
       "L": 20,
-      "XL": 22,
-      "total": 179
+      "XL": 21,
+      "total": 177
     },
     {
       "author": "duyhenryer",
       "XS": 1,
-      "S": 19,
-      "M": 21,
+      "S": 20,
+      "M": 22,
       "L": 2,
       "XL": 5,
-      "total": 48
+      "total": 50
     }
   ],
   "buckets": [

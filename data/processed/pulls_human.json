@@ -181,6 +181,36 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/294",
+    "number": 294,
+    "title": "Refresh caching docs to match product-service v1 routes",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duyhenryer",
+    "created_at": "2026-05-22T03:24:36Z",
+    "merged_at": null,
+    "additions": 48,
+    "deletions": 27,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/293",
+    "number": 293,
+    "title": "Bump all PostgreSQL connection poolers to 3 replicas for HA",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duyhenryer",
+    "created_at": "2026-05-22T03:02:15Z",
+    "merged_at": "2026-05-22T03:02:48Z",
+    "additions": 15,
+    "deletions": 13,
+    "changed_files": 7,
+    "lead_time_h": 0.01
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/292",
     "number": 292,
     "title": "Add WAL-G/pgBackRest/Barman tool comparison to backup docs",
@@ -417,21 +447,6 @@
     "additions": 2640,
     "deletions": 214,
     "changed_files": 57,
-    "lead_time_h": 0.02
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/245",
-    "number": 245,
-    "title": "feat: integrate kong and cert-manager, update platform documentation \u2026",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-04-12T10:14:39Z",
-    "merged_at": "2026-04-12T10:15:37Z",
-    "additions": 2758,
-    "deletions": 67,
-    "changed_files": 42,
     "lead_time_h": 0.02
   },
   {
@@ -1798,21 +1813,6 @@
     "deletions": 2,
     "changed_files": 1,
     "lead_time_h": 0.09
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/2",
-    "number": 2,
-    "title": "chore: add Dependabot config, update README and AGENTS.md",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-07T08:47:55Z",
-    "merged_at": "2026-02-07T08:51:27Z",
-    "additions": 118,
-    "deletions": 2,
-    "changed_files": 3,
-    "lead_time_h": 0.06
   },
   {
     "repo": "review-service",
