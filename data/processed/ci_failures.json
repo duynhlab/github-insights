@@ -100,6 +100,27 @@
     ]
   },
   {
+    "repo": "user-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 7,
+        "total": 8,
+        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/26240400700",
+        "last_fail_at": "2026-05-21T16:54:11Z",
+        "fail_rate": 0.875
+      },
+      {
+        "name": "Build",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/26138592644",
+        "last_fail_at": "2026-05-20T03:01:44Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "order-service",
     "workflows": [
       {
@@ -239,10 +260,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 28,
+        "total": 29,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.143
+        "fail_rate": 0.138
       }
     ]
   },
