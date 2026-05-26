@@ -69,11 +69,27 @@
         "fail_rate": 0.889
       },
       {
-        "name": "Build",
+        "name": "github_actions in /. - Update #1384752663",
         "fail": 1,
         "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26138598556",
-        "last_fail_at": "2026-05-20T03:01:55Z",
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26448103078",
+        "last_fail_at": "2026-05-26T12:29:09Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /. - Update #1384752644",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26448069813",
+        "last_fail_at": "2026-05-26T12:28:25Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /db/migrations - Update #1384752781",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26447710614",
+        "last_fail_at": "2026-05-26T12:20:31Z",
         "fail_rate": 1.0
       }
     ]
@@ -260,10 +276,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 40,
+        "total": 41,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.1
+        "fail_rate": 0.098
       }
     ]
   },

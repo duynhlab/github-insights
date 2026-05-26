@@ -180,5 +180,12 @@
     "is_bot": true,
     "created": 20,
     "merged": 0
+  },
+  {
+    "week": "2026-W22",
+    "author": "dependabot",
+    "is_bot": true,
+    "created": 4,
+    "merged": 0
   }
 ]
