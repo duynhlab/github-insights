@@ -53,7 +53,7 @@
     "ttfr_median_h": 0.03,
     "ttfr_p90_h": 0.09,
     "ttfr_sample": 7,
-    "ci_success_rate": 0.9,
+    "ci_success_rate": 0.91,
     "ci_runs": 100
   },
   {
@@ -66,7 +66,7 @@
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 16,
-    "commits_window": 27,
+    "commits_window": 23,
     "lead_time_median_h": 0.09,
     "lead_time_p95_h": 1.65,
     "ttfr_median_h": 0.04,
@@ -250,20 +250,20 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 845,
-    "pushed_at": "2026-05-25T14:50:46Z",
+    "size_kb": 846,
+    "pushed_at": "2026-05-25T19:27:08Z",
     "open_issues": 0,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 4,
-    "commits_window": 48,
+    "commits_window": 52,
     "lead_time_median_h": 0.02,
     "lead_time_p95_h": null,
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.915,
-    "ci_runs": 59
+    "ci_success_rate": 0.917,
+    "ci_runs": 60
   },
   {
     "name": "base64-plugin",

@@ -83,19 +83,19 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 9,
-        "total": 11,
+        "fail": 8,
+        "total": 9,
         "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26298099176",
         "last_fail_at": "2026-05-22T15:56:40Z",
-        "fail_rate": 0.818
+        "fail_rate": 0.889
       },
       {
         "name": "Build",
         "fail": 1,
-        "total": 2,
+        "total": 1,
         "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26138583128",
         "last_fail_at": "2026-05-20T03:01:25Z",
-        "fail_rate": 0.5
+        "fail_rate": 1.0
       }
     ]
   },
@@ -260,10 +260,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 38,
+        "total": 39,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.105
+        "fail_rate": 0.103
       }
     ]
   },
