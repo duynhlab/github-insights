@@ -14,15 +14,15 @@
     },
     {
       "repo": "auth-service",
-      "sample": 7,
-      "median_h": 0.03,
-      "p90_h": 0.09
+      "sample": 4,
+      "median_h": 0.06,
+      "p90_h": 0.1
     },
     {
       "repo": "user-service",
-      "sample": 7,
-      "median_h": 0.04,
-      "p90_h": 0.07
+      "sample": 4,
+      "median_h": 0.05,
+      "p90_h": 0.1
     },
     {
       "repo": "product-service",
@@ -32,9 +32,9 @@
     },
     {
       "repo": "cart-service",
-      "sample": 7,
+      "sample": 3,
       "median_h": 0.04,
-      "p90_h": 0.09
+      "p90_h": 0.1
     },
     {
       "repo": "order-service",
@@ -50,8 +50,8 @@
     },
     {
       "repo": "notification-service",
-      "sample": 5,
-      "median_h": 0.04,
+      "sample": 2,
+      "median_h": 0.07,
       "p90_h": 0.1
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "author": "duynhne",
-      "sample": 72,
+      "sample": 59,
       "median_h": 0.04,
       "p90_h": 0.1
     }
