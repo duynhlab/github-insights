@@ -158,27 +158,6 @@
     ]
   },
   {
-    "repo": "review-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 7,
-        "total": 8,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/26222860696",
-        "last_fail_at": "2026-05-21T11:22:05Z",
-        "fail_rate": 0.875
-      },
-      {
-        "name": "Build",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/26138623159",
-        "last_fail_at": "2026-05-20T03:02:41Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "notification-service",
     "workflows": [
       {
@@ -242,6 +221,27 @@
     ]
   },
   {
+    "repo": "review-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 6,
+        "total": 7,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/26222860696",
+        "last_fail_at": "2026-05-21T11:22:05Z",
+        "fail_rate": 0.857
+      },
+      {
+        "name": "Build",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/26138623159",
+        "last_fail_at": "2026-05-20T03:02:41Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "frontend",
     "workflows": [
       {
@@ -276,10 +276,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 44,
+        "total": 45,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.091
+        "fail_rate": 0.089
       }
     ]
   },
