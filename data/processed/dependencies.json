@@ -43,7 +43,7 @@
   },
   {
     "name": "review-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 8,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },

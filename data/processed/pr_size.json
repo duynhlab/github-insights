@@ -65,12 +65,12 @@
     },
     {
       "repo": "review-service",
-      "XS": 4,
+      "XS": 2,
       "S": 3,
-      "M": 9,
-      "L": 1,
+      "M": 8,
+      "L": 0,
       "XL": 0,
-      "total": 17
+      "total": 13
     },
     {
       "repo": "notification-service",
@@ -139,12 +139,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 35,
+      "XS": 33,
       "S": 25,
-      "M": 56,
-      "L": 16,
+      "M": 55,
+      "L": 15,
       "XL": 21,
-      "total": 153
+      "total": 149
     },
     {
       "author": "duyhenryer",
