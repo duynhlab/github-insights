@@ -37,7 +37,7 @@
   },
   {
     "name": "order-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 6,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 4,
+    "bot_open_pr": 7,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },

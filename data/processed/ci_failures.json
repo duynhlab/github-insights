@@ -158,6 +158,27 @@
     ]
   },
   {
+    "repo": "order-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 9,
+        "total": 10,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26541155459",
+        "last_fail_at": "2026-05-27T21:57:32Z",
+        "fail_rate": 0.9
+      },
+      {
+        "name": "Build",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26138608381",
+        "last_fail_at": "2026-05-20T03:02:13Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "notification-service",
     "workflows": [
       {
@@ -179,36 +200,15 @@
     ]
   },
   {
-    "repo": "order-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 7,
-        "total": 8,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26251615391",
-        "last_fail_at": "2026-05-21T20:35:45Z",
-        "fail_rate": 0.875
-      },
-      {
-        "name": "Build",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26138608381",
-        "last_fail_at": "2026-05-20T03:02:13Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "shipping-service",
     "workflows": [
       {
         "name": "Check",
-        "fail": 7,
-        "total": 8,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/26258435336",
-        "last_fail_at": "2026-05-21T23:09:38Z",
-        "fail_rate": 0.875
+        "fail": 9,
+        "total": 10,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/26546280860",
+        "last_fail_at": "2026-05-28T00:08:22Z",
+        "fail_rate": 0.9
       },
       {
         "name": "Build",
@@ -276,10 +276,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 46,
+        "total": 47,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.087
+        "fail_rate": 0.085
       }
     ]
   },
