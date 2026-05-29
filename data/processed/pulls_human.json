@@ -660,21 +660,6 @@
     "lead_time_h": 0.16
   },
   {
-    "repo": "auth-service",
-    "url": "https://github.com/duynhlab/auth-service/pull/11",
-    "number": 11,
-    "title": "fix: upgrade Go to 1.25.7 to resolve CVE-2025-68121 (HIGH, stdlib)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-10T12:36:55Z",
-    "merged_at": "2026-02-10T12:41:08Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 0.07
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/50",
     "number": 50,
@@ -1212,21 +1197,6 @@
     "additions": 2,
     "deletions": 2,
     "changed_files": 1,
-    "lead_time_h": 0.07
-  },
-  {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/14",
-    "number": 14,
-    "title": "fix: upgrade Go to 1.25.7 to resolve CVE-2025-68121 (HIGH, stdlib)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-10T14:12:52Z",
-    "merged_at": "2026-02-10T14:16:54Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
     "lead_time_h": 0.07
   },
   {
