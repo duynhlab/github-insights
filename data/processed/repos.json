@@ -79,19 +79,19 @@
     "name": "product-service",
     "url": "https://github.com/duynhlab/product-service",
     "lang": "Go",
-    "size_kb": 223,
-    "pushed_at": "2026-05-28T05:35:51Z",
-    "open_issues": 7,
+    "size_kb": 254,
+    "pushed_at": "2026-05-29T05:37:43Z",
+    "open_issues": 9,
     "human_open_pr": 0,
     "human_stale_pr": 0,
-    "human_merged_pr": 13,
+    "human_merged_pr": 12,
     "commits_window": 20,
     "lead_time_median_h": 0.1,
     "lead_time_p95_h": 0.5,
     "ttfr_median_h": 0.03,
     "ttfr_p90_h": 0.1,
-    "ttfr_sample": 5,
-    "ci_success_rate": 0.76,
+    "ttfr_sample": 4,
+    "ci_success_rate": 0.7,
     "ci_runs": 100
   },
   {
@@ -250,8 +250,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1036,
-    "pushed_at": "2026-05-28T20:19:18Z",
+    "size_kb": 1063,
+    "pushed_at": "2026-05-29T02:57:01Z",
     "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -262,8 +262,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.933,
-    "ci_runs": 75
+    "ci_success_rate": 0.934,
+    "ci_runs": 76
   },
   {
     "name": "base64-plugin",
@@ -282,6 +282,6 @@
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
     "ci_success_rate": 1.0,
-    "ci_runs": 38
+    "ci_runs": 40
   }
 ]
