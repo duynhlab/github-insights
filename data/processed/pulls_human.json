@@ -1590,21 +1590,6 @@
     "lead_time_h": 0.06
   },
   {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/11",
-    "number": 11,
-    "title": "fix(metrics): apply RED method best practices from metrics audit",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-20T04:10:58Z",
-    "merged_at": "2026-02-20T04:16:53Z",
-    "additions": 28,
-    "deletions": 47,
-    "changed_files": 1,
-    "lead_time_h": 0.1
-  },
-  {
     "repo": "notification-service",
     "url": "https://github.com/duynhlab/notification-service/pull/53",
     "number": 53,

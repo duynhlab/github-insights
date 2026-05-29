@@ -44,8 +44,8 @@
     },
     {
       "repo": "review-service",
-      "sample": 2,
-      "median_h": 0.07,
+      "sample": 1,
+      "median_h": 0.1,
       "p90_h": 0.1
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "author": "duynhne",
-      "sample": 39,
+      "sample": 38,
       "median_h": 0.05,
       "p90_h": 0.1
     }

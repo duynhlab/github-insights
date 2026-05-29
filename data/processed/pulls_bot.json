@@ -3271,6 +3271,36 @@
   },
   {
     "repo": "review-service",
+    "url": "https://github.com/duynhlab/review-service/pull/59",
+    "number": 59,
+    "title": "build(deps): bump flyway/flyway from 12.6.1 to 12.7.0 in /db/migrations",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-05-29T11:34:44Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "review-service",
+    "url": "https://github.com/duynhlab/review-service/pull/52",
+    "number": 52,
+    "title": "build(deps): bump flyway/flyway from 12.6.1 to 12.6.2 in /db/migrations",
+    "state": "CLOSED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-05-21T11:21:59Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/58",
     "number": 58,
     "title": "build(deps): bump go.opentelemetry.io/otel/trace from 1.43.0 to 1.44.0",
@@ -3357,21 +3387,6 @@
     "additions": 8,
     "deletions": 7,
     "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/52",
-    "number": 52,
-    "title": "build(deps): bump flyway/flyway from 12.6.1 to 12.6.2 in /db/migrations",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-05-21T11:21:59Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
     "lead_time_h": null
   },
   {
