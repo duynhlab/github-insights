@@ -14,7 +14,7 @@
     },
     {
       "repo": "auth-service",
-      "sample": 2,
+      "sample": 1,
       "median_h": 0.1,
       "p90_h": 0.1
     },
@@ -100,7 +100,7 @@
     },
     {
       "author": "duynhne",
-      "sample": 33,
+      "sample": 32,
       "median_h": 0.05,
       "p90_h": 0.1
     }
