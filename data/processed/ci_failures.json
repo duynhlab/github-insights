@@ -158,6 +158,27 @@
     ]
   },
   {
+    "repo": "order-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 12,
+        "total": 13,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26666021771",
+        "last_fail_at": "2026-05-29T22:45:13Z",
+        "fail_rate": 0.923
+      },
+      {
+        "name": "Build",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26138608381",
+        "last_fail_at": "2026-05-20T03:02:13Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "review-service",
     "workflows": [
       {
@@ -200,36 +221,15 @@
     ]
   },
   {
-    "repo": "order-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 11,
-        "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26604469787",
-        "last_fail_at": "2026-05-28T21:53:02Z",
-        "fail_rate": 0.917
-      },
-      {
-        "name": "Build",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26138608381",
-        "last_fail_at": "2026-05-20T03:02:13Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "shipping-service",
     "workflows": [
       {
         "name": "Check",
-        "fail": 11,
-        "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/26608989562",
-        "last_fail_at": "2026-05-28T23:45:33Z",
-        "fail_rate": 0.917
+        "fail": 12,
+        "total": 13,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/26669253865",
+        "last_fail_at": "2026-05-30T00:31:17Z",
+        "fail_rate": 0.923
       },
       {
         "name": "Build",
@@ -276,10 +276,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 54,
+        "total": 55,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.074
+        "fail_rate": 0.073
       }
     ]
   },
@@ -302,7 +302,7 @@
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 57,
+        "total": 56,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/25709856915",
         "last_fail_at": "2026-05-12T02:36:54Z",
         "fail_rate": 0.018

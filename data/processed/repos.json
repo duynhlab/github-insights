@@ -118,7 +118,7 @@
     "url": "https://github.com/duynhlab/order-service",
     "lang": "Go",
     "size_kb": 123,
-    "pushed_at": "2026-05-28T21:52:56Z",
+    "pushed_at": "2026-05-29T22:45:12Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -129,7 +129,7 @@
     "ttfr_median_h": 0.05,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 3,
-    "ci_success_rate": 0.88,
+    "ci_success_rate": 0.87,
     "ci_runs": 100
   },
   {
@@ -175,7 +175,7 @@
     "url": "https://github.com/duynhlab/shipping-service",
     "lang": "Go",
     "size_kb": 143,
-    "pushed_at": "2026-05-28T23:45:32Z",
+    "pushed_at": "2026-05-30T00:31:15Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -186,7 +186,7 @@
     "ttfr_median_h": 0.07,
     "ttfr_p90_h": 0.07,
     "ttfr_sample": 3,
-    "ci_success_rate": 0.88,
+    "ci_success_rate": 0.87,
     "ci_runs": 100
   },
   {
@@ -250,20 +250,20 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1067,
-    "pushed_at": "2026-05-29T14:58:02Z",
+    "size_kb": 1094,
+    "pushed_at": "2026-05-29T20:23:12Z",
     "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 4,
-    "commits_window": 64,
+    "commits_window": 68,
     "lead_time_median_h": 0.02,
     "lead_time_p95_h": null,
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.936,
-    "ci_runs": 78
+    "ci_success_rate": 0.937,
+    "ci_runs": 79
   },
   {
     "name": "base64-plugin",
