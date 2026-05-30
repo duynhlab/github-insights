@@ -20,13 +20,13 @@
     },
     {
       "repo": "user-service",
-      "sample": 2,
-      "median_h": 0.08,
+      "sample": 1,
+      "median_h": 0.1,
       "p90_h": 0.1
     },
     {
       "repo": "product-service",
-      "sample": 4,
+      "sample": 3,
       "median_h": 0.03,
       "p90_h": 0.1
     },
@@ -38,8 +38,8 @@
     },
     {
       "repo": "order-service",
-      "sample": 3,
-      "median_h": 0.05,
+      "sample": 2,
+      "median_h": 0.08,
       "p90_h": 0.1
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "author": "duynhne",
-      "sample": 36,
+      "sample": 33,
       "median_h": 0.05,
       "p90_h": 0.1
     }

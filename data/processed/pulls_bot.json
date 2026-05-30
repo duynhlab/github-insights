@@ -1005,21 +1005,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "auth-service",
-    "url": "https://github.com/duynhlab/auth-service/pull/8",
-    "number": 8,
-    "title": "build(deps): bump library/golang from 1.25.6-alpine to 1.25.7-alpine",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-02-09T18:17:57Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/51",
     "number": 51,
@@ -2715,21 +2700,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/12",
-    "number": 12,
-    "title": "build(deps): bump library/golang from 1.25.6-alpine to 1.25.7-alpine",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-02-09T18:39:07Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
     "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/52",
     "number": 52,
@@ -3855,21 +3825,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/4",
-    "number": 4,
-    "title": "build(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp from 1.39.0 to 1.40.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-02-07T08:46:56Z",
-    "merged_at": null,
-    "additions": 18,
-    "deletions": 18,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
     "repo": "notification-service",
     "url": "https://github.com/duynhlab/notification-service/pull/54",
     "number": 54,
@@ -4946,21 +4901,6 @@
     "merged_at": null,
     "additions": 44,
     "deletions": 44,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/13",
-    "number": 13,
-    "title": "build(deps): bump go.opentelemetry.io/otel/trace from 1.40.0 to 1.41.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-03-03T00:24:44Z",
-    "merged_at": null,
-    "additions": 9,
-    "deletions": 9,
     "changed_files": 2,
     "lead_time_h": null
   },
