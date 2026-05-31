@@ -89,6 +89,12 @@
       "sample": 0,
       "median_h": null,
       "p90_h": null
+    },
+    {
+      "repo": "helm-charts",
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     }
   ],
   "by_author": [
