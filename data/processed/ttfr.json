@@ -38,8 +38,8 @@
     },
     {
       "repo": "order-service",
-      "sample": 2,
-      "median_h": 0.08,
+      "sample": 1,
+      "median_h": 0.1,
       "p90_h": 0.1
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "author": "duynhne",
-      "sample": 32,
+      "sample": 31,
       "median_h": 0.05,
       "p90_h": 0.1
     }
