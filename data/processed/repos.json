@@ -80,8 +80,8 @@
     "url": "https://github.com/duynhlab/product-service",
     "lang": "Go",
     "size_kb": 212,
-    "pushed_at": "2026-05-31T13:33:31Z",
-    "open_issues": 1,
+    "pushed_at": "2026-06-01T17:33:08Z",
+    "open_issues": 2,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 13,
@@ -250,8 +250,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1280,
-    "pushed_at": "2026-06-01T03:45:48Z",
+    "size_kb": 1298,
+    "pushed_at": "2026-06-01T11:29:13Z",
     "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -263,7 +263,7 @@
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
     "ci_success_rate": 0.944,
-    "ci_runs": 89
+    "ci_runs": 90
   },
   {
     "name": "base64-plugin",
