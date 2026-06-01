@@ -4,19 +4,19 @@
     "workflows": [
       {
         "name": "CI Pipeline",
-        "fail": 14,
+        "fail": 15,
         "total": 21,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26714046087",
-        "last_fail_at": "2026-05-31T13:33:31Z",
-        "fail_rate": 0.667
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26771107466",
+        "last_fail_at": "2026-06-01T17:33:17Z",
+        "fail_rate": 0.714
       },
       {
         "name": "Check",
-        "fail": 8,
+        "fail": 9,
         "total": 15,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26620210637",
-        "last_fail_at": "2026-05-29T05:37:48Z",
-        "fail_rate": 0.533
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26771107529",
+        "last_fail_at": "2026-06-01T17:33:17Z",
+        "fail_rate": 0.6
       },
       {
         "name": "Build",
@@ -292,10 +292,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 66,
+        "total": 67,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.061
+        "fail_rate": 0.06
       }
     ]
   },
