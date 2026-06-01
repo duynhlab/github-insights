@@ -3,11 +3,11 @@
     {
       "repo": "packages",
       "XS": 0,
-      "S": 1,
+      "S": 2,
       "M": 5,
       "L": 1,
-      "XL": 5,
-      "total": 12
+      "XL": 6,
+      "total": 14
     },
     {
       "repo": "homelab",
@@ -149,11 +149,11 @@
     {
       "author": "duynhne",
       "XS": 30,
-      "S": 40,
+      "S": 41,
       "M": 74,
       "L": 24,
-      "XL": 22,
-      "total": 190
+      "XL": 23,
+      "total": 192
     },
     {
       "author": "duyhenryer",
