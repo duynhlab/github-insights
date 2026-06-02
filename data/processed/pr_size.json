@@ -11,93 +11,93 @@
     },
     {
       "repo": "homelab",
-      "XS": 0,
-      "S": 7,
+      "XS": 1,
+      "S": 8,
       "M": 13,
-      "L": 7,
-      "XL": 5,
-      "total": 32
+      "L": 8,
+      "XL": 6,
+      "total": 36
     },
     {
       "repo": "auth-service",
       "XS": 1,
-      "S": 11,
-      "M": 7,
+      "S": 10,
+      "M": 9,
       "L": 1,
       "XL": 1,
-      "total": 21
+      "total": 22
     },
     {
       "repo": "user-service",
       "XS": 1,
       "S": 6,
-      "M": 10,
-      "L": 1,
+      "M": 11,
+      "L": 2,
       "XL": 0,
-      "total": 18
+      "total": 20
     },
     {
       "repo": "product-service",
       "XS": 3,
       "S": 4,
-      "M": 8,
-      "L": 1,
+      "M": 9,
+      "L": 2,
       "XL": 1,
-      "total": 17
+      "total": 19
     },
     {
       "repo": "cart-service",
-      "XS": 3,
+      "XS": 2,
       "S": 4,
-      "M": 10,
-      "L": 1,
+      "M": 11,
+      "L": 2,
       "XL": 0,
-      "total": 18
+      "total": 19
     },
     {
       "repo": "order-service",
       "XS": 1,
       "S": 4,
-      "M": 13,
-      "L": 3,
+      "M": 14,
+      "L": 4,
       "XL": 0,
-      "total": 21
+      "total": 23
     },
     {
       "repo": "review-service",
-      "XS": 3,
+      "XS": 2,
       "S": 5,
-      "M": 10,
-      "L": 1,
+      "M": 11,
+      "L": 2,
       "XL": 0,
-      "total": 19
+      "total": 20
     },
     {
       "repo": "notification-service",
       "XS": 3,
-      "S": 6,
-      "M": 9,
-      "L": 1,
+      "S": 5,
+      "M": 10,
+      "L": 2,
       "XL": 0,
-      "total": 19
+      "total": 20
     },
     {
       "repo": "shipping-service",
       "XS": 5,
       "S": 8,
-      "M": 5,
-      "L": 1,
+      "M": 6,
+      "L": 2,
       "XL": 0,
-      "total": 19
+      "total": 21
     },
     {
       "repo": "frontend",
       "XS": 9,
       "S": 7,
-      "M": 4,
+      "M": 5,
       "L": 2,
       "XL": 4,
-      "total": 26
+      "total": 27
     },
     {
       "repo": "backstage",
@@ -148,12 +148,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 33,
-      "S": 49,
-      "M": 77,
-      "L": 26,
-      "XL": 23,
-      "total": 208
+      "XS": 32,
+      "S": 48,
+      "M": 87,
+      "L": 34,
+      "XL": 24,
+      "total": 225
     },
     {
       "author": "duyhenryer",
