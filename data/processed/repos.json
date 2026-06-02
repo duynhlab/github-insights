@@ -148,7 +148,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.8,
+    "ci_success_rate": 0.82,
     "ci_runs": 100
   },
   {
@@ -250,8 +250,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1312,
-    "pushed_at": "2026-06-01T21:31:29Z",
+    "size_kb": 1316,
+    "pushed_at": "2026-06-02T03:41:47Z",
     "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -263,7 +263,7 @@
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
     "ci_success_rate": 0.946,
-    "ci_runs": 92
+    "ci_runs": 93
   },
   {
     "name": "base64-plugin",
@@ -282,7 +282,7 @@
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
     "ci_success_rate": 1.0,
-    "ci_runs": 46
+    "ci_runs": 48
   },
   {
     "name": "helm-charts",

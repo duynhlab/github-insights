@@ -174,27 +174,6 @@
     ]
   },
   {
-    "repo": "review-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 12,
-        "total": 19,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/26713809517",
-        "last_fail_at": "2026-05-31T13:23:06Z",
-        "fail_rate": 0.632
-      },
-      {
-        "name": "Build",
-        "fail": 8,
-        "total": 8,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/26714029970",
-        "last_fail_at": "2026-05-31T13:32:51Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "cart-service",
     "workflows": [
       {
@@ -258,6 +237,27 @@
     ]
   },
   {
+    "repo": "review-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 10,
+        "total": 17,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/26713809517",
+        "last_fail_at": "2026-05-31T13:23:06Z",
+        "fail_rate": 0.588
+      },
+      {
+        "name": "Build",
+        "fail": 8,
+        "total": 8,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/26714029970",
+        "last_fail_at": "2026-05-31T13:32:51Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "frontend",
     "workflows": [
       {
@@ -292,10 +292,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 68,
+        "total": 69,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
-        "fail_rate": 0.059
+        "fail_rate": 0.058
       }
     ]
   },
@@ -305,10 +305,10 @@
       {
         "name": "CI Pipeline",
         "fail": 2,
-        "total": 71,
+        "total": 70,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/26681451939",
         "last_fail_at": "2026-05-30T10:24:40Z",
-        "fail_rate": 0.028
+        "fail_rate": 0.029
       }
     ]
   },
