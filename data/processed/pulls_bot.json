@@ -1,6 +1,21 @@
 [
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/319",
+    "number": 319,
+    "title": "Bump actions/checkout from 6.0.2 to 6.0.3",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-03T05:56:03Z",
+    "merged_at": null,
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/287",
     "number": 287,
     "title": "chore(deps): update helm release opentelemetry-collector to <0.157.0",
@@ -193,21 +208,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": 116.46
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/255",
-    "number": 255,
-    "title": "chore(deps): update helm release kong to v3",
-    "state": "MERGED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-04-22T03:31:48Z",
-    "merged_at": "2026-05-04T16:23:18Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 300.86
   },
   {
     "repo": "auth-service",
@@ -2041,6 +2041,36 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/76",
+    "number": 76,
+    "title": "build(deps): bump github.com/jackc/pgx/v5 from 5.9.2 to 5.10.0",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-03T06:41:36Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/75",
+    "number": 75,
+    "title": "build(deps): bump library/golang from 1.26.3-alpine to 1.26.4-alpine",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-03T06:41:20Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/14",
     "number": 14,
     "title": "build(deps): bump github.com/gin-gonic/gin from 1.11.0 to 1.12.0",
@@ -2426,21 +2456,6 @@
     "merged_at": null,
     "additions": 9,
     "deletions": 9,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/25",
-    "number": 25,
-    "title": "build(deps): bump go.opentelemetry.io/contrib/instrumentation/github.com/gin-gonic/gin/otelgin from 0.65.0 to 0.67.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-03-09T21:26:38Z",
-    "merged_at": null,
-    "additions": 42,
-    "deletions": 39,
     "changed_files": 2,
     "lead_time_h": null
   },
