@@ -22,10 +22,10 @@
       "repo": "auth-service",
       "XS": 1,
       "S": 10,
-      "M": 9,
+      "M": 8,
       "L": 1,
       "XL": 1,
-      "total": 22
+      "total": 21
     },
     {
       "repo": "user-service",
@@ -48,11 +48,11 @@
     {
       "repo": "cart-service",
       "XS": 2,
-      "S": 4,
+      "S": 3,
       "M": 11,
       "L": 2,
       "XL": 0,
-      "total": 19
+      "total": 18
     },
     {
       "repo": "order-service",
@@ -149,11 +149,11 @@
     {
       "author": "duynhne",
       "XS": 32,
-      "S": 48,
-      "M": 87,
+      "S": 47,
+      "M": 86,
       "L": 34,
       "XL": 24,
-      "total": 225
+      "total": 223
     },
     {
       "author": "duyhenryer",

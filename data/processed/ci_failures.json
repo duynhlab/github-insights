@@ -146,8 +146,8 @@
         "name": "Check",
         "fail": 10,
         "total": 24,
-        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26656537734",
-        "last_fail_at": "2026-05-29T19:02:01Z",
+        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26852420212",
+        "last_fail_at": "2026-06-02T22:43:51Z",
         "fail_rate": 0.417
       }
     ]
@@ -170,6 +170,27 @@
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/26831074108",
         "last_fail_at": "2026-06-02T15:45:28Z",
         "fail_rate": 0.75
+      }
+    ]
+  },
+  {
+    "repo": "cart-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 11,
+        "total": 20,
+        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/26854143285",
+        "last_fail_at": "2026-06-02T23:28:39Z",
+        "fail_rate": 0.55
+      },
+      {
+        "name": "Build",
+        "fail": 8,
+        "total": 11,
+        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/26831291357",
+        "last_fail_at": "2026-06-02T15:49:19Z",
+        "fail_rate": 0.727
       }
     ]
   },
@@ -212,27 +233,6 @@
         "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/26655383830",
         "last_fail_at": "2026-05-29T18:38:03Z",
         "fail_rate": 0.45
-      }
-    ]
-  },
-  {
-    "repo": "cart-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 10,
-        "total": 19,
-        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/26712794211",
-        "last_fail_at": "2026-05-31T12:36:55Z",
-        "fail_rate": 0.526
-      },
-      {
-        "name": "Build",
-        "fail": 8,
-        "total": 11,
-        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/26831291357",
-        "last_fail_at": "2026-06-02T15:49:19Z",
-        "fail_rate": 0.727
       }
     ]
   },
@@ -292,7 +292,7 @@
       {
         "name": "collect-and-deploy",
         "fail": 4,
-        "total": 71,
+        "total": 72,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
         "fail_rate": 0.056
