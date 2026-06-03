@@ -250,8 +250,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1384,
-    "pushed_at": "2026-06-03T10:55:06Z",
+    "size_kb": 1386,
+    "pushed_at": "2026-06-03T16:44:47Z",
     "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -263,7 +263,7 @@
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
     "ci_success_rate": 0.949,
-    "ci_runs": 98
+    "ci_runs": 99
   },
   {
     "name": "base64-plugin",
