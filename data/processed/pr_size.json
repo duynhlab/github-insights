@@ -21,11 +21,11 @@
     {
       "repo": "auth-service",
       "XS": 1,
-      "S": 9,
+      "S": 8,
       "M": 8,
       "L": 1,
       "XL": 1,
-      "total": 20
+      "total": 19
     },
     {
       "repo": "user-service",
@@ -149,11 +149,11 @@
     {
       "author": "duynhne",
       "XS": 33,
-      "S": 50,
+      "S": 49,
       "M": 90,
       "L": 36,
       "XL": 23,
-      "total": 232
+      "total": 231
     },
     {
       "author": "duyhenryer",
