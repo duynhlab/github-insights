@@ -1,6 +1,36 @@
 [
   {
     "repo": "packages",
+    "url": "https://github.com/duynhlab/packages/pull/25",
+    "number": 25,
+    "title": "ci: name release 'packages <VER>'",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-04T05:00:26Z",
+    "merged_at": "2026-06-04T05:00:52Z",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": 0.01
+  },
+  {
+    "repo": "packages",
+    "url": "https://github.com/duynhlab/packages/pull/24",
+    "number": 24,
+    "title": "fix(systemd): make infra.target a real ordering barrier; unify valkey",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-04T03:46:53Z",
+    "merged_at": "2026-06-04T04:17:11Z",
+    "additions": 6,
+    "deletions": 3,
+    "changed_files": 2,
+    "lead_time_h": 0.51
+  },
+  {
+    "repo": "packages",
     "url": "https://github.com/duynhlab/packages/pull/23",
     "number": 23,
     "title": "ci: host RPMs on GitHub Releases (metadata-only gh-pages)",
