@@ -90,6 +90,27 @@
     ]
   },
   {
+    "repo": "order-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 16,
+        "total": 32,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26976921757",
+        "last_fail_at": "2026-06-04T20:14:07Z",
+        "fail_rate": 0.5
+      },
+      {
+        "name": "Build",
+        "fail": 13,
+        "total": 16,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26833403177",
+        "last_fail_at": "2026-06-02T16:27:11Z",
+        "fail_rate": 0.812
+      }
+    ]
+  },
+  {
     "repo": "tf-local",
     "workflows": [
       {
@@ -111,23 +132,23 @@
     ]
   },
   {
-    "repo": "order-service",
+    "repo": "shipping-service",
     "workflows": [
       {
         "name": "Check",
         "fail": 15,
-        "total": 31,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26868243458",
-        "last_fail_at": "2026-06-03T06:41:41Z",
-        "fail_rate": 0.484
+        "total": 26,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/26984872208",
+        "last_fail_at": "2026-06-04T23:04:35Z",
+        "fail_rate": 0.577
       },
       {
         "name": "Build",
-        "fail": 13,
-        "total": 16,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/26833403177",
-        "last_fail_at": "2026-06-02T16:27:11Z",
-        "fail_rate": 0.812
+        "fail": 9,
+        "total": 12,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/26831074108",
+        "last_fail_at": "2026-06-02T15:45:28Z",
+        "fail_rate": 0.75
       }
     ]
   },
@@ -149,27 +170,6 @@
         "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26830580591",
         "last_fail_at": "2026-06-02T15:36:54Z",
         "fail_rate": 0.786
-      }
-    ]
-  },
-  {
-    "repo": "shipping-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 14,
-        "total": 26,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/26894321155",
-        "last_fail_at": "2026-06-03T15:16:00Z",
-        "fail_rate": 0.538
-      },
-      {
-        "name": "Build",
-        "fail": 9,
-        "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/26831074108",
-        "last_fail_at": "2026-06-02T15:45:28Z",
-        "fail_rate": 0.75
       }
     ]
   },
