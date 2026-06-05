@@ -18,10 +18,10 @@
     "pr_updated_at": "2026-06-04T20:14:06Z"
   },
   "review-service": {
-    "pr_updated_at": "2026-06-03T23:56:28Z"
+    "pr_updated_at": "2026-06-05T10:43:56Z"
   },
   "notification-service": {
-    "pr_updated_at": "2026-06-04T14:08:01Z"
+    "pr_updated_at": "2026-06-05T14:05:09Z"
   },
   "shipping-service": {
     "pr_updated_at": "2026-06-04T23:04:32Z"
@@ -32,7 +32,7 @@
   "tf-local": {
     "pr_updated_at": "2026-05-19T23:39:44Z"
   },
-  "last_run": "2026-06-05T09:43:25.990859+00:00",
+  "last_run": "2026-06-05T14:46:14.125405+00:00",
   "github-insights": {
     "pr_updated_at": "2026-06-03T23:20:05Z"
   },
