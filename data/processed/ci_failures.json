@@ -4,19 +4,19 @@
     "workflows": [
       {
         "name": "CI Pipeline",
-        "fail": 21,
-        "total": 31,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26916951100",
-        "last_fail_at": "2026-06-03T22:27:36Z",
-        "fail_rate": 0.677
+        "fail": 22,
+        "total": 32,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26997133369",
+        "last_fail_at": "2026-06-05T05:23:36Z",
+        "fail_rate": 0.688
       },
       {
         "name": "Check",
-        "fail": 10,
-        "total": 20,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26916951089",
-        "last_fail_at": "2026-06-03T22:27:36Z",
-        "fail_rate": 0.5
+        "fail": 11,
+        "total": 21,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26997133386",
+        "last_fail_at": "2026-06-05T05:23:36Z",
+        "fail_rate": 0.524
       },
       {
         "name": "Build",
@@ -32,14 +32,6 @@
         "total": 1,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26448103078",
         "last_fail_at": "2026-05-26T12:29:09Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /. - Update #1384752644",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/26448069813",
-        "last_fail_at": "2026-05-26T12:28:25Z",
         "fail_rate": 1.0
       }
     ]
@@ -318,7 +310,7 @@
       {
         "name": "collect-and-deploy",
         "fail": 2,
-        "total": 77,
+        "total": 78,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
         "fail_rate": 0.026
@@ -331,10 +323,10 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
-        "fail_rate": 0.067
+        "fail_rate": 0.062
       }
     ]
   }

@@ -38,12 +38,12 @@
     },
     {
       "repo": "product-service",
-      "XS": 2,
+      "XS": 1,
       "S": 4,
       "M": 9,
       "L": 2,
       "XL": 1,
-      "total": 18
+      "total": 17
     },
     {
       "repo": "cart-service",
@@ -148,12 +148,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 33,
+      "XS": 32,
       "S": 49,
       "M": 89,
       "L": 35,
       "XL": 23,
-      "total": 229
+      "total": 228
     },
     {
       "author": "duyhenryer",
