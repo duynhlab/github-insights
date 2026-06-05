@@ -22,10 +22,10 @@
       "repo": "auth-service",
       "XS": 1,
       "S": 8,
-      "M": 8,
+      "M": 7,
       "L": 1,
       "XL": 1,
-      "total": 19
+      "total": 18
     },
     {
       "repo": "user-service",
@@ -159,10 +159,10 @@
       "author": "duyhenryer",
       "XS": 1,
       "S": 20,
-      "M": 22,
+      "M": 21,
       "L": 2,
       "XL": 5,
-      "total": 50
+      "total": 49
     }
   ],
   "buckets": [

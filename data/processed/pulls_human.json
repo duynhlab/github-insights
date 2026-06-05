@@ -1200,21 +1200,6 @@
     "lead_time_h": 0.11
   },
   {
-    "repo": "auth-service",
-    "url": "https://github.com/duynhlab/auth-service/pull/35",
-    "number": 35,
-    "title": "chore(ci): scan-before-push pipeline + fix CVEs",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2026-04-13T08:12:47Z",
-    "merged_at": "2026-04-13T08:21:22Z",
-    "additions": 88,
-    "deletions": 85,
-    "changed_files": 3,
-    "lead_time_h": 0.14
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/68",
     "number": 68,
