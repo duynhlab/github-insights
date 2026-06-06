@@ -22,19 +22,19 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 22951,
-    "pushed_at": "2026-06-04T14:38:04Z",
-    "open_issues": 2,
+    "size_kb": 22958,
+    "pushed_at": "2026-06-06T05:36:15Z",
+    "open_issues": 7,
     "human_open_pr": 1,
     "human_stale_pr": 0,
-    "human_merged_pr": 37,
+    "human_merged_pr": 36,
     "commits_window": 248,
-    "lead_time_median_h": 0.13,
+    "lead_time_median_h": 0.16,
     "lead_time_p95_h": 8.04,
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.93,
+    "ci_success_rate": 0.88,
     "ci_runs": 100
   },
   {
@@ -250,8 +250,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1555,
-    "pushed_at": "2026-06-05T19:52:20Z",
+    "size_kb": 1569,
+    "pushed_at": "2026-06-06T02:53:13Z",
     "open_issues": 5,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -262,7 +262,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.97,
+    "ci_success_rate": 0.98,
     "ci_runs": 100
   },
   {
@@ -281,8 +281,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.981,
-    "ci_runs": 54
+    "ci_success_rate": 0.982,
+    "ci_runs": 56
   },
   {
     "name": "helm-charts",
