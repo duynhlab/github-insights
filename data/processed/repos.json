@@ -250,8 +250,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1600,
-    "pushed_at": "2026-06-06T19:19:19Z",
+    "size_kb": 1604,
+    "pushed_at": "2026-06-07T03:37:57Z",
     "open_issues": 5,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -281,8 +281,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.982,
-    "ci_runs": 56
+    "ci_success_rate": 0.983,
+    "ci_runs": 58
   },
   {
     "name": "helm-charts",
