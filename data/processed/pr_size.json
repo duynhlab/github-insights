@@ -1,6 +1,15 @@
 {
   "by_repo": [
     {
+      "repo": "grafana-dashboards",
+      "XS": 0,
+      "S": 0,
+      "M": 0,
+      "L": 1,
+      "XL": 2,
+      "total": 3
+    },
+    {
       "repo": "packages",
       "XS": 2,
       "S": 5,
@@ -160,9 +169,9 @@
       "XS": 1,
       "S": 20,
       "M": 21,
-      "L": 2,
-      "XL": 5,
-      "total": 49
+      "L": 3,
+      "XL": 7,
+      "total": 52
     }
   ],
   "buckets": [

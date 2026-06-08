@@ -1,5 +1,11 @@
 [
   {
+    "name": "grafana-dashboards",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
     "name": "packages",
     "bot_open_pr": 0,
     "bot_merged_pr": 0,

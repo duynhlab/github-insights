@@ -1,6 +1,12 @@
 {
   "by_repo": [
     {
+      "repo": "grafana-dashboards",
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
+    },
+    {
       "repo": "packages",
       "sample": 11,
       "median_h": 0.01,
