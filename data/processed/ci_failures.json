@@ -4,19 +4,19 @@
     "workflows": [
       {
         "name": "CI Pipeline",
-        "fail": 23,
-        "total": 33,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27117792054",
-        "last_fail_at": "2026-06-08T05:24:40Z",
-        "fail_rate": 0.697
+        "fail": 25,
+        "total": 35,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27158855870",
+        "last_fail_at": "2026-06-08T18:35:22Z",
+        "fail_rate": 0.714
       },
       {
         "name": "Check",
-        "fail": 12,
-        "total": 22,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27117792040",
-        "last_fail_at": "2026-06-08T05:24:40Z",
-        "fail_rate": 0.545
+        "fail": 13,
+        "total": 23,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27158855847",
+        "last_fail_at": "2026-06-08T18:35:22Z",
+        "fail_rate": 0.565
       },
       {
         "name": "Build",
@@ -78,11 +78,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 17,
-        "total": 33,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27037766807",
-        "last_fail_at": "2026-06-05T20:14:14Z",
-        "fail_rate": 0.515
+        "fail": 19,
+        "total": 35,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27158840858",
+        "last_fail_at": "2026-06-08T18:35:07Z",
+        "fail_rate": 0.543
       },
       {
         "name": "Build",
@@ -116,36 +116,15 @@
     ]
   },
   {
-    "repo": "auth-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 13,
-        "total": 27,
-        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/27025272231",
-        "last_fail_at": "2026-06-05T15:54:36Z",
-        "fail_rate": 0.481
-      },
-      {
-        "name": "Build",
-        "fail": 11,
-        "total": 14,
-        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26830580591",
-        "last_fail_at": "2026-06-02T15:36:54Z",
-        "fail_rate": 0.786
-      }
-    ]
-  },
-  {
     "repo": "shipping-service",
     "workflows": [
       {
         "name": "Check",
-        "fail": 16,
-        "total": 27,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27044678795",
-        "last_fail_at": "2026-06-05T23:04:09Z",
-        "fail_rate": 0.593
+        "fail": 19,
+        "total": 30,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27158853682",
+        "last_fail_at": "2026-06-08T18:35:19Z",
+        "fail_rate": 0.633
       },
       {
         "name": "Build",
@@ -158,15 +137,36 @@
     ]
   },
   {
+    "repo": "auth-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 16,
+        "total": 29,
+        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/27158835599",
+        "last_fail_at": "2026-06-08T18:35:02Z",
+        "fail_rate": 0.552
+      },
+      {
+        "name": "Build",
+        "fail": 10,
+        "total": 13,
+        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/26830580591",
+        "last_fail_at": "2026-06-02T15:36:54Z",
+        "fail_rate": 0.769
+      }
+    ]
+  },
+  {
     "repo": "user-service",
     "workflows": [
       {
         "name": "Check",
-        "fail": 12,
-        "total": 23,
-        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/27023776682",
-        "last_fail_at": "2026-06-05T15:24:42Z",
-        "fail_rate": 0.522
+        "fail": 15,
+        "total": 25,
+        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/27158838998",
+        "last_fail_at": "2026-06-08T18:35:05Z",
+        "fail_rate": 0.6
       },
       {
         "name": "Build",
@@ -183,11 +183,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 13,
-        "total": 22,
-        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/27026306888",
-        "last_fail_at": "2026-06-05T16:14:48Z",
-        "fail_rate": 0.591
+        "fail": 16,
+        "total": 25,
+        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/27158828097",
+        "last_fail_at": "2026-06-08T18:34:54Z",
+        "fail_rate": 0.64
       },
       {
         "name": "Build",
@@ -204,11 +204,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 12,
-        "total": 23,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27010333084",
-        "last_fail_at": "2026-06-05T10:43:58Z",
-        "fail_rate": 0.522
+        "fail": 15,
+        "total": 25,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27158848536",
+        "last_fail_at": "2026-06-08T18:35:14Z",
+        "fail_rate": 0.6
       },
       {
         "name": "Build",
@@ -225,19 +225,19 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 12,
-        "total": 24,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27019591452",
-        "last_fail_at": "2026-06-05T14:05:12Z",
-        "fail_rate": 0.5
+        "fail": 15,
+        "total": 26,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27158851932",
+        "last_fail_at": "2026-06-08T18:35:17Z",
+        "fail_rate": 0.577
       },
       {
         "name": "Build",
-        "fail": 9,
-        "total": 12,
+        "fail": 8,
+        "total": 11,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/26831053020",
         "last_fail_at": "2026-06-02T15:45:07Z",
-        "fail_rate": 0.75
+        "fail_rate": 0.727
       }
     ]
   },
@@ -246,11 +246,11 @@
     "workflows": [
       {
         "name": "CI Pipeline",
-        "fail": 12,
-        "total": 73,
-        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27053946440",
-        "last_fail_at": "2026-06-06T05:36:15Z",
-        "fail_rate": 0.164
+        "fail": 19,
+        "total": 80,
+        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27163118627",
+        "last_fail_at": "2026-06-08T19:54:48Z",
+        "fail_rate": 0.237
       }
     ]
   },
@@ -297,12 +297,25 @@
     ]
   },
   {
+    "repo": "helm-charts",
+    "workflows": [
+      {
+        "name": "\ud83e\uddea E2E (KinD)",
+        "fail": 2,
+        "total": 3,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27158384648",
+        "last_fail_at": "2026-06-08T18:26:48Z",
+        "fail_rate": 0.667
+      }
+    ]
+  },
+  {
     "repo": "github-insights",
     "workflows": [
       {
         "name": "collect-and-deploy",
         "fail": 1,
-        "total": 91,
+        "total": 92,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/26089341202",
         "last_fail_at": "2026-05-19T09:44:37Z",
         "fail_rate": 0.011

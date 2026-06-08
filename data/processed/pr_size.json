@@ -6,8 +6,8 @@
       "S": 0,
       "M": 0,
       "L": 1,
-      "XL": 2,
-      "total": 3
+      "XL": 4,
+      "total": 5
     },
     {
       "repo": "packages",
@@ -21,17 +21,17 @@
     {
       "repo": "homelab",
       "XS": 1,
-      "S": 9,
-      "M": 15,
+      "S": 8,
+      "M": 16,
       "L": 8,
-      "XL": 4,
-      "total": 37
+      "XL": 6,
+      "total": 39
     },
     {
       "repo": "auth-service",
       "XS": 1,
-      "S": 8,
-      "M": 7,
+      "S": 7,
+      "M": 8,
       "L": 1,
       "XL": 1,
       "total": 18
@@ -49,8 +49,8 @@
       "repo": "product-service",
       "XS": 1,
       "S": 4,
-      "M": 9,
-      "L": 2,
+      "M": 10,
+      "L": 1,
       "XL": 1,
       "total": 17
     },
@@ -58,28 +58,28 @@
       "repo": "cart-service",
       "XS": 2,
       "S": 3,
-      "M": 11,
+      "M": 12,
       "L": 2,
       "XL": 0,
-      "total": 18
+      "total": 19
     },
     {
       "repo": "order-service",
       "XS": 1,
       "S": 4,
-      "M": 13,
+      "M": 14,
       "L": 3,
       "XL": 0,
-      "total": 21
+      "total": 22
     },
     {
       "repo": "review-service",
       "XS": 2,
       "S": 5,
-      "M": 11,
+      "M": 12,
       "L": 2,
       "XL": 0,
-      "total": 20
+      "total": 21
     },
     {
       "repo": "notification-service",
@@ -92,9 +92,9 @@
     },
     {
       "repo": "shipping-service",
-      "XS": 5,
+      "XS": 4,
       "S": 8,
-      "M": 5,
+      "M": 6,
       "L": 2,
       "XL": 0,
       "total": 20
@@ -147,31 +147,31 @@
     {
       "repo": "helm-charts",
       "XS": 0,
-      "S": 0,
+      "S": 1,
       "M": 0,
       "L": 0,
       "XL": 0,
-      "total": 0
+      "total": 1
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 32,
+      "XS": 31,
       "S": 49,
-      "M": 89,
+      "M": 96,
       "L": 35,
-      "XL": 22,
-      "total": 227
+      "XL": 26,
+      "total": 237
     },
     {
       "author": "duyhenryer",
       "XS": 1,
-      "S": 20,
+      "S": 19,
       "M": 21,
-      "L": 3,
+      "L": 2,
       "XL": 7,
-      "total": 52
+      "total": 50
     }
   ],
   "buckets": [
