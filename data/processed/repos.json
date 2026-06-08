@@ -80,7 +80,7 @@
     "url": "https://github.com/duynhlab/product-service",
     "lang": "Go",
     "size_kb": 225,
-    "pushed_at": "2026-06-05T05:23:31Z",
+    "pushed_at": "2026-06-08T05:24:38Z",
     "open_issues": 3,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -91,7 +91,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.58,
+    "ci_success_rate": 0.57,
     "ci_runs": 100
   },
   {
@@ -250,8 +250,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1615,
-    "pushed_at": "2026-06-07T19:20:16Z",
+    "size_kb": 1620,
+    "pushed_at": "2026-06-08T03:43:36Z",
     "open_issues": 5,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -282,7 +282,7 @@
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
     "ci_success_rate": 0.983,
-    "ci_runs": 58
+    "ci_runs": 60
   },
   {
     "name": "helm-charts",
