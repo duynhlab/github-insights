@@ -3,7 +3,7 @@
     "pr_updated_at": "2026-06-09T01:49:40Z"
   },
   "auth-service": {
-    "pr_updated_at": "2026-06-09T07:30:37Z"
+    "pr_updated_at": "2026-06-09T15:54:14Z"
   },
   "user-service": {
     "pr_updated_at": "2026-06-09T07:30:48Z"
@@ -32,7 +32,7 @@
   "tf-local": {
     "pr_updated_at": "2026-05-19T23:39:44Z"
   },
-  "last_run": "2026-06-09T14:45:57.746954+00:00",
+  "last_run": "2026-06-09T20:06:02.289512+00:00",
   "github-insights": {
     "pr_updated_at": "2026-06-09T08:13:20Z"
   },
@@ -40,7 +40,7 @@
     "pr_updated_at": "2026-05-20T04:41:21Z"
   },
   "packages": {
-    "pr_updated_at": "2026-06-04T05:00:54Z"
+    "pr_updated_at": "2026-06-09T17:28:07Z"
   },
   "grafana-dashboards": {
     "pr_updated_at": "2026-06-08T17:21:43Z"

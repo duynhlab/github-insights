@@ -22,20 +22,20 @@
     "name": "packages",
     "url": "https://github.com/duynhlab/packages",
     "lang": "Shell",
-    "size_kb": 5666,
-    "pushed_at": "2026-06-04T05:10:58Z",
+    "size_kb": 5686,
+    "pushed_at": "2026-06-09T17:39:13Z",
     "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
-    "human_merged_pr": 24,
+    "human_merged_pr": 26,
     "commits_window": 28,
-    "lead_time_median_h": 0.04,
+    "lead_time_median_h": 0.05,
     "lead_time_p95_h": 0.51,
     "ttfr_median_h": 0.01,
     "ttfr_p90_h": 0.02,
     "ttfr_sample": 11,
-    "ci_success_rate": 0.598,
-    "ci_runs": 82
+    "ci_success_rate": 0.633,
+    "ci_runs": 90
   },
   {
     "name": "homelab",
@@ -60,9 +60,9 @@
     "name": "auth-service",
     "url": "https://github.com/duynhlab/auth-service",
     "lang": "Go",
-    "size_kb": 177,
-    "pushed_at": "2026-06-09T07:30:37Z",
-    "open_issues": 2,
+    "size_kb": 190,
+    "pushed_at": "2026-06-09T15:54:08Z",
+    "open_issues": 3,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 17,
@@ -72,7 +72,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.68,
+    "ci_success_rate": 0.67,
     "ci_runs": 100
   },
   {
@@ -91,7 +91,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.7,
+    "ci_success_rate": 0.69,
     "ci_runs": 100
   },
   {
@@ -129,7 +129,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.7,
+    "ci_success_rate": 0.69,
     "ci_runs": 100
   },
   {
@@ -269,8 +269,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1285,
-    "pushed_at": "2026-06-09T09:39:58Z",
+    "size_kb": 1286,
+    "pushed_at": "2026-06-09T14:45:58Z",
     "open_issues": 5,
     "human_open_pr": 0,
     "human_stale_pr": 0,
