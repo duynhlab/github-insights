@@ -181,11 +181,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 20,
-        "total": 30,
+        "fail": 19,
+        "total": 29,
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27180816028",
         "last_fail_at": "2026-06-09T02:53:24Z",
-        "fail_rate": 0.667
+        "fail_rate": 0.655
       },
       {
         "name": "Build",
@@ -194,6 +194,14 @@
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27190991691",
         "last_fail_at": "2026-06-09T07:31:49Z",
         "fail_rate": 0.786
+      },
+      {
+        "name": "docker in /db/migrations - Update #1404746592",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27200758031",
+        "last_fail_at": "2026-06-09T10:43:13Z",
+        "fail_rate": 1.0
       },
       {
         "name": "docker in /db/migrations for flyway/flyway - Update #1404150685",
@@ -210,11 +218,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 20,
-        "total": 31,
+        "fail": 19,
+        "total": 30,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27181123656",
         "last_fail_at": "2026-06-09T03:03:02Z",
-        "fail_rate": 0.645
+        "fail_rate": 0.633
       },
       {
         "name": "Build",
@@ -223,6 +231,14 @@
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27191012149",
         "last_fail_at": "2026-06-09T07:32:15Z",
         "fail_rate": 0.769
+      },
+      {
+        "name": "docker in /db/migrations - Update #1404962601",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27211733421",
+        "last_fail_at": "2026-06-09T14:04:33Z",
+        "fail_rate": 1.0
       },
       {
         "name": "docker in /db/migrations for flyway/flyway - Update #1404155183",
@@ -297,11 +313,11 @@
     "workflows": [
       {
         "name": "CI",
-        "fail": 24,
-        "total": 48,
+        "fail": 23,
+        "total": 47,
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/26083264622",
         "last_fail_at": "2026-05-19T07:37:35Z",
-        "fail_rate": 0.5
+        "fail_rate": 0.489
       },
       {
         "name": ".github/workflows/aws-ci.yml",
