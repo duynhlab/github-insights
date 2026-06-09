@@ -4,27 +4,35 @@
     "workflows": [
       {
         "name": "CI Pipeline",
-        "fail": 25,
-        "total": 35,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27180567603",
-        "last_fail_at": "2026-06-09T02:45:32Z",
-        "fail_rate": 0.714
+        "fail": 24,
+        "total": 33,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27190960497",
+        "last_fail_at": "2026-06-09T07:31:09Z",
+        "fail_rate": 0.727
       },
       {
         "name": "Check",
-        "fail": 13,
-        "total": 23,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27180567625",
-        "last_fail_at": "2026-06-09T02:45:32Z",
-        "fail_rate": 0.565
+        "fail": 12,
+        "total": 21,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27180802752",
+        "last_fail_at": "2026-06-09T02:52:59Z",
+        "fail_rate": 0.571
       },
       {
         "name": "Build",
         "fail": 9,
         "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27178057543",
-        "last_fail_at": "2026-06-09T01:30:34Z",
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27190960527",
+        "last_fail_at": "2026-06-09T07:31:09Z",
         "fail_rate": 0.75
+      },
+      {
+        "name": "docker in /db/migrations - Update #1404402698",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27185681049",
+        "last_fail_at": "2026-06-09T05:22:48Z",
+        "fail_rate": 1.0
       },
       {
         "name": "docker in /db/migrations for flyway/flyway - Update #1404154220",
@@ -41,19 +49,19 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 24,
-        "total": 40,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27180570199",
-        "last_fail_at": "2026-06-09T02:45:36Z",
-        "fail_rate": 0.6
+        "fail": 25,
+        "total": 41,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27180811512",
+        "last_fail_at": "2026-06-09T02:53:15Z",
+        "fail_rate": 0.61
       },
       {
         "name": "Build",
-        "fail": 14,
-        "total": 17,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27178649949",
-        "last_fail_at": "2026-06-09T01:47:41Z",
-        "fail_rate": 0.824
+        "fail": 15,
+        "total": 18,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27190979978",
+        "last_fail_at": "2026-06-09T07:31:35Z",
+        "fail_rate": 0.833
       },
       {
         "name": "docker in /db/migrations for flyway/flyway - Update #1404183444",
@@ -61,6 +69,35 @@
         "total": 1,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27178692615",
         "last_fail_at": "2026-06-09T01:49:02Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "shipping-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 23,
+        "total": 34,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27180821329",
+        "last_fail_at": "2026-06-09T02:53:33Z",
+        "fail_rate": 0.676
+      },
+      {
+        "name": "Build",
+        "fail": 10,
+        "total": 13,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27191000403",
+        "last_fail_at": "2026-06-09T07:32:00Z",
+        "fail_rate": 0.769
+      },
+      {
+        "name": "docker in /db/migrations for flyway/flyway - Update #1404155851",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27178118007",
+        "last_fail_at": "2026-06-09T01:32:23Z",
         "fail_rate": 1.0
       }
     ]
@@ -111,52 +148,23 @@
     ]
   },
   {
-    "repo": "shipping-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 22,
-        "total": 33,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27180572490",
-        "last_fail_at": "2026-06-09T02:45:41Z",
-        "fail_rate": 0.667
-      },
-      {
-        "name": "Build",
-        "fail": 9,
-        "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27178073936",
-        "last_fail_at": "2026-06-09T01:31:04Z",
-        "fail_rate": 0.75
-      },
-      {
-        "name": "docker in /db/migrations for flyway/flyway - Update #1404155851",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27178118007",
-        "last_fail_at": "2026-06-09T01:32:23Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "auth-service",
     "workflows": [
       {
         "name": "Check",
         "fail": 19,
         "total": 32,
-        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/27180564670",
-        "last_fail_at": "2026-06-09T02:45:26Z",
+        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/27180791924",
+        "last_fail_at": "2026-06-09T02:52:38Z",
         "fail_rate": 0.594
       },
       {
         "name": "Build",
-        "fail": 11,
-        "total": 14,
-        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/27177911783",
-        "last_fail_at": "2026-06-09T01:26:21Z",
-        "fail_rate": 0.786
+        "fail": 12,
+        "total": 15,
+        "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/27190936884",
+        "last_fail_at": "2026-06-09T07:30:39Z",
+        "fail_rate": 0.8
       },
       {
         "name": "docker in /db/migrations for flyway/flyway - Update #1404147832",
@@ -173,19 +181,19 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 19,
-        "total": 29,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27180571564",
-        "last_fail_at": "2026-06-09T02:45:39Z",
-        "fail_rate": 0.655
+        "fail": 20,
+        "total": 30,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27180816028",
+        "last_fail_at": "2026-06-09T02:53:24Z",
+        "fail_rate": 0.667
       },
       {
         "name": "Build",
-        "fail": 10,
-        "total": 13,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27178522389",
-        "last_fail_at": "2026-06-09T01:43:45Z",
-        "fail_rate": 0.769
+        "fail": 11,
+        "total": 14,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27190991691",
+        "last_fail_at": "2026-06-09T07:31:49Z",
+        "fail_rate": 0.786
       },
       {
         "name": "docker in /db/migrations for flyway/flyway - Update #1404150685",
@@ -198,23 +206,52 @@
     ]
   },
   {
+    "repo": "notification-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 20,
+        "total": 31,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27181123656",
+        "last_fail_at": "2026-06-09T03:03:02Z",
+        "fail_rate": 0.645
+      },
+      {
+        "name": "Build",
+        "fail": 10,
+        "total": 13,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27191012149",
+        "last_fail_at": "2026-06-09T07:32:15Z",
+        "fail_rate": 0.769
+      },
+      {
+        "name": "docker in /db/migrations for flyway/flyway - Update #1404155183",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27178111165",
+        "last_fail_at": "2026-06-09T01:32:11Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "user-service",
     "workflows": [
       {
         "name": "Check",
-        "fail": 18,
-        "total": 28,
-        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/27180565937",
-        "last_fail_at": "2026-06-09T02:45:29Z",
-        "fail_rate": 0.643
+        "fail": 19,
+        "total": 29,
+        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/27180797029",
+        "last_fail_at": "2026-06-09T02:52:47Z",
+        "fail_rate": 0.655
       },
       {
         "name": "Build",
-        "fail": 9,
-        "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/27177960439",
-        "last_fail_at": "2026-06-09T01:27:47Z",
-        "fail_rate": 0.75
+        "fail": 10,
+        "total": 13,
+        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/27190945222",
+        "last_fail_at": "2026-06-09T07:30:50Z",
+        "fail_rate": 0.769
       },
       {
         "name": "docker in /db/migrations for flyway/flyway - Update #1404149914",
@@ -231,19 +268,19 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 19,
-        "total": 27,
-        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/27180568615",
-        "last_fail_at": "2026-06-09T02:45:33Z",
-        "fail_rate": 0.704
+        "fail": 20,
+        "total": 28,
+        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/27180807060",
+        "last_fail_at": "2026-06-09T02:53:07Z",
+        "fail_rate": 0.714
       },
       {
         "name": "Build",
-        "fail": 8,
-        "total": 11,
-        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/27177974389",
-        "last_fail_at": "2026-06-09T01:28:11Z",
-        "fail_rate": 0.727
+        "fail": 9,
+        "total": 12,
+        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/27190969892",
+        "last_fail_at": "2026-06-09T07:31:21Z",
+        "fail_rate": 0.75
       },
       {
         "name": "docker in /db/migrations for flyway/flyway - Update #1404150487",
@@ -251,35 +288,6 @@
         "total": 1,
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/27178019210",
         "last_fail_at": "2026-06-09T01:29:33Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
-    "repo": "notification-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 18,
-        "total": 29,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27180574568",
-        "last_fail_at": "2026-06-09T02:45:45Z",
-        "fail_rate": 0.621
-      },
-      {
-        "name": "Build",
-        "fail": 9,
-        "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27178066653",
-        "last_fail_at": "2026-06-09T01:30:50Z",
-        "fail_rate": 0.75
-      },
-      {
-        "name": "docker in /db/migrations for flyway/flyway - Update #1404155183",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27178111165",
-        "last_fail_at": "2026-06-09T01:32:11Z",
         "fail_rate": 1.0
       }
     ]
@@ -387,10 +395,10 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 19,
+        "total": 20,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
-        "fail_rate": 0.053
+        "fail_rate": 0.05
       }
     ]
   }
