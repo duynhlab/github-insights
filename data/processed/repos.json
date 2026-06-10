@@ -22,27 +22,27 @@
     "name": "packages",
     "url": "https://github.com/duynhlab/packages",
     "lang": "Shell",
-    "size_kb": 5686,
-    "pushed_at": "2026-06-09T17:39:13Z",
+    "size_kb": 5691,
+    "pushed_at": "2026-06-10T15:31:39Z",
     "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
-    "human_merged_pr": 26,
+    "human_merged_pr": 32,
     "commits_window": 32,
-    "lead_time_median_h": 0.05,
-    "lead_time_p95_h": 0.51,
+    "lead_time_median_h": 0.04,
+    "lead_time_p95_h": 2.19,
     "ttfr_median_h": 0.01,
     "ttfr_p90_h": 0.02,
     "ttfr_sample": 11,
-    "ci_success_rate": 0.633,
-    "ci_runs": 90
+    "ci_success_rate": 0.74,
+    "ci_runs": 100
   },
   {
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 23277,
-    "pushed_at": "2026-06-09T01:49:40Z",
+    "size_kb": 23281,
+    "pushed_at": "2026-06-10T11:52:56Z",
     "open_issues": 8,
     "human_open_pr": 1,
     "human_stale_pr": 0,
@@ -72,7 +72,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.67,
+    "ci_success_rate": 0.66,
     "ci_runs": 100
   },
   {
@@ -148,7 +148,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.62,
+    "ci_success_rate": 0.61,
     "ci_runs": 100
   },
   {
@@ -167,7 +167,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.68,
+    "ci_success_rate": 0.67,
     "ci_runs": 100
   },
   {
@@ -186,7 +186,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.69,
+    "ci_success_rate": 0.68,
     "ci_runs": 100
   },
   {
@@ -269,8 +269,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1290,
-    "pushed_at": "2026-06-10T03:29:25Z",
+    "size_kb": 1291,
+    "pushed_at": "2026-06-10T09:55:54Z",
     "open_issues": 5,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -281,7 +281,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.99,
+    "ci_success_rate": 0.98,
     "ci_runs": 100
   },
   {
