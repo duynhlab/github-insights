@@ -27,19 +27,19 @@
         "fail_rate": 0.727
       },
       {
+        "name": "docker in /db/migrations - Update #1407825462",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27325745921",
+        "last_fail_at": "2026-06-11T05:23:04Z",
+        "fail_rate": 1.0
+      },
+      {
         "name": "docker in /db/migrations - Update #1406126911",
         "fail": 1,
         "total": 1,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27255142526",
         "last_fail_at": "2026-06-10T05:22:40Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1404402698",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27185681049",
-        "last_fail_at": "2026-06-09T05:22:48Z",
         "fail_rate": 1.0
       }
     ]
@@ -393,11 +393,11 @@
       },
       {
         "name": "Build RPM Package",
-        "fail": 6,
-        "total": 19,
+        "fail": 5,
+        "total": 18,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/20301479462",
         "last_fail_at": "2025-12-17T11:36:31Z",
-        "fail_rate": 0.316
+        "fail_rate": 0.278
       },
       {
         "name": ".github/workflows/build-rpm.yml",
@@ -431,10 +431,10 @@
       {
         "name": "CI Pipeline",
         "fail": 20,
-        "total": 82,
+        "total": 81,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27178712912",
         "last_fail_at": "2026-06-09T01:49:41Z",
-        "fail_rate": 0.244
+        "fail_rate": 0.247
       }
     ]
   },
@@ -520,10 +520,10 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 21,
+        "total": 22,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
-        "fail_rate": 0.048
+        "fail_rate": 0.045
       }
     ]
   }
