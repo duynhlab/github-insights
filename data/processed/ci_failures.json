@@ -109,6 +109,14 @@
         "fail_rate": 0.769
       },
       {
+        "name": "docker in /db/migrations - Update #1407434862",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27312026694",
+        "last_fail_at": "2026-06-10T23:03:54Z",
+        "fail_rate": 1.0
+      },
+      {
         "name": "docker in /db/migrations - Update #1405675670",
         "fail": 1,
         "total": 1,
