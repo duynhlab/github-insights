@@ -22,27 +22,27 @@
     "name": "packages",
     "url": "https://github.com/duynhlab/packages",
     "lang": "Shell",
-    "size_kb": 5691,
-    "pushed_at": "2026-06-10T15:31:39Z",
+    "size_kb": 5782,
+    "pushed_at": "2026-06-11T15:40:58Z",
     "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
-    "human_merged_pr": 32,
+    "human_merged_pr": 39,
     "commits_window": 48,
     "lead_time_median_h": 0.04,
     "lead_time_p95_h": 2.19,
     "ttfr_median_h": 0.01,
     "ttfr_p90_h": 0.02,
     "ttfr_sample": 11,
-    "ci_success_rate": 0.75,
+    "ci_success_rate": 0.8,
     "ci_runs": 100
   },
   {
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 23281,
-    "pushed_at": "2026-06-10T11:52:56Z",
+    "size_kb": 23262,
+    "pushed_at": "2026-06-11T14:08:11Z",
     "open_issues": 8,
     "human_open_pr": 1,
     "human_stale_pr": 0,
@@ -53,7 +53,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.8,
+    "ci_success_rate": 0.81,
     "ci_runs": 100
   },
   {
@@ -72,7 +72,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.66,
+    "ci_success_rate": 0.65,
     "ci_runs": 100
   },
   {
@@ -91,7 +91,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.69,
+    "ci_success_rate": 0.68,
     "ci_runs": 100
   },
   {
@@ -167,7 +167,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.67,
+    "ci_success_rate": 0.66,
     "ci_runs": 100
   },
   {
@@ -186,7 +186,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.68,
+    "ci_success_rate": 0.67,
     "ci_runs": 100
   },
   {
@@ -262,15 +262,15 @@
     "ttfr_median_h": 0.04,
     "ttfr_p90_h": 0.07,
     "ttfr_sample": 8,
-    "ci_success_rate": 0.73,
+    "ci_success_rate": 0.74,
     "ci_runs": 100
   },
   {
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1329,
-    "pushed_at": "2026-06-11T03:41:33Z",
+    "size_kb": 1330,
+    "pushed_at": "2026-06-11T10:22:58Z",
     "open_issues": 5,
     "human_open_pr": 0,
     "human_stale_pr": 0,
