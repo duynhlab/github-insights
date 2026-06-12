@@ -1096,6 +1096,21 @@
   },
   {
     "repo": "product-service",
+    "url": "https://github.com/duynhlab/product-service/pull/82",
+    "number": 82,
+    "title": "build(deps): bump github.com/redis/go-redis/v9 from 9.20.0 to 9.20.1",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-12T05:23:21Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/76",
     "number": 76,
     "title": "build(deps): bump github.com/jackc/pgx/v5 from 5.9.2 to 5.10.0",
