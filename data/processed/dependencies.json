@@ -8,8 +8,8 @@
   {
     "name": "gha-workflows",
     "bot_open_pr": 0,
-    "bot_merged_pr": 31,
-    "bot_lead_time_median_h": 19.1
+    "bot_merged_pr": 29,
+    "bot_lead_time_median_h": 19.11
   },
   {
     "name": "packages",
@@ -19,57 +19,57 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 6,
+    "bot_open_pr": 5,
     "bot_merged_pr": 1,
     "bot_lead_time_median_h": 9.04
   },
   {
     "name": "auth-service",
-    "bot_open_pr": 3,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 30.38
+    "bot_open_pr": 0,
+    "bot_merged_pr": 4,
+    "bot_lead_time_median_h": 186.92
   },
   {
     "name": "user-service",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 33.47
+    "bot_open_pr": 0,
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 253.91
   },
   {
     "name": "product-service",
-    "bot_open_pr": 3,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 118.44
+    "bot_open_pr": 0,
+    "bot_merged_pr": 5,
+    "bot_lead_time_median_h": 214.62
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 32.73
+    "bot_open_pr": 0,
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 253.73
   },
   {
     "name": "order-service",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 26.65
+    "bot_open_pr": 0,
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 273.34
   },
   {
     "name": "review-service",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 40.59
+    "bot_open_pr": 0,
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 255.77
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 35.83
+    "bot_open_pr": 0,
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 253.7
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 24.89
+    "bot_open_pr": 0,
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 264.36
   },
   {
     "name": "frontend",
