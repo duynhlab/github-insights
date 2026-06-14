@@ -6,6 +6,12 @@
     "bot_lead_time_median_h": null
   },
   {
+    "name": "gha-workflows",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 31,
+    "bot_lead_time_median_h": 19.1
+  },
+  {
     "name": "packages",
     "bot_open_pr": 0,
     "bot_merged_pr": 1,

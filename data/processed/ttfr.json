@@ -7,6 +7,12 @@
       "p90_h": null
     },
     {
+      "repo": "gha-workflows",
+      "sample": 12,
+      "median_h": 0.01,
+      "p90_h": 0.02
+    },
+    {
       "repo": "packages",
       "sample": 11,
       "median_h": 0.01,
@@ -106,7 +112,7 @@
   "by_author": [
     {
       "author": "duyhenryer",
-      "sample": 11,
+      "sample": 23,
       "median_h": 0.01,
       "p90_h": 0.02
     },

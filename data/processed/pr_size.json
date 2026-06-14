@@ -10,6 +10,15 @@
       "total": 5
     },
     {
+      "repo": "gha-workflows",
+      "XS": 7,
+      "S": 2,
+      "M": 4,
+      "L": 3,
+      "XL": 0,
+      "total": 16
+    },
+    {
       "repo": "packages",
       "XS": 4,
       "S": 9,
@@ -20,8 +29,8 @@
     },
     {
       "repo": "homelab",
-      "XS": 1,
-      "S": 9,
+      "XS": 2,
+      "S": 8,
       "M": 18,
       "L": 9,
       "XL": 6,
@@ -30,17 +39,17 @@
     {
       "repo": "auth-service",
       "XS": 2,
-      "S": 4,
+      "S": 6,
       "M": 7,
       "L": 4,
       "XL": 1,
-      "total": 18
+      "total": 20
     },
     {
       "repo": "user-service",
       "XS": 1,
-      "S": 7,
-      "M": 10,
+      "S": 8,
+      "M": 9,
       "L": 6,
       "XL": 0,
       "total": 24
@@ -48,65 +57,65 @@
     {
       "repo": "product-service",
       "XS": 1,
-      "S": 2,
+      "S": 4,
       "M": 6,
       "L": 6,
       "XL": 1,
-      "total": 16
+      "total": 18
     },
     {
       "repo": "cart-service",
       "XS": 3,
-      "S": 4,
+      "S": 6,
       "M": 9,
       "L": 6,
       "XL": 0,
-      "total": 22
+      "total": 24
     },
     {
       "repo": "order-service",
       "XS": 2,
-      "S": 4,
-      "M": 14,
+      "S": 6,
+      "M": 13,
       "L": 6,
       "XL": 0,
-      "total": 26
+      "total": 27
     },
     {
       "repo": "review-service",
       "XS": 2,
-      "S": 7,
-      "M": 9,
+      "S": 9,
+      "M": 8,
       "L": 5,
       "XL": 0,
-      "total": 23
+      "total": 24
     },
     {
       "repo": "notification-service",
       "XS": 3,
-      "S": 5,
+      "S": 6,
       "M": 8,
       "L": 5,
-      "XL": 0,
-      "total": 21
-    },
-    {
-      "repo": "shipping-service",
-      "XS": 3,
-      "S": 9,
-      "M": 8,
-      "L": 2,
       "XL": 0,
       "total": 22
     },
     {
+      "repo": "shipping-service",
+      "XS": 3,
+      "S": 10,
+      "M": 8,
+      "L": 2,
+      "XL": 0,
+      "total": 23
+    },
+    {
       "repo": "frontend",
-      "XS": 9,
-      "S": 8,
+      "XS": 10,
+      "S": 9,
       "M": 5,
       "L": 2,
       "XL": 4,
-      "total": 28
+      "total": 30
     },
     {
       "repo": "backstage",
@@ -157,21 +166,21 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 35,
-      "S": 59,
-      "M": 100,
+      "XS": 38,
+      "S": 74,
+      "M": 102,
       "L": 65,
       "XL": 26,
-      "total": 285
+      "total": 305
     },
     {
       "author": "duyhenryer",
-      "XS": 1,
+      "XS": 7,
       "S": 15,
-      "M": 17,
-      "L": 2,
+      "M": 16,
+      "L": 5,
       "XL": 7,
-      "total": 42
+      "total": 50
     }
   ],
   "buckets": [

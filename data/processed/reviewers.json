@@ -1,5 +1,14 @@
 [
   {
+    "login": "sourcery-ai",
+    "approved": 0,
+    "commented": 22,
+    "changes_requested": 4,
+    "dismissed": 0,
+    "total": 26,
+    "repos": 2
+  },
+  {
     "login": "cubic-dev-ai",
     "approved": 0,
     "commented": 21,
@@ -9,13 +18,31 @@
     "repos": 2
   },
   {
-    "login": "sourcery-ai",
+    "login": "gemini-code-assist",
+    "approved": 0,
+    "commented": 14,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 14,
+    "repos": 2
+  },
+  {
+    "login": "sentry",
+    "approved": 0,
+    "commented": 14,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 14,
+    "repos": 2
+  },
+  {
+    "login": "qodo-code-review",
     "approved": 0,
     "commented": 9,
-    "changes_requested": 4,
+    "changes_requested": 0,
     "dismissed": 0,
-    "total": 13,
-    "repos": 1
+    "total": 9,
+    "repos": 3
   },
   {
     "login": "duyhenryer",
@@ -25,32 +52,5 @@
     "dismissed": 0,
     "total": 8,
     "repos": 8
-  },
-  {
-    "login": "sentry",
-    "approved": 0,
-    "commented": 6,
-    "changes_requested": 0,
-    "dismissed": 0,
-    "total": 6,
-    "repos": 1
-  },
-  {
-    "login": "gemini-code-assist",
-    "approved": 0,
-    "commented": 6,
-    "changes_requested": 0,
-    "dismissed": 0,
-    "total": 6,
-    "repos": 1
-  },
-  {
-    "login": "qodo-code-review",
-    "approved": 0,
-    "commented": 3,
-    "changes_requested": 0,
-    "dismissed": 0,
-    "total": 3,
-    "repos": 2
   }
 ]
