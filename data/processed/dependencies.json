@@ -14,8 +14,8 @@
   {
     "name": "homelab",
     "bot_open_pr": 6,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 4.55
+    "bot_merged_pr": 1,
+    "bot_lead_time_median_h": 9.04
   },
   {
     "name": "auth-service",
