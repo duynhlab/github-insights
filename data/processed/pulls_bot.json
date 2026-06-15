@@ -1,6 +1,21 @@
 [
   {
     "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/58",
+    "number": 58,
+    "title": "build(deps): bump sigstore/cosign-installer from 3.9.1 to 4.1.2",
+    "state": "MERGED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-14T23:03:21Z",
+    "merged_at": "2026-06-15T03:56:37Z",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": 4.89
+  },
+  {
+    "repo": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows/pull/53",
     "number": 53,
     "title": "build(deps): bump sonarsource/sonarqube-scan-action from 8.1.0 to 8.2.0",
@@ -463,21 +478,6 @@
     "deletions": 2,
     "changed_files": 1,
     "lead_time_h": 19.11
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/11",
-    "number": 11,
-    "title": "Bump terraform-linters/setup-tflint from 6.2.0 to 6.2.1",
-    "state": "MERGED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2025-11-03T06:44:01Z",
-    "merged_at": "2025-11-04T01:50:09Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 19.1
   },
   {
     "repo": "packages",
