@@ -180,51 +180,6 @@
     ]
   },
   {
-    "repo": "shipping-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 18,
-        "total": 34,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27485947535",
-        "last_fail_at": "2026-06-14T02:28:32Z",
-        "fail_rate": 0.529
-      },
-      {
-        "name": "Build",
-        "fail": 12,
-        "total": 17,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27503704919",
-        "last_fail_at": "2026-06-14T15:37:33Z",
-        "fail_rate": 0.706
-      },
-      {
-        "name": ".github/workflows/build.yml",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27488746503",
-        "last_fail_at": "2026-06-14T04:52:22Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": ".github/workflows/check.yml",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27488667523",
-        "last_fail_at": "2026-06-14T04:48:16Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1410711799",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27448047996",
-        "last_fail_at": "2026-06-12T23:03:04Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "notification-service",
     "workflows": [
       {
@@ -360,6 +315,51 @@
     ]
   },
   {
+    "repo": "shipping-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 17,
+        "total": 33,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27485947535",
+        "last_fail_at": "2026-06-14T02:28:32Z",
+        "fail_rate": 0.515
+      },
+      {
+        "name": "Build",
+        "fail": 11,
+        "total": 16,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27503704919",
+        "last_fail_at": "2026-06-14T15:37:33Z",
+        "fail_rate": 0.688
+      },
+      {
+        "name": "docker in /db/migrations - Update #1414867968",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27582209287",
+        "last_fail_at": "2026-06-15T23:04:53Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": ".github/workflows/build.yml",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27488746503",
+        "last_fail_at": "2026-06-14T04:52:22Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": ".github/workflows/check.yml",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27488667523",
+        "last_fail_at": "2026-06-14T04:48:16Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "tf-local",
     "workflows": [
       {
@@ -406,19 +406,19 @@
     "workflows": [
       {
         "name": "publish-yum-repo",
-        "fail": 10,
-        "total": 19,
+        "fail": 9,
+        "total": 18,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27286889737",
         "last_fail_at": "2026-06-10T15:25:47Z",
-        "fail_rate": 0.526
+        "fail_rate": 0.5
       },
       {
         "name": "build-rpms",
-        "fail": 4,
-        "total": 72,
-        "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27545479903",
-        "last_fail_at": "2026-06-15T12:14:16Z",
-        "fail_rate": 0.056
+        "fail": 5,
+        "total": 73,
+        "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
+        "last_fail_at": "2026-06-15T23:40:17Z",
+        "fail_rate": 0.068
       },
       {
         "name": "release",
@@ -460,43 +460,6 @@
     ]
   },
   {
-    "repo": "gha-workflows",
-    "workflows": [
-      {
-        "name": ".github/workflows/go-check.yml",
-        "fail": 2,
-        "total": 2,
-        "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/21715253786",
-        "last_fail_at": "2026-02-05T14:25:54Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "github_actions in /. - Update #1270272196",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/22740648251",
-        "last_fail_at": "2026-03-05T23:06:40Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": ".github/workflows/pr-checks.yml",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/21738638100",
-        "last_fail_at": "2026-02-06T04:24:32Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "Lint",
-        "fail": 1,
-        "total": 7,
-        "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/27503067825",
-        "last_fail_at": "2026-06-14T15:14:12Z",
-        "fail_rate": 0.143
-      }
-    ]
-  },
-  {
     "repo": "helm-charts",
     "workflows": [
       {
@@ -530,6 +493,43 @@
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27505582185",
         "last_fail_at": "2026-06-14T16:49:06Z",
         "fail_rate": 0.333
+      }
+    ]
+  },
+  {
+    "repo": "gha-workflows",
+    "workflows": [
+      {
+        "name": "github_actions in /. - Update #1270272196",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/22740648251",
+        "last_fail_at": "2026-03-05T23:06:40Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": ".github/workflows/pr-checks.yml",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/21738638100",
+        "last_fail_at": "2026-02-06T04:24:32Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": ".github/workflows/go-check.yml",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/21715253786",
+        "last_fail_at": "2026-02-05T14:25:54Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "Lint",
+        "fail": 1,
+        "total": 7,
+        "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/27503067825",
+        "last_fail_at": "2026-06-14T15:14:12Z",
+        "fail_rate": 0.143
       }
     ]
   },

@@ -21,9 +21,9 @@
     {
       "repo": "packages",
       "XS": 5,
-      "S": 10,
+      "S": 11,
       "M": 19,
-      "L": 9,
+      "L": 8,
       "XL": 6,
       "total": 49
     },
@@ -167,20 +167,20 @@
     {
       "author": "duynhne",
       "XS": 46,
-      "S": 76,
+      "S": 77,
       "M": 107,
       "L": 69,
       "XL": 25,
-      "total": 323
+      "total": 324
     },
     {
       "author": "duyhenryer",
       "XS": 7,
       "S": 14,
       "M": 13,
-      "L": 5,
+      "L": 4,
       "XL": 7,
-      "total": 46
+      "total": 45
     }
   ],
   "buckets": [

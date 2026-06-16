@@ -346,18 +346,33 @@
   },
   {
     "repo": "packages",
+    "url": "https://github.com/duynhlab/packages/pull/52",
+    "number": 52,
+    "title": "fix(bootstrap): make postgresql a soft dep so the one-shot runs with a remote DB",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-15T23:49:29Z",
+    "merged_at": "2026-06-15T23:55:08Z",
+    "additions": 8,
+    "deletions": 4,
+    "changed_files": 1,
+    "lead_time_h": 0.09
+  },
+  {
+    "repo": "packages",
     "url": "https://github.com/duynhlab/packages/pull/51",
     "number": 51,
     "title": "test(integration): verify the auto-bootstrap one-shot end-to-end",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-06-15T14:03:44Z",
-    "merged_at": null,
+    "merged_at": "2026-06-15T23:40:13Z",
     "additions": 52,
     "deletions": 17,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 9.61
   },
   {
     "repo": "packages",
@@ -1063,21 +1078,6 @@
     "deletions": 496,
     "changed_files": 25,
     "lead_time_h": 3.36
-  },
-  {
-    "repo": "packages",
-    "url": "https://github.com/duynhlab/packages/pull/1",
-    "number": 1,
-    "title": "Poc",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2025-10-21T15:42:25Z",
-    "merged_at": "2025-10-21T15:42:50Z",
-    "additions": 924,
-    "deletions": 1,
-    "changed_files": 15,
-    "lead_time_h": 0.01
   },
   {
     "repo": "homelab",
