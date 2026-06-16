@@ -270,51 +270,6 @@
     ]
   },
   {
-    "repo": "order-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 15,
-        "total": 34,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27485921918",
-        "last_fail_at": "2026-06-14T02:27:14Z",
-        "fail_rate": 0.441
-      },
-      {
-        "name": "Build",
-        "fail": 11,
-        "total": 18,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27504357597",
-        "last_fail_at": "2026-06-14T16:02:16Z",
-        "fail_rate": 0.611
-      },
-      {
-        "name": "docker in /db/migrations - Update #1414492485",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27573536692",
-        "last_fail_at": "2026-06-15T20:14:43Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": ".github/workflows/build.yml",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27488720483",
-        "last_fail_at": "2026-06-14T04:51:02Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": ".github/workflows/check.yml",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27488661370",
-        "last_fail_at": "2026-06-14T04:47:57Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "shipping-service",
     "workflows": [
       {
@@ -360,6 +315,51 @@
     ]
   },
   {
+    "repo": "order-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 15,
+        "total": 31,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27485921918",
+        "last_fail_at": "2026-06-14T02:27:14Z",
+        "fail_rate": 0.484
+      },
+      {
+        "name": "Build",
+        "fail": 10,
+        "total": 17,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27504357597",
+        "last_fail_at": "2026-06-14T16:02:16Z",
+        "fail_rate": 0.588
+      },
+      {
+        "name": "docker in /db/migrations - Update #1417159476",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27645142510",
+        "last_fail_at": "2026-06-16T20:13:17Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /db/migrations - Update #1414492485",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27573536692",
+        "last_fail_at": "2026-06-15T20:14:43Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": ".github/workflows/build.yml",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27488720483",
+        "last_fail_at": "2026-06-14T04:51:02Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "tf-local",
     "workflows": [
       {
@@ -386,10 +386,10 @@
       {
         "name": "CI Pipeline",
         "fail": 17,
-        "total": 76,
+        "total": 75,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27178712912",
         "last_fail_at": "2026-06-09T01:49:41Z",
-        "fail_rate": 0.224
+        "fail_rate": 0.227
       },
       {
         "name": ".github/workflows/ci.yml",
