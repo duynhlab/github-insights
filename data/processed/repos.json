@@ -91,7 +91,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.63,
+    "ci_success_rate": 0.64,
     "ci_runs": 100
   },
   {
@@ -110,7 +110,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.65,
+    "ci_success_rate": 0.64,
     "ci_runs": 100
   },
   {
@@ -148,7 +148,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.64,
+    "ci_success_rate": 0.63,
     "ci_runs": 100
   },
   {
@@ -205,7 +205,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.67,
+    "ci_success_rate": 0.66,
     "ci_runs": 100
   },
   {
@@ -281,15 +281,15 @@
     "ttfr_median_h": 0.04,
     "ttfr_p90_h": 0.07,
     "ttfr_sample": 8,
-    "ci_success_rate": 0.75,
+    "ci_success_rate": 0.76,
     "ci_runs": 100
   },
   {
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1734,
-    "pushed_at": "2026-06-16T08:16:55Z",
+    "size_kb": 1773,
+    "pushed_at": "2026-06-16T11:07:55Z",
     "open_issues": 6,
     "human_open_pr": 0,
     "human_stale_pr": 0,
