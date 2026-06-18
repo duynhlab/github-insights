@@ -2251,6 +2251,21 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/91",
+    "number": 91,
+    "title": "build(deps): bump go.temporal.io/sdk from 1.44.1 to 1.45.0",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-17T20:13:55Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/75",
     "number": 75,
     "title": "build(deps): bump library/golang from 1.26.3-alpine to 1.26.4-alpine",

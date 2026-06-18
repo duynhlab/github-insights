@@ -3480,21 +3480,6 @@
     "lead_time_h": 0.17
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/41",
-    "number": 41,
-    "title": "fix(ci): add .trivyignore for Flyway upstream CVEs",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2026-04-13T10:04:17Z",
-    "merged_at": "2026-04-18T07:41:27Z",
-    "additions": 16,
-    "deletions": 0,
-    "changed_files": 2,
-    "lead_time_h": 117.62
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/82",
     "number": 82,
@@ -5503,6 +5488,36 @@
     "deletions": 66,
     "changed_files": 4,
     "lead_time_h": 0.08
+  },
+  {
+    "repo": "helm-charts",
+    "url": "https://github.com/duynhlab/helm-charts/pull/7",
+    "number": 7,
+    "title": "docs: drop gRPC section, bump install examples to 0.12.0",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-18T02:11:32Z",
+    "merged_at": "2026-06-18T02:22:34Z",
+    "additions": 2,
+    "deletions": 12,
+    "changed_files": 1,
+    "lead_time_h": 0.18
+  },
+  {
+    "repo": "helm-charts",
+    "url": "https://github.com/duynhlab/helm-charts/pull/6",
+    "number": 6,
+    "title": "refactor(mop): single Deployment + merged Service; worker = separate release",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-18T00:52:06Z",
+    "merged_at": "2026-06-18T02:07:12Z",
+    "additions": 649,
+    "deletions": 287,
+    "changed_files": 31,
+    "lead_time_h": 1.25
   },
   {
     "repo": "helm-charts",

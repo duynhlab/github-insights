@@ -75,11 +75,11 @@
     {
       "repo": "order-service",
       "XS": 5,
-      "S": 5,
+      "S": 4,
       "M": 11,
       "L": 7,
       "XL": 0,
-      "total": 28
+      "total": 27
     },
     {
       "repo": "review-service",
@@ -156,31 +156,31 @@
     {
       "repo": "helm-charts",
       "XS": 0,
-      "S": 3,
+      "S": 4,
       "M": 2,
-      "L": 0,
+      "L": 1,
       "XL": 0,
-      "total": 5
+      "total": 7
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
       "XS": 48,
-      "S": 82,
+      "S": 83,
       "M": 105,
-      "L": 70,
+      "L": 71,
       "XL": 25,
-      "total": 330
+      "total": 332
     },
     {
       "author": "duyhenryer",
       "XS": 7,
-      "S": 11,
+      "S": 10,
       "M": 13,
       "L": 4,
       "XL": 7,
-      "total": 42
+      "total": 41
     }
   ],
   "buckets": [

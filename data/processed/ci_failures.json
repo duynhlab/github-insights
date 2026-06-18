@@ -225,51 +225,6 @@
     ]
   },
   {
-    "repo": "order-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 15,
-        "total": 31,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27485921918",
-        "last_fail_at": "2026-06-14T02:27:14Z",
-        "fail_rate": 0.484
-      },
-      {
-        "name": "Build",
-        "fail": 10,
-        "total": 17,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27504357597",
-        "last_fail_at": "2026-06-14T16:02:16Z",
-        "fail_rate": 0.588
-      },
-      {
-        "name": "docker in /db/migrations - Update #1417159476",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27645142510",
-        "last_fail_at": "2026-06-16T20:13:17Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1414492485",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27573536692",
-        "last_fail_at": "2026-06-15T20:14:43Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": ".github/workflows/build.yml",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27488720483",
-        "last_fail_at": "2026-06-14T04:51:02Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "review-service",
     "workflows": [
       {
@@ -315,23 +270,76 @@
     ]
   },
   {
+    "repo": "order-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 16,
+        "total": 29,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27716860369",
+        "last_fail_at": "2026-06-17T20:14:02Z",
+        "fail_rate": 0.552
+      },
+      {
+        "name": "Build",
+        "fail": 8,
+        "total": 15,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27504357597",
+        "last_fail_at": "2026-06-14T16:02:16Z",
+        "fail_rate": 0.533
+      },
+      {
+        "name": "docker in /db/migrations - Update #1419976708",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27716817410",
+        "last_fail_at": "2026-06-17T20:13:17Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /db/migrations - Update #1417159476",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27645142510",
+        "last_fail_at": "2026-06-16T20:13:17Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /db/migrations - Update #1414492485",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/27573536692",
+        "last_fail_at": "2026-06-15T20:14:43Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "shipping-service",
     "workflows": [
       {
         "name": "Check",
         "fail": 15,
-        "total": 31,
+        "total": 29,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27485947535",
         "last_fail_at": "2026-06-14T02:28:32Z",
-        "fail_rate": 0.484
+        "fail_rate": 0.517
       },
       {
         "name": "Build",
-        "fail": 10,
-        "total": 16,
+        "fail": 9,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27503704919",
         "last_fail_at": "2026-06-14T15:37:33Z",
-        "fail_rate": 0.625
+        "fail_rate": 0.6
+      },
+      {
+        "name": "docker in /db/migrations - Update #1420239417",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27725353476",
+        "last_fail_at": "2026-06-17T23:03:54Z",
+        "fail_rate": 1.0
       },
       {
         "name": "docker in /db/migrations - Update #1417515464",
@@ -347,14 +355,6 @@
         "total": 1,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27582209287",
         "last_fail_at": "2026-06-15T23:04:53Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": ".github/workflows/build.yml",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27488746503",
-        "last_fail_at": "2026-06-14T04:52:22Z",
         "fail_rate": 1.0
       }
     ]
@@ -463,6 +463,14 @@
     "repo": "helm-charts",
     "workflows": [
       {
+        "name": "\ud83e\uddea E2E (KinD)",
+        "fail": 4,
+        "total": 13,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27731533680",
+        "last_fail_at": "2026-06-18T01:52:43Z",
+        "fail_rate": 0.308
+      },
+      {
         "name": "Renovate",
         "fail": 3,
         "total": 3,
@@ -471,28 +479,20 @@
         "fail_rate": 1.0
       },
       {
-        "name": "\ud83e\uddea E2E (KinD)",
-        "fail": 2,
+        "name": "\ud83d\udcc4 Publish Helm repo to GitHub Pages",
+        "fail": 1,
         "total": 4,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27158384648",
-        "last_fail_at": "2026-06-08T18:26:48Z",
-        "fail_rate": 0.5
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27505582185",
+        "last_fail_at": "2026-06-14T16:49:06Z",
+        "fail_rate": 0.25
       },
       {
         "name": "\ud83d\udce6 Release Helm Charts",
         "fail": 1,
-        "total": 3,
+        "total": 4,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27178694855",
         "last_fail_at": "2026-06-09T01:49:06Z",
-        "fail_rate": 0.333
-      },
-      {
-        "name": "\ud83d\udcc4 Publish Helm repo to GitHub Pages",
-        "fail": 1,
-        "total": 3,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27505582185",
-        "last_fail_at": "2026-06-14T16:49:06Z",
-        "fail_rate": 0.333
+        "fail_rate": 0.25
       }
     ]
   },
