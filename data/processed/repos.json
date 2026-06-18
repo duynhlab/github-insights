@@ -61,18 +61,18 @@
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
     "size_kb": 23482,
-    "pushed_at": "2026-06-16T05:01:56Z",
-    "open_issues": 2,
+    "pushed_at": "2026-06-18T19:53:09Z",
+    "open_issues": 3,
     "human_open_pr": 1,
     "human_stale_pr": 0,
-    "human_merged_pr": 42,
+    "human_merged_pr": 41,
     "commits_window": 245,
-    "lead_time_median_h": 0.14,
+    "lead_time_median_h": 0.13,
     "lead_time_p95_h": 10.33,
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.79,
+    "ci_success_rate": 0.78,
     "ci_runs": 100
   },
   {
@@ -91,7 +91,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.65,
+    "ci_success_rate": 0.66,
     "ci_runs": 100
   },
   {
@@ -110,7 +110,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.65,
+    "ci_success_rate": 0.66,
     "ci_runs": 100
   },
   {
@@ -148,7 +148,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.64,
+    "ci_success_rate": 0.65,
     "ci_runs": 100
   },
   {
@@ -288,8 +288,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1825,
-    "pushed_at": "2026-06-18T10:18:31Z",
+    "size_kb": 1827,
+    "pushed_at": "2026-06-18T15:19:17Z",
     "open_issues": 6,
     "human_open_pr": 0,
     "human_stale_pr": 0,
