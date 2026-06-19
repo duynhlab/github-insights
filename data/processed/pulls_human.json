@@ -1066,6 +1066,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/360",
+    "number": 360,
+    "title": "Add Kong edge hardening plugins",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-19T17:26:05Z",
+    "merged_at": null,
+    "additions": 126,
+    "deletions": 7,
+    "changed_files": 5,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/359",
     "number": 359,
     "title": "Add alerting catalog + coverage-gap analysis",
@@ -1678,21 +1693,6 @@
     "deletions": 10,
     "changed_files": 1,
     "lead_time_h": 3.31
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/312",
-    "number": 312,
-    "title": "Refresh docs for duynhlab/helm-charts migration",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-31T15:42:02Z",
-    "merged_at": "2026-05-31T15:45:32Z",
-    "additions": 30,
-    "deletions": 23,
-    "changed_files": 9,
-    "lead_time_h": 0.06
   },
   {
     "repo": "auth-service",
@@ -4501,18 +4501,33 @@
   },
   {
     "repo": "frontend",
+    "url": "https://github.com/duynhlab/frontend/pull/35",
+    "number": 35,
+    "title": "Migrate cart pages to SWR, a11y, dev-gate debug",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-19T15:52:42Z",
+    "merged_at": "2026-06-19T16:13:32Z",
+    "additions": 367,
+    "deletions": 454,
+    "changed_files": 5,
+    "lead_time_h": 0.35
+  },
+  {
+    "repo": "frontend",
     "url": "https://github.com/duynhlab/frontend/pull/34",
     "number": 34,
     "title": "Remove orphaned unused components",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-06-19T12:43:17Z",
-    "merged_at": null,
+    "merged_at": "2026-06-19T15:00:13Z",
     "additions": 0,
     "deletions": 1242,
     "changed_files": 7,
-    "lead_time_h": null
+    "lead_time_h": 2.28
   },
   {
     "repo": "frontend",
