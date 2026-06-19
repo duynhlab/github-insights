@@ -180,51 +180,6 @@
     ]
   },
   {
-    "repo": "notification-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 15,
-        "total": 29,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27551997688",
-        "last_fail_at": "2026-06-15T14:06:55Z",
-        "fail_rate": 0.517
-      },
-      {
-        "name": "Build",
-        "fail": 9,
-        "total": 14,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27503979893",
-        "last_fail_at": "2026-06-14T15:47:50Z",
-        "fail_rate": 0.643
-      },
-      {
-        "name": "docker in /db/migrations - Update #1421310693",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27765043753",
-        "last_fail_at": "2026-06-18T14:03:44Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1419361501",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27694983279",
-        "last_fail_at": "2026-06-17T14:07:14Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1416470755",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27623446599",
-        "last_fail_at": "2026-06-16T14:06:51Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "order-service",
     "workflows": [
       {
@@ -282,11 +237,19 @@
       },
       {
         "name": "Build",
-        "fail": 9,
-        "total": 14,
+        "fail": 8,
+        "total": 13,
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27503827143",
         "last_fail_at": "2026-06-14T15:42:03Z",
-        "fail_rate": 0.643
+        "fail_rate": 0.615
+      },
+      {
+        "name": "docker in /db/migrations - Update #1422874130",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27820960376",
+        "last_fail_at": "2026-06-19T10:42:42Z",
+        "fail_rate": 1.0
       },
       {
         "name": "docker in /db/migrations - Update #1421044819",
@@ -303,13 +266,50 @@
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27683310964",
         "last_fail_at": "2026-06-17T10:43:38Z",
         "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "notification-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 15,
+        "total": 27,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27551997688",
+        "last_fail_at": "2026-06-15T14:06:55Z",
+        "fail_rate": 0.556
       },
       {
-        "name": "docker in /db/migrations - Update #1416105720",
+        "name": "Build",
+        "fail": 7,
+        "total": 12,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27503979893",
+        "last_fail_at": "2026-06-14T15:47:50Z",
+        "fail_rate": 0.583
+      },
+      {
+        "name": "docker in /db/migrations - Update #1423099204",
         "fail": 1,
         "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/27611952231",
-        "last_fail_at": "2026-06-16T10:43:06Z",
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27830347173",
+        "last_fail_at": "2026-06-19T14:03:37Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /db/migrations - Update #1421310693",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27765043753",
+        "last_fail_at": "2026-06-18T14:03:44Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /db/migrations - Update #1419361501",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/27694983279",
+        "last_fail_at": "2026-06-17T14:07:14Z",
         "fail_rate": 1.0
       }
     ]
@@ -364,39 +364,18 @@
     "workflows": [
       {
         "name": "CI",
-        "fail": 18,
-        "total": 40,
+        "fail": 17,
+        "total": 39,
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/26083264622",
         "last_fail_at": "2026-05-19T07:37:35Z",
-        "fail_rate": 0.45
+        "fail_rate": 0.436
       },
       {
         "name": ".github/workflows/aws-ci.yml",
-        "fail": 4,
-        "total": 4,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/26131976393",
-        "last_fail_at": "2026-05-19T23:39:42Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
-    "repo": "homelab",
-    "workflows": [
-      {
-        "name": "CI Pipeline",
-        "fail": 14,
-        "total": 72,
-        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27785439814",
-        "last_fail_at": "2026-06-18T19:53:18Z",
-        "fail_rate": 0.194
-      },
-      {
-        "name": ".github/workflows/ci.yml",
-        "fail": 4,
-        "total": 4,
-        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27505107917",
-        "last_fail_at": "2026-06-14T16:30:29Z",
+        "fail": 5,
+        "total": 5,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
+        "last_fail_at": "2026-06-19T12:53:29Z",
         "fail_rate": 1.0
       }
     ]
@@ -427,6 +406,27 @@
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27348392304",
         "last_fail_at": "2026-06-11T12:57:31Z",
         "fail_rate": 0.667
+      }
+    ]
+  },
+  {
+    "repo": "homelab",
+    "workflows": [
+      {
+        "name": "CI Pipeline",
+        "fail": 10,
+        "total": 73,
+        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27785439814",
+        "last_fail_at": "2026-06-18T19:53:18Z",
+        "fail_rate": 0.137
+      },
+      {
+        "name": ".github/workflows/ci.yml",
+        "fail": 4,
+        "total": 4,
+        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27505107917",
+        "last_fail_at": "2026-06-14T16:30:29Z",
+        "fail_rate": 1.0
       }
     ]
   },
@@ -473,10 +473,10 @@
       {
         "name": "Build",
         "fail": 5,
-        "total": 14,
+        "total": 17,
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/27490090347",
         "last_fail_at": "2026-06-14T05:59:48Z",
-        "fail_rate": 0.357
+        "fail_rate": 0.294
       },
       {
         "name": "CI Pipeline",

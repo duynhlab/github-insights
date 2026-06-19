@@ -514,15 +514,15 @@
     "url": "https://github.com/duynhlab/homelab/pull/355",
     "number": 355,
     "title": "Bump actions/checkout from 6.0.3 to 7.0.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-06-18T19:53:10Z",
-    "merged_at": null,
+    "merged_at": "2026-06-19T11:01:26Z",
     "additions": 2,
     "deletions": 2,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 15.14
   },
   {
     "repo": "homelab",
@@ -3822,6 +3822,21 @@
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "tf-local",
+    "url": "https://github.com/duynhlab/tf-local/pull/26",
+    "number": 26,
+    "title": "Bump actions/checkout from 6 to 7",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-19T12:53:28Z",
+    "merged_at": null,
+    "additions": 12,
+    "deletions": 12,
+    "changed_files": 2,
     "lead_time_h": null
   },
   {

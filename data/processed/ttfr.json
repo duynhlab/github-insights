@@ -20,9 +20,9 @@
     },
     {
       "repo": "homelab",
-      "sample": 1,
-      "median_h": 1.08,
-      "p90_h": 1.08
+      "sample": 2,
+      "median_h": 1.84,
+      "p90_h": 2.59
     },
     {
       "repo": "auth-service",
@@ -118,9 +118,9 @@
     },
     {
       "author": "duynhne",
-      "sample": 28,
+      "sample": 29,
       "median_h": 0.06,
-      "p90_h": 0.1
+      "p90_h": 0.12
     }
   ]
 }
