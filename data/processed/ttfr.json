@@ -14,15 +14,15 @@
     },
     {
       "repo": "packages",
-      "sample": 11,
+      "sample": 10,
       "median_h": 0.01,
       "p90_h": 0.02
     },
     {
       "repo": "homelab",
-      "sample": 0,
-      "median_h": null,
-      "p90_h": null
+      "sample": 1,
+      "median_h": 1.08,
+      "p90_h": 1.08
     },
     {
       "repo": "auth-service",
@@ -112,13 +112,13 @@
   "by_author": [
     {
       "author": "duyhenryer",
-      "sample": 23,
+      "sample": 22,
       "median_h": 0.01,
       "p90_h": 0.02
     },
     {
       "author": "duynhne",
-      "sample": 27,
+      "sample": 28,
       "median_h": 0.06,
       "p90_h": 0.1
     }

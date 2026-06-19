@@ -4,11 +4,11 @@
     "workflows": [
       {
         "name": "CI Pipeline",
-        "fail": 19,
-        "total": 29,
+        "fail": 17,
+        "total": 27,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27504415412",
         "last_fail_at": "2026-06-14T16:04:12Z",
-        "fail_rate": 0.655
+        "fail_rate": 0.63
       },
       {
         "name": "Check",
@@ -20,11 +20,11 @@
       },
       {
         "name": "Build",
-        "fail": 8,
-        "total": 10,
+        "fail": 7,
+        "total": 9,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27504415405",
         "last_fail_at": "2026-06-14T16:04:12Z",
-        "fail_rate": 0.8
+        "fail_rate": 0.778
       },
       {
         "name": ".github/workflows/ci.yml",
@@ -35,11 +35,11 @@
         "fail_rate": 1.0
       },
       {
-        "name": "docker in /db/migrations - Update #1420672227",
+        "name": "docker in /db/migrations - Update #1422448450",
         "fail": 1,
         "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27738599121",
-        "last_fail_at": "2026-06-18T05:22:39Z",
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27807191375",
+        "last_fail_at": "2026-06-19T05:22:40Z",
         "fail_rate": 1.0
       }
     ]
@@ -360,27 +360,6 @@
     ]
   },
   {
-    "repo": "homelab",
-    "workflows": [
-      {
-        "name": "CI Pipeline",
-        "fail": 18,
-        "total": 71,
-        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27785439814",
-        "last_fail_at": "2026-06-18T19:53:18Z",
-        "fail_rate": 0.254
-      },
-      {
-        "name": ".github/workflows/ci.yml",
-        "fail": 4,
-        "total": 4,
-        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27505107917",
-        "last_fail_at": "2026-06-14T16:30:29Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "tf-local",
     "workflows": [
       {
@@ -402,23 +381,44 @@
     ]
   },
   {
+    "repo": "homelab",
+    "workflows": [
+      {
+        "name": "CI Pipeline",
+        "fail": 14,
+        "total": 72,
+        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27785439814",
+        "last_fail_at": "2026-06-18T19:53:18Z",
+        "fail_rate": 0.194
+      },
+      {
+        "name": ".github/workflows/ci.yml",
+        "fail": 4,
+        "total": 4,
+        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27505107917",
+        "last_fail_at": "2026-06-14T16:30:29Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "packages",
     "workflows": [
       {
         "name": "publish-yum-repo",
-        "fail": 9,
-        "total": 18,
+        "fail": 7,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27286889737",
         "last_fail_at": "2026-06-10T15:25:47Z",
-        "fail_rate": 0.5
+        "fail_rate": 0.438
       },
       {
         "name": "build-rpms",
         "fail": 5,
-        "total": 70,
+        "total": 71,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
         "last_fail_at": "2026-06-15T23:40:17Z",
-        "fail_rate": 0.071
+        "fail_rate": 0.07
       },
       {
         "name": "release",
@@ -435,10 +435,10 @@
     "workflows": [
       {
         "name": "Renovate",
-        "fail": 4,
-        "total": 4,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27742228693",
-        "last_fail_at": "2026-06-18T06:54:04Z",
+        "fail": 5,
+        "total": 5,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27811083411",
+        "last_fail_at": "2026-06-19T07:08:08Z",
         "fail_rate": 1.0
       },
       {
@@ -565,10 +565,10 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 29,
+        "total": 30,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
-        "fail_rate": 0.034
+        "fail_rate": 0.033
       }
     ]
   }

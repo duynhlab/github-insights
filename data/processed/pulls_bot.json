@@ -481,6 +481,21 @@
   },
   {
     "repo": "packages",
+    "url": "https://github.com/duynhlab/packages/pull/53",
+    "number": 53,
+    "title": "ci(deps): bump actions/checkout from 6 to 7 in the gh-actions group",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-19T06:13:46Z",
+    "merged_at": null,
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "packages",
     "url": "https://github.com/duynhlab/packages/pull/34",
     "number": 34,
     "title": "ci(deps): bump actions/download-artifact from 7 to 8 in the gh-actions group",
