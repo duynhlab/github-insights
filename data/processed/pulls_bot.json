@@ -1,6 +1,21 @@
 [
   {
     "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/59",
+    "number": 59,
+    "title": "build(deps): bump actions/checkout from 6.0.3 to 7.0.0",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-18T23:04:01Z",
+    "merged_at": null,
+    "additions": 11,
+    "deletions": 11,
+    "changed_files": 8,
+    "lead_time_h": null
+  },
+  {
+    "repo": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows/pull/58",
     "number": 58,
     "title": "build(deps): bump sigstore/cosign-installer from 3.9.1 to 4.1.2",
@@ -461,21 +476,6 @@
     "merged_at": "2025-11-04T01:50:33Z",
     "additions": 1,
     "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 19.11
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/10",
-    "number": 10,
-    "title": "Bump actions/github-script from 7 to 8",
-    "state": "MERGED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2025-11-03T06:43:59Z",
-    "merged_at": "2025-11-04T01:50:20Z",
-    "additions": 2,
-    "deletions": 2,
     "changed_files": 1,
     "lead_time_h": 19.11
   },
