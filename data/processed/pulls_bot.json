@@ -2610,21 +2610,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/42",
-    "number": 42,
-    "title": "build(deps): bump flyway/flyway from 12.3.0 to 12.4.0 in /db/migrations",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-04-14T20:16:41Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/81",
     "number": 81,
