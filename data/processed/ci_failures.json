@@ -414,10 +414,10 @@
     "workflows": [
       {
         "name": "Renovate",
-        "fail": 5,
-        "total": 5,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27811083411",
-        "last_fail_at": "2026-06-19T07:08:08Z",
+        "fail": 6,
+        "total": 6,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27862775571",
+        "last_fail_at": "2026-06-20T06:22:55Z",
         "fail_rate": 1.0
       },
       {
@@ -488,11 +488,11 @@
       },
       {
         "name": "CI Pipeline",
-        "fail": 4,
-        "total": 75,
+        "fail": 3,
+        "total": 74,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27785439814",
         "last_fail_at": "2026-06-18T19:53:18Z",
-        "fail_rate": 0.053
+        "fail_rate": 0.041
       }
     ]
   },
@@ -565,10 +565,10 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 30,
+        "total": 31,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
-        "fail_rate": 0.033
+        "fail_rate": 0.032
       }
     ]
   }

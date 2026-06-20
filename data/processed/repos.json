@@ -72,7 +72,7 @@
     "ttfr_median_h": 1.84,
     "ttfr_p90_h": 2.59,
     "ttfr_sample": 2,
-    "ci_success_rate": 0.92,
+    "ci_success_rate": 0.93,
     "ci_runs": 100
   },
   {
@@ -155,7 +155,7 @@
     "name": "order-service",
     "url": "https://github.com/duynhlab/order-service",
     "lang": "Go",
-    "size_kb": 247,
+    "size_kb": 249,
     "pushed_at": "2026-06-20T03:09:18Z",
     "open_issues": 1,
     "human_open_pr": 0,
@@ -288,8 +288,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1964,
-    "pushed_at": "2026-06-19T19:47:49Z",
+    "size_kb": 2004,
+    "pushed_at": "2026-06-20T03:26:25Z",
     "open_issues": 6,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -320,7 +320,7 @@
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
     "ci_success_rate": 0.988,
-    "ci_runs": 82
+    "ci_runs": 84
   },
   {
     "name": "helm-charts",
@@ -338,7 +338,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.756,
-    "ci_runs": 45
+    "ci_success_rate": 0.739,
+    "ci_runs": 46
   }
 ]
