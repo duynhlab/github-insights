@@ -414,10 +414,10 @@
     "workflows": [
       {
         "name": "Renovate",
-        "fail": 6,
-        "total": 6,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27862775571",
-        "last_fail_at": "2026-06-20T06:22:55Z",
+        "fail": 7,
+        "total": 7,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27896485483",
+        "last_fail_at": "2026-06-21T06:52:53Z",
         "fail_rate": 1.0
       },
       {
@@ -565,10 +565,10 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 31,
+        "total": 32,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
-        "fail_rate": 0.032
+        "fail_rate": 0.031
       }
     ]
   }
