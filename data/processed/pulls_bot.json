@@ -511,6 +511,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/363",
+    "number": 363,
+    "title": "Bump renovatebot/github-action from 46.1.15 to 46.1.16",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-22T19:53:56Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/355",
     "number": 355,
     "title": "Bump actions/checkout from 6.0.3 to 7.0.0",
