@@ -20,11 +20,11 @@
     },
     {
       "repo": "packages",
-      "XS": 5,
-      "S": 11,
-      "M": 19,
-      "L": 8,
-      "XL": 5,
+      "XS": 6,
+      "S": 12,
+      "M": 18,
+      "L": 10,
+      "XL": 2,
       "total": 48
     },
     {
@@ -111,11 +111,11 @@
     {
       "repo": "frontend",
       "XS": 10,
-      "S": 10,
+      "S": 11,
       "M": 7,
       "L": 3,
       "XL": 5,
-      "total": 35
+      "total": 36
     },
     {
       "repo": "backstage",
@@ -166,21 +166,21 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 49,
-      "S": 84,
+      "XS": 50,
+      "S": 86,
       "M": 103,
-      "L": 75,
+      "L": 77,
       "XL": 26,
-      "total": 337
+      "total": 342
     },
     {
       "author": "duyhenryer",
       "XS": 7,
       "S": 10,
-      "M": 13,
+      "M": 12,
       "L": 4,
-      "XL": 6,
-      "total": 40
+      "XL": 3,
+      "total": 36
     }
   ],
   "buckets": [
