@@ -22,13 +22,13 @@
     "name": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows",
     "lang": null,
-    "size_kb": 216,
-    "pushed_at": "2026-06-18T23:04:00Z",
-    "open_issues": 2,
+    "size_kb": 217,
+    "pushed_at": "2026-06-22T05:50:07Z",
+    "open_issues": 1,
     "human_open_pr": 1,
     "human_stale_pr": 1,
     "human_merged_pr": 16,
-    "commits_window": 30,
+    "commits_window": 31,
     "lead_time_median_h": 0.08,
     "lead_time_p95_h": 25.96,
     "ttfr_median_h": 0.01,
@@ -72,7 +72,7 @@
     "ttfr_median_h": 1.84,
     "ttfr_p90_h": 2.59,
     "ttfr_sample": 2,
-    "ci_success_rate": 0.93,
+    "ci_success_rate": 0.94,
     "ci_runs": 100
   },
   {
@@ -129,7 +129,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.52,
+    "ci_success_rate": 0.54,
     "ci_runs": 100
   },
   {
@@ -288,8 +288,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1406,
-    "pushed_at": "2026-06-21T19:27:47Z",
+    "size_kb": 1409,
+    "pushed_at": "2026-06-22T03:58:12Z",
     "open_issues": 6,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -319,8 +319,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.988,
-    "ci_runs": 86
+    "ci_success_rate": 0.989,
+    "ci_runs": 88
   },
   {
     "name": "helm-charts",
@@ -338,7 +338,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.723,
-    "ci_runs": 47
+    "ci_success_rate": 0.708,
+    "ci_runs": 48
   }
 ]

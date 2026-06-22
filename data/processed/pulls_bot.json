@@ -4,15 +4,15 @@
     "url": "https://github.com/duynhlab/gha-workflows/pull/59",
     "number": 59,
     "title": "build(deps): bump actions/checkout from 6.0.3 to 7.0.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-06-18T23:04:01Z",
-    "merged_at": null,
+    "merged_at": "2026-06-22T05:50:05Z",
     "additions": 11,
     "deletions": 11,
     "changed_files": 8,
-    "lead_time_h": null
+    "lead_time_h": 78.77
   },
   {
     "repo": "gha-workflows",
