@@ -238,10 +238,18 @@
       {
         "name": "Build",
         "fail": 7,
-        "total": 11,
+        "total": 10,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27503704919",
         "last_fail_at": "2026-06-14T15:37:33Z",
-        "fail_rate": 0.636
+        "fail_rate": 0.7
+      },
+      {
+        "name": "docker in /db/migrations - Update #1430445554",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27990001793",
+        "last_fail_at": "2026-06-22T23:04:14Z",
+        "fail_rate": 1.0
       },
       {
         "name": "docker in /db/migrations - Update #1423730859",
@@ -257,14 +265,6 @@
         "total": 1,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27794672679",
         "last_fail_at": "2026-06-18T23:03:43Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1420239417",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/27725353476",
-        "last_fail_at": "2026-06-17T23:03:54Z",
         "fail_rate": 1.0
       }
     ]
@@ -423,26 +423,26 @@
       {
         "name": "build-rpms",
         "fail": 5,
-        "total": 72,
+        "total": 73,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
         "last_fail_at": "2026-06-15T23:40:17Z",
-        "fail_rate": 0.069
+        "fail_rate": 0.068
       },
       {
         "name": "publish-yum-repo",
-        "fail": 4,
-        "total": 13,
+        "fail": 3,
+        "total": 11,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27286889737",
         "last_fail_at": "2026-06-10T15:25:47Z",
-        "fail_rate": 0.308
+        "fail_rate": 0.273
       },
       {
         "name": "release",
         "fail": 2,
-        "total": 4,
+        "total": 5,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27348392304",
         "last_fail_at": "2026-06-11T12:57:31Z",
-        "fail_rate": 0.5
+        "fail_rate": 0.4
       }
     ]
   },
