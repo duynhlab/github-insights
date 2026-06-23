@@ -4,7 +4,7 @@
     "url": "https://github.com/duynhlab/grafana-dashboards",
     "lang": null,
     "size_kb": 138,
-    "pushed_at": "2026-06-08T17:17:09Z",
+    "pushed_at": "2026-06-23T09:23:33Z",
     "open_issues": 0,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -38,6 +38,25 @@
     "ci_runs": 100
   },
   {
+    "name": "wolfi-images",
+    "url": "https://github.com/duynhlab/wolfi-images",
+    "lang": null,
+    "size_kb": 192,
+    "pushed_at": "2026-06-23T09:01:36Z",
+    "open_issues": 0,
+    "human_open_pr": 0,
+    "human_stale_pr": 0,
+    "human_merged_pr": 10,
+    "commits_window": 11,
+    "lead_time_median_h": 0.07,
+    "lead_time_p95_h": 0.41,
+    "ttfr_median_h": 0.01,
+    "ttfr_p90_h": 0.01,
+    "ttfr_sample": 2,
+    "ci_success_rate": 0.8,
+    "ci_runs": 100
+  },
+  {
     "name": "packages",
     "url": "https://github.com/duynhlab/packages",
     "lang": "Shell",
@@ -60,8 +79,8 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 23557,
-    "pushed_at": "2026-06-22T19:53:55Z",
+    "size_kb": 23574,
+    "pushed_at": "2026-06-23T08:42:23Z",
     "open_issues": 2,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -117,9 +136,9 @@
     "name": "product-service",
     "url": "https://github.com/duynhlab/product-service",
     "lang": "Go",
-    "size_kb": 274,
-    "pushed_at": "2026-06-15T04:45:04Z",
-    "open_issues": 0,
+    "size_kb": 288,
+    "pushed_at": "2026-06-23T05:23:15Z",
+    "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 18,
@@ -129,7 +148,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.54,
+    "ci_success_rate": 0.57,
     "ci_runs": 100
   },
   {
@@ -288,9 +307,9 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1420,
-    "pushed_at": "2026-06-22T20:44:49Z",
-    "open_issues": 6,
+    "size_kb": 1455,
+    "pushed_at": "2026-06-23T08:08:57Z",
+    "open_issues": 7,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 4,
@@ -320,7 +339,7 @@
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
     "ci_success_rate": 0.989,
-    "ci_runs": 88
+    "ci_runs": 90
   },
   {
     "name": "helm-charts",
@@ -338,7 +357,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.708,
-    "ci_runs": 48
+    "ci_success_rate": 0.694,
+    "ci_runs": 49
   }
 ]

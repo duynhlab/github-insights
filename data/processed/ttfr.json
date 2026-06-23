@@ -13,6 +13,12 @@
       "p90_h": 0.02
     },
     {
+      "repo": "wolfi-images",
+      "sample": 2,
+      "median_h": 0.01,
+      "p90_h": 0.01
+    },
+    {
       "repo": "packages",
       "sample": 5,
       "median_h": 0.01,
@@ -112,7 +118,7 @@
   "by_author": [
     {
       "author": "duyhenryer",
-      "sample": 17,
+      "sample": 19,
       "median_h": 0.01,
       "p90_h": 0.02
     },
