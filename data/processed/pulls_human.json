@@ -1246,6 +1246,36 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/368",
+    "number": 368,
+    "title": "Inject OTEL_SERVICE_NAME in cluster app manifests",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-23T16:11:25Z",
+    "merged_at": "2026-06-23T17:16:10Z",
+    "additions": 76,
+    "deletions": 0,
+    "changed_files": 6,
+    "lead_time_h": 1.08
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/367",
+    "number": 367,
+    "title": "Add spanmetrics + RED dashboard to local-stack",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-23T16:06:43Z",
+    "merged_at": "2026-06-23T16:10:05Z",
+    "additions": 235,
+    "deletions": 26,
+    "changed_files": 7,
+    "lead_time_h": 0.06
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/366",
     "number": 366,
     "title": "Add VictoriaTraces tracing to local-stack",
@@ -1845,19 +1875,19 @@
     "lead_time_h": 0.02
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/318",
-    "number": 318,
-    "title": "Refresh README stale facts and document gRPC",
-    "state": "MERGED",
+    "repo": "auth-service",
+    "url": "https://github.com/duynhlab/auth-service/pull/85",
+    "number": 85,
+    "title": "Wrap trace sampler in ParentBased",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-06-02T17:29:49Z",
-    "merged_at": "2026-06-02T17:30:18Z",
-    "additions": 8,
-    "deletions": 4,
+    "created_at": "2026-06-23T16:15:19Z",
+    "merged_at": null,
+    "additions": 45,
+    "deletions": 1,
     "changed_files": 2,
-    "lead_time_h": 0.01
+    "lead_time_h": null
   },
   {
     "repo": "auth-service",
@@ -2173,6 +2203,21 @@
     "deletions": 59,
     "changed_files": 4,
     "lead_time_h": 0.18
+  },
+  {
+    "repo": "user-service",
+    "url": "https://github.com/duynhlab/user-service/pull/84",
+    "number": 84,
+    "title": "Wrap trace sampler in ParentBased",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-23T16:15:26Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
   },
   {
     "repo": "user-service",
@@ -2520,19 +2565,19 @@
     "lead_time_h": 116.78
   },
   {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/41",
-    "number": 41,
-    "title": "Feat/kong edge naming",
-    "state": "MERGED",
+    "repo": "product-service",
+    "url": "https://github.com/duynhlab/product-service/pull/90",
+    "number": 90,
+    "title": "Wrap trace sampler in ParentBased",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-04-18T06:34:54Z",
-    "merged_at": "2026-04-18T06:38:54Z",
-    "additions": 30,
-    "deletions": 22,
-    "changed_files": 5,
-    "lead_time_h": 0.07
+    "created_at": "2026-06-23T16:15:33Z",
+    "merged_at": null,
+    "additions": 45,
+    "deletions": 1,
+    "changed_files": 2,
+    "lead_time_h": null
   },
   {
     "repo": "product-service",
@@ -2818,6 +2863,21 @@
     "deletions": 67,
     "changed_files": 4,
     "lead_time_h": 0.18
+  },
+  {
+    "repo": "cart-service",
+    "url": "https://github.com/duynhlab/cart-service/pull/88",
+    "number": 88,
+    "title": "Wrap trace sampler in ParentBased",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-23T16:15:39Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
   },
   {
     "repo": "cart-service",
@@ -3208,6 +3268,21 @@
     "deletions": 19,
     "changed_files": 4,
     "lead_time_h": 0.51
+  },
+  {
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/93",
+    "number": 93,
+    "title": "Wrap trace sampler in ParentBased",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-23T16:15:45Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
   },
   {
     "repo": "order-service",
@@ -3631,6 +3706,21 @@
   },
   {
     "repo": "review-service",
+    "url": "https://github.com/duynhlab/review-service/pull/83",
+    "number": 83,
+    "title": "Wrap trace sampler in ParentBased",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-23T16:15:52Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/82",
     "number": 82,
     "title": "refactor(db): fold sequence realignment into the seed migration",
@@ -3973,6 +4063,21 @@
     "deletions": 14,
     "changed_files": 4,
     "lead_time_h": 0.07
+  },
+  {
+    "repo": "notification-service",
+    "url": "https://github.com/duynhlab/notification-service/pull/85",
+    "number": 85,
+    "title": "Wrap trace sampler in ParentBased",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-23T16:16:05Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
   },
   {
     "repo": "notification-service",
@@ -4336,6 +4441,21 @@
   },
   {
     "repo": "shipping-service",
+    "url": "https://github.com/duynhlab/shipping-service/pull/87",
+    "number": 87,
+    "title": "Wrap trace sampler in ParentBased",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-23T16:15:58Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "shipping-service",
     "url": "https://github.com/duynhlab/shipping-service/pull/86",
     "number": 86,
     "title": "refactor(db): fold sequence realignment into the seed migration",
@@ -4663,21 +4783,6 @@
     "deletions": 119,
     "changed_files": 4,
     "lead_time_h": 0.18
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/44",
-    "number": 44,
-    "title": "fix(docker): bump Go builder image from 1.25.9 to 1.26.2",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2026-04-18T07:00:53Z",
-    "merged_at": "2026-04-18T07:03:50Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 0.05
   },
   {
     "repo": "frontend",
