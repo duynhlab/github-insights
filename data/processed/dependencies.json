@@ -7,9 +7,9 @@
   },
   {
     "name": "gha-workflows",
-    "bot_open_pr": 0,
-    "bot_merged_pr": 29,
-    "bot_lead_time_median_h": 19.11
+    "bot_open_pr": 1,
+    "bot_merged_pr": 28,
+    "bot_lead_time_median_h": 18.83
   },
   {
     "name": "wolfi-images",
