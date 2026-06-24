@@ -1246,6 +1246,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/369",
+    "number": 369,
+    "title": "Install CNPG Barman plugin via Helm chart",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-06-24T04:01:27Z",
+    "merged_at": "2026-06-24T04:02:25Z",
+    "additions": 71,
+    "deletions": 1291,
+    "changed_files": 7,
+    "lead_time_h": 0.02
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/368",
     "number": 368,
     "title": "Inject OTEL_SERVICE_NAME in cluster app manifests",
@@ -1857,21 +1872,6 @@
     "additions": 0,
     "deletions": 70,
     "changed_files": 1,
-    "lead_time_h": 0.02
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/320",
-    "number": 320,
-    "title": "Migrate Flux Operator bootstrap to OpenTofu",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-04T12:46:59Z",
-    "merged_at": "2026-06-04T12:47:56Z",
-    "additions": 350,
-    "deletions": 27,
-    "changed_files": 13,
     "lead_time_h": 0.02
   },
   {

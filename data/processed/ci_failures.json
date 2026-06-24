@@ -4,19 +4,11 @@
     "workflows": [
       {
         "name": "CI Pipeline",
-        "fail": 14,
-        "total": 26,
+        "fail": 13,
+        "total": 25,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/28004225794",
         "last_fail_at": "2026-06-23T05:23:22Z",
-        "fail_rate": 0.538
-      },
-      {
-        "name": "Build",
-        "fail": 7,
-        "total": 9,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27504415405",
-        "last_fail_at": "2026-06-14T16:04:12Z",
-        "fail_rate": 0.778
+        "fail_rate": 0.52
       },
       {
         "name": "Check",
@@ -27,6 +19,14 @@
         "fail_rate": 0.412
       },
       {
+        "name": "Build",
+        "fail": 6,
+        "total": 8,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/27504415405",
+        "last_fail_at": "2026-06-14T16:04:12Z",
+        "fail_rate": 0.75
+      },
+      {
         "name": ".github/workflows/ci.yml",
         "fail": 2,
         "total": 2,
@@ -35,11 +35,11 @@
         "fail_rate": 1.0
       },
       {
-        "name": "docker in /db/migrations - Update #1430968764",
+        "name": "docker in /db/migrations - Update #1433297253",
         "fail": 1,
         "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/28004198126",
-        "last_fail_at": "2026-06-23T05:22:39Z",
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/28077115727",
+        "last_fail_at": "2026-06-24T05:22:30Z",
         "fail_rate": 1.0
       }
     ]
@@ -385,10 +385,10 @@
     "workflows": [
       {
         "name": "Renovate",
-        "fail": 9,
-        "total": 9,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28006041225",
-        "last_fail_at": "2026-06-23T06:08:27Z",
+        "fail": 10,
+        "total": 10,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28078904947",
+        "last_fail_at": "2026-06-24T06:08:20Z",
         "fail_rate": 1.0
       },
       {
@@ -431,10 +431,10 @@
       {
         "name": "publish-yum-repo",
         "fail": 3,
-        "total": 11,
+        "total": 10,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27286889737",
         "last_fail_at": "2026-06-10T15:25:47Z",
-        "fail_rate": 0.273
+        "fail_rate": 0.3
       },
       {
         "name": "release",
@@ -489,10 +489,10 @@
       {
         "name": "CI Pipeline",
         "fail": 2,
-        "total": 79,
+        "total": 78,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27979851770",
         "last_fail_at": "2026-06-22T19:54:01Z",
-        "fail_rate": 0.025
+        "fail_rate": 0.026
       }
     ]
   },
@@ -594,7 +594,7 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 34,
+        "total": 35,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
         "fail_rate": 0.029
