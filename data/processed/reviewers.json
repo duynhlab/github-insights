@@ -2,11 +2,11 @@
   {
     "login": "cubic-dev-ai",
     "approved": 0,
-    "commented": 21,
+    "commented": 24,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 21,
-    "repos": 2
+    "total": 24,
+    "repos": 4
   },
   {
     "login": "sourcery-ai",
@@ -36,21 +36,21 @@
     "repos": 2
   },
   {
+    "login": "qodo-code-review",
+    "approved": 0,
+    "commented": 11,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 11,
+    "repos": 4
+  },
+  {
     "login": "duyhenryer",
-    "approved": 10,
+    "approved": 9,
     "commented": 0,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 10,
-    "repos": 9
-  },
-  {
-    "login": "qodo-code-review",
-    "approved": 0,
-    "commented": 9,
-    "changes_requested": 0,
-    "dismissed": 0,
     "total": 9,
-    "repos": 3
+    "repos": 8
   }
 ]
