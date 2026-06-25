@@ -101,8 +101,8 @@
     "week": "2026-W21",
     "author": "duynhne",
     "is_bot": false,
-    "created": 22,
-    "merged": 21
+    "created": 21,
+    "merged": 20
   },
   {
     "week": "2026-W22",
@@ -178,7 +178,7 @@
     "week": "2026-W26",
     "author": "dependabot",
     "is_bot": true,
-    "created": 7,
+    "created": 8,
     "merged": 8
   },
   {

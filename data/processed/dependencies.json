@@ -31,7 +31,7 @@
   },
   {
     "name": "auth-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 5,
     "bot_lead_time_median_h": 168.07
   },

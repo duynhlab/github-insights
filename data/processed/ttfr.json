@@ -32,9 +32,9 @@
     },
     {
       "repo": "auth-service",
-      "sample": 1,
-      "median_h": 0.1,
-      "p90_h": 0.1
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     },
     {
       "repo": "user-service",
@@ -124,7 +124,7 @@
     },
     {
       "author": "duynhne",
-      "sample": 28,
+      "sample": 27,
       "median_h": 0.06,
       "p90_h": 0.12
     }
