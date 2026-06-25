@@ -138,11 +138,11 @@
     {
       "repo": "tf-local",
       "XS": 2,
-      "S": 2,
+      "S": 3,
       "M": 2,
       "L": 5,
-      "XL": 10,
-      "total": 21
+      "XL": 13,
+      "total": 25
     },
     {
       "repo": "github-insights",
@@ -176,11 +176,11 @@
     {
       "author": "duynhne",
       "XS": 58,
-      "S": 88,
+      "S": 89,
       "M": 107,
       "L": 77,
-      "XL": 26,
-      "total": 356
+      "XL": 29,
+      "total": 360
     },
     {
       "author": "duyhenryer",

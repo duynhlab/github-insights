@@ -7,9 +7,9 @@
   },
   {
     "name": "gha-workflows",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 28,
-    "bot_lead_time_median_h": 18.83
+    "bot_open_pr": 2,
+    "bot_merged_pr": 27,
+    "bot_lead_time_median_h": 18.43
   },
   {
     "name": "wolfi-images",
@@ -91,9 +91,9 @@
   },
   {
     "name": "tf-local",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 3,
-    "bot_lead_time_median_h": 0.02
+    "bot_open_pr": 0,
+    "bot_merged_pr": 4,
+    "bot_lead_time_median_h": 0.03
   },
   {
     "name": "github-insights",

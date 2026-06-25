@@ -1,6 +1,21 @@
 [
   {
     "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/61",
+    "number": 61,
+    "title": "build(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-24T23:04:00Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows/pull/60",
     "number": 60,
     "title": "build(deps): bump actions/cache from 5.0.5 to 6.0.0",
@@ -463,21 +478,6 @@
     "deletions": 5,
     "changed_files": 3,
     "lead_time_h": 24.98
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/12",
-    "number": 12,
-    "title": "Bump golangci/golangci-lint-action from 8 to 9",
-    "state": "MERGED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2025-11-10T06:48:26Z",
-    "merged_at": "2025-11-18T01:57:08Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 187.15
   },
   {
     "repo": "wolfi-images",
@@ -4291,25 +4291,10 @@
   },
   {
     "repo": "tf-local",
-    "url": "https://github.com/duynhlab/tf-local/pull/26",
-    "number": 26,
-    "title": "Bump actions/checkout from 6 to 7",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-06-19T12:53:28Z",
-    "merged_at": null,
-    "additions": 12,
-    "deletions": 12,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "tf-local",
     "url": "https://github.com/duynhlab/tf-local/pull/25",
     "number": 25,
     "title": "Bump actions/upload-artifact from 6 to 7",
-    "state": "OPEN",
+    "state": "CLOSED",
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-05-19T23:39:41Z",
@@ -4318,6 +4303,21 @@
     "deletions": 2,
     "changed_files": 1,
     "lead_time_h": null
+  },
+  {
+    "repo": "tf-local",
+    "url": "https://github.com/duynhlab/tf-local/pull/26",
+    "number": 26,
+    "title": "Bump actions/checkout from 6 to 7",
+    "state": "MERGED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-19T12:53:28Z",
+    "merged_at": "2026-06-25T02:27:55Z",
+    "additions": 7,
+    "deletions": 7,
+    "changed_files": 1,
+    "lead_time_h": 133.57
   },
   {
     "repo": "tf-local",
