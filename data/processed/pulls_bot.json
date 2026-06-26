@@ -3000,21 +3000,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/46",
-    "number": 46,
-    "title": "build(deps): bump go.uber.org/zap from 1.27.1 to 1.28.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-04-28T20:17:57Z",
-    "merged_at": null,
-    "additions": 5,
-    "deletions": 3,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/81",
     "number": 81,
