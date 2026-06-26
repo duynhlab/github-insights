@@ -53,7 +53,7 @@
     "ttfr_median_h": 0.01,
     "ttfr_p90_h": 0.01,
     "ttfr_sample": 2,
-    "ci_success_rate": 0.8,
+    "ci_success_rate": 0.81,
     "ci_runs": 100
   },
   {
@@ -79,19 +79,19 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 24051,
-    "pushed_at": "2026-06-26T02:17:11Z",
-    "open_issues": 1,
-    "human_open_pr": 0,
+    "size_kb": 23796,
+    "pushed_at": "2026-06-26T08:54:28Z",
+    "open_issues": 3,
+    "human_open_pr": 1,
     "human_stale_pr": 0,
-    "human_merged_pr": 42,
+    "human_merged_pr": 41,
     "commits_window": 260,
-    "lead_time_median_h": 0.23,
+    "lead_time_median_h": 0.36,
     "lead_time_p95_h": 17.81,
     "ttfr_median_h": 8.87,
     "ttfr_p90_h": 17.81,
     "ttfr_sample": 4,
-    "ci_success_rate": 0.94,
+    "ci_success_rate": 0.97,
     "ci_runs": 100
   },
   {
@@ -136,9 +136,9 @@
     "name": "product-service",
     "url": "https://github.com/duynhlab/product-service",
     "lang": "Go",
-    "size_kb": 297,
-    "pushed_at": "2026-06-25T09:57:55Z",
-    "open_issues": 1,
+    "size_kb": 311,
+    "pushed_at": "2026-06-26T05:23:18Z",
+    "open_issues": 2,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 21,
@@ -148,7 +148,7 @@
     "ttfr_median_h": 0.1,
     "ttfr_p90_h": 0.1,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.63,
+    "ci_success_rate": 0.64,
     "ci_runs": 100
   },
   {
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 1644,
-    "pushed_at": "2026-06-25T19:58:01Z",
+    "size_kb": 1689,
+    "pushed_at": "2026-06-26T03:26:54Z",
     "open_issues": 7,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -338,8 +338,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.989,
-    "ci_runs": 94
+    "ci_success_rate": 0.99,
+    "ci_runs": 96
   },
   {
     "name": "helm-charts",
@@ -357,7 +357,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.667,
-    "ci_runs": 51
+    "ci_success_rate": 0.654,
+    "ci_runs": 52
   }
 ]
