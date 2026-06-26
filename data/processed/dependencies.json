@@ -55,7 +55,7 @@
   },
   {
     "name": "order-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 1,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 273.34
   },

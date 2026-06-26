@@ -5,9 +5,9 @@
       "XS": 0,
       "S": 0,
       "M": 0,
-      "L": 1,
+      "L": 2,
       "XL": 4,
-      "total": 5
+      "total": 6
     },
     {
       "repo": "gha-workflows",
@@ -39,10 +39,10 @@
     {
       "repo": "homelab",
       "XS": 4,
-      "S": 3,
-      "M": 18,
+      "S": 4,
+      "M": 19,
       "L": 13,
-      "XL": 4,
+      "XL": 2,
       "total": 42
     },
     {
@@ -67,15 +67,15 @@
       "repo": "product-service",
       "XS": 1,
       "S": 5,
-      "M": 7,
+      "M": 8,
       "L": 8,
       "XL": 1,
-      "total": 22
+      "total": 23
     },
     {
       "repo": "cart-service",
-      "XS": 8,
-      "S": 6,
+      "XS": 9,
+      "S": 5,
       "M": 9,
       "L": 6,
       "XL": 0,
@@ -85,10 +85,10 @@
       "repo": "order-service",
       "XS": 6,
       "S": 6,
-      "M": 14,
+      "M": 16,
       "L": 7,
       "XL": 0,
-      "total": 33
+      "total": 35
     },
     {
       "repo": "review-service",
@@ -175,21 +175,21 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 64,
-      "S": 88,
-      "M": 119,
-      "L": 80,
-      "XL": 28,
-      "total": 379
+      "XS": 65,
+      "S": 89,
+      "M": 123,
+      "L": 81,
+      "XL": 26,
+      "total": 384
     },
     {
       "author": "duyhenryer",
       "XS": 9,
-      "S": 9,
+      "S": 8,
       "M": 9,
       "L": 4,
       "XL": 3,
-      "total": 34
+      "total": 33
     }
   ],
   "buckets": [
