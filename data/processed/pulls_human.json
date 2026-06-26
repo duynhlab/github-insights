@@ -1249,30 +1249,30 @@
     "url": "https://github.com/duynhlab/homelab/pull/371",
     "number": 371,
     "title": "Add Pyroscope profiling to local-stack",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-06-25T11:07:35Z",
-    "merged_at": null,
+    "merged_at": "2026-06-26T02:17:10Z",
     "additions": 142,
     "deletions": 51,
     "changed_files": 3,
-    "lead_time_h": null
+    "lead_time_h": 15.16
   },
   {
     "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/370",
     "number": 370,
     "title": "Migrate Pyroscope to Helm chart with S3 + correlation",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-06-25T08:24:15Z",
-    "merged_at": null,
+    "merged_at": "2026-06-26T02:12:46Z",
     "additions": 289,
     "deletions": 239,
     "changed_files": 16,
-    "lead_time_h": null
+    "lead_time_h": 17.81
   },
   {
     "repo": "homelab",
