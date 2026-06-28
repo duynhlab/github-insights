@@ -431,18 +431,18 @@
       {
         "name": "publish-yum-repo",
         "fail": 3,
-        "total": 9,
+        "total": 8,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27286889737",
         "last_fail_at": "2026-06-10T15:25:47Z",
-        "fail_rate": 0.333
+        "fail_rate": 0.375
       },
       {
         "name": "release",
         "fail": 2,
-        "total": 5,
+        "total": 6,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27348392304",
         "last_fail_at": "2026-06-11T12:57:31Z",
-        "fail_rate": 0.4
+        "fail_rate": 0.333
       }
     ]
   },
