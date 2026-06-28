@@ -13,10 +13,10 @@
       "repo": "gha-workflows",
       "XS": 7,
       "S": 3,
-      "M": 5,
+      "M": 6,
       "L": 3,
       "XL": 0,
-      "total": 18
+      "total": 19
     },
     {
       "repo": "wolfi-images",
@@ -31,8 +31,8 @@
       "repo": "packages",
       "XS": 6,
       "S": 11,
-      "M": 19,
-      "L": 10,
+      "M": 18,
+      "L": 11,
       "XL": 2,
       "total": 48
     },
@@ -40,69 +40,69 @@
       "repo": "homelab",
       "XS": 5,
       "S": 4,
-      "M": 18,
-      "L": 13,
+      "M": 17,
+      "L": 14,
       "XL": 2,
       "total": 42
     },
     {
       "repo": "auth-service",
-      "XS": 2,
+      "XS": 5,
       "S": 8,
-      "M": 7,
+      "M": 8,
       "L": 4,
       "XL": 1,
-      "total": 22
+      "total": 26
     },
     {
       "repo": "user-service",
-      "XS": 5,
+      "XS": 7,
       "S": 6,
-      "M": 7,
+      "M": 8,
       "L": 6,
       "XL": 0,
-      "total": 24
+      "total": 27
     },
     {
       "repo": "product-service",
-      "XS": 1,
+      "XS": 3,
       "S": 5,
-      "M": 8,
+      "M": 9,
       "L": 8,
       "XL": 1,
-      "total": 23
+      "total": 26
     },
     {
       "repo": "cart-service",
-      "XS": 9,
+      "XS": 11,
       "S": 5,
-      "M": 9,
+      "M": 10,
       "L": 6,
       "XL": 0,
-      "total": 29
+      "total": 32
     },
     {
       "repo": "order-service",
-      "XS": 6,
+      "XS": 8,
       "S": 6,
-      "M": 16,
-      "L": 7,
+      "M": 17,
+      "L": 6,
       "XL": 0,
-      "total": 35
+      "total": 37
     },
     {
       "repo": "review-service",
-      "XS": 4,
+      "XS": 6,
       "S": 7,
       "M": 8,
       "L": 5,
       "XL": 0,
-      "total": 24
+      "total": 26
     },
     {
       "repo": "notification-service",
-      "XS": 5,
-      "S": 7,
+      "XS": 7,
+      "S": 5,
       "M": 9,
       "L": 5,
       "XL": 0,
@@ -110,12 +110,12 @@
     },
     {
       "repo": "shipping-service",
-      "XS": 3,
+      "XS": 5,
       "S": 10,
       "M": 9,
       "L": 3,
       "XL": 0,
-      "total": 25
+      "total": 27
     },
     {
       "repo": "frontend",
@@ -175,21 +175,21 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 66,
+      "XS": 84,
       "S": 89,
-      "M": 122,
-      "L": 81,
+      "M": 129,
+      "L": 82,
       "XL": 26,
-      "total": 384
+      "total": 410
     },
     {
       "author": "duyhenryer",
-      "XS": 9,
-      "S": 8,
-      "M": 9,
+      "XS": 8,
+      "S": 6,
+      "M": 6,
       "L": 4,
       "XL": 3,
-      "total": 33
+      "total": 27
     }
   ],
   "buckets": [
