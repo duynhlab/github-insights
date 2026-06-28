@@ -270,6 +270,43 @@
     ]
   },
   {
+    "repo": "helm-charts",
+    "workflows": [
+      {
+        "name": "Renovate",
+        "fail": 14,
+        "total": 14,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28313627122",
+        "last_fail_at": "2026-06-28T06:19:52Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "\ud83e\uddea E2E (KinD)",
+        "fail": 4,
+        "total": 13,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27731533680",
+        "last_fail_at": "2026-06-18T01:52:43Z",
+        "fail_rate": 0.308
+      },
+      {
+        "name": "\ud83d\udcc4 Publish Helm repo to GitHub Pages",
+        "fail": 1,
+        "total": 4,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27505582185",
+        "last_fail_at": "2026-06-14T16:49:06Z",
+        "fail_rate": 0.25
+      },
+      {
+        "name": "\ud83d\udce6 Release Helm Charts",
+        "fail": 1,
+        "total": 4,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27178694855",
+        "last_fail_at": "2026-06-09T01:49:06Z",
+        "fail_rate": 0.25
+      }
+    ]
+  },
+  {
     "repo": "cart-service",
     "workflows": [
       {
@@ -332,43 +369,6 @@
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
         "last_fail_at": "2026-06-19T12:53:29Z",
         "fail_rate": 1.0
-      }
-    ]
-  },
-  {
-    "repo": "helm-charts",
-    "workflows": [
-      {
-        "name": "Renovate",
-        "fail": 13,
-        "total": 13,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28280461757",
-        "last_fail_at": "2026-06-27T05:54:35Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "\ud83e\uddea E2E (KinD)",
-        "fail": 4,
-        "total": 13,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27731533680",
-        "last_fail_at": "2026-06-18T01:52:43Z",
-        "fail_rate": 0.308
-      },
-      {
-        "name": "\ud83d\udcc4 Publish Helm repo to GitHub Pages",
-        "fail": 1,
-        "total": 4,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27505582185",
-        "last_fail_at": "2026-06-14T16:49:06Z",
-        "fail_rate": 0.25
-      },
-      {
-        "name": "\ud83d\udce6 Release Helm Charts",
-        "fail": 1,
-        "total": 4,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27178694855",
-        "last_fail_at": "2026-06-09T01:49:06Z",
-        "fail_rate": 0.25
       }
     ]
   },
@@ -547,7 +547,7 @@
       {
         "name": "CI Pipeline",
         "fail": 2,
-        "total": 77,
+        "total": 76,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/27979851770",
         "last_fail_at": "2026-06-22T19:54:01Z",
         "fail_rate": 0.026
@@ -586,7 +586,7 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 38,
+        "total": 39,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
         "fail_rate": 0.026
