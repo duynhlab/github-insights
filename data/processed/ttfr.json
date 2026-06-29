@@ -20,9 +20,9 @@
     },
     {
       "repo": "packages",
-      "sample": 2,
-      "median_h": 0.01,
-      "p90_h": 0.02
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     },
     {
       "repo": "homelab",
@@ -118,7 +118,7 @@
   "by_author": [
     {
       "author": "duyhenryer",
-      "sample": 15,
+      "sample": 13,
       "median_h": 0.01,
       "p90_h": 0.02
     },

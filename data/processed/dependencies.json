@@ -7,15 +7,15 @@
   },
   {
     "name": "gha-workflows",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 26,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 27,
     "bot_lead_time_median_h": 18.43
   },
   {
     "name": "wolfi-images",
     "bot_open_pr": 0,
-    "bot_merged_pr": 25,
-    "bot_lead_time_median_h": 24.04
+    "bot_merged_pr": 26,
+    "bot_lead_time_median_h": 23.98
   },
   {
     "name": "packages",
@@ -43,9 +43,9 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 5,
-    "bot_lead_time_median_h": 214.62
+    "bot_open_pr": 1,
+    "bot_merged_pr": 6,
+    "bot_lead_time_median_h": 136.65
   },
   {
     "name": "cart-service",
