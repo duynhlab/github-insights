@@ -423,18 +423,18 @@
       {
         "name": "build-rpms",
         "fail": 5,
-        "total": 71,
+        "total": 72,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
         "last_fail_at": "2026-06-15T23:40:17Z",
-        "fail_rate": 0.07
+        "fail_rate": 0.069
       },
       {
         "name": "publish-yum-repo",
         "fail": 3,
-        "total": 8,
+        "total": 7,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27286889737",
         "last_fail_at": "2026-06-10T15:25:47Z",
-        "fail_rate": 0.375
+        "fail_rate": 0.429
       },
       {
         "name": "release",
@@ -565,10 +565,10 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 16,
+        "total": 17,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/27503067825",
         "last_fail_at": "2026-06-14T15:14:12Z",
-        "fail_rate": 0.062
+        "fail_rate": 0.059
       }
     ]
   },

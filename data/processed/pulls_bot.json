@@ -1,6 +1,36 @@
 [
   {
     "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/64",
+    "number": 64,
+    "title": "build(deps): bump actions/cache from 5.0.5 to 6.1.0",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-28T23:03:04Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/60",
+    "number": 60,
+    "title": "build(deps): bump actions/cache from 5.0.5 to 6.0.0",
+    "state": "CLOSED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-23T23:03:38Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows/pull/61",
     "number": 61,
     "title": "build(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
@@ -13,21 +43,6 @@
     "deletions": 3,
     "changed_files": 1,
     "lead_time_h": 10.67
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/60",
-    "number": 60,
-    "title": "build(deps): bump actions/cache from 5.0.5 to 6.0.0",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-06-23T23:03:38Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
   },
   {
     "repo": "gha-workflows",
@@ -448,21 +463,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": 29.35
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/15",
-    "number": 15,
-    "title": "Bump actions/cache from 4 to 5",
-    "state": "MERGED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2025-12-15T06:24:59Z",
-    "merged_at": "2025-12-15T14:27:16Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 8.04
   },
   {
     "repo": "wolfi-images",

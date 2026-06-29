@@ -20,7 +20,7 @@
     },
     {
       "repo": "packages",
-      "sample": 4,
+      "sample": 2,
       "median_h": 0.01,
       "p90_h": 0.02
     },
@@ -118,7 +118,7 @@
   "by_author": [
     {
       "author": "duyhenryer",
-      "sample": 17,
+      "sample": 15,
       "median_h": 0.01,
       "p90_h": 0.02
     },
