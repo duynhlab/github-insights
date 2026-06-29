@@ -1170,21 +1170,6 @@
     "lead_time_h": 154.32
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/331",
-    "number": 331,
-    "title": "chore(deps): update postgres docker tag to v18 - autoclosed",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-06-06T05:36:12Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/88",
     "number": 88,
@@ -3076,10 +3061,25 @@
   },
   {
     "repo": "notification-service",
+    "url": "https://github.com/duynhlab/notification-service/pull/91",
+    "number": 91,
+    "title": "build(deps): bump github.com/duynhlab/pkg from 0.8.0 to 0.10.0",
+    "state": "MERGED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-29T14:06:17Z",
+    "merged_at": "2026-06-29T14:19:33Z",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 2,
+    "lead_time_h": 0.22
+  },
+  {
+    "repo": "notification-service",
     "url": "https://github.com/duynhlab/notification-service/pull/87",
     "number": 87,
     "title": "build(deps): bump github.com/duynhlab/pkg from 0.8.0 to 0.9.0",
-    "state": "OPEN",
+    "state": "CLOSED",
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-06-25T14:04:39Z",
