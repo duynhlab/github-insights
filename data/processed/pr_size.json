@@ -39,14 +39,59 @@
     {
       "repo": "homelab",
       "XS": 3,
-      "S": 5,
-      "M": 19,
-      "L": 16,
+      "S": 6,
+      "M": 20,
+      "L": 15,
       "XL": 3,
-      "total": 46
+      "total": 47
     },
     {
       "repo": "auth-service",
+      "XS": 6,
+      "S": 9,
+      "M": 9,
+      "L": 6,
+      "XL": 1,
+      "total": 31
+    },
+    {
+      "repo": "user-service",
+      "XS": 7,
+      "S": 7,
+      "M": 9,
+      "L": 7,
+      "XL": 0,
+      "total": 30
+    },
+    {
+      "repo": "product-service",
+      "XS": 3,
+      "S": 6,
+      "M": 10,
+      "L": 9,
+      "XL": 1,
+      "total": 29
+    },
+    {
+      "repo": "cart-service",
+      "XS": 11,
+      "S": 6,
+      "M": 10,
+      "L": 7,
+      "XL": 0,
+      "total": 34
+    },
+    {
+      "repo": "order-service",
+      "XS": 8,
+      "S": 7,
+      "M": 17,
+      "L": 8,
+      "XL": 0,
+      "total": 40
+    },
+    {
+      "repo": "review-service",
       "XS": 6,
       "S": 8,
       "M": 9,
@@ -55,67 +100,22 @@
       "total": 29
     },
     {
-      "repo": "user-service",
-      "XS": 7,
-      "S": 6,
-      "M": 9,
-      "L": 7,
-      "XL": 0,
-      "total": 29
-    },
-    {
-      "repo": "product-service",
-      "XS": 3,
-      "S": 5,
-      "M": 10,
-      "L": 9,
-      "XL": 1,
-      "total": 28
-    },
-    {
-      "repo": "cart-service",
-      "XS": 11,
-      "S": 5,
-      "M": 10,
-      "L": 7,
-      "XL": 0,
-      "total": 33
-    },
-    {
-      "repo": "order-service",
-      "XS": 8,
-      "S": 6,
-      "M": 17,
-      "L": 8,
-      "XL": 0,
-      "total": 39
-    },
-    {
-      "repo": "review-service",
-      "XS": 6,
-      "S": 7,
-      "M": 9,
-      "L": 5,
-      "XL": 1,
-      "total": 28
-    },
-    {
       "repo": "notification-service",
       "XS": 7,
-      "S": 4,
+      "S": 5,
       "M": 9,
       "L": 5,
       "XL": 1,
-      "total": 26
+      "total": 27
     },
     {
       "repo": "shipping-service",
       "XS": 5,
-      "S": 10,
+      "S": 11,
       "M": 10,
       "L": 5,
       "XL": 0,
-      "total": 30
+      "total": 31
     },
     {
       "repo": "frontend",
@@ -176,11 +176,11 @@
     {
       "author": "duynhne",
       "XS": 84,
-      "S": 91,
-      "M": 141,
+      "S": 100,
+      "M": 142,
       "L": 93,
       "XL": 28,
-      "total": 437
+      "total": 447
     },
     {
       "author": "duyhenryer",
