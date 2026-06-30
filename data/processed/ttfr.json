@@ -8,8 +8,8 @@
     },
     {
       "repo": "gha-workflows",
-      "sample": 10,
-      "median_h": 0.02,
+      "sample": 9,
+      "median_h": 0.01,
       "p90_h": 0.02
     },
     {
@@ -118,7 +118,7 @@
   "by_author": [
     {
       "author": "duyhenryer",
-      "sample": 12,
+      "sample": 11,
       "median_h": 0.01,
       "p90_h": 0.02
     },

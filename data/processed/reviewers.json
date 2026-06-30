@@ -11,10 +11,10 @@
   {
     "login": "sourcery-ai",
     "approved": 0,
-    "commented": 13,
+    "commented": 12,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 13,
+    "total": 12,
     "repos": 2
   },
   {
@@ -29,10 +29,10 @@
   {
     "login": "gemini-code-assist",
     "approved": 0,
-    "commented": 9,
+    "commented": 8,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 9,
+    "total": 8,
     "repos": 2
   },
   {
