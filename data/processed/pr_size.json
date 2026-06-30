@@ -11,12 +11,12 @@
     },
     {
       "repo": "gha-workflows",
-      "XS": 6,
+      "XS": 7,
       "S": 2,
       "M": 8,
       "L": 2,
       "XL": 0,
-      "total": 18
+      "total": 19
     },
     {
       "repo": "wolfi-images",
@@ -85,10 +85,10 @@
       "repo": "order-service",
       "XS": 8,
       "S": 6,
-      "M": 18,
-      "L": 6,
+      "M": 17,
+      "L": 8,
       "XL": 0,
-      "total": 38
+      "total": 39
     },
     {
       "repo": "review-service",
@@ -175,12 +175,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 83,
+      "XS": 84,
       "S": 91,
-      "M": 142,
-      "L": 91,
+      "M": 141,
+      "L": 93,
       "XL": 28,
-      "total": 435
+      "total": 437
     },
     {
       "author": "duyhenryer",

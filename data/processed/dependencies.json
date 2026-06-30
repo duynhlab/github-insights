@@ -8,7 +8,7 @@
   {
     "name": "gha-workflows",
     "bot_open_pr": 0,
-    "bot_merged_pr": 28,
+    "bot_merged_pr": 27,
     "bot_lead_time_median_h": 18.43
   },
   {
@@ -56,18 +56,18 @@
   {
     "name": "order-service",
     "bot_open_pr": 1,
-    "bot_merged_pr": 3,
+    "bot_merged_pr": 2,
     "bot_lead_time_median_h": 273.34
   },
   {
     "name": "review-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 255.77
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 4,
     "bot_lead_time_median_h": 144.77
   },
