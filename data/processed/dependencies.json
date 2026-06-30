@@ -8,7 +8,7 @@
   {
     "name": "gha-workflows",
     "bot_open_pr": 0,
-    "bot_merged_pr": 27,
+    "bot_merged_pr": 28,
     "bot_lead_time_median_h": 18.43
   },
   {
@@ -25,9 +25,9 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 0,
-    "bot_merged_pr": 5,
-    "bot_lead_time_median_h": 216.63
+    "bot_open_pr": 1,
+    "bot_merged_pr": 4,
+    "bot_lead_time_median_h": 118.45
   },
   {
     "name": "auth-service",
