@@ -3,21 +3,21 @@
     "week": "2026-W14",
     "author": "dependabot",
     "is_bot": true,
-    "created": 2,
+    "created": 1,
     "merged": 1
   },
   {
     "week": "2026-W14",
     "author": "duynhne",
     "is_bot": false,
-    "created": 9,
-    "merged": 7
+    "created": 7,
+    "merged": 5
   },
   {
     "week": "2026-W15",
     "author": "dependabot",
     "is_bot": true,
-    "created": 2,
+    "created": 1,
     "merged": 0
   },
   {
@@ -52,7 +52,7 @@
     "week": "2026-W17",
     "author": "dependabot",
     "is_bot": true,
-    "created": 5,
+    "created": 4,
     "merged": 0
   },
   {
@@ -66,14 +66,14 @@
     "week": "2026-W18",
     "author": "dependabot",
     "is_bot": true,
-    "created": 6,
+    "created": 5,
     "merged": 2
   },
   {
     "week": "2026-W19",
     "author": "dependabot",
     "is_bot": true,
-    "created": 7,
+    "created": 4,
     "merged": 0
   },
   {
@@ -94,7 +94,7 @@
     "week": "2026-W21",
     "author": "dependabot",
     "is_bot": true,
-    "created": 19,
+    "created": 18,
     "merged": 3
   },
   {
@@ -108,15 +108,15 @@
     "week": "2026-W22",
     "author": "duynhne",
     "is_bot": false,
-    "created": 48,
-    "merged": 48
+    "created": 43,
+    "merged": 43
   },
   {
     "week": "2026-W22",
     "author": "dependabot",
     "is_bot": true,
-    "created": 53,
-    "merged": 7
+    "created": 52,
+    "merged": 6
   },
   {
     "week": "2026-W23",
@@ -150,15 +150,15 @@
     "week": "2026-W25",
     "author": "dependabot",
     "is_bot": true,
-    "created": 15,
-    "merged": 3
+    "created": 14,
+    "merged": 2
   },
   {
     "week": "2026-W25",
     "author": "duynhne",
     "is_bot": false,
-    "created": 33,
-    "merged": 33
+    "created": 30,
+    "merged": 30
   },
   {
     "week": "2026-W26",
@@ -178,14 +178,14 @@
     "week": "2026-W27",
     "author": "dependabot",
     "is_bot": true,
-    "created": 14,
-    "merged": 6
+    "created": 16,
+    "merged": 7
   },
   {
     "week": "2026-W27",
     "author": "duynhne",
     "is_bot": false,
-    "created": 67,
-    "merged": 66
+    "created": 89,
+    "merged": 88
   }
 ]

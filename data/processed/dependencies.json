@@ -7,9 +7,9 @@
   },
   {
     "name": "gha-workflows",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 27,
-    "bot_lead_time_median_h": 18.43
+    "bot_open_pr": 0,
+    "bot_merged_pr": 28,
+    "bot_lead_time_median_h": 18.31
   },
   {
     "name": "wolfi-images",
@@ -26,14 +26,14 @@
   {
     "name": "homelab",
     "bot_open_pr": 0,
-    "bot_merged_pr": 3,
-    "bot_lead_time_median_h": 15.14
+    "bot_merged_pr": 2,
+    "bot_lead_time_median_h": 14.43
   },
   {
     "name": "auth-service",
     "bot_open_pr": 1,
-    "bot_merged_pr": 6,
-    "bot_lead_time_median_h": 144.11
+    "bot_merged_pr": 5,
+    "bot_lead_time_median_h": 168.07
   },
   {
     "name": "user-service",
@@ -43,7 +43,7 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 3,
     "bot_merged_pr": 6,
     "bot_lead_time_median_h": 136.65
   },

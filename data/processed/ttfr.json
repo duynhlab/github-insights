@@ -26,8 +26,8 @@
     },
     {
       "repo": "homelab",
-      "sample": 4,
-      "median_h": 8.87,
+      "sample": 2,
+      "median_h": 16.48,
       "p90_h": 17.81
     },
     {
@@ -124,9 +124,9 @@
     },
     {
       "author": "duynhne",
-      "sample": 24,
+      "sample": 22,
       "median_h": 0.05,
-      "p90_h": 2.59
+      "p90_h": 0.15
     }
   ]
 }
