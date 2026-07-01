@@ -7,7 +7,7 @@
   },
   {
     "name": "gha-workflows",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 27,
     "bot_lead_time_median_h": 18.43
   },
@@ -37,7 +37,7 @@
   },
   {
     "name": "user-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 0,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 253.91
   },
@@ -49,19 +49,19 @@
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 0,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 253.73
   },
   {
     "name": "order-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 2,
     "bot_merged_pr": 2,
     "bot_lead_time_median_h": 273.34
   },
   {
     "name": "review-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 0,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 255.77
   },
@@ -73,7 +73,7 @@
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 264.36
   },

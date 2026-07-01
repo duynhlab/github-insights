@@ -12,11 +12,11 @@
     {
       "repo": "gha-workflows",
       "XS": 7,
-      "S": 2,
+      "S": 1,
       "M": 8,
       "L": 2,
       "XL": 0,
-      "total": 19
+      "total": 18
     },
     {
       "repo": "wolfi-images",
@@ -39,8 +39,8 @@
     {
       "repo": "homelab",
       "XS": 3,
-      "S": 6,
-      "M": 20,
+      "S": 7,
+      "M": 19,
       "L": 15,
       "XL": 3,
       "total": 47
@@ -48,17 +48,17 @@
     {
       "repo": "auth-service",
       "XS": 6,
-      "S": 9,
+      "S": 8,
       "M": 9,
       "L": 6,
-      "XL": 1,
+      "XL": 2,
       "total": 31
     },
     {
       "repo": "user-service",
       "XS": 7,
-      "S": 7,
-      "M": 9,
+      "S": 8,
+      "M": 8,
       "L": 7,
       "XL": 0,
       "total": 30
@@ -75,35 +75,35 @@
     {
       "repo": "cart-service",
       "XS": 11,
-      "S": 6,
+      "S": 7,
       "M": 10,
       "L": 7,
       "XL": 0,
-      "total": 34
+      "total": 35
     },
     {
       "repo": "order-service",
       "XS": 8,
       "S": 7,
-      "M": 17,
+      "M": 18,
       "L": 8,
       "XL": 0,
-      "total": 40
+      "total": 41
     },
     {
       "repo": "review-service",
       "XS": 6,
-      "S": 8,
+      "S": 9,
       "M": 9,
       "L": 5,
       "XL": 1,
-      "total": 29
+      "total": 30
     },
     {
       "repo": "notification-service",
       "XS": 7,
-      "S": 5,
-      "M": 9,
+      "S": 6,
+      "M": 8,
       "L": 5,
       "XL": 1,
       "total": 27
@@ -176,20 +176,20 @@
     {
       "author": "duynhne",
       "XS": 84,
-      "S": 100,
-      "M": 142,
+      "S": 104,
+      "M": 140,
       "L": 93,
-      "XL": 28,
-      "total": 447
+      "XL": 29,
+      "total": 450
     },
     {
       "author": "duyhenryer",
       "XS": 7,
-      "S": 4,
+      "S": 3,
       "M": 3,
       "L": 3,
       "XL": 2,
-      "total": 19
+      "total": 18
     }
   ],
   "buckets": [

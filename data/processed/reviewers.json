@@ -11,10 +11,10 @@
   {
     "login": "sourcery-ai",
     "approved": 0,
-    "commented": 12,
+    "commented": 11,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 12,
+    "total": 11,
     "repos": 2
   },
   {
@@ -38,19 +38,19 @@
   {
     "login": "sentry",
     "approved": 0,
-    "commented": 8,
+    "commented": 7,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 8,
+    "total": 7,
     "repos": 1
   },
   {
     "login": "duyhenryer",
-    "approved": 7,
+    "approved": 5,
     "commented": 0,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 7,
-    "repos": 4
+    "total": 5,
+    "repos": 2
   }
 ]

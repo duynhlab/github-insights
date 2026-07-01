@@ -8,7 +8,7 @@
     },
     {
       "repo": "gha-workflows",
-      "sample": 9,
+      "sample": 8,
       "median_h": 0.01,
       "p90_h": 0.02
     },
@@ -38,9 +38,9 @@
     },
     {
       "repo": "user-service",
-      "sample": 1,
-      "median_h": 0.1,
-      "p90_h": 0.1
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     },
     {
       "repo": "product-service",
@@ -68,9 +68,9 @@
     },
     {
       "repo": "notification-service",
-      "sample": 1,
-      "median_h": 0.1,
-      "p90_h": 0.1
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     },
     {
       "repo": "shipping-service",
@@ -118,15 +118,15 @@
   "by_author": [
     {
       "author": "duyhenryer",
-      "sample": 11,
+      "sample": 10,
       "median_h": 0.01,
       "p90_h": 0.02
     },
     {
       "author": "duynhne",
-      "sample": 26,
-      "median_h": 0.06,
-      "p90_h": 1.08
+      "sample": 24,
+      "median_h": 0.05,
+      "p90_h": 2.59
     }
   ]
 }
