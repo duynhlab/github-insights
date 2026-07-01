@@ -1261,6 +1261,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/412",
+    "number": 412,
+    "title": "Add Kong edge JWT auth (RFC-0009 Phase 4)",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-01T15:48:43Z",
+    "merged_at": "2026-07-01T16:03:12Z",
+    "additions": 311,
+    "deletions": 44,
+    "changed_files": 16,
+    "lead_time_h": 0.24
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/411",
     "number": 411,
     "title": "Add Kong edge tracing + refresh docs to deployed reality",
@@ -1965,21 +1980,6 @@
     "lead_time_h": 0.02
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/360",
-    "number": 360,
-    "title": "Add Kong edge hardening plugins",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-19T17:26:05Z",
-    "merged_at": "2026-06-20T02:47:22Z",
-    "additions": 165,
-    "deletions": 115,
-    "changed_files": 10,
-    "lead_time_h": 9.35
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/101",
     "number": 101,
@@ -2443,21 +2443,6 @@
     "deletions": 5,
     "changed_files": 1,
     "lead_time_h": 0.04
-  },
-  {
-    "repo": "auth-service",
-    "url": "https://github.com/duynhlab/auth-service/pull/61",
-    "number": 61,
-    "title": "Bump dependencies to latest",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-31T03:45:49Z",
-    "merged_at": "2026-05-31T03:59:57Z",
-    "additions": 59,
-    "deletions": 59,
-    "changed_files": 2,
-    "lead_time_h": 0.24
   },
   {
     "repo": "user-service",
@@ -3913,21 +3898,6 @@
     "deletions": 55,
     "changed_files": 2,
     "lead_time_h": 0.28
-  },
-  {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/64",
-    "number": 64,
-    "title": "Reset id sequences after seed data",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-30T16:26:51Z",
-    "merged_at": "2026-05-30T16:42:05Z",
-    "additions": 8,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 0.25
   },
   {
     "repo": "order-service",
