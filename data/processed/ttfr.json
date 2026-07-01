@@ -62,9 +62,9 @@
     },
     {
       "repo": "review-service",
-      "sample": 1,
-      "median_h": 0.1,
-      "p90_h": 0.1
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     },
     {
       "repo": "notification-service",
@@ -124,8 +124,8 @@
     },
     {
       "author": "duynhne",
-      "sample": 22,
-      "median_h": 0.05,
+      "sample": 21,
+      "median_h": 0.04,
       "p90_h": 0.15
     }
   ]

@@ -61,13 +61,13 @@
   },
   {
     "name": "review-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 2,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 255.77
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 2,
     "bot_merged_pr": 4,
     "bot_lead_time_median_h": 144.77
   },
