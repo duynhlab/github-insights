@@ -1261,18 +1261,33 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/417",
+    "number": 417,
+    "title": "Add JSON access logs + Kong OTel-logs pilot",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-02T15:39:58Z",
+    "merged_at": "2026-07-02T15:59:35Z",
+    "additions": 271,
+    "deletions": 3,
+    "changed_files": 10,
+    "lead_time_h": 0.33
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/416",
     "number": 416,
     "title": "Sweep Phase 5 doc residue; add e2e audit guide",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-02T12:10:44Z",
-    "merged_at": null,
+    "merged_at": "2026-07-02T14:56:55Z",
     "additions": 185,
     "deletions": 26,
     "changed_files": 9,
-    "lead_time_h": null
+    "lead_time_h": 2.77
   },
   {
     "repo": "homelab",
@@ -1963,21 +1978,6 @@
     "deletions": 0,
     "changed_files": 6,
     "lead_time_h": 1.08
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/367",
-    "number": 367,
-    "title": "Add spanmetrics + RED dashboard to local-stack",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-23T16:06:43Z",
-    "merged_at": "2026-06-23T16:10:05Z",
-    "additions": 235,
-    "deletions": 26,
-    "changed_files": 7,
-    "lead_time_h": 0.06
   },
   {
     "repo": "auth-service",
