@@ -4500,21 +4500,6 @@
     "lead_time_h": 0.08
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/66",
-    "number": 66,
-    "title": "Rename module to github.com/duynhlab/order-service",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-31T12:59:54Z",
-    "merged_at": "2026-05-31T13:03:37Z",
-    "additions": 25,
-    "deletions": 25,
-    "changed_files": 12,
-    "lead_time_h": 0.06
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/94",
     "number": 94,

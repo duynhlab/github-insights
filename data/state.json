@@ -15,7 +15,7 @@
     "pr_updated_at": "2026-07-01T16:17:24Z"
   },
   "order-service": {
-    "pr_updated_at": "2026-07-01T04:29:05Z"
+    "pr_updated_at": "2026-07-01T20:17:06Z"
   },
   "review-service": {
     "pr_updated_at": "2026-07-01T10:47:18Z"
@@ -24,7 +24,7 @@
     "pr_updated_at": "2026-07-01T14:08:32Z"
   },
   "shipping-service": {
-    "pr_updated_at": "2026-07-01T04:29:09Z"
+    "pr_updated_at": "2026-07-01T23:08:00Z"
   },
   "frontend": {
     "pr_updated_at": "2026-06-25T07:16:58Z"
@@ -32,7 +32,7 @@
   "tf-local": {
     "pr_updated_at": "2026-06-25T02:38:58Z"
   },
-  "last_run": "2026-07-01T19:51:53.306851+00:00",
+  "last_run": "2026-07-02T02:58:52.882010+00:00",
   "github-insights": {
     "pr_updated_at": "2026-06-30T08:09:06Z"
   },
@@ -49,7 +49,7 @@
     "pr_updated_at": "2026-07-01T07:13:43Z"
   },
   "gha-workflows": {
-    "pr_updated_at": "2026-07-01T06:29:28Z"
+    "pr_updated_at": "2026-07-01T23:07:32Z"
   },
   "wolfi-images": {
     "pr_updated_at": "2026-06-29T09:35:48Z"
