@@ -5,10 +5,10 @@
       {
         "name": "Renovate",
         "fail": 17,
-        "total": 18,
+        "total": 19,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
         "last_fail_at": "2026-07-01T06:34:40Z",
-        "fail_rate": 0.944
+        "fail_rate": 0.895
       },
       {
         "name": "\ud83e\uddea E2E (KinD)",
@@ -407,10 +407,10 @@
       {
         "name": "build-rpms",
         "fail": 4,
-        "total": 71,
+        "total": 70,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
         "last_fail_at": "2026-06-15T23:40:17Z",
-        "fail_rate": 0.056
+        "fail_rate": 0.057
       },
       {
         "name": "publish-yum-repo",
@@ -578,10 +578,10 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 42,
+        "total": 43,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
-        "fail_rate": 0.024
+        "fail_rate": 0.023
       }
     ]
   }

@@ -80,7 +80,7 @@
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
     "size_kb": 24531,
-    "pushed_at": "2026-07-01T16:03:13Z",
+    "pushed_at": "2026-07-02T08:19:37Z",
     "open_issues": 2,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 2089,
-    "pushed_at": "2026-07-01T19:51:54Z",
+    "size_kb": 2135,
+    "pushed_at": "2026-07-02T02:58:53Z",
     "open_issues": 7,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -357,7 +357,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.635,
-    "ci_runs": 63
+    "ci_success_rate": 0.641,
+    "ci_runs": 64
   }
 ]
