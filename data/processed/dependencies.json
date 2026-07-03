@@ -13,7 +13,7 @@
   },
   {
     "name": "wolfi-images",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 26,
     "bot_lead_time_median_h": 22.47
   },
@@ -109,6 +109,12 @@
   },
   {
     "name": "helm-charts",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "payment-service",
     "bot_open_pr": 0,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null

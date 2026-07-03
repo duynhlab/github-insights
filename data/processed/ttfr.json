@@ -26,9 +26,9 @@
     },
     {
       "repo": "homelab",
-      "sample": 1,
-      "median_h": 15.15,
-      "p90_h": 15.15
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     },
     {
       "repo": "auth-service",
@@ -113,6 +113,12 @@
       "sample": 0,
       "median_h": null,
       "p90_h": null
+    },
+    {
+      "repo": "payment-service",
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     }
   ],
   "by_author": [
@@ -124,9 +130,9 @@
     },
     {
       "author": "duynhne",
-      "sample": 20,
+      "sample": 19,
       "median_h": 0.04,
-      "p90_h": 0.12
+      "p90_h": 0.07
     }
   ]
 }
