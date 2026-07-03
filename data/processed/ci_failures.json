@@ -50,10 +50,10 @@
       {
         "name": "Renovate",
         "fail": 17,
-        "total": 19,
+        "total": 20,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
         "last_fail_at": "2026-07-01T06:34:40Z",
-        "fail_rate": 0.895
+        "fail_rate": 0.85
       },
       {
         "name": "\ud83e\uddea E2E (KinD)",
@@ -85,20 +85,20 @@
     "repo": "product-service",
     "workflows": [
       {
-        "name": "Check",
-        "fail": 10,
-        "total": 24,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/28634320487",
-        "last_fail_at": "2026-07-03T02:24:59Z",
-        "fail_rate": 0.417
-      },
-      {
         "name": "CI Pipeline",
         "fail": 10,
         "total": 37,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/28634320473",
         "last_fail_at": "2026-07-03T02:24:59Z",
         "fail_rate": 0.27
+      },
+      {
+        "name": "Check",
+        "fail": 9,
+        "total": 23,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/28634320487",
+        "last_fail_at": "2026-07-03T02:24:59Z",
+        "fail_rate": 0.391
       },
       {
         "name": "docker in /db/migrations - Update #1438338620",
@@ -407,10 +407,10 @@
       {
         "name": "publish-yum-repo",
         "fail": 3,
-        "total": 4,
+        "total": 3,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27286889737",
         "last_fail_at": "2026-06-10T15:25:47Z",
-        "fail_rate": 0.75
+        "fail_rate": 1.0
       },
       {
         "name": "release",
@@ -570,7 +570,7 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 43,
+        "total": 44,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
         "fail_rate": 0.023
