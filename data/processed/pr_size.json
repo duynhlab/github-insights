@@ -47,75 +47,75 @@
     },
     {
       "repo": "auth-service",
-      "XS": 6,
-      "S": 7,
+      "XS": 7,
+      "S": 8,
       "M": 11,
       "L": 6,
       "XL": 3,
-      "total": 33
-    },
-    {
-      "repo": "user-service",
-      "XS": 7,
-      "S": 9,
-      "M": 9,
-      "L": 8,
-      "XL": 0,
-      "total": 33
-    },
-    {
-      "repo": "product-service",
-      "XS": 3,
-      "S": 6,
-      "M": 10,
-      "L": 9,
-      "XL": 2,
-      "total": 30
-    },
-    {
-      "repo": "cart-service",
-      "XS": 10,
-      "S": 7,
-      "M": 10,
-      "L": 8,
-      "XL": 0,
       "total": 35
     },
     {
-      "repo": "order-service",
-      "XS": 9,
-      "S": 7,
-      "M": 16,
+      "repo": "user-service",
+      "XS": 8,
+      "S": 9,
+      "M": 9,
       "L": 8,
       "XL": 0,
-      "total": 40
+      "total": 34
+    },
+    {
+      "repo": "product-service",
+      "XS": 4,
+      "S": 6,
+      "M": 9,
+      "L": 10,
+      "XL": 2,
+      "total": 31
+    },
+    {
+      "repo": "cart-service",
+      "XS": 11,
+      "S": 7,
+      "M": 10,
+      "L": 8,
+      "XL": 0,
+      "total": 36
+    },
+    {
+      "repo": "order-service",
+      "XS": 10,
+      "S": 6,
+      "M": 15,
+      "L": 8,
+      "XL": 0,
+      "total": 39
     },
     {
       "repo": "review-service",
-      "XS": 6,
+      "XS": 7,
       "S": 9,
       "M": 9,
+      "L": 6,
+      "XL": 1,
+      "total": 32
+    },
+    {
+      "repo": "notification-service",
+      "XS": 8,
+      "S": 6,
+      "M": 10,
       "L": 6,
       "XL": 1,
       "total": 31
     },
     {
-      "repo": "notification-service",
-      "XS": 7,
-      "S": 6,
-      "M": 10,
-      "L": 6,
-      "XL": 1,
-      "total": 30
-    },
-    {
       "repo": "shipping-service",
       "XS": 5,
-      "S": 12,
+      "S": 11,
       "M": 10,
       "L": 6,
       "XL": 0,
-      "total": 33
+      "total": 32
     },
     {
       "repo": "frontend",
@@ -175,12 +175,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 87,
-      "S": 105,
-      "M": 147,
-      "L": 97,
+      "XS": 94,
+      "S": 104,
+      "M": 145,
+      "L": 98,
       "XL": 31,
-      "total": 467
+      "total": 472
     },
     {
       "author": "duyhenryer",
