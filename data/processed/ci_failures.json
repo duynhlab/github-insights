@@ -1,50 +1,5 @@
 [
   {
-    "repo": "order-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 19,
-        "total": 41,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28681507334",
-        "last_fail_at": "2026-07-03T20:13:36Z",
-        "fail_rate": 0.463
-      },
-      {
-        "name": "docker in /db/migrations - Update #1439948161",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28399743378",
-        "last_fail_at": "2026-06-29T20:13:29Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1436668681",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28262714759",
-        "last_fail_at": "2026-06-26T20:12:40Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1435522220",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28197613054",
-        "last_fail_at": "2026-06-25T20:12:52Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "Release",
-        "fail": 1,
-        "total": 3,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28320778222",
-        "last_fail_at": "2026-06-28T11:30:17Z",
-        "fail_rate": 0.333
-      }
-    ]
-  },
-  {
     "repo": "helm-charts",
     "workflows": [
       {
@@ -78,6 +33,43 @@
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27178694855",
         "last_fail_at": "2026-06-09T01:49:06Z",
         "fail_rate": 0.2
+      }
+    ]
+  },
+  {
+    "repo": "order-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 19,
+        "total": 40,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28707585560",
+        "last_fail_at": "2026-07-04T13:23:27Z",
+        "fail_rate": 0.475
+      },
+      {
+        "name": "docker in /db/migrations - Update #1439948161",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28399743378",
+        "last_fail_at": "2026-06-29T20:13:29Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /db/migrations - Update #1436668681",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28262714759",
+        "last_fail_at": "2026-06-26T20:12:40Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "Release",
+        "fail": 1,
+        "total": 3,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28320778222",
+        "last_fail_at": "2026-06-28T11:30:17Z",
+        "fail_rate": 0.333
       }
     ]
   },
@@ -235,10 +227,10 @@
       {
         "name": "Check",
         "fail": 9,
-        "total": 28,
+        "total": 30,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/28687081167",
         "last_fail_at": "2026-07-03T23:03:59Z",
-        "fail_rate": 0.321
+        "fail_rate": 0.3
       },
       {
         "name": "docker in /db/migrations - Update #1440254803",
@@ -513,6 +505,27 @@
     ]
   },
   {
+    "repo": "payment-service",
+    "workflows": [
+      {
+        "name": "Build",
+        "fail": 2,
+        "total": 17,
+        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28713495867",
+        "last_fail_at": "2026-07-04T17:07:24Z",
+        "fail_rate": 0.118
+      },
+      {
+        "name": "docker in /db/migrations - Update #1446551687",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28656519392",
+        "last_fail_at": "2026-07-03T11:06:04Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "backstage",
     "workflows": [
       {
@@ -535,27 +548,6 @@
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/28665147129",
         "last_fail_at": "2026-07-03T13:56:20Z",
         "fail_rate": 0.024
-      }
-    ]
-  },
-  {
-    "repo": "payment-service",
-    "workflows": [
-      {
-        "name": "docker in /db/migrations - Update #1446551687",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28656519392",
-        "last_fail_at": "2026-07-03T11:06:04Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "Build",
-        "fail": 1,
-        "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28656517548",
-        "last_fail_at": "2026-07-03T11:06:02Z",
-        "fail_rate": 0.083
       }
     ]
   },
