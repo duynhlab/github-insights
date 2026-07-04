@@ -85,10 +85,10 @@
       "repo": "order-service",
       "XS": 10,
       "S": 6,
-      "M": 15,
+      "M": 14,
       "L": 8,
       "XL": 0,
-      "total": 39
+      "total": 38
     },
     {
       "repo": "review-service",
@@ -113,9 +113,9 @@
       "XS": 5,
       "S": 11,
       "M": 10,
-      "L": 6,
+      "L": 5,
       "XL": 0,
-      "total": 32
+      "total": 31
     },
     {
       "repo": "frontend",
@@ -186,10 +186,10 @@
       "author": "duynhne",
       "XS": 95,
       "S": 106,
-      "M": 142,
-      "L": 102,
+      "M": 141,
+      "L": 101,
       "XL": 31,
-      "total": 476
+      "total": 474
     },
     {
       "author": "duyhenryer",

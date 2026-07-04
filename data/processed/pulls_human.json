@@ -1249,15 +1249,15 @@
     "url": "https://github.com/duynhlab/homelab/pull/425",
     "number": 425,
     "title": "Add ADR-007: double-entry payment ledger",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-03T17:31:17Z",
-    "merged_at": null,
+    "merged_at": "2026-07-04T02:33:02Z",
     "additions": 145,
     "deletions": 3,
     "changed_files": 3,
-    "lead_time_h": null
+    "lead_time_h": 9.03
   },
   {
     "repo": "homelab",
@@ -4575,21 +4575,6 @@
     "lead_time_h": 0.15
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/71",
-    "number": 71,
-    "title": "Inject order web clients via constructor",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-02T15:53:57Z",
-    "merged_at": "2026-06-02T16:27:02Z",
-    "additions": 48,
-    "deletions": 106,
-    "changed_files": 5,
-    "lead_time_h": 0.55
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/98",
     "number": 98,
@@ -5985,21 +5970,6 @@
     "lead_time_h": 0.2
   },
   {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/63",
-    "number": 63,
-    "title": "Add internal gRPC ShippingService (Phase 1)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-31T00:57:41Z",
-    "merged_at": "2026-05-31T01:23:01Z",
-    "additions": 352,
-    "deletions": 217,
-    "changed_files": 5,
-    "lead_time_h": 0.42
-  },
-  {
     "repo": "frontend",
     "url": "https://github.com/duynhlab/frontend/pull/40",
     "number": 40,
@@ -7324,15 +7294,15 @@
     "url": "https://github.com/duynhlab/payment-service/pull/5",
     "number": 5,
     "title": "Add append-only double-entry ledger",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-03T17:30:13Z",
-    "merged_at": null,
+    "merged_at": "2026-07-04T02:32:36Z",
     "additions": 678,
     "deletions": 21,
     "changed_files": 10,
-    "lead_time_h": null
+    "lead_time_h": 9.04
   },
   {
     "repo": "payment-service",
