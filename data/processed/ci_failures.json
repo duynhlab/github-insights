@@ -552,10 +552,10 @@
       {
         "name": "Build",
         "fail": 1,
-        "total": 10,
+        "total": 12,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28656517548",
         "last_fail_at": "2026-07-03T11:06:02Z",
-        "fail_rate": 0.1
+        "fail_rate": 0.083
       }
     ]
   },
