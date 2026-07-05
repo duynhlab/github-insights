@@ -1246,6 +1246,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/441",
+    "number": 441,
+    "title": "Add RFC-0012: declarative CNPG role management",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-05T01:08:56Z",
+    "merged_at": "2026-07-05T01:12:43Z",
+    "additions": 445,
+    "deletions": 0,
+    "changed_files": 3,
+    "lead_time_h": 0.06
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/440",
     "number": 440,
     "title": "Sync P5 status into the docs and cut 0.104.0",
@@ -1962,21 +1977,6 @@
     "additions": 28,
     "deletions": 111,
     "changed_files": 16,
-    "lead_time_h": 0.02
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/391",
-    "number": 391,
-    "title": "Supersede production-plan.md and vault.md from docs/secrets",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-29T13:25:38Z",
-    "merged_at": "2026-06-29T13:27:03Z",
-    "additions": 34,
-    "deletions": 317,
-    "changed_files": 7,
     "lead_time_h": 0.02
   },
   {
@@ -4006,6 +4006,21 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/122",
+    "number": 122,
+    "title": "Enrich order details with payment and carry the checkout token",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-05T01:56:47Z",
+    "merged_at": "2026-07-05T02:00:18Z",
+    "additions": 439,
+    "deletions": 37,
+    "changed_files": 15,
+    "lead_time_h": 0.06
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/121",
     "number": 121,
     "title": "Bump grpc to 1.82.0 and temporal SDK to 1.45.0",
@@ -4573,21 +4588,6 @@
     "deletions": 77,
     "changed_files": 13,
     "lead_time_h": 7.48
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/74",
-    "number": 74,
-    "title": "Refactor AGENTS.md to flux2 style",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-02T17:04:21Z",
-    "merged_at": "2026-06-02T17:18:16Z",
-    "additions": 169,
-    "deletions": 186,
-    "changed_files": 1,
-    "lead_time_h": 0.23
   },
   {
     "repo": "review-service",
@@ -7333,6 +7333,21 @@
     "deletions": 26,
     "changed_files": 4,
     "lead_time_h": 7.63
+  },
+  {
+    "repo": "payment-service",
+    "url": "https://github.com/duynhlab/payment-service/pull/16",
+    "number": 16,
+    "title": "Serve GetPayment on the internal gRPC surface",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-05T01:31:53Z",
+    "merged_at": "2026-07-05T01:35:48Z",
+    "additions": 60,
+    "deletions": 13,
+    "changed_files": 4,
+    "lead_time_h": 0.07
   },
   {
     "repo": "payment-service",
