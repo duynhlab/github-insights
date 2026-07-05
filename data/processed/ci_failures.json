@@ -13,26 +13,26 @@
       {
         "name": "\ud83e\uddea E2E (KinD)",
         "fail": 4,
-        "total": 14,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27731533680",
         "last_fail_at": "2026-06-18T01:52:43Z",
-        "fail_rate": 0.286
-      },
-      {
-        "name": "\ud83d\udcc4 Publish Helm repo to GitHub Pages",
-        "fail": 1,
-        "total": 5,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27505582185",
-        "last_fail_at": "2026-06-14T16:49:06Z",
-        "fail_rate": 0.2
+        "fail_rate": 0.267
       },
       {
         "name": "\ud83d\udce6 Release Helm Charts",
         "fail": 1,
-        "total": 5,
+        "total": 6,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27178694855",
         "last_fail_at": "2026-06-09T01:49:06Z",
-        "fail_rate": 0.2
+        "fail_rate": 0.167
+      },
+      {
+        "name": "\ud83d\udcc4 Publish Helm repo to GitHub Pages",
+        "fail": 1,
+        "total": 6,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/27505582185",
+        "last_fail_at": "2026-06-14T16:49:06Z",
+        "fail_rate": 0.167
       }
     ]
   },
@@ -509,11 +509,11 @@
     "workflows": [
       {
         "name": "collect-and-deploy",
-        "fail": 3,
+        "fail": 4,
         "total": 84,
-        "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/28735270423",
-        "last_fail_at": "2026-07-05T08:48:22Z",
-        "fail_rate": 0.036
+        "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/28742272382",
+        "last_fail_at": "2026-07-05T13:24:28Z",
+        "fail_rate": 0.048
       }
     ]
   },

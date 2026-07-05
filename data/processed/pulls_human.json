@@ -1246,6 +1246,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/445",
+    "number": 445,
+    "title": "Select scrape targets by app.kubernetes.io/component",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-05T13:40:19Z",
+    "merged_at": "2026-07-05T13:44:38Z",
+    "additions": 36,
+    "deletions": 18,
+    "changed_files": 10,
+    "lead_time_h": 0.07
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/444",
     "number": 444,
     "title": "Document notification mark-all-read endpoint",
@@ -1963,21 +1978,6 @@
     "deletions": 46,
     "changed_files": 3,
     "lead_time_h": 0.11
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/395",
-    "number": 395,
-    "title": "Improve AGENTS.md: RFC/ADR, docs conventions, refs",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-29T14:16:15Z",
-    "merged_at": "2026-06-29T14:16:35Z",
-    "additions": 19,
-    "deletions": 2,
-    "changed_files": 1,
-    "lead_time_h": 0.01
   },
   {
     "repo": "auth-service",
@@ -7228,6 +7228,21 @@
     "deletions": 66,
     "changed_files": 4,
     "lead_time_h": 0.08
+  },
+  {
+    "repo": "helm-charts",
+    "url": "https://github.com/duynhlab/helm-charts/pull/11",
+    "number": 11,
+    "title": "feat(mop): add app.kubernetes.io/component label",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-05T13:36:35Z",
+    "merged_at": "2026-07-05T13:40:29Z",
+    "additions": 63,
+    "deletions": 3,
+    "changed_files": 7,
+    "lead_time_h": 0.07
   },
   {
     "repo": "helm-charts",

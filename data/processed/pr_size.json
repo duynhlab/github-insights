@@ -39,8 +39,8 @@
     {
       "repo": "homelab",
       "XS": 5,
-      "S": 11,
-      "M": 21,
+      "S": 10,
+      "M": 22,
       "L": 12,
       "XL": 0,
       "total": 49
@@ -166,10 +166,10 @@
       "repo": "helm-charts",
       "XS": 3,
       "S": 4,
-      "M": 2,
+      "M": 3,
       "L": 1,
       "XL": 0,
-      "total": 10
+      "total": 11
     },
     {
       "repo": "payment-service",
@@ -185,11 +185,11 @@
     {
       "author": "duynhne",
       "XS": 94,
-      "S": 113,
-      "M": 145,
+      "S": 112,
+      "M": 147,
       "L": 110,
       "XL": 30,
-      "total": 492
+      "total": 493
     },
     {
       "author": "duyhenryer",
