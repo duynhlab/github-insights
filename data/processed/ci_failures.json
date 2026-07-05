@@ -5,10 +5,10 @@
       {
         "name": "Renovate",
         "fail": 17,
-        "total": 21,
+        "total": 22,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
         "last_fail_at": "2026-07-01T06:34:40Z",
-        "fail_rate": 0.81
+        "fail_rate": 0.773
       },
       {
         "name": "\ud83e\uddea E2E (KinD)",
@@ -182,10 +182,10 @@
       {
         "name": "Check",
         "fail": 10,
-        "total": 25,
+        "total": 27,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/28665565567",
         "last_fail_at": "2026-07-03T14:04:09Z",
-        "fail_rate": 0.4
+        "fail_rate": 0.37
       },
       {
         "name": "docker in /db/migrations - Update #1439388905",
@@ -362,10 +362,10 @@
       {
         "name": "Build",
         "fail": 6,
-        "total": 24,
+        "total": 27,
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/27960511108",
         "last_fail_at": "2026-06-22T14:34:04Z",
-        "fail_rate": 0.25
+        "fail_rate": 0.222
       },
       {
         "name": "CI Pipeline",
@@ -510,10 +510,10 @@
       {
         "name": "Build",
         "fail": 2,
-        "total": 18,
+        "total": 20,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28713495867",
         "last_fail_at": "2026-07-04T17:07:24Z",
-        "fail_rate": 0.111
+        "fail_rate": 0.1
       },
       {
         "name": "docker in /db/migrations - Update #1446551687",
@@ -570,7 +570,7 @@
       {
         "name": "Nightly Release (Docker)",
         "fail": 1,
-        "total": 45,
+        "total": 46,
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
         "fail_rate": 0.022
