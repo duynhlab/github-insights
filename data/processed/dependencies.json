@@ -14,8 +14,8 @@
   {
     "name": "wolfi-images",
     "bot_open_pr": 1,
-    "bot_merged_pr": 26,
-    "bot_lead_time_median_h": 22.47
+    "bot_merged_pr": 25,
+    "bot_lead_time_median_h": 21.01
   },
   {
     "name": "packages",
@@ -43,7 +43,7 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 3,
     "bot_merged_pr": 6,
     "bot_lead_time_median_h": 136.65
   },
@@ -115,7 +115,7 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   }

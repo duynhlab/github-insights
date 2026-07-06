@@ -42,7 +42,7 @@
     "url": "https://github.com/duynhlab/wolfi-images",
     "lang": null,
     "size_kb": 205,
-    "pushed_at": "2026-07-03T09:04:51Z",
+    "pushed_at": "2026-07-06T09:05:55Z",
     "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -53,7 +53,7 @@
     "ttfr_median_h": 0.01,
     "ttfr_p90_h": 0.01,
     "ttfr_sample": 2,
-    "ci_success_rate": 0.87,
+    "ci_success_rate": 0.91,
     "ci_runs": 100
   },
   {
@@ -79,12 +79,12 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 25459,
-    "pushed_at": "2026-07-06T02:48:25Z",
-    "open_issues": 4,
-    "human_open_pr": 2,
+    "size_kb": 25671,
+    "pushed_at": "2026-07-06T03:01:27Z",
+    "open_issues": 2,
+    "human_open_pr": 0,
     "human_stale_pr": 0,
-    "human_merged_pr": 47,
+    "human_merged_pr": 49,
     "commits_window": 320,
     "lead_time_median_h": 0.1,
     "lead_time_p95_h": 5.07,
@@ -136,9 +136,9 @@
     "name": "product-service",
     "url": "https://github.com/duynhlab/product-service",
     "lang": "Go",
-    "size_kb": 391,
-    "pushed_at": "2026-07-03T02:24:54Z",
-    "open_issues": 2,
+    "size_kb": 409,
+    "pushed_at": "2026-07-06T05:24:19Z",
+    "open_issues": 3,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 30,
@@ -148,7 +148,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.79,
+    "ci_success_rate": 0.78,
     "ci_runs": 100
   },
   {
@@ -174,7 +174,7 @@
     "name": "order-service",
     "url": "https://github.com/duynhlab/order-service",
     "lang": "Go",
-    "size_kb": 348,
+    "size_kb": 352,
     "pushed_at": "2026-07-06T02:52:33Z",
     "open_issues": 0,
     "human_open_pr": 0,
@@ -186,7 +186,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.79,
+    "ci_success_rate": 0.8,
     "ci_runs": 100
   },
   {
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 2416,
-    "pushed_at": "2026-07-05T19:15:00Z",
+    "size_kb": 2463,
+    "pushed_at": "2026-07-06T02:56:02Z",
     "open_issues": 7,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -357,16 +357,16 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.681,
-    "ci_runs": 72
+    "ci_success_rate": 0.685,
+    "ci_runs": 73
   },
   {
     "name": "payment-service",
     "url": "https://github.com/duynhlab/payment-service",
     "lang": "Go",
     "size_kb": 211,
-    "pushed_at": "2026-07-05T04:06:20Z",
-    "open_issues": 0,
+    "pushed_at": "2026-07-06T09:27:32Z",
+    "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 17,
@@ -376,7 +376,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.94,
-    "ci_runs": 50
+    "ci_success_rate": 0.909,
+    "ci_runs": 55
   }
 ]
