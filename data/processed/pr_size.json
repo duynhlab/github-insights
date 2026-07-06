@@ -39,9 +39,9 @@
     {
       "repo": "homelab",
       "XS": 5,
-      "S": 10,
+      "S": 9,
       "M": 22,
-      "L": 12,
+      "L": 13,
       "XL": 0,
       "total": 49
     },
@@ -86,9 +86,9 @@
       "XS": 9,
       "S": 7,
       "M": 13,
-      "L": 10,
+      "L": 11,
       "XL": 0,
-      "total": 39
+      "total": 40
     },
     {
       "repo": "review-service",
@@ -185,11 +185,11 @@
     {
       "author": "duynhne",
       "XS": 94,
-      "S": 112,
+      "S": 111,
       "M": 147,
-      "L": 110,
+      "L": 112,
       "XL": 30,
-      "total": 493
+      "total": 494
     },
     {
       "author": "duyhenryer",
