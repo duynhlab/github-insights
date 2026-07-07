@@ -3151,6 +3151,21 @@
   },
   {
     "repo": "github-insights",
+    "url": "https://github.com/duynhlab/github-insights/pull/20",
+    "number": 20,
+    "title": "chore(deps): bump next from 16.2.6 to 16.2.10 in /web in the next group across 1 directory",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-03T23:14:22Z",
+    "merged_at": null,
+    "additions": 107,
+    "deletions": 41,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "github-insights",
     "url": "https://github.com/duynhlab/github-insights/pull/27",
     "number": 27,
     "title": "chore(deps-dev): bump the tailwind group across 1 directory with 3 updates",
@@ -3191,21 +3206,6 @@
     "merged_at": null,
     "additions": 91,
     "deletions": 11,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "github-insights",
-    "url": "https://github.com/duynhlab/github-insights/pull/20",
-    "number": 20,
-    "title": "chore(deps): bump next from 16.2.6 to 16.2.9 in /web in the next group across 1 directory",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-06-03T23:14:22Z",
-    "merged_at": null,
-    "additions": 107,
-    "deletions": 41,
     "changed_files": 2,
     "lead_time_h": null
   },
