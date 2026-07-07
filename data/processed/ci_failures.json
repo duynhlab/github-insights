@@ -107,11 +107,11 @@
     "workflows": [
       {
         "name": "CI",
-        "fail": 14,
-        "total": 39,
+        "fail": 13,
+        "total": 38,
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
         "last_fail_at": "2026-06-25T00:26:33Z",
-        "fail_rate": 0.359
+        "fail_rate": 0.342
       },
       {
         "name": ".github/workflows/aws-ci.yml",
