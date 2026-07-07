@@ -179,17 +179,35 @@
       "L": 13,
       "XL": 2,
       "total": 20
+    },
+    {
+      "repo": "checkout-service",
+      "XS": 0,
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "total": 0
+    },
+    {
+      "repo": "gitops",
+      "XS": 2,
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "total": 2
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 93,
+      "XS": 95,
       "S": 112,
       "M": 146,
       "L": 115,
       "XL": 30,
-      "total": 496
+      "total": 498
     },
     {
       "author": "duyhenryer",

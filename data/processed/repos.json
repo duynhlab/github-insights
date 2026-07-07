@@ -110,7 +110,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.81,
+    "ci_success_rate": 0.82,
     "ci_runs": 100
   },
   {
@@ -129,7 +129,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.83,
+    "ci_success_rate": 0.84,
     "ci_runs": 100
   },
   {
@@ -167,7 +167,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.84,
+    "ci_success_rate": 0.85,
     "ci_runs": 100
   },
   {
@@ -269,8 +269,8 @@
     "name": "backstage",
     "url": "https://github.com/duynhlab/backstage",
     "lang": "TypeScript",
-    "size_kb": 1419,
-    "pushed_at": "2026-03-05T09:10:48Z",
+    "size_kb": 1472,
+    "pushed_at": "2026-07-07T18:29:33Z",
     "open_issues": 0,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -281,8 +281,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.333,
-    "ci_runs": 3
+    "ci_success_rate": 0.714,
+    "ci_runs": 7
   },
   {
     "name": "tf-local",
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 2589,
-    "pushed_at": "2026-07-07T09:38:14Z",
+    "size_kb": 2590,
+    "pushed_at": "2026-07-07T14:28:15Z",
     "open_issues": 7,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -378,5 +378,43 @@
     "ttfr_sample": 0,
     "ci_success_rate": 0.908,
     "ci_runs": 65
+  },
+  {
+    "name": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service",
+    "lang": "Go",
+    "size_kb": 36,
+    "pushed_at": "2026-07-07T18:08:55Z",
+    "open_issues": 1,
+    "human_open_pr": 0,
+    "human_stale_pr": 0,
+    "human_merged_pr": 0,
+    "commits_window": 0,
+    "lead_time_median_h": null,
+    "lead_time_p95_h": null,
+    "ttfr_median_h": null,
+    "ttfr_p90_h": null,
+    "ttfr_sample": 0,
+    "ci_success_rate": 0.75,
+    "ci_runs": 12
+  },
+  {
+    "name": "gitops",
+    "url": "https://github.com/duynhlab/gitops",
+    "lang": null,
+    "size_kb": 10,
+    "pushed_at": "2026-07-07T18:14:04Z",
+    "open_issues": 1,
+    "human_open_pr": 1,
+    "human_stale_pr": 0,
+    "human_merged_pr": 1,
+    "commits_window": 0,
+    "lead_time_median_h": 0.02,
+    "lead_time_p95_h": null,
+    "ttfr_median_h": null,
+    "ttfr_p90_h": null,
+    "ttfr_sample": 0,
+    "ci_success_rate": null,
+    "ci_runs": 0
   }
 ]

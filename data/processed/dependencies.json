@@ -118,5 +118,17 @@
     "bot_open_pr": 1,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
+  },
+  {
+    "name": "checkout-service",
+    "bot_open_pr": 1,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "gitops",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   }
 ]

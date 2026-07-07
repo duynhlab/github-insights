@@ -555,15 +555,36 @@
     ]
   },
   {
+    "repo": "checkout-service",
+    "workflows": [
+      {
+        "name": "Build",
+        "fail": 2,
+        "total": 4,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/28886243427",
+        "last_fail_at": "2026-07-07T17:36:39Z",
+        "fail_rate": 0.5
+      },
+      {
+        "name": "docker in /db/migrations - Update #1451415101",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/28886163810",
+        "last_fail_at": "2026-07-07T17:35:17Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "backstage",
     "workflows": [
       {
         "name": "CI",
         "fail": 2,
-        "total": 3,
+        "total": 7,
         "last_fail_url": "https://github.com/duynhlab/backstage/actions/runs/22710319088",
         "last_fail_at": "2026-03-05T09:02:21Z",
-        "fail_rate": 0.667
+        "fail_rate": 0.286
       }
     ]
   },
