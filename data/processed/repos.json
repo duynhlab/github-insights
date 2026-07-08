@@ -53,7 +53,7 @@
     "ttfr_median_h": 0.01,
     "ttfr_p90_h": 0.01,
     "ttfr_sample": 2,
-    "ci_success_rate": 0.91,
+    "ci_success_rate": 0.9,
     "ci_runs": 100
   },
   {
@@ -79,7 +79,7 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 24300,
+    "size_kb": 24485,
     "pushed_at": "2026-07-08T02:02:02Z",
     "open_issues": 3,
     "human_open_pr": 1,
@@ -136,9 +136,9 @@
     "name": "product-service",
     "url": "https://github.com/duynhlab/product-service",
     "lang": "Go",
-    "size_kb": 409,
-    "pushed_at": "2026-07-06T05:24:19Z",
-    "open_issues": 3,
+    "size_kb": 411,
+    "pushed_at": "2026-07-08T05:23:10Z",
+    "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 30,
@@ -148,7 +148,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.78,
+    "ci_success_rate": 0.76,
     "ci_runs": 100
   },
   {
@@ -269,8 +269,8 @@
     "name": "backstage",
     "url": "https://github.com/duynhlab/backstage",
     "lang": "TypeScript",
-    "size_kb": 1472,
-    "pushed_at": "2026-07-07T18:29:33Z",
+    "size_kb": 1474,
+    "pushed_at": "2026-07-08T03:51:26Z",
     "open_issues": 0,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -281,8 +281,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.714,
-    "ci_runs": 7
+    "ci_success_rate": 0.75,
+    "ci_runs": 8
   },
   {
     "name": "tf-local",
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 2638,
-    "pushed_at": "2026-07-07T19:52:43Z",
+    "size_kb": 2686,
+    "pushed_at": "2026-07-08T02:28:13Z",
     "open_issues": 7,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -357,8 +357,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.689,
-    "ci_runs": 74
+    "ci_success_rate": 0.693,
+    "ci_runs": 75
   },
   {
     "name": "payment-service",

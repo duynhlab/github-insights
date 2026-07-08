@@ -43,7 +43,7 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 3,
+    "bot_open_pr": 4,
     "bot_merged_pr": 6,
     "bot_lead_time_median_h": 136.65
   },

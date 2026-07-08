@@ -1621,6 +1621,21 @@
   },
   {
     "repo": "product-service",
+    "url": "https://github.com/duynhlab/product-service/pull/110",
+    "number": 110,
+    "title": "build(deps): bump library/golang from 1.26.4-alpine to 1.27rc2-alpine",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-08T05:23:10Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/109",
     "number": 109,
     "title": "build(deps): bump github.com/duynhlab/pkg from 0.12.2 to 0.15.1",
@@ -1886,21 +1901,6 @@
     "merged_at": null,
     "additions": 9,
     "deletions": 9,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/61",
-    "number": 61,
-    "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.44.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-05-28T05:35:47Z",
-    "merged_at": null,
-    "additions": 17,
-    "deletions": 17,
     "changed_files": 2,
     "lead_time_h": null
   },
