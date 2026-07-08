@@ -78,11 +78,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 17,
+        "fail": 18,
         "total": 41,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28707585560",
-        "last_fail_at": "2026-07-04T13:23:27Z",
-        "fail_rate": 0.415
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28895863490",
+        "last_fail_at": "2026-07-07T20:18:33Z",
+        "fail_rate": 0.439
       },
       {
         "name": "docker in /db/migrations - Update #1439948161",
@@ -91,14 +91,6 @@
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28399743378",
         "last_fail_at": "2026-06-29T20:13:29Z",
         "fail_rate": 1.0
-      },
-      {
-        "name": "Release",
-        "fail": 1,
-        "total": 3,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/28320778222",
-        "last_fail_at": "2026-06-28T11:30:17Z",
-        "fail_rate": 0.333
       }
     ]
   },
@@ -607,7 +599,7 @@
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 92,
+        "total": 91,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/28819085748",
         "last_fail_at": "2026-07-06T19:54:10Z",
         "fail_rate": 0.011

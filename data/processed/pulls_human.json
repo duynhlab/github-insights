@@ -1246,6 +1246,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/460",
+    "number": 460,
+    "title": "Bump CloudNativePG operator to 1.30.0 (RFC-0012 P0)",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-08T02:02:05Z",
+    "merged_at": null,
+    "additions": 25,
+    "deletions": 13,
+    "changed_files": 9,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/458",
     "number": 458,
     "title": "Cite the PostgreSQL scaling source in 004 References",
@@ -1948,21 +1963,6 @@
     "deletions": 144,
     "changed_files": 19,
     "lead_time_h": 0.08
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/410",
-    "number": 410,
-    "title": "Lock down internal Kong surfaces",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-01T09:48:00Z",
-    "merged_at": "2026-07-01T10:39:00Z",
-    "additions": 81,
-    "deletions": 0,
-    "changed_files": 6,
-    "lead_time_h": 0.85
   },
   {
     "repo": "auth-service",
