@@ -31,43 +31,43 @@
   },
   {
     "name": "auth-service",
-    "bot_open_pr": 3,
+    "bot_open_pr": 2,
     "bot_merged_pr": 5,
     "bot_lead_time_median_h": 168.07
   },
   {
     "name": "user-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 1,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 253.91
   },
   {
     "name": "product-service",
-    "bot_open_pr": 4,
+    "bot_open_pr": 3,
     "bot_merged_pr": 6,
     "bot_lead_time_median_h": 136.65
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 3,
-    "bot_lead_time_median_h": 253.73
+    "bot_open_pr": 1,
+    "bot_merged_pr": 2,
+    "bot_lead_time_median_h": 267.14
   },
   {
     "name": "order-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 2,
     "bot_merged_pr": 2,
     "bot_lead_time_median_h": 273.34
   },
   {
     "name": "review-service",
-    "bot_open_pr": 3,
+    "bot_open_pr": 2,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 255.77
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 3,
+    "bot_open_pr": 2,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 253.7
   },
@@ -121,7 +121,7 @@
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 3,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
