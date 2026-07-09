@@ -44,8 +44,8 @@
   {
     "name": "product-service",
     "bot_open_pr": 3,
-    "bot_merged_pr": 6,
-    "bot_lead_time_median_h": 136.65
+    "bot_merged_pr": 5,
+    "bot_lead_time_median_h": 58.68
   },
   {
     "name": "cart-service",
