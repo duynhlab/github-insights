@@ -63,10 +63,10 @@
       {
         "name": "Check",
         "fail": 21,
-        "total": 42,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/29001685914",
-        "last_fail_at": "2026-07-09T07:29:21Z",
-        "fail_rate": 0.5
+        "total": 41,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/29047154680",
+        "last_fail_at": "2026-07-09T20:13:49Z",
+        "fail_rate": 0.512
       }
     ]
   },
@@ -137,36 +137,15 @@
     ]
   },
   {
-    "repo": "tf-local",
-    "workflows": [
-      {
-        "name": "CI",
-        "fail": 12,
-        "total": 36,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
-        "last_fail_at": "2026-06-25T00:26:33Z",
-        "fail_rate": 0.333
-      },
-      {
-        "name": ".github/workflows/aws-ci.yml",
-        "fail": 5,
-        "total": 5,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
-        "last_fail_at": "2026-06-19T12:53:29Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "shipping-service",
     "workflows": [
       {
         "name": "Check",
-        "fail": 12,
+        "fail": 13,
         "total": 38,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/28981825556",
-        "last_fail_at": "2026-07-08T23:04:52Z",
-        "fail_rate": 0.316
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/29056398741",
+        "last_fail_at": "2026-07-09T23:05:09Z",
+        "fail_rate": 0.342
       },
       {
         "name": "docker in /db/migrations - Update #1440254803",
@@ -193,11 +172,32 @@
         "fail_rate": 1.0
       },
       {
-        "name": "docker in /db/migrations - Update #1434404975",
+        "name": "Release",
         "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/28135253072",
-        "last_fail_at": "2026-06-24T23:03:36Z",
+        "total": 3,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/28320781479",
+        "last_fail_at": "2026-06-28T11:30:24Z",
+        "fail_rate": 0.333
+      }
+    ]
+  },
+  {
+    "repo": "tf-local",
+    "workflows": [
+      {
+        "name": "CI",
+        "fail": 12,
+        "total": 36,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
+        "last_fail_at": "2026-06-25T00:26:33Z",
+        "fail_rate": 0.333
+      },
+      {
+        "name": ".github/workflows/aws-ci.yml",
+        "fail": 5,
+        "total": 5,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
+        "last_fail_at": "2026-06-19T12:53:29Z",
         "fail_rate": 1.0
       }
     ]
@@ -364,10 +364,10 @@
       {
         "name": "CI Pipeline",
         "fail": 12,
-        "total": 92,
+        "total": 91,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/29033795967",
         "last_fail_at": "2026-07-09T16:32:47Z",
-        "fail_rate": 0.13
+        "fail_rate": 0.132
       }
     ]
   },
@@ -550,6 +550,14 @@
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/28886163810",
         "last_fail_at": "2026-07-07T17:35:17Z",
         "fail_rate": 1.0
+      },
+      {
+        "name": "Check",
+        "fail": 1,
+        "total": 5,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29051282996",
+        "last_fail_at": "2026-07-09T21:24:39Z",
+        "fail_rate": 0.2
       }
     ]
   },
