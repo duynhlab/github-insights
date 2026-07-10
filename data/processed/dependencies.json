@@ -38,8 +38,8 @@
   {
     "name": "user-service",
     "bot_open_pr": 2,
-    "bot_merged_pr": 3,
-    "bot_lead_time_median_h": 253.91
+    "bot_merged_pr": 2,
+    "bot_lead_time_median_h": 253.92
   },
   {
     "name": "product-service",
@@ -56,18 +56,18 @@
   {
     "name": "order-service",
     "bot_open_pr": 3,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 273.34
+    "bot_merged_pr": 1,
+    "bot_lead_time_median_h": 273.35
   },
   {
     "name": "review-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 3,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 255.77
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 3,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 253.7
   },

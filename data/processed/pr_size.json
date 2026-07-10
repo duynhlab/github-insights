@@ -47,48 +47,48 @@
     },
     {
       "repo": "auth-service",
-      "XS": 6,
+      "XS": 7,
       "S": 7,
       "M": 8,
       "L": 8,
       "XL": 2,
-      "total": 31
+      "total": 32
     },
     {
       "repo": "user-service",
-      "XS": 8,
+      "XS": 9,
       "S": 10,
       "M": 7,
-      "L": 10,
-      "XL": 0,
-      "total": 35
-    },
-    {
-      "repo": "product-service",
-      "XS": 5,
-      "S": 6,
-      "M": 9,
-      "L": 12,
-      "XL": 2,
-      "total": 34
-    },
-    {
-      "repo": "cart-service",
-      "XS": 10,
-      "S": 7,
-      "M": 9,
       "L": 10,
       "XL": 0,
       "total": 36
     },
     {
-      "repo": "order-service",
-      "XS": 8,
-      "S": 6,
-      "M": 13,
+      "repo": "product-service",
+      "XS": 5,
+      "S": 7,
+      "M": 9,
+      "L": 12,
+      "XL": 1,
+      "total": 34
+    },
+    {
+      "repo": "cart-service",
+      "XS": 10,
+      "S": 8,
+      "M": 9,
       "L": 10,
       "XL": 0,
       "total": 37
+    },
+    {
+      "repo": "order-service",
+      "XS": 8,
+      "S": 7,
+      "M": 13,
+      "L": 10,
+      "XL": 0,
+      "total": 38
     },
     {
       "repo": "review-service",
@@ -103,15 +103,15 @@
       "repo": "notification-service",
       "XS": 8,
       "S": 7,
-      "M": 10,
+      "M": 9,
       "L": 8,
       "XL": 1,
-      "total": 34
+      "total": 33
     },
     {
       "repo": "shipping-service",
-      "XS": 6,
-      "S": 12,
+      "XS": 7,
+      "S": 11,
       "M": 9,
       "L": 7,
       "XL": 0,
@@ -174,11 +174,11 @@
     {
       "repo": "payment-service",
       "XS": 1,
-      "S": 2,
+      "S": 3,
       "M": 4,
       "L": 15,
       "XL": 2,
-      "total": 24
+      "total": 25
     },
     {
       "repo": "checkout-service",
@@ -211,12 +211,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 98,
-      "S": 115,
-      "M": 136,
+      "XS": 101,
+      "S": 118,
+      "M": 135,
       "L": 129,
-      "XL": 33,
-      "total": 511
+      "XL": 32,
+      "total": 515
     },
     {
       "author": "duyhenryer",
