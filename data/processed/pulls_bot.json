@@ -1636,6 +1636,21 @@
   },
   {
     "repo": "product-service",
+    "url": "https://github.com/duynhlab/product-service/pull/116",
+    "number": 116,
+    "title": "build(deps): bump github.com/duynhlab/pkg from 0.17.0 to 0.18.1",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-10T05:23:37Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/89",
     "number": 89,
     "title": "build(deps): bump github.com/redis/go-redis/v9 from 9.20.1 to 9.21.0",
@@ -3402,6 +3417,21 @@
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "payment-service",
+    "url": "https://github.com/duynhlab/payment-service/pull/28",
+    "number": 28,
+    "title": "Bump github.com/duynhlab/pkg from 0.17.0 to 0.18.1",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-10T09:24:30Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 2,
     "lead_time_h": null
   },
   {

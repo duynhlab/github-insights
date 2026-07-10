@@ -66,11 +66,11 @@
     {
       "repo": "product-service",
       "XS": 5,
-      "S": 7,
+      "S": 6,
       "M": 9,
       "L": 12,
       "XL": 2,
-      "total": 35
+      "total": 34
     },
     {
       "repo": "cart-service",
@@ -212,11 +212,11 @@
     {
       "author": "duynhne",
       "XS": 98,
-      "S": 116,
+      "S": 115,
       "M": 136,
       "L": 129,
       "XL": 33,
-      "total": 512
+      "total": 511
     },
     {
       "author": "duyhenryer",

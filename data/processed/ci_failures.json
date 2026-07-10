@@ -5,18 +5,18 @@
       {
         "name": "CI Pipeline",
         "fail": 15,
-        "total": 34,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29001662432",
-        "last_fail_at": "2026-07-09T07:28:53Z",
-        "fail_rate": 0.441
+        "total": 33,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29071249588",
+        "last_fail_at": "2026-07-10T05:23:42Z",
+        "fail_rate": 0.455
       },
       {
         "name": "Check",
         "fail": 14,
-        "total": 26,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29001662420",
-        "last_fail_at": "2026-07-09T07:28:53Z",
-        "fail_rate": 0.538
+        "total": 25,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29071249640",
+        "last_fail_at": "2026-07-10T05:23:42Z",
+        "fail_rate": 0.56
       }
     ]
   },
@@ -26,10 +26,10 @@
       {
         "name": "Renovate",
         "fail": 17,
-        "total": 26,
+        "total": 27,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
         "last_fail_at": "2026-07-01T06:34:40Z",
-        "fail_rate": 0.654
+        "fail_rate": 0.63
       },
       {
         "name": "\ud83e\uddea E2E (KinD)",
@@ -364,10 +364,10 @@
       {
         "name": "CI Pipeline",
         "fail": 12,
-        "total": 91,
+        "total": 90,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/29033795967",
         "last_fail_at": "2026-07-09T16:32:47Z",
-        "fail_rate": 0.132
+        "fail_rate": 0.133
       }
     ]
   },
@@ -401,15 +401,60 @@
     ]
   },
   {
+    "repo": "payment-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 4,
+        "total": 39,
+        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/29082947051",
+        "last_fail_at": "2026-07-10T09:24:35Z",
+        "fail_rate": 0.103
+      },
+      {
+        "name": "Build",
+        "fail": 2,
+        "total": 26,
+        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28713495867",
+        "last_fail_at": "2026-07-04T17:07:24Z",
+        "fail_rate": 0.077
+      },
+      {
+        "name": "docker in /db/migrations - Update #1454945386",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/29082899689",
+        "last_fail_at": "2026-07-10T09:23:44Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /db/migrations - Update #1453499393",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/29008048743",
+        "last_fail_at": "2026-07-09T09:24:00Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "docker in /db/migrations - Update #1452221658",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28932008982",
+        "last_fail_at": "2026-07-08T09:23:31Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "packages",
     "workflows": [
       {
         "name": "build-rpms",
         "fail": 4,
-        "total": 67,
+        "total": 66,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
         "last_fail_at": "2026-06-15T23:40:17Z",
-        "fail_rate": 0.06
+        "fail_rate": 0.061
       },
       {
         "name": "publish-yum-repo",
@@ -430,51 +475,6 @@
     ]
   },
   {
-    "repo": "payment-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 3,
-        "total": 38,
-        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/29008090339",
-        "last_fail_at": "2026-07-09T09:24:43Z",
-        "fail_rate": 0.079
-      },
-      {
-        "name": "Build",
-        "fail": 2,
-        "total": 26,
-        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28713495867",
-        "last_fail_at": "2026-07-04T17:07:24Z",
-        "fail_rate": 0.077
-      },
-      {
-        "name": "docker in /db/migrations - Update #1453499393",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/29008048743",
-        "last_fail_at": "2026-07-09T09:24:00Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1452221658",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28932008982",
-        "last_fail_at": "2026-07-08T09:23:31Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "docker in /db/migrations - Update #1450939049",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/28855680870",
-        "last_fail_at": "2026-07-07T09:23:21Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "github-insights",
     "workflows": [
       {
@@ -484,51 +484,6 @@
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/28802834737",
         "last_fail_at": "2026-07-06T15:25:08Z",
         "fail_rate": 0.071
-      }
-    ]
-  },
-  {
-    "repo": "wolfi-images",
-    "workflows": [
-      {
-        "name": "github_actions in /. - Update #1431346964",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/28014900521",
-        "last_fail_at": "2026-06-23T09:03:05Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "github_actions in /. - Update #1428262451",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/27941672981",
-        "last_fail_at": "2026-06-22T09:05:34Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "github_actions in /. - Update #1422750884",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/27816330006",
-        "last_fail_at": "2026-06-19T09:04:13Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "github_actions in /. - Update #1420926633",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/27748751028",
-        "last_fail_at": "2026-06-18T09:04:02Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "github_actions in /. - Update #1418723912",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/27677994824",
-        "last_fail_at": "2026-06-17T09:04:21Z",
-        "fail_rate": 1.0
       }
     ]
   },
@@ -558,6 +513,35 @@
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29051282996",
         "last_fail_at": "2026-07-09T21:24:39Z",
         "fail_rate": 0.2
+      }
+    ]
+  },
+  {
+    "repo": "wolfi-images",
+    "workflows": [
+      {
+        "name": "github_actions in /. - Update #1431346964",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/28014900521",
+        "last_fail_at": "2026-06-23T09:03:05Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "github_actions in /. - Update #1428262451",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/27941672981",
+        "last_fail_at": "2026-06-22T09:05:34Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "python",
+        "fail": 1,
+        "total": 18,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/28917020524",
+        "last_fail_at": "2026-07-08T04:14:35Z",
+        "fail_rate": 0.056
       }
     ]
   },
