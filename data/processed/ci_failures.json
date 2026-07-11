@@ -327,18 +327,18 @@
       {
         "name": "CI",
         "fail": 12,
-        "total": 12,
+        "total": 21,
         "last_fail_url": "https://github.com/duynhlab/trivy-viewer/actions/runs/29033584116",
         "last_fail_at": "2026-07-09T16:29:22Z",
-        "fail_rate": 1.0
+        "fail_rate": 0.571
       },
       {
         "name": "Release",
         "fail": 1,
-        "total": 3,
+        "total": 6,
         "last_fail_url": "https://github.com/duynhlab/trivy-viewer/actions/runs/29032715998",
         "last_fail_at": "2026-07-09T16:15:21Z",
-        "fail_rate": 0.333
+        "fail_rate": 0.167
       }
     ]
   },

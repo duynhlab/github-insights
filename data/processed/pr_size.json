@@ -200,23 +200,23 @@
     },
     {
       "repo": "trivy-viewer",
-      "XS": 0,
+      "XS": 1,
       "S": 0,
-      "M": 0,
+      "M": 2,
       "L": 0,
-      "XL": 0,
-      "total": 0
+      "XL": 1,
+      "total": 4
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 101,
+      "XS": 102,
       "S": 117,
-      "M": 133,
+      "M": 135,
       "L": 130,
-      "XL": 34,
-      "total": 515
+      "XL": 35,
+      "total": 519
     },
     {
       "author": "duyhenryer",
