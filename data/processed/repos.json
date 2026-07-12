@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 2951,
-    "pushed_at": "2026-07-11T18:59:43Z",
+    "size_kb": 2954,
+    "pushed_at": "2026-07-12T02:30:15Z",
     "open_issues": 7,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -357,8 +357,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.739,
-    "ci_runs": 88
+    "ci_success_rate": 0.742,
+    "ci_runs": 89
   },
   {
     "name": "payment-service",
