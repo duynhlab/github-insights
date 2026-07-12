@@ -1291,18 +1291,33 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/499",
+    "number": 499,
+    "title": "Align RFC-0015 with ADR-017 path decision",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T09:42:49Z",
+    "merged_at": "2026-07-12T09:45:03Z",
+    "additions": 25,
+    "deletions": 9,
+    "changed_files": 3,
+    "lead_time_h": 0.04
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/498",
     "number": 498,
     "title": "Adopt v3 collection-noun API paths (ADR-017)",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:47:25Z",
-    "merged_at": null,
-    "additions": 280,
+    "merged_at": "2026-07-12T09:32:08Z",
+    "additions": 290,
     "deletions": 75,
     "changed_files": 19,
-    "lead_time_h": null
+    "lead_time_h": 1.75
   },
   {
     "repo": "homelab",
@@ -1995,34 +2010,19 @@
     "lead_time_h": 0.4
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/449",
-    "number": 449,
-    "title": "Add ADR-012: narrow reconciliation auto-heal",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-06T15:24:33Z",
-    "merged_at": "2026-07-06T15:27:14Z",
-    "additions": 161,
-    "deletions": 4,
-    "changed_files": 3,
-    "lead_time_h": 0.04
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/119",
     "number": 119,
     "title": "refactor: adopt v3 collection-noun API paths",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:43:55Z",
-    "merged_at": null,
+    "merged_at": "2026-07-12T09:29:04Z",
     "additions": 85,
     "deletions": 39,
     "changed_files": 4,
-    "lead_time_h": null
+    "lead_time_h": 1.75
   },
   {
     "repo": "auth-service",
@@ -2509,15 +2509,15 @@
     "url": "https://github.com/duynhlab/user-service/pull/110",
     "number": 110,
     "title": "chore: point JWKS default at v3 auth path",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:45:47Z",
-    "merged_at": null,
+    "merged_at": "2026-07-12T09:30:07Z",
     "additions": 12,
     "deletions": 1,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 1.74
   },
   {
     "repo": "user-service",
@@ -3559,15 +3559,15 @@
     "url": "https://github.com/duynhlab/cart-service/pull/118",
     "number": 118,
     "title": "chore: point JWKS default at v3 auth path",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:45:53Z",
-    "merged_at": null,
+    "merged_at": "2026-07-12T09:30:38Z",
     "additions": 12,
     "deletions": 1,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 1.75
   },
   {
     "repo": "cart-service",
@@ -4114,13 +4114,28 @@
     "url": "https://github.com/duynhlab/order-service/pull/134",
     "number": 134,
     "title": "chore: point JWKS default at v3 auth path",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:45:58Z",
-    "merged_at": null,
+    "merged_at": "2026-07-12T09:30:50Z",
     "additions": 12,
     "deletions": 1,
+    "changed_files": 2,
+    "lead_time_h": 1.75
+  },
+  {
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/135",
+    "number": 135,
+    "title": "fix: retry Temporal dial at startup",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T09:25:31Z",
+    "merged_at": null,
+    "additions": 71,
+    "deletions": 8,
     "changed_files": 2,
     "lead_time_h": null
   },
@@ -4680,34 +4695,19 @@
     "lead_time_h": 0.05
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/87",
-    "number": 87,
-    "title": "Harden runtime image: full apk upgrade",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-14T16:19:37Z",
-    "merged_at": "2026-06-14T16:23:07Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 0.06
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/107",
     "number": 107,
     "title": "chore: point JWKS default at v3 auth path",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:46:05Z",
-    "merged_at": null,
+    "merged_at": "2026-07-12T09:31:00Z",
     "additions": 12,
     "deletions": 1,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 1.75
   },
   {
     "repo": "review-service",
@@ -5209,15 +5209,15 @@
     "url": "https://github.com/duynhlab/notification-service/pull/113",
     "number": 113,
     "title": "refactor: adopt v3 collection-noun API paths",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:44:52Z",
-    "merged_at": null,
+    "merged_at": "2026-07-12T09:29:50Z",
     "additions": 15,
     "deletions": 11,
     "changed_files": 6,
-    "lead_time_h": null
+    "lead_time_h": 1.75
   },
   {
     "repo": "notification-service",
@@ -5704,15 +5704,15 @@
     "url": "https://github.com/duynhlab/shipping-service/pull/117",
     "number": 117,
     "title": "refactor: adopt v3 collection-noun API paths",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:44:29Z",
-    "merged_at": null,
+    "merged_at": "2026-07-12T09:28:53Z",
     "additions": 29,
     "deletions": 21,
     "changed_files": 6,
-    "lead_time_h": null
+    "lead_time_h": 1.74
   },
   {
     "repo": "shipping-service",
@@ -6214,15 +6214,15 @@
     "url": "https://github.com/duynhlab/frontend/pull/44",
     "number": 44,
     "title": "refactor: call v3 collection-noun API paths",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:46:29Z",
-    "merged_at": null,
+    "merged_at": "2026-07-12T09:31:32Z",
     "additions": 20,
     "deletions": 20,
     "changed_files": 5,
-    "lead_time_h": null
+    "lead_time_h": 1.75
   },
   {
     "repo": "frontend",
@@ -7639,15 +7639,15 @@
     "url": "https://github.com/duynhlab/payment-service/pull/30",
     "number": 30,
     "title": "refactor: adopt v3 collection-noun API paths",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-12T07:45:26Z",
-    "merged_at": null,
+    "merged_at": "2026-07-12T09:29:42Z",
     "additions": 94,
     "deletions": 23,
     "changed_files": 7,
-    "lead_time_h": null
+    "lead_time_h": 1.74
   },
   {
     "repo": "payment-service",
