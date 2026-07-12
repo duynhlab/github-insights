@@ -43,13 +43,13 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 4,
+    "bot_open_pr": 3,
     "bot_merged_pr": 5,
     "bot_lead_time_median_h": 58.68
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 1,
     "bot_merged_pr": 2,
     "bot_lead_time_median_h": 267.14
   },
@@ -121,7 +121,7 @@
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 3,
+    "bot_open_pr": 2,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
