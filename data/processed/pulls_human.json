@@ -1291,6 +1291,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/498",
+    "number": 498,
+    "title": "Adopt v3 collection-noun API paths (ADR-017)",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T07:47:25Z",
+    "merged_at": null,
+    "additions": 280,
+    "deletions": 75,
+    "changed_files": 19,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/497",
     "number": 497,
     "title": "Complete CNPG resource model and add LSN note in 003.1",
@@ -1995,19 +2010,19 @@
     "lead_time_h": 0.04
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/448",
-    "number": 448,
-    "title": "Drop PAYMENT_ENABLED mentions from saga-vs-2pc doc",
-    "state": "MERGED",
+    "repo": "auth-service",
+    "url": "https://github.com/duynhlab/auth-service/pull/119",
+    "number": 119,
+    "title": "refactor: adopt v3 collection-noun API paths",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-07-06T02:56:53Z",
-    "merged_at": "2026-07-06T03:01:25Z",
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 1,
-    "lead_time_h": 0.08
+    "created_at": "2026-07-12T07:43:55Z",
+    "merged_at": null,
+    "additions": 85,
+    "deletions": 39,
+    "changed_files": 4,
+    "lead_time_h": null
   },
   {
     "repo": "auth-service",
@@ -2488,6 +2503,21 @@
     "deletions": 138,
     "changed_files": 1,
     "lead_time_h": 0.16
+  },
+  {
+    "repo": "user-service",
+    "url": "https://github.com/duynhlab/user-service/pull/110",
+    "number": 110,
+    "title": "chore: point JWKS default at v3 auth path",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T07:45:47Z",
+    "merged_at": null,
+    "additions": 12,
+    "deletions": 1,
+    "changed_files": 2,
+    "lead_time_h": null
   },
   {
     "repo": "user-service",
@@ -3015,21 +3045,6 @@
     "lead_time_h": 0.05
   },
   {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/61",
-    "number": 61,
-    "title": "Remove demo auth fallback (fail closed)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-31T11:08:55Z",
-    "merged_at": "2026-05-31T11:15:16Z",
-    "additions": 196,
-    "deletions": 216,
-    "changed_files": 3,
-    "lead_time_h": 0.11
-  },
-  {
     "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/117",
     "number": 117,
@@ -3538,6 +3553,21 @@
     "deletions": 5,
     "changed_files": 4,
     "lead_time_h": 0.14
+  },
+  {
+    "repo": "cart-service",
+    "url": "https://github.com/duynhlab/cart-service/pull/118",
+    "number": 118,
+    "title": "chore: point JWKS default at v3 auth path",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T07:45:53Z",
+    "merged_at": null,
+    "additions": 12,
+    "deletions": 1,
+    "changed_files": 2,
+    "lead_time_h": null
   },
   {
     "repo": "cart-service",
@@ -4080,19 +4110,19 @@
     "lead_time_h": 7.15
   },
   {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/71",
-    "number": 71,
-    "title": "Refactor AGENTS.md to flux2 style",
-    "state": "MERGED",
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/134",
+    "number": 134,
+    "title": "chore: point JWKS default at v3 auth path",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-06-02T17:03:56Z",
-    "merged_at": "2026-06-02T17:19:42Z",
-    "additions": 142,
-    "deletions": 167,
-    "changed_files": 1,
-    "lead_time_h": 0.26
+    "created_at": "2026-07-12T07:45:58Z",
+    "merged_at": null,
+    "additions": 12,
+    "deletions": 1,
+    "changed_files": 2,
+    "lead_time_h": null
   },
   {
     "repo": "order-service",
@@ -4666,6 +4696,21 @@
   },
   {
     "repo": "review-service",
+    "url": "https://github.com/duynhlab/review-service/pull/107",
+    "number": 107,
+    "title": "chore: point JWKS default at v3 auth path",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T07:46:05Z",
+    "merged_at": null,
+    "additions": 12,
+    "deletions": 1,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/105",
     "number": 105,
     "title": "Log incoming gRPC calls (RFC-0014 P4)",
@@ -5161,6 +5206,21 @@
   },
   {
     "repo": "notification-service",
+    "url": "https://github.com/duynhlab/notification-service/pull/113",
+    "number": 113,
+    "title": "refactor: adopt v3 collection-noun API paths",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T07:44:52Z",
+    "merged_at": null,
+    "additions": 15,
+    "deletions": 11,
+    "changed_files": 6,
+    "lead_time_h": null
+  },
+  {
+    "repo": "notification-service",
     "url": "https://github.com/duynhlab/notification-service/pull/111",
     "number": 111,
     "title": "Log incoming gRPC calls (RFC-0014 P4)",
@@ -5640,19 +5700,19 @@
     "lead_time_h": 0.06
   },
   {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/65",
-    "number": 65,
-    "title": "Validate tokens via auth gRPC (shared authmw)",
-    "state": "MERGED",
+    "repo": "shipping-service",
+    "url": "https://github.com/duynhlab/shipping-service/pull/117",
+    "number": 117,
+    "title": "refactor: adopt v3 collection-noun API paths",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-05-31T12:36:57Z",
-    "merged_at": "2026-05-31T12:45:56Z",
-    "additions": 231,
-    "deletions": 331,
-    "changed_files": 5,
-    "lead_time_h": 0.15
+    "created_at": "2026-07-12T07:44:29Z",
+    "merged_at": null,
+    "additions": 29,
+    "deletions": 21,
+    "changed_files": 6,
+    "lead_time_h": null
   },
   {
     "repo": "shipping-service",
@@ -6150,19 +6210,19 @@
     "lead_time_h": 0.1
   },
   {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/68",
-    "number": 68,
-    "title": "Whitelist upstream Flyway core-io CVEs",
-    "state": "MERGED",
+    "repo": "frontend",
+    "url": "https://github.com/duynhlab/frontend/pull/44",
+    "number": 44,
+    "title": "refactor: call v3 collection-noun API paths",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-06-02T16:18:18Z",
-    "merged_at": "2026-06-02T16:28:46Z",
-    "additions": 5,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 0.17
+    "created_at": "2026-07-12T07:46:29Z",
+    "merged_at": null,
+    "additions": 20,
+    "deletions": 20,
+    "changed_files": 5,
+    "lead_time_h": null
   },
   {
     "repo": "frontend",
@@ -7573,6 +7633,21 @@
     "deletions": 26,
     "changed_files": 4,
     "lead_time_h": 7.63
+  },
+  {
+    "repo": "payment-service",
+    "url": "https://github.com/duynhlab/payment-service/pull/30",
+    "number": 30,
+    "title": "refactor: adopt v3 collection-noun API paths",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T07:45:26Z",
+    "merged_at": null,
+    "additions": 94,
+    "deletions": 23,
+    "changed_files": 7,
+    "lead_time_h": null
   },
   {
     "repo": "payment-service",
