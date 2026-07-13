@@ -186,8 +186,8 @@
       "S": 0,
       "M": 2,
       "L": 0,
-      "XL": 1,
-      "total": 3
+      "XL": 2,
+      "total": 4
     },
     {
       "repo": "gitops",
@@ -215,8 +215,8 @@
       "S": 122,
       "M": 142,
       "L": 130,
-      "XL": 36,
-      "total": 530
+      "XL": 37,
+      "total": 531
     },
     {
       "author": "duyhenryer",

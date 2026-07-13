@@ -2011,10 +2011,25 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/125",
+    "number": 125,
+    "title": "build(deps): bump go.temporal.io/sdk from 1.45.0 to 1.46.0",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-07T20:18:27Z",
+    "merged_at": null,
+    "additions": 9,
+    "deletions": 8,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/132",
     "number": 132,
     "title": "build(deps): bump github.com/duynhlab/pkg from 0.17.0 to 0.18.1",
-    "state": "OPEN",
+    "state": "CLOSED",
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-07-09T20:13:43Z",
@@ -2052,21 +2067,6 @@
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/125",
-    "number": 125,
-    "title": "build(deps): bump go.temporal.io/sdk from 1.45.0 to 1.46.0",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-07-07T20:18:27Z",
-    "merged_at": null,
-    "additions": 9,
-    "deletions": 6,
-    "changed_files": 2,
     "lead_time_h": null
   },
   {

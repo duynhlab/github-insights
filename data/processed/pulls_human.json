@@ -1291,6 +1291,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/501",
+    "number": 501,
+    "title": "Wire RFC-0015 P2 into local-stack with ADR-018/019 and docs",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T21:14:33Z",
+    "merged_at": "2026-07-12T23:34:16Z",
+    "additions": 367,
+    "deletions": 6,
+    "changed_files": 10,
+    "lead_time_h": 2.33
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/500",
     "number": 500,
     "title": "Wire checkout into local-stack and document P1",
@@ -1993,21 +2008,6 @@
     "deletions": 178,
     "changed_files": 44,
     "lead_time_h": 0.04
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/452",
-    "number": 452,
-    "title": "Add RFC-0013 metrics audit + streaming-aggregation scale playbook",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-06T22:34:22Z",
-    "merged_at": "2026-07-06T22:38:55Z",
-    "additions": 765,
-    "deletions": 7,
-    "changed_files": 7,
-    "lead_time_h": 0.08
   },
   {
     "repo": "auth-service",
@@ -4126,6 +4126,36 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/135",
+    "number": 135,
+    "title": "fix: retry Temporal dial at startup",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T09:25:31Z",
+    "merged_at": "2026-07-12T23:41:50Z",
+    "additions": 71,
+    "deletions": 8,
+    "changed_files": 2,
+    "lead_time_h": 14.27
+  },
+  {
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/136",
+    "number": 136,
+    "title": "Add order.v1 CreateOrder gRPC surface (RFC-0015 P2)",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T21:13:18Z",
+    "merged_at": "2026-07-12T23:34:54Z",
+    "additions": 875,
+    "deletions": 49,
+    "changed_files": 12,
+    "lead_time_h": 2.36
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/134",
     "number": 134,
     "title": "chore: point JWKS default at v3 auth path",
@@ -4138,21 +4168,6 @@
     "deletions": 1,
     "changed_files": 2,
     "lead_time_h": 1.75
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/135",
-    "number": 135,
-    "title": "fix: retry Temporal dial at startup",
-    "state": "OPEN",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-12T09:25:31Z",
-    "merged_at": null,
-    "additions": 71,
-    "deletions": 8,
-    "changed_files": 2,
-    "lead_time_h": null
   },
   {
     "repo": "order-service",
@@ -4693,21 +4708,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": 0.18
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/88",
-    "number": 88,
-    "title": "Add Temporal order-fulfillment saga",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-15T05:28:42Z",
-    "merged_at": "2026-06-15T05:31:58Z",
-    "additions": 886,
-    "deletions": 108,
-    "changed_files": 12,
-    "lead_time_h": 0.05
   },
   {
     "repo": "review-service",
@@ -8068,6 +8068,21 @@
     "deletions": 21,
     "changed_files": 10,
     "lead_time_h": 9.04
+  },
+  {
+    "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/9",
+    "number": 9,
+    "title": "Add confirm handoff and abandonment workflow (RFC-0015 P2)",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-12T21:13:51Z",
+    "merged_at": "2026-07-12T23:34:40Z",
+    "additions": 2925,
+    "deletions": 50,
+    "changed_files": 22,
+    "lead_time_h": 2.35
   },
   {
     "repo": "checkout-service",
