@@ -40,25 +40,25 @@
       "repo": "homelab",
       "XS": 4,
       "S": 10,
-      "M": 12,
-      "L": 17,
+      "M": 11,
+      "L": 18,
       "XL": 6,
       "total": 49
     },
     {
       "repo": "auth-service",
-      "XS": 7,
+      "XS": 8,
       "S": 7,
-      "M": 9,
+      "M": 8,
       "L": 8,
       "XL": 2,
       "total": 33
     },
     {
       "repo": "user-service",
-      "XS": 9,
+      "XS": 10,
       "S": 11,
-      "M": 7,
+      "M": 6,
       "L": 9,
       "XL": 0,
       "total": 36
@@ -74,9 +74,9 @@
     },
     {
       "repo": "cart-service",
-      "XS": 10,
+      "XS": 11,
       "S": 9,
-      "M": 10,
+      "M": 9,
       "L": 9,
       "XL": 0,
       "total": 38
@@ -92,30 +92,30 @@
     },
     {
       "repo": "review-service",
-      "XS": 7,
+      "XS": 8,
       "S": 11,
       "M": 7,
       "L": 8,
       "XL": 1,
-      "total": 34
+      "total": 35
     },
     {
       "repo": "notification-service",
-      "XS": 8,
-      "S": 8,
-      "M": 9,
+      "XS": 9,
+      "S": 7,
+      "M": 8,
       "L": 7,
       "XL": 1,
-      "total": 33
+      "total": 32
     },
     {
       "repo": "shipping-service",
-      "XS": 6,
+      "XS": 7,
       "S": 11,
       "M": 10,
       "L": 7,
       "XL": 0,
-      "total": 34
+      "total": 35
     },
     {
       "repo": "frontend",
@@ -173,21 +173,21 @@
     },
     {
       "repo": "payment-service",
-      "XS": 1,
+      "XS": 2,
       "S": 3,
       "M": 5,
       "L": 15,
       "XL": 2,
-      "total": 26
+      "total": 27
     },
     {
       "repo": "checkout-service",
       "XS": 1,
       "S": 1,
-      "M": 3,
+      "M": 4,
       "L": 1,
       "XL": 3,
-      "total": 9
+      "total": 10
     },
     {
       "repo": "gitops",
@@ -211,12 +211,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 99,
-      "S": 121,
-      "M": 143,
-      "L": 132,
+      "XS": 106,
+      "S": 120,
+      "M": 139,
+      "L": 133,
       "XL": 41,
-      "total": 536
+      "total": 539
     },
     {
       "author": "duyhenryer",
