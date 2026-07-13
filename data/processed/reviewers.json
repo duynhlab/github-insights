@@ -2,10 +2,10 @@
   {
     "login": "cubic-dev-ai",
     "approved": 0,
-    "commented": 24,
+    "commented": 19,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 24,
+    "total": 19,
     "repos": 4
   },
   {
@@ -20,11 +20,11 @@
   {
     "login": "qodo-code-review",
     "approved": 0,
-    "commented": 11,
+    "commented": 10,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 11,
-    "repos": 4
+    "total": 10,
+    "repos": 3
   },
   {
     "login": "gemini-code-assist",
