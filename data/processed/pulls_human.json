@@ -1291,6 +1291,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/507",
+    "number": 507,
+    "title": "Reorganize API documentation by service",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-13T15:33:34Z",
+    "merged_at": null,
+    "additions": 2276,
+    "deletions": 2662,
+    "changed_files": 27,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/506",
     "number": 506,
     "title": "Docs housekeeping + pillar-first observability configs",
@@ -2008,21 +2023,6 @@
     "deletions": 0,
     "changed_files": 1,
     "lead_time_h": 0.19
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/459",
-    "number": 459,
-    "title": "Refactor docs/api: hub, thin api.md, relocate 3 docs",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-07T00:07:04Z",
-    "merged_at": "2026-07-07T00:11:05Z",
-    "additions": 352,
-    "deletions": 338,
-    "changed_files": 14,
-    "lead_time_h": 0.07
   },
   {
     "repo": "auth-service",
@@ -3043,21 +3043,6 @@
     "deletions": 3,
     "changed_files": 4,
     "lead_time_h": 0.07
-  },
-  {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/63",
-    "number": 63,
-    "title": "Repoint pkg imports to github.com/duynhlab/pkg",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-31T13:00:23Z",
-    "merged_at": "2026-05-31T13:04:13Z",
-    "additions": 6,
-    "deletions": 6,
-    "changed_files": 3,
-    "lead_time_h": 0.06
   },
   {
     "repo": "product-service",
@@ -4123,21 +4108,6 @@
     "deletions": 30,
     "changed_files": 2,
     "lead_time_h": 4.64
-  },
-  {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/77",
-    "number": 77,
-    "title": "Add logic tests and Sonar coverage config",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-09T02:45:30Z",
-    "merged_at": null,
-    "additions": 351,
-    "deletions": 30,
-    "changed_files": 2,
-    "lead_time_h": null
   },
   {
     "repo": "order-service",
@@ -6898,36 +6868,6 @@
     "deletions": 7,
     "changed_files": 1,
     "lead_time_h": 0.04
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/7",
-    "number": 7,
-    "title": "refactor: reorder navigation items in App.jsx",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-09T09:48:28Z",
-    "merged_at": "2026-02-09T10:01:20Z",
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 1,
-    "lead_time_h": 0.21
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/6",
-    "number": 6,
-    "title": "fix: prevent login redirect loop by skipping auth refresh on backgrou\u2026",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-02-09T09:29:50Z",
-    "merged_at": null,
-    "additions": 6097,
-    "deletions": 9,
-    "changed_files": 65,
-    "lead_time_h": null
   },
   {
     "repo": "tf-local",
