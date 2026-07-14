@@ -80,8 +80,8 @@
     },
     {
       "repo": "frontend",
-      "sample": 5,
-      "median_h": 0.05,
+      "sample": 4,
+      "median_h": 0.06,
       "p90_h": 0.07
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "author": "duynhne",
-      "sample": 13,
+      "sample": 12,
       "median_h": 0.05,
       "p90_h": 0.07
     }
