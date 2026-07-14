@@ -70,11 +70,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 20,
-        "total": 41,
+        "fail": 18,
+        "total": 39,
         "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/29329452664",
         "last_fail_at": "2026-07-14T11:35:50Z",
-        "fail_rate": 0.488
+        "fail_rate": 0.462
       },
       {
         "name": "Build",
@@ -134,10 +134,10 @@
       {
         "name": "Check",
         "fail": 18,
-        "total": 39,
+        "total": 37,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/29329511212",
         "last_fail_at": "2026-07-14T11:36:50Z",
-        "fail_rate": 0.462
+        "fail_rate": 0.486
       }
     ]
   },
@@ -145,28 +145,20 @@
     "repo": "frontend",
     "workflows": [
       {
+        "name": "Check",
+        "fail": 9,
+        "total": 50,
+        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/29355741329",
+        "last_fail_at": "2026-07-14T17:55:03Z",
+        "fail_rate": 0.18
+      },
+      {
         "name": "Build",
         "fail": 7,
-        "total": 35,
+        "total": 37,
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/29187615200",
         "last_fail_at": "2026-07-12T09:31:35Z",
-        "fail_rate": 0.2
-      },
-      {
-        "name": "Check",
-        "fail": 7,
-        "total": 48,
-        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/29272449563",
-        "last_fail_at": "2026-07-13T17:56:30Z",
-        "fail_rate": 0.146
-      },
-      {
-        "name": "CI Pipeline",
-        "fail": 2,
-        "total": 8,
-        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/23174887275",
-        "last_fail_at": "2026-03-17T02:00:16Z",
-        "fail_rate": 0.25
+        "fail_rate": 0.189
       }
     ]
   },
@@ -197,10 +189,10 @@
       {
         "name": "Check",
         "fail": 12,
-        "total": 34,
+        "total": 33,
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/29329466643",
         "last_fail_at": "2026-07-14T11:36:04Z",
-        "fail_rate": 0.353
+        "fail_rate": 0.364
       },
       {
         "name": "github_actions in /. - Update #1458971783",
@@ -247,10 +239,10 @@
       {
         "name": "Check",
         "fail": 11,
-        "total": 34,
+        "total": 33,
         "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/29262141543",
         "last_fail_at": "2026-07-13T15:25:13Z",
-        "fail_rate": 0.324
+        "fail_rate": 0.333
       },
       {
         "name": "docker in /db/migrations - Update #1439522624",
@@ -350,10 +342,10 @@
       {
         "name": "Build",
         "fail": 3,
-        "total": 16,
+        "total": 18,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29233391813",
         "last_fail_at": "2026-07-13T07:50:46Z",
-        "fail_rate": 0.188
+        "fail_rate": 0.167
       },
       {
         "name": "docker in /db/migrations - Update #1451415101",
@@ -412,11 +404,11 @@
     "workflows": [
       {
         "name": "CI Pipeline",
-        "fail": 5,
+        "fail": 3,
         "total": 92,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/29300230613",
         "last_fail_at": "2026-07-14T02:06:05Z",
-        "fail_rate": 0.054
+        "fail_rate": 0.033
       }
     ]
   },
@@ -426,10 +418,10 @@
       {
         "name": "CI",
         "fail": 2,
-        "total": 8,
+        "total": 11,
         "last_fail_url": "https://github.com/duynhlab/backstage/actions/runs/22710319088",
         "last_fail_at": "2026-03-05T09:02:21Z",
-        "fail_rate": 0.25
+        "fail_rate": 0.182
       }
     ]
   },
@@ -439,10 +431,10 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 36,
+        "total": 41,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/27503067825",
         "last_fail_at": "2026-06-14T15:14:12Z",
-        "fail_rate": 0.028
+        "fail_rate": 0.024
       }
     ]
   },

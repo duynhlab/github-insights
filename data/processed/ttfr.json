@@ -80,9 +80,9 @@
     },
     {
       "repo": "frontend",
-      "sample": 4,
-      "median_h": 0.06,
-      "p90_h": 0.07
+      "sample": 3,
+      "median_h": 0.05,
+      "p90_h": 0.06
     },
     {
       "repo": "backstage",
@@ -148,7 +148,7 @@
     },
     {
       "author": "duynhne",
-      "sample": 12,
+      "sample": 11,
       "median_h": 0.05,
       "p90_h": 0.07
     }
