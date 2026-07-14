@@ -1276,6 +1276,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/516",
+    "number": 516,
+    "title": "Refresh observability diagrams and facts",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-14T10:49:42Z",
+    "merged_at": "2026-07-14T11:27:52Z",
+    "additions": 1035,
+    "deletions": 471,
+    "changed_files": 34,
+    "lead_time_h": 0.64
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/515",
     "number": 515,
     "title": "Bump VictoriaMetrics stack",
@@ -1995,34 +2010,19 @@
     "lead_time_h": 0.03
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/466",
-    "number": 466,
-    "title": "Add RFC-0014: full OpenTelemetry adoption (OTLP push + semconv)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-08T16:07:37Z",
-    "merged_at": "2026-07-08T16:14:11Z",
-    "additions": 486,
-    "deletions": 3,
-    "changed_files": 7,
-    "lead_time_h": 0.11
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/122",
     "number": 122,
     "title": "Bump github.com/duynhlab/pkg to v0.22.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-14T02:42:15Z",
-    "merged_at": null,
+    "merged_at": "2026-07-14T11:33:37Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 8.86
   },
   {
     "repo": "auth-service",
@@ -2509,15 +2509,15 @@
     "url": "https://github.com/duynhlab/user-service/pull/113",
     "number": 113,
     "title": "Bump github.com/duynhlab/pkg to v0.22.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-14T02:43:08Z",
-    "merged_at": null,
+    "merged_at": "2026-07-14T11:33:30Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 8.84
   },
   {
     "repo": "user-service",
@@ -3034,15 +3034,15 @@
     "url": "https://github.com/duynhlab/product-service/pull/121",
     "number": 121,
     "title": "Bump github.com/duynhlab/pkg to v0.22.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-14T02:44:06Z",
-    "merged_at": null,
+    "merged_at": "2026-07-14T11:33:52Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 8.83
   },
   {
     "repo": "product-service",
@@ -3544,15 +3544,15 @@
     "url": "https://github.com/duynhlab/cart-service/pull/123",
     "number": 123,
     "title": "Bump github.com/duynhlab/pkg to v0.22.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-14T02:44:47Z",
-    "merged_at": null,
+    "merged_at": "2026-07-14T11:34:00Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 8.82
   },
   {
     "repo": "cart-service",
@@ -4669,15 +4669,15 @@
     "url": "https://github.com/duynhlab/review-service/pull/110",
     "number": 110,
     "title": "Bump github.com/duynhlab/pkg to v0.22.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-14T02:45:33Z",
-    "merged_at": null,
+    "merged_at": "2026-07-14T11:34:17Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 8.81
   },
   {
     "repo": "review-service",
@@ -5209,15 +5209,15 @@
     "url": "https://github.com/duynhlab/notification-service/pull/116",
     "number": 116,
     "title": "Bump github.com/duynhlab/pkg to v0.22.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-14T02:45:59Z",
-    "merged_at": null,
+    "merged_at": "2026-07-14T11:34:36Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 8.81
   },
   {
     "repo": "notification-service",
@@ -5689,15 +5689,15 @@
     "url": "https://github.com/duynhlab/shipping-service/pull/121",
     "number": 121,
     "title": "Bump github.com/duynhlab/pkg to v0.22.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-14T02:46:24Z",
-    "merged_at": null,
+    "merged_at": "2026-07-14T11:34:43Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 8.81
   },
   {
     "repo": "shipping-service",
@@ -7426,6 +7426,21 @@
   },
   {
     "repo": "helm-charts",
+    "url": "https://github.com/duynhlab/helm-charts/pull/14",
+    "number": 14,
+    "title": "feat: add grafana-dashboards chart and helmfile local e2e",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-14T12:15:55Z",
+    "merged_at": "2026-07-14T12:20:53Z",
+    "additions": 4994,
+    "deletions": 69,
+    "changed_files": 20,
+    "lead_time_h": 0.08
+  },
+  {
+    "repo": "helm-charts",
     "url": "https://github.com/duynhlab/helm-charts/pull/13",
     "number": 13,
     "title": "Make the OTLP SLO template canonical (RFC-0014 P3)",
@@ -7624,15 +7639,15 @@
     "url": "https://github.com/duynhlab/payment-service/pull/33",
     "number": 33,
     "title": "Bump github.com/duynhlab/pkg to v0.22.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-14T02:46:49Z",
-    "merged_at": null,
+    "merged_at": "2026-07-14T11:34:49Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 8.8
   },
   {
     "repo": "payment-service",
