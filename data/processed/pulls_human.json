@@ -375,36 +375,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/22",
-    "number": 22,
-    "title": "fix: fix CODEOWNERS multi-owner parsing",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2026-03-02T05:47:05Z",
-    "merged_at": "2026-03-03T07:44:55Z",
-    "additions": 78,
-    "deletions": 24,
-    "changed_files": 3,
-    "lead_time_h": 25.96
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/26",
-    "number": 26,
-    "title": "Update Dependabot schedule for GitHub Actions",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2026-03-03T01:29:54Z",
-    "merged_at": "2026-03-03T01:30:31Z",
-    "additions": 3,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 0.01
-  },
-  {
     "repo": "wolfi-images",
     "url": "https://github.com/duynhlab/wolfi-images/pull/85",
     "number": 85,
