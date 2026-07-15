@@ -193,10 +193,10 @@
       "repo": "gitops",
       "XS": 2,
       "S": 0,
-      "M": 0,
+      "M": 1,
       "L": 0,
       "XL": 0,
-      "total": 2
+      "total": 3
     },
     {
       "repo": "trivy-viewer",
@@ -213,10 +213,10 @@
       "author": "duynhne",
       "XS": 111,
       "S": 115,
-      "M": 138,
+      "M": 139,
       "L": 127,
       "XL": 44,
-      "total": 535
+      "total": 536
     },
     {
       "author": "duyhenryer",
