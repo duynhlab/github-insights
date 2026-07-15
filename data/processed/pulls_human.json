@@ -1246,18 +1246,33 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/521",
+    "number": 521,
+    "title": "Add RFC-0017: platform telemetry standard + fleet instrumentation",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-15T08:46:07Z",
+    "merged_at": "2026-07-15T09:42:24Z",
+    "additions": 425,
+    "deletions": 0,
+    "changed_files": 2,
+    "lead_time_h": 0.94
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/520",
     "number": 520,
-    "title": "Correct OTel doc inaccuracies against the pinned code",
-    "state": "OPEN",
+    "title": "Metrics-apps doc: correctness fixes + Business metrics section",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-15T08:00:44Z",
-    "merged_at": null,
-    "additions": 26,
-    "deletions": 17,
+    "merged_at": "2026-07-15T08:42:28Z",
+    "additions": 95,
+    "deletions": 24,
     "changed_files": 3,
-    "lead_time_h": null
+    "lead_time_h": 0.7
   },
   {
     "repo": "homelab",
@@ -1963,21 +1978,6 @@
     "deletions": 34,
     "changed_files": 6,
     "lead_time_h": 0.16
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/471",
-    "number": 471,
-    "title": "Add cluster OTLP metrics env for RFC-0014 P1",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-09T01:39:24Z",
-    "merged_at": "2026-07-09T01:42:38Z",
-    "additions": 95,
-    "deletions": 0,
-    "changed_files": 7,
-    "lead_time_h": 0.05
   },
   {
     "repo": "auth-service",
