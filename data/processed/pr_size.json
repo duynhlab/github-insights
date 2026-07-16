@@ -6,8 +6,8 @@
       "S": 0,
       "M": 0,
       "L": 2,
-      "XL": 6,
-      "total": 9
+      "XL": 7,
+      "total": 10
     },
     {
       "repo": "gha-workflows",
@@ -32,43 +32,43 @@
       "XS": 6,
       "S": 12,
       "M": 18,
-      "L": 11,
+      "L": 10,
       "XL": 0,
-      "total": 47
+      "total": 46
     },
     {
       "repo": "homelab",
-      "XS": 3,
-      "S": 9,
-      "M": 12,
+      "XS": 2,
+      "S": 7,
+      "M": 14,
       "L": 16,
-      "XL": 9,
+      "XL": 10,
       "total": 49
     },
     {
       "repo": "auth-service",
-      "XS": 9,
+      "XS": 10,
       "S": 7,
       "M": 7,
-      "L": 8,
+      "L": 7,
       "XL": 2,
       "total": 33
     },
     {
       "repo": "user-service",
-      "XS": 10,
+      "XS": 11,
       "S": 8,
       "M": 7,
       "L": 9,
       "XL": 0,
-      "total": 34
+      "total": 35
     },
     {
       "repo": "product-service",
-      "XS": 6,
+      "XS": 7,
       "S": 6,
       "M": 8,
-      "L": 14,
+      "L": 13,
       "XL": 1,
       "total": 35
     },
@@ -83,8 +83,8 @@
     },
     {
       "repo": "order-service",
-      "XS": 5,
-      "S": 7,
+      "XS": 6,
+      "S": 6,
       "M": 11,
       "L": 13,
       "XL": 1,
@@ -102,17 +102,17 @@
     {
       "repo": "notification-service",
       "XS": 9,
-      "S": 6,
+      "S": 7,
       "M": 8,
       "L": 8,
       "XL": 1,
-      "total": 32
+      "total": 33
     },
     {
       "repo": "shipping-service",
-      "XS": 8,
+      "XS": 9,
       "S": 11,
-      "M": 10,
+      "M": 9,
       "L": 7,
       "XL": 0,
       "total": 36
@@ -168,26 +168,26 @@
       "S": 4,
       "M": 5,
       "L": 1,
-      "XL": 1,
-      "total": 14
+      "XL": 2,
+      "total": 15
     },
     {
       "repo": "payment-service",
-      "XS": 3,
+      "XS": 4,
       "S": 3,
       "M": 6,
       "L": 16,
       "XL": 2,
-      "total": 30
+      "total": 31
     },
     {
       "repo": "checkout-service",
-      "XS": 1,
+      "XS": 2,
       "S": 1,
-      "M": 4,
+      "M": 5,
       "L": 1,
       "XL": 3,
-      "total": 10
+      "total": 12
     },
     {
       "repo": "gitops",
@@ -211,12 +211,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 109,
-      "S": 112,
-      "M": 140,
-      "L": 133,
-      "XL": 44,
-      "total": 538
+      "XS": 115,
+      "S": 110,
+      "M": 142,
+      "L": 130,
+      "XL": 47,
+      "total": 544
     },
     {
       "author": "duyhenryer",
