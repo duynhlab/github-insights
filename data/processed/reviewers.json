@@ -2,11 +2,11 @@
   {
     "login": "cubic-dev-ai",
     "approved": 0,
-    "commented": 13,
+    "commented": 10,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 13,
-    "repos": 3
+    "total": 10,
+    "repos": 2
   },
   {
     "login": "sourcery-ai",
