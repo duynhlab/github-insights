@@ -3,11 +3,11 @@
     {
       "repo": "grafana-dashboards",
       "XS": 1,
-      "S": 0,
+      "S": 1,
       "M": 0,
-      "L": 2,
-      "XL": 7,
-      "total": 10
+      "L": 3,
+      "XL": 8,
+      "total": 13
     },
     {
       "repo": "gha-workflows",
@@ -40,9 +40,9 @@
       "repo": "homelab",
       "XS": 7,
       "S": 9,
-      "M": 11,
-      "L": 12,
-      "XL": 10,
+      "M": 14,
+      "L": 10,
+      "XL": 9,
       "total": 49
     },
     {
@@ -212,11 +212,11 @@
     {
       "author": "duynhne",
       "XS": 120,
-      "S": 112,
-      "M": 133,
-      "L": 127,
+      "S": 113,
+      "M": 136,
+      "L": 126,
       "XL": 48,
-      "total": 540
+      "total": 543
     },
     {
       "author": "duyhenryer",
