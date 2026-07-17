@@ -87,8 +87,8 @@
     "week": "2026-W24",
     "author": "duynhne",
     "is_bot": false,
-    "created": 76,
-    "merged": 68
+    "created": 75,
+    "merged": 67
   },
   {
     "week": "2026-W24",
@@ -115,8 +115,8 @@
     "week": "2026-W26",
     "author": "duynhne",
     "is_bot": false,
-    "created": 74,
-    "merged": 73
+    "created": 73,
+    "merged": 72
   },
   {
     "week": "2026-W26",
@@ -143,8 +143,8 @@
     "week": "2026-W28",
     "author": "duynhne",
     "is_bot": false,
-    "created": 90,
-    "merged": 83
+    "created": 86,
+    "merged": 79
   },
   {
     "week": "2026-W28",
@@ -157,14 +157,14 @@
     "week": "2026-W29",
     "author": "duynhne",
     "is_bot": false,
-    "created": 106,
-    "merged": 107
+    "created": 111,
+    "merged": 112
   },
   {
     "week": "2026-W29",
     "author": "dependabot",
     "is_bot": true,
-    "created": 45,
-    "merged": 9
+    "created": 51,
+    "merged": 12
   }
 ]
