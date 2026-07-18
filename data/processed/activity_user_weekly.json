@@ -1,12 +1,5 @@
 [
   {
-    "week": "2026-W16",
-    "author": "duynhne",
-    "is_bot": false,
-    "created": 1,
-    "merged": 1
-  },
-  {
     "week": "2026-W17",
     "author": "dependabot",
     "is_bot": true,
