@@ -1,6 +1,21 @@
 [
   {
     "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/75",
+    "number": 75,
+    "title": "build(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0",
+    "state": "MERGED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-14T23:03:45Z",
+    "merged_at": "2026-07-18T16:27:39Z",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 2,
+    "lead_time_h": 89.4
+  },
+  {
+    "repo": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows/pull/80",
     "number": 80,
     "title": "bump github/codeql-action/upload-sarif from 4.37.0 to 4.37.1",
@@ -103,21 +118,6 @@
     "deletions": 4,
     "changed_files": 4,
     "lead_time_h": 24.82
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/75",
-    "number": 75,
-    "title": "build(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-07-14T23:03:45Z",
-    "merged_at": null,
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": null
   },
   {
     "repo": "gha-workflows",
@@ -1153,21 +1153,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": 0.05
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/508",
-    "number": 508,
-    "title": "Bump renovatebot/github-action from 46.1.18 to 46.1.19",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-07-13T19:54:04Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
   },
   {
     "repo": "auth-service",
