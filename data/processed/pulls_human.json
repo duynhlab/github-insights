@@ -1291,6 +1291,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/566",
+    "number": 566,
+    "title": "Add OpenBAO awskms auto-unseal via floci (RFC-0008 Slice 1)",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-19T18:50:49Z",
+    "merged_at": null,
+    "additions": 601,
+    "deletions": 259,
+    "changed_files": 15,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/565",
     "number": 565,
     "title": "Remove RFC-0008 implementation.md",
@@ -2022,21 +2037,6 @@
     "additions": 27,
     "deletions": 9,
     "changed_files": 1,
-    "lead_time_h": 0.02
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/517",
-    "number": 517,
-    "title": "Refactor secrets docs",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-14T15:31:06Z",
-    "merged_at": "2026-07-14T15:32:27Z",
-    "additions": 1683,
-    "deletions": 1435,
-    "changed_files": 19,
     "lead_time_h": 0.02
   },
   {
