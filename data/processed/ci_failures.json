@@ -328,10 +328,10 @@
       {
         "name": "CI Pipeline",
         "fail": 5,
-        "total": 92,
+        "total": 94,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/29541327685",
         "last_fail_at": "2026-07-16T23:05:27Z",
-        "fail_rate": 0.054
+        "fail_rate": 0.053
       }
     ]
   },
