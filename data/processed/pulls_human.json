@@ -1291,18 +1291,33 @@
   },
   {
     "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/559",
-    "number": 559,
-    "title": "Add observability stack review doc",
+    "url": "https://github.com/duynhlab/homelab/pull/560",
+    "number": 560,
+    "title": "Add ClickHouse OLAP for OTel logs+traces (RFC-0019 Phase B)",
     "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-07-19T05:21:42Z",
+    "created_at": "2026-07-19T08:08:08Z",
     "merged_at": null,
+    "additions": 4377,
+    "deletions": 183,
+    "changed_files": 33,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/559",
+    "number": 559,
+    "title": "Add observability stack review doc",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-19T05:21:42Z",
+    "merged_at": "2026-07-19T08:01:22Z",
     "additions": 253,
     "deletions": 1,
     "changed_files": 3,
-    "lead_time_h": null
+    "lead_time_h": 2.66
   },
   {
     "repo": "homelab",
@@ -2023,21 +2038,6 @@
     "deletions": 8,
     "changed_files": 3,
     "lead_time_h": 0.39
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/512",
-    "number": 512,
-    "title": "Remove legacy API documentation files",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-14T02:04:42Z",
-    "merged_at": "2026-07-14T02:06:02Z",
-    "additions": 51,
-    "deletions": 248,
-    "changed_files": 14,
-    "lead_time_h": 0.02
   },
   {
     "repo": "auth-service",
