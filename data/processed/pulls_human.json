@@ -1291,6 +1291,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/559",
+    "number": 559,
+    "title": "Add observability stack review doc",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-19T05:21:42Z",
+    "merged_at": null,
+    "additions": 253,
+    "deletions": 1,
+    "changed_files": 3,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/558",
     "number": 558,
     "title": "Remove postgresql/workflows.md",
@@ -2023,21 +2038,6 @@
     "deletions": 248,
     "changed_files": 14,
     "lead_time_h": 0.02
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/509",
-    "number": 509,
-    "title": "Bump service images; fix east-west DNS for single-Service chart; OpenBAO probe tolerances",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-13T22:52:17Z",
-    "merged_at": "2026-07-14T01:33:13Z",
-    "additions": 65,
-    "deletions": 39,
-    "changed_files": 14,
-    "lead_time_h": 2.68
   },
   {
     "repo": "auth-service",
