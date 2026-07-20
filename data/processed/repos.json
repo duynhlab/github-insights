@@ -53,7 +53,7 @@
     "ttfr_median_h": 0.01,
     "ttfr_p90_h": 0.01,
     "ttfr_sample": 2,
-    "ci_success_rate": 0.98,
+    "ci_success_rate": 0.97,
     "ci_runs": 100
   },
   {
@@ -72,15 +72,15 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.94,
+    "ci_success_rate": 0.95,
     "ci_runs": 100
   },
   {
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 25634,
-    "pushed_at": "2026-07-19T20:01:34Z",
+    "size_kb": 25858,
+    "pushed_at": "2026-07-20T07:28:04Z",
     "open_issues": 2,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -148,7 +148,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.75,
+    "ci_success_rate": 0.78,
     "ci_runs": 100
   },
   {
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 2740,
-    "pushed_at": "2026-07-19T19:03:59Z",
+    "size_kb": 2741,
+    "pushed_at": "2026-07-20T02:43:36Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -421,9 +421,9 @@
     "name": "trivy-viewer",
     "url": "https://github.com/duynhlab/trivy-viewer",
     "lang": "TypeScript",
-    "size_kb": 250,
-    "pushed_at": "2026-07-11T16:41:50Z",
-    "open_issues": 0,
+    "size_kb": 320,
+    "pushed_at": "2026-07-20T06:20:22Z",
+    "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 4,
@@ -433,7 +433,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.705,
-    "ci_runs": 44
+    "ci_success_rate": 0.673,
+    "ci_runs": 52
   }
 ]

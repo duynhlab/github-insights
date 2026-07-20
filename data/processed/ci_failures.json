@@ -4,19 +4,19 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 18,
-        "total": 34,
+        "fail": 17,
+        "total": 33,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29509968538",
         "last_fail_at": "2026-07-16T15:10:49Z",
-        "fail_rate": 0.529
+        "fail_rate": 0.515
       },
       {
         "name": "CI Pipeline",
-        "fail": 6,
-        "total": 17,
+        "fail": 4,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29071249588",
         "last_fail_at": "2026-07-10T05:23:42Z",
-        "fail_rate": 0.353
+        "fail_rate": 0.267
       },
       {
         "name": "Build",
@@ -110,17 +110,38 @@
       {
         "name": "Renovate",
         "fail": 14,
-        "total": 33,
+        "total": 34,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
         "last_fail_at": "2026-07-01T06:34:40Z",
-        "fail_rate": 0.424
+        "fail_rate": 0.412
       },
       {
         "name": "\ud83e\uddea E2E (KinD)",
         "fail": 3,
-        "total": 18,
+        "total": 17,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/29331851647",
         "last_fail_at": "2026-07-14T12:16:00Z",
+        "fail_rate": 0.176
+      }
+    ]
+  },
+  {
+    "repo": "trivy-viewer",
+    "workflows": [
+      {
+        "name": "CI",
+        "fail": 16,
+        "total": 25,
+        "last_fail_url": "https://github.com/duynhlab/trivy-viewer/actions/runs/29721395102",
+        "last_fail_at": "2026-07-20T06:20:27Z",
+        "fail_rate": 0.64
+      },
+      {
+        "name": "Release",
+        "fail": 1,
+        "total": 6,
+        "last_fail_url": "https://github.com/duynhlab/trivy-viewer/actions/runs/29032715998",
+        "last_fail_at": "2026-07-09T16:15:21Z",
         "fail_rate": 0.167
       }
     ]
@@ -268,27 +289,6 @@
     ]
   },
   {
-    "repo": "trivy-viewer",
-    "workflows": [
-      {
-        "name": "CI",
-        "fail": 12,
-        "total": 21,
-        "last_fail_url": "https://github.com/duynhlab/trivy-viewer/actions/runs/29033584116",
-        "last_fail_at": "2026-07-09T16:29:22Z",
-        "fail_rate": 0.571
-      },
-      {
-        "name": "Release",
-        "fail": 1,
-        "total": 6,
-        "last_fail_url": "https://github.com/duynhlab/trivy-viewer/actions/runs/29032715998",
-        "last_fail_at": "2026-07-09T16:15:21Z",
-        "fail_rate": 0.167
-      }
-    ]
-  },
-  {
     "repo": "user-service",
     "workflows": [
       {
@@ -307,18 +307,18 @@
       {
         "name": "build-rpms",
         "fail": 4,
-        "total": 63,
+        "total": 62,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
         "last_fail_at": "2026-06-15T23:40:17Z",
-        "fail_rate": 0.063
+        "fail_rate": 0.065
       },
       {
         "name": "release",
-        "fail": 2,
-        "total": 7,
+        "fail": 1,
+        "total": 6,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27348392304",
         "last_fail_at": "2026-06-11T12:57:31Z",
-        "fail_rate": 0.286
+        "fail_rate": 0.167
       }
     ]
   },
@@ -328,10 +328,10 @@
       {
         "name": "CI Pipeline",
         "fail": 5,
-        "total": 95,
+        "total": 93,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/29541327685",
         "last_fail_at": "2026-07-16T23:05:27Z",
-        "fail_rate": 0.053
+        "fail_rate": 0.054
       }
     ]
   },
@@ -354,10 +354,18 @@
       {
         "name": "python",
         "fail": 2,
-        "total": 16,
+        "total": 14,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29470640818",
         "last_fail_at": "2026-07-16T04:08:43Z",
-        "fail_rate": 0.125
+        "fail_rate": 0.143
+      },
+      {
+        "name": "node",
+        "fail": 1,
+        "total": 14,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29717369927",
+        "last_fail_at": "2026-07-20T04:38:25Z",
+        "fail_rate": 0.071
       }
     ]
   },
