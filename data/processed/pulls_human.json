@@ -585,21 +585,6 @@
     "lead_time_h": 0.04
   },
   {
-    "repo": "wolfi-images",
-    "url": "https://github.com/duynhlab/wolfi-images/pull/41",
-    "number": 41,
-    "title": "chore: add uv for python",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2025-10-09T09:35:49Z",
-    "merged_at": "2025-10-09T09:37:44Z",
-    "additions": 7,
-    "deletions": 3,
-    "changed_files": 3,
-    "lead_time_h": 0.03
-  },
-  {
     "repo": "packages",
     "url": "https://github.com/duynhlab/packages/pull/66",
     "number": 66,
@@ -1291,6 +1276,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/577",
+    "number": 577,
+    "title": "Standardize docs/api as trusted API source",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-21T10:23:12Z",
+    "merged_at": "2026-07-21T10:46:12Z",
+    "additions": 2883,
+    "deletions": 953,
+    "changed_files": 21,
+    "lead_time_h": 0.38
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/575",
     "number": 575,
     "title": "Pilot dynamic DB creds for notification (ADR-025 pattern A)",
@@ -1978,21 +1978,6 @@
     "deletions": 161,
     "changed_files": 3,
     "lead_time_h": 1.27
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/529",
-    "number": 529,
-    "title": "Add the application metrics catalog; reconcile RFC-0017",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-16T08:14:42Z",
-    "merged_at": "2026-07-16T08:21:58Z",
-    "additions": 225,
-    "deletions": 5,
-    "changed_files": 6,
-    "lead_time_h": 0.12
   },
   {
     "repo": "auth-service",
@@ -5098,21 +5083,6 @@
     "deletions": 0,
     "changed_files": 1,
     "lead_time_h": 0.19
-  },
-  {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/66",
-    "number": 66,
-    "title": "Wire obsx metrics + span trace_id correlation",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-02T15:37:40Z",
-    "merged_at": "2026-06-02T15:43:37Z",
-    "additions": 41,
-    "deletions": 5,
-    "changed_files": 4,
-    "lead_time_h": 0.1
   },
   {
     "repo": "notification-service",

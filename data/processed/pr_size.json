@@ -21,11 +21,11 @@
     {
       "repo": "wolfi-images",
       "XS": 6,
-      "S": 3,
+      "S": 2,
       "M": 1,
       "L": 1,
       "XL": 0,
-      "total": 11
+      "total": 10
     },
     {
       "repo": "packages",
@@ -40,9 +40,9 @@
       "repo": "homelab",
       "XS": 7,
       "S": 9,
-      "M": 12,
+      "M": 11,
       "L": 13,
-      "XL": 6,
+      "XL": 7,
       "total": 47
     },
     {
@@ -93,11 +93,11 @@
     {
       "repo": "review-service",
       "XS": 9,
-      "S": 11,
+      "S": 10,
       "M": 7,
       "L": 8,
       "XL": 1,
-      "total": 36
+      "total": 35
     },
     {
       "repo": "notification-service",
@@ -212,20 +212,20 @@
     {
       "author": "duynhne",
       "XS": 120,
-      "S": 113,
-      "M": 133,
+      "S": 112,
+      "M": 132,
       "L": 129,
-      "XL": 45,
-      "total": 540
+      "XL": 46,
+      "total": 539
     },
     {
       "author": "duyhenryer",
       "XS": 6,
-      "S": 2,
+      "S": 1,
       "M": 2,
       "L": 3,
       "XL": 2,
-      "total": 15
+      "total": 14
     }
   ],
   "buckets": [
