@@ -1294,15 +1294,30 @@
     "url": "https://github.com/duynhlab/homelab/pull/575",
     "number": 575,
     "title": "Pilot dynamic DB creds for notification (ADR-025 pattern A)",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-21T00:04:45Z",
-    "merged_at": null,
-    "additions": 199,
-    "deletions": 11,
-    "changed_files": 11,
-    "lead_time_h": null
+    "merged_at": "2026-07-21T06:44:35Z",
+    "additions": 615,
+    "deletions": 991,
+    "changed_files": 42,
+    "lead_time_h": 6.66
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/576",
+    "number": 576,
+    "title": "RFC-0020 research + consolidate east-west mTLS RFCs",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-21T03:11:55Z",
+    "merged_at": "2026-07-21T06:44:13Z",
+    "additions": 445,
+    "deletions": 304,
+    "changed_files": 7,
+    "lead_time_h": 3.54
   },
   {
     "repo": "homelab",
@@ -1978,21 +1993,6 @@
     "deletions": 5,
     "changed_files": 6,
     "lead_time_h": 0.12
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/528",
-    "number": 528,
-    "title": "Repair 10 legacy dashboard raw URLs (404 since repo restructure)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-16T07:50:01Z",
-    "merged_at": "2026-07-16T08:04:27Z",
-    "additions": 20,
-    "deletions": 10,
-    "changed_files": 11,
-    "lead_time_h": 0.24
   },
   {
     "repo": "auth-service",

@@ -1681,6 +1681,21 @@
   },
   {
     "repo": "product-service",
+    "url": "https://github.com/duynhlab/product-service/pull/127",
+    "number": 127,
+    "title": "build(deps): bump github.com/duynhlab/pkg from 0.24.0 to 0.25.0",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-21T05:23:37Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/124",
     "number": 124,
     "title": "build(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.1",
@@ -1888,21 +1903,6 @@
     "deletions": 3,
     "changed_files": 2,
     "lead_time_h": 257.6
-  },
-  {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/78",
-    "number": 78,
-    "title": "build(deps): bump flyway/flyway from 12.7.0 to 12.8.1 in /db/migrations",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-06-08T05:24:35Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
   },
   {
     "repo": "cart-service",
@@ -3286,6 +3286,21 @@
   },
   {
     "repo": "github-insights",
+    "url": "https://github.com/duynhlab/github-insights/pull/27",
+    "number": 27,
+    "title": "chore(deps-dev): bump the tailwind group across 1 directory with 3 updates",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-06-30T08:09:02Z",
+    "merged_at": null,
+    "additions": 124,
+    "deletions": 41,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "github-insights",
     "url": "https://github.com/duynhlab/github-insights/pull/21",
     "number": 21,
     "title": "chore(deps): bump the react group across 1 directory with 3 updates",
@@ -3311,21 +3326,6 @@
     "merged_at": null,
     "additions": 107,
     "deletions": 41,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "github-insights",
-    "url": "https://github.com/duynhlab/github-insights/pull/27",
-    "number": 27,
-    "title": "chore(deps-dev): bump the tailwind group across 1 directory with 3 updates",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-06-30T08:09:02Z",
-    "merged_at": null,
-    "additions": 121,
-    "deletions": 38,
     "changed_files": 2,
     "lead_time_h": null
   },
