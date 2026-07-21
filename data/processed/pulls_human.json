@@ -1276,6 +1276,36 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/579",
+    "number": 579,
+    "title": "Complete RFC-0020 research Context7 audit",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-21T14:58:19Z",
+    "merged_at": "2026-07-21T15:40:51Z",
+    "additions": 16,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 0.71
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/578",
+    "number": 578,
+    "title": "Docs/refactor api docs",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-21T14:12:32Z",
+    "merged_at": "2026-07-21T14:43:41Z",
+    "additions": 625,
+    "deletions": 855,
+    "changed_files": 27,
+    "lead_time_h": 0.52
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/577",
     "number": 577,
     "title": "Standardize docs/api as trusted API source",
@@ -1950,36 +1980,6 @@
     "lead_time_h": 1.55
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/532",
-    "number": 532,
-    "title": "Bump worker image tags to the RFC-0017 releases",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-16T13:17:25Z",
-    "merged_at": "2026-07-16T13:22:27Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 0.08
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/530",
-    "number": 530,
-    "title": "Dashboard review fixes: route-less series + SLI-standard alignment",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-16T08:30:48Z",
-    "merged_at": "2026-07-16T09:47:08Z",
-    "additions": 99,
-    "deletions": 161,
-    "changed_files": 3,
-    "lead_time_h": 1.27
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/126",
     "number": 126,
@@ -2458,21 +2458,6 @@
     "deletions": 2,
     "changed_files": 2,
     "lead_time_h": 0.17
-  },
-  {
-    "repo": "auth-service",
-    "url": "https://github.com/duynhlab/auth-service/pull/80",
-    "number": 80,
-    "title": "Adopt pkg v0.6.0 (grpcx hardening)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-14T02:20:45Z",
-    "merged_at": "2026-06-14T02:25:56Z",
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 2,
-    "lead_time_h": 0.09
   },
   {
     "repo": "user-service",
@@ -2983,21 +2968,6 @@
     "deletions": 66,
     "changed_files": 11,
     "lead_time_h": 7.15
-  },
-  {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/68",
-    "number": 68,
-    "title": "Refactor AGENTS.md to flux2 style",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-02T17:03:53Z",
-    "merged_at": "2026-06-02T17:15:37Z",
-    "additions": 163,
-    "deletions": 179,
-    "changed_files": 1,
-    "lead_time_h": 0.2
   },
   {
     "repo": "product-service",
@@ -6688,21 +6658,6 @@
     "deletions": 0,
     "changed_files": 1,
     "lead_time_h": 0.01
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/15",
-    "number": 15,
-    "title": "fix: bump setup-node to v6 and node to 24",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-03-17T01:58:46Z",
-    "merged_at": "2026-03-17T02:00:13Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 1,
-    "lead_time_h": 0.02
   },
   {
     "repo": "tf-local",
