@@ -39,8 +39,8 @@
     {
       "repo": "homelab",
       "XS": 4,
-      "S": 8,
-      "M": 11,
+      "S": 7,
+      "M": 12,
       "L": 14,
       "XL": 10,
       "total": 47
@@ -119,12 +119,12 @@
     },
     {
       "repo": "frontend",
-      "XS": 8,
-      "S": 11,
+      "XS": 7,
+      "S": 10,
       "M": 10,
-      "L": 5,
-      "XL": 6,
-      "total": 40
+      "L": 7,
+      "XL": 5,
+      "total": 39
     },
     {
       "repo": "backstage",
@@ -211,12 +211,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 114,
-      "S": 111,
-      "M": 132,
-      "L": 128,
-      "XL": 48,
-      "total": 533
+      "XS": 113,
+      "S": 109,
+      "M": 133,
+      "L": 130,
+      "XL": 47,
+      "total": 532
     },
     {
       "author": "duyhenryer",
