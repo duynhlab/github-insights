@@ -420,21 +420,6 @@
     "lead_time_h": 2.59
   },
   {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/34",
-    "number": 34,
-    "title": "feat(actions): add auto sync branches composite action",
-    "state": "OPEN",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2026-03-11T09:50:15Z",
-    "merged_at": null,
-    "additions": 212,
-    "deletions": 0,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
     "repo": "wolfi-images",
     "url": "https://github.com/duynhlab/wolfi-images/pull/85",
     "number": 85,

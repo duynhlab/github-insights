@@ -13,10 +13,10 @@
       "repo": "gha-workflows",
       "XS": 6,
       "S": 1,
-      "M": 7,
+      "M": 6,
       "L": 2,
       "XL": 0,
-      "total": 16
+      "total": 15
     },
     {
       "repo": "wolfi-images",
@@ -222,10 +222,10 @@
       "author": "duyhenryer",
       "XS": 6,
       "S": 1,
-      "M": 2,
+      "M": 1,
       "L": 3,
       "XL": 2,
-      "total": 14
+      "total": 13
     }
   ],
   "buckets": [
