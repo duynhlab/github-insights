@@ -43,5 +43,14 @@
     "dismissed": 0,
     "total": 5,
     "repos": 1
+  },
+  {
+    "login": "duyhenryer",
+    "approved": 1,
+    "commented": 0,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 1,
+    "repos": 1
   }
 ]
