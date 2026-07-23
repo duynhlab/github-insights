@@ -55,7 +55,7 @@
   },
   {
     "name": "order-service",
-    "bot_open_pr": 5,
+    "bot_open_pr": 4,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -134,6 +134,12 @@
   {
     "name": "trivy-viewer",
     "bot_open_pr": 4,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "inventory-service",
+    "bot_open_pr": 2,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   }
