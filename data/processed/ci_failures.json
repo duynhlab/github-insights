@@ -55,10 +55,10 @@
       {
         "name": "Check",
         "fail": 17,
-        "total": 36,
+        "total": 34,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/29775290437",
         "last_fail_at": "2026-07-20T20:14:24Z",
-        "fail_rate": 0.472
+        "fail_rate": 0.5
       }
     ]
   },
@@ -152,35 +152,6 @@
     ]
   },
   {
-    "repo": "checkout-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 11,
-        "total": 32,
-        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29780142191",
-        "last_fail_at": "2026-07-20T21:25:49Z",
-        "fail_rate": 0.344
-      },
-      {
-        "name": "Build",
-        "fail": 4,
-        "total": 23,
-        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29541816634",
-        "last_fail_at": "2026-07-16T23:17:32Z",
-        "fail_rate": 0.174
-      },
-      {
-        "name": "docker in /db/migrations - Update #1451415101",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/28886163810",
-        "last_fail_at": "2026-07-07T17:35:17Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "tf-local",
     "workflows": [
       {
@@ -197,6 +168,35 @@
         "total": 5,
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
         "last_fail_at": "2026-06-19T12:53:29Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "checkout-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 11,
+        "total": 32,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29780142191",
+        "last_fail_at": "2026-07-20T21:25:49Z",
+        "fail_rate": 0.344
+      },
+      {
+        "name": "Build",
+        "fail": 3,
+        "total": 22,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29541816634",
+        "last_fail_at": "2026-07-16T23:17:32Z",
+        "fail_rate": 0.136
+      },
+      {
+        "name": "docker in /db/migrations - Update #1451415101",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/28886163810",
+        "last_fail_at": "2026-07-07T17:35:17Z",
         "fail_rate": 1.0
       }
     ]
@@ -219,19 +219,6 @@
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/29187615200",
         "last_fail_at": "2026-07-12T09:31:35Z",
         "fail_rate": 0.042
-      }
-    ]
-  },
-  {
-    "repo": "shipping-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 13,
-        "total": 32,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/29786103659",
-        "last_fail_at": "2026-07-20T23:05:37Z",
-        "fail_rate": 0.406
       }
     ]
   },
@@ -277,6 +264,19 @@
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/29569798603",
         "last_fail_at": "2026-07-17T09:23:35Z",
         "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "shipping-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 12,
+        "total": 30,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/29786103659",
+        "last_fail_at": "2026-07-20T23:05:37Z",
+        "fail_rate": 0.4
       }
     ]
   },
@@ -354,7 +354,7 @@
       {
         "name": "CI Pipeline",
         "fail": 2,
-        "total": 91,
+        "total": 90,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/29773898641",
         "last_fail_at": "2026-07-20T19:54:34Z",
         "fail_rate": 0.022
@@ -380,7 +380,7 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 59,
+        "total": 60,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/27503067825",
         "last_fail_at": "2026-06-14T15:14:12Z",
         "fail_rate": 0.017
