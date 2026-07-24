@@ -38,10 +38,10 @@
     },
     {
       "repo": "homelab",
-      "XS": 1,
+      "XS": 2,
       "S": 6,
-      "M": 11,
-      "L": 21,
+      "M": 9,
+      "L": 22,
       "XL": 8,
       "total": 47
     },
@@ -67,8 +67,8 @@
       "repo": "product-service",
       "XS": 7,
       "S": 7,
-      "M": 7,
-      "L": 12,
+      "M": 8,
+      "L": 11,
       "XL": 1,
       "total": 34
     },
@@ -122,9 +122,9 @@
       "XS": 7,
       "S": 10,
       "M": 10,
-      "L": 7,
+      "L": 6,
       "XL": 5,
-      "total": 39
+      "total": 38
     },
     {
       "repo": "backstage",
@@ -212,20 +212,20 @@
       "XS": 0,
       "S": 0,
       "M": 0,
-      "L": 3,
-      "XL": 3,
-      "total": 6
+      "L": 4,
+      "XL": 4,
+      "total": 8
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 109,
+      "XS": 110,
       "S": 108,
-      "M": 133,
+      "M": 132,
       "L": 139,
-      "XL": 48,
-      "total": 537
+      "XL": 49,
+      "total": 538
     },
     {
       "author": "duyhenryer",
