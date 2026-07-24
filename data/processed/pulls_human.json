@@ -6555,21 +6555,6 @@
     "lead_time_h": 0.4
   },
   {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/24",
-    "number": 24,
-    "title": "fix: security and correctness fixes from code review",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-30T06:27:04Z",
-    "merged_at": "2026-05-30T13:02:10Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 1,
-    "lead_time_h": 6.58
-  },
-  {
     "repo": "tf-local",
     "url": "https://github.com/duynhlab/tf-local/pull/30",
     "number": 30,

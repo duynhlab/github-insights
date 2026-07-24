@@ -79,7 +79,7 @@
   },
   {
     "name": "frontend",
-    "bot_open_pr": 3,
+    "bot_open_pr": 4,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
