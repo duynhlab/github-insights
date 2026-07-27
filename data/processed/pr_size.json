@@ -123,8 +123,8 @@
       "S": 9,
       "M": 10,
       "L": 7,
-      "XL": 6,
-      "total": 36
+      "XL": 5,
+      "total": 35
     },
     {
       "repo": "backstage",
@@ -224,8 +224,8 @@
       "S": 110,
       "M": 132,
       "L": 138,
-      "XL": 49,
-      "total": 538
+      "XL": 48,
+      "total": 537
     },
     {
       "author": "duyhenryer",

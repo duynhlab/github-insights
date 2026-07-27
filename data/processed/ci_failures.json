@@ -25,11 +25,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 20,
-        "total": 36,
-        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/30114867803",
-        "last_fail_at": "2026-07-24T17:54:55Z",
-        "fail_rate": 0.556
+        "fail": 21,
+        "total": 37,
+        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/30291581814",
+        "last_fail_at": "2026-07-27T17:57:22Z",
+        "fail_rate": 0.568
       }
     ]
   },
@@ -38,11 +38,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 18,
-        "total": 30,
+        "fail": 17,
+        "total": 29,
         "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/30022656456",
         "last_fail_at": "2026-07-23T15:53:57Z",
-        "fail_rate": 0.6
+        "fail_rate": 0.586
       },
       {
         "name": "Build",
@@ -118,27 +118,6 @@
     ]
   },
   {
-    "repo": "cart-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 15,
-        "total": 29,
-        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/30024202129",
-        "last_fail_at": "2026-07-23T16:14:02Z",
-        "fail_rate": 0.517
-      },
-      {
-        "name": "github_actions in /. - Update #1458971783",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/29265560903",
-        "last_fail_at": "2026-07-13T16:13:56Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "notification-service",
     "workflows": [
       {
@@ -148,6 +127,27 @@
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/30014118081",
         "last_fail_at": "2026-07-23T14:04:37Z",
         "fail_rate": 0.516
+      }
+    ]
+  },
+  {
+    "repo": "cart-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 14,
+        "total": 28,
+        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/30024202129",
+        "last_fail_at": "2026-07-23T16:14:02Z",
+        "fail_rate": 0.5
+      },
+      {
+        "name": "github_actions in /. - Update #1458971783",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/29265560903",
+        "last_fail_at": "2026-07-13T16:13:56Z",
+        "fail_rate": 1.0
       }
     ]
   },
