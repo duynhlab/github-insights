@@ -79,8 +79,8 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 25865,
-    "pushed_at": "2026-07-27T09:37:13Z",
+    "size_kb": 25880,
+    "pushed_at": "2026-07-27T09:47:24Z",
     "open_issues": 3,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -91,7 +91,7 @@
     "ttfr_median_h": 0.62,
     "ttfr_p90_h": 0.62,
     "ttfr_sample": 1,
-    "ci_success_rate": 0.97,
+    "ci_success_rate": 0.98,
     "ci_runs": 100
   },
   {
@@ -174,14 +174,14 @@
     "name": "order-service",
     "url": "https://github.com/duynhlab/order-service",
     "lang": "Go",
-    "size_kb": 505,
-    "pushed_at": "2026-07-27T09:35:19Z",
+    "size_kb": 521,
+    "pushed_at": "2026-07-27T10:15:25Z",
     "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 35,
     "commits_window": 118,
-    "lead_time_median_h": 0.2,
+    "lead_time_median_h": 0.22,
     "lead_time_p95_h": 4.51,
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
@@ -205,7 +205,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.84,
+    "ci_success_rate": 0.85,
     "ci_runs": 100
   },
   {
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 2545,
-    "pushed_at": "2026-07-27T02:40:17Z",
+    "size_kb": 2549,
+    "pushed_at": "2026-07-27T09:47:13Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -452,7 +452,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.674,
-    "ci_runs": 43
+    "ci_success_rate": 0.696,
+    "ci_runs": 46
   }
 ]
