@@ -39,18 +39,18 @@
       {
         "name": "Check",
         "fail": 17,
-        "total": 32,
+        "total": 33,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/30082749539",
         "last_fail_at": "2026-07-24T09:29:17Z",
-        "fail_rate": 0.531
+        "fail_rate": 0.515
       },
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 7,
+        "total": 6,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29071249588",
         "last_fail_at": "2026-07-10T05:23:42Z",
-        "fail_rate": 0.143
+        "fail_rate": 0.167
       },
       {
         "name": "Build",
@@ -191,18 +191,18 @@
       {
         "name": "Check",
         "fail": 13,
-        "total": 35,
+        "total": 36,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/30127611478",
         "last_fail_at": "2026-07-24T21:24:22Z",
-        "fail_rate": 0.371
+        "fail_rate": 0.361
       },
       {
         "name": "Build",
         "fail": 2,
-        "total": 20,
+        "total": 21,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29541816634",
         "last_fail_at": "2026-07-16T23:17:32Z",
-        "fail_rate": 0.1
+        "fail_rate": 0.095
       }
     ]
   },
@@ -380,23 +380,10 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 65,
+        "total": 68,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/27503067825",
         "last_fail_at": "2026-06-14T15:14:12Z",
         "fail_rate": 0.015
-      }
-    ]
-  },
-  {
-    "repo": "github-insights",
-    "workflows": [
-      {
-        "name": "collect-and-deploy",
-        "fail": 1,
-        "total": 85,
-        "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/28802834737",
-        "last_fail_at": "2026-07-06T15:25:08Z",
-        "fail_rate": 0.012
       }
     ]
   },

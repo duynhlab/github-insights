@@ -7,8 +7,8 @@
   },
   {
     "name": "gha-workflows",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 28,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 30,
     "bot_lead_time_median_h": 41.5
   },
   {

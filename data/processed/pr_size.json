@@ -11,12 +11,12 @@
     },
     {
       "repo": "gha-workflows",
-      "XS": 6,
+      "XS": 5,
       "S": 1,
       "M": 7,
       "L": 2,
       "XL": 0,
-      "total": 16
+      "total": 15
     },
     {
       "repo": "wolfi-images",
@@ -40,9 +40,9 @@
       "repo": "homelab",
       "XS": 2,
       "S": 6,
-      "M": 10,
-      "L": 21,
-      "XL": 8,
+      "M": 12,
+      "L": 20,
+      "XL": 7,
       "total": 47
     },
     {
@@ -185,9 +185,9 @@
       "XS": 2,
       "S": 1,
       "M": 5,
-      "L": 3,
+      "L": 4,
       "XL": 3,
-      "total": 14
+      "total": 15
     },
     {
       "repo": "gitops",
@@ -222,19 +222,19 @@
       "author": "duynhne",
       "XS": 107,
       "S": 108,
-      "M": 132,
+      "M": 134,
       "L": 139,
-      "XL": 50,
-      "total": 536
+      "XL": 49,
+      "total": 537
     },
     {
       "author": "duyhenryer",
-      "XS": 6,
+      "XS": 5,
       "S": 1,
       "M": 0,
       "L": 4,
       "XL": 4,
-      "total": 15
+      "total": 14
     }
   ],
   "buckets": [

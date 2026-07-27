@@ -9,15 +9,6 @@
     "repos": 2
   },
   {
-    "login": "sourcery-ai",
-    "approved": 0,
-    "commented": 7,
-    "changes_requested": 0,
-    "dismissed": 0,
-    "total": 7,
-    "repos": 2
-  },
-  {
     "login": "qodo-code-review",
     "approved": 0,
     "commented": 7,
@@ -27,12 +18,21 @@
     "repos": 3
   },
   {
-    "login": "gemini-code-assist",
+    "login": "sourcery-ai",
     "approved": 0,
-    "commented": 5,
+    "commented": 6,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 5,
+    "total": 6,
+    "repos": 2
+  },
+  {
+    "login": "gemini-code-assist",
+    "approved": 0,
+    "commented": 4,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 4,
     "repos": 2
   },
   {
