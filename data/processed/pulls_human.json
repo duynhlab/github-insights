@@ -1261,6 +1261,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/613",
+    "number": 613,
+    "title": "Add ADR-031: fulfillment start outbox",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-28T10:02:36Z",
+    "merged_at": "2026-07-28T10:04:17Z",
+    "additions": 276,
+    "deletions": 7,
+    "changed_files": 5,
+    "lead_time_h": 0.03
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/612",
     "number": 612,
     "title": "Pin inventory to 0.2.2 and fix the backfill image reference",
@@ -1933,21 +1948,6 @@
     "deletions": 808,
     "changed_files": 5,
     "lead_time_h": 0.06
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/564",
-    "number": 564,
-    "title": "Backfill RFC-0008 research.md (auto-unseal spine)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-19T12:35:30Z",
-    "merged_at": "2026-07-19T12:36:45Z",
-    "additions": 355,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 0.02
   },
   {
     "repo": "auth-service",
@@ -3931,6 +3931,21 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/152",
+    "number": 152,
+    "title": "Add the fulfillment start outbox (RFC-0021 P3)",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-28T09:28:22Z",
+    "merged_at": "2026-07-28T09:46:15Z",
+    "additions": 2651,
+    "deletions": 47,
+    "changed_files": 22,
+    "lead_time_h": 0.3
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/151",
     "number": 151,
     "title": "Route saga stock writes per workflow with a pinned participant (RFC-0021 P3)",
@@ -4440,21 +4455,6 @@
     "lead_time_h": 0.12
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/103",
-    "number": 103,
-    "title": "Remove gomod.proxy override; use GoReleaser default",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-28T12:12:30Z",
-    "merged_at": "2026-06-28T12:19:40Z",
-    "additions": 0,
-    "deletions": 3,
-    "changed_files": 1,
-    "lead_time_h": 0.12
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/113",
     "number": 113,
@@ -4948,21 +4948,6 @@
     "deletions": 166,
     "changed_files": 1,
     "lead_time_h": 0.24
-  },
-  {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/68",
-    "number": 68,
-    "title": "Refresh README and AGENTS to current state",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-02T16:22:55Z",
-    "merged_at": "2026-06-02T16:29:51Z",
-    "additions": 116,
-    "deletions": 31,
-    "changed_files": 2,
-    "lead_time_h": 0.12
   },
   {
     "repo": "notification-service",
