@@ -1261,6 +1261,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/614",
+    "number": 614,
+    "title": "Refactor ADR v2 template and proposals hubs",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-28T16:47:08Z",
+    "merged_at": null,
+    "additions": 772,
+    "deletions": 144,
+    "changed_files": 7,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/613",
     "number": 613,
     "title": "Add ADR-031: fulfillment start outbox",
@@ -1935,21 +1950,6 @@
     "lead_time_h": 0.57
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/565",
-    "number": 565,
-    "title": "Remove RFC-0008 implementation.md",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-19T12:39:37Z",
-    "merged_at": "2026-07-19T12:43:19Z",
-    "additions": 19,
-    "deletions": 808,
-    "changed_files": 5,
-    "lead_time_h": 0.06
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/126",
     "number": 126,
@@ -2398,21 +2398,6 @@
     "deletions": 11,
     "changed_files": 2,
     "lead_time_h": 0.08
-  },
-  {
-    "repo": "auth-service",
-    "url": "https://github.com/duynhlab/auth-service/pull/82",
-    "number": 82,
-    "title": "Rename CI workflow refs to duynhlab/gha-workflows",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-14T05:52:08Z",
-    "merged_at": "2026-06-14T05:58:30Z",
-    "additions": 12,
-    "deletions": 12,
-    "changed_files": 2,
-    "lead_time_h": 0.11
   },
   {
     "repo": "user-service",
@@ -2908,21 +2893,6 @@
     "deletions": 12,
     "changed_files": 5,
     "lead_time_h": null
-  },
-  {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/73",
-    "number": 73,
-    "title": "Replace Flyway with embedded golang-migrate",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-08T18:18:47Z",
-    "merged_at": "2026-06-09T01:27:44Z",
-    "additions": 94,
-    "deletions": 66,
-    "changed_files": 11,
-    "lead_time_h": 7.15
   },
   {
     "repo": "product-service",
@@ -5428,21 +5398,6 @@
     "deletions": 56,
     "changed_files": 6,
     "lead_time_h": 4.64
-  },
-  {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/77",
-    "number": 77,
-    "title": "Add logic tests and Sonar coverage config",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-09T02:45:41Z",
-    "merged_at": null,
-    "additions": 475,
-    "deletions": 50,
-    "changed_files": 5,
-    "lead_time_h": null
   },
   {
     "repo": "shipping-service",

@@ -50,8 +50,8 @@
   {
     "name": "cart-service",
     "bot_open_pr": 3,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 280.55
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "order-service",
