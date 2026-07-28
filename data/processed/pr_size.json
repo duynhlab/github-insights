@@ -11,11 +11,11 @@
     },
     {
       "repo": "gha-workflows",
-      "XS": 5,
+      "XS": 4,
       "S": 1,
       "M": 7,
-      "L": 2,
-      "XL": 0,
+      "L": 1,
+      "XL": 2,
       "total": 15
     },
     {
@@ -42,8 +42,8 @@
       "S": 7,
       "M": 12,
       "L": 18,
-      "XL": 6,
-      "total": 47
+      "XL": 5,
+      "total": 46
     },
     {
       "repo": "auth-service",
@@ -224,17 +224,17 @@
       "S": 110,
       "M": 132,
       "L": 138,
-      "XL": 48,
-      "total": 537
+      "XL": 49,
+      "total": 538
     },
     {
       "author": "duyhenryer",
-      "XS": 5,
+      "XS": 4,
       "S": 1,
       "M": 0,
-      "L": 4,
+      "L": 3,
       "XL": 4,
-      "total": 14
+      "total": 12
     }
   ],
   "buckets": [

@@ -11,28 +11,28 @@
   {
     "login": "qodo-code-review",
     "approved": 0,
-    "commented": 7,
+    "commented": 5,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 7,
+    "total": 5,
     "repos": 3
   },
   {
     "login": "sourcery-ai",
     "approved": 0,
-    "commented": 6,
+    "commented": 4,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 6,
+    "total": 4,
     "repos": 2
   },
   {
     "login": "gemini-code-assist",
     "approved": 0,
-    "commented": 4,
+    "commented": 3,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 4,
+    "total": 3,
     "repos": 2
   },
   {
