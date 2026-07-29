@@ -79,12 +79,12 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "Shell",
-    "size_kb": 26687,
-    "pushed_at": "2026-07-29T08:34:31Z",
+    "size_kb": 27378,
+    "pushed_at": "2026-07-29T12:39:49Z",
     "open_issues": 4,
     "human_open_pr": 1,
     "human_stale_pr": 0,
-    "human_merged_pr": 45,
+    "human_merged_pr": 44,
     "commits_window": 409,
     "lead_time_median_h": 0.17,
     "lead_time_p95_h": 3.54,
@@ -174,19 +174,19 @@
     "name": "order-service",
     "url": "https://github.com/duynhlab/order-service",
     "lang": "Go",
-    "size_kb": 674,
-    "pushed_at": "2026-07-29T02:15:12Z",
-    "open_issues": 4,
-    "human_open_pr": 0,
+    "size_kb": 696,
+    "pushed_at": "2026-07-29T10:07:08Z",
+    "open_issues": 5,
+    "human_open_pr": 1,
     "human_stale_pr": 0,
-    "human_merged_pr": 34,
+    "human_merged_pr": 33,
     "commits_window": 122,
     "lead_time_median_h": 0.29,
     "lead_time_p95_h": 4.51,
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.82,
+    "ci_success_rate": 0.83,
     "ci_runs": 100
   },
   {
@@ -205,7 +205,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.84,
+    "ci_success_rate": 0.85,
     "ci_runs": 100
   },
   {
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 2815,
-    "pushed_at": "2026-07-29T02:25:13Z",
+    "size_kb": 2817,
+    "pushed_at": "2026-07-29T08:37:47Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -376,7 +376,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.77,
+    "ci_success_rate": 0.78,
     "ci_runs": 100
   },
   {
@@ -452,7 +452,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.721,
-    "ci_runs": 61
+    "ci_success_rate": 0.734,
+    "ci_runs": 64
   }
 ]
