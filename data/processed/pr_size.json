@@ -12,11 +12,11 @@
     {
       "repo": "gha-workflows",
       "XS": 3,
-      "S": 1,
+      "S": 2,
       "M": 7,
       "L": 1,
       "XL": 2,
-      "total": 14
+      "total": 15
     },
     {
       "repo": "wolfi-images",
@@ -121,10 +121,10 @@
       "repo": "frontend",
       "XS": 4,
       "S": 9,
-      "M": 10,
+      "M": 9,
       "L": 7,
       "XL": 5,
-      "total": 35
+      "total": 34
     },
     {
       "repo": "backstage",
@@ -215,17 +215,26 @@
       "L": 4,
       "XL": 4,
       "total": 12
+    },
+    {
+      "repo": "release-radar",
+      "XS": 0,
+      "S": 0,
+      "M": 0,
+      "L": 1,
+      "XL": 1,
+      "total": 2
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
       "XS": 107,
-      "S": 112,
-      "M": 127,
-      "L": 134,
-      "XL": 55,
-      "total": 535
+      "S": 113,
+      "M": 126,
+      "L": 135,
+      "XL": 56,
+      "total": 537
     },
     {
       "author": "duyhenryer",

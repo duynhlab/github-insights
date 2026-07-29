@@ -196,6 +196,21 @@
   },
   {
     "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/93",
+    "number": 93,
+    "title": "fix: scan composite actions with Dependabot, correct a stale version comment",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-29T16:49:50Z",
+    "merged_at": null,
+    "additions": 18,
+    "deletions": 9,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows/pull/91",
     "number": 91,
     "title": "docs: consolidate USAGE.md into docs/ and fix documentation drift",
@@ -1254,9 +1269,9 @@
     "author": "duynhne",
     "created_at": "2026-07-29T12:16:01Z",
     "merged_at": null,
-    "additions": 811,
-    "deletions": 232,
-    "changed_files": 8,
+    "additions": 1950,
+    "deletions": 712,
+    "changed_files": 18,
     "lead_time_h": null
   },
   {
@@ -6360,21 +6375,6 @@
     "lead_time_h": 0.15
   },
   {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/26",
-    "number": 26,
-    "title": "Harden frontend auth: logout, route guards",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-05-31T11:27:04Z",
-    "merged_at": "2026-05-31T11:28:02Z",
-    "additions": 81,
-    "deletions": 22,
-    "changed_files": 7,
-    "lead_time_h": 0.02
-  },
-  {
     "repo": "tf-local",
     "url": "https://github.com/duynhlab/tf-local/pull/30",
     "number": 30,
@@ -8188,5 +8188,35 @@
     "deletions": 0,
     "changed_files": 5,
     "lead_time_h": 0.07
+  },
+  {
+    "repo": "release-radar",
+    "url": "https://github.com/duynhlab/release-radar/pull/2",
+    "number": 2,
+    "title": "Remove internal plan document",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-29T17:10:16Z",
+    "merged_at": "2026-07-29T17:10:31Z",
+    "additions": 3,
+    "deletions": 752,
+    "changed_files": 2,
+    "lead_time_h": 0.0
+  },
+  {
+    "repo": "release-radar",
+    "url": "https://github.com/duynhlab/release-radar/pull/1",
+    "number": 1,
+    "title": "Add release radar MVP",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-29T16:56:14Z",
+    "merged_at": "2026-07-29T17:05:25Z",
+    "additions": 14352,
+    "deletions": 0,
+    "changed_files": 65,
+    "lead_time_h": 0.15
   }
 ]

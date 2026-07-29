@@ -8,8 +8,8 @@
   {
     "name": "gha-workflows",
     "bot_open_pr": 1,
-    "bot_merged_pr": 30,
-    "bot_lead_time_median_h": 41.5
+    "bot_merged_pr": 29,
+    "bot_lead_time_median_h": 58.1
   },
   {
     "name": "wolfi-images",
@@ -140,6 +140,12 @@
   {
     "name": "inventory-service",
     "bot_open_pr": 2,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "release-radar",
+    "bot_open_pr": 0,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   }
