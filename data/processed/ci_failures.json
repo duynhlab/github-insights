@@ -47,10 +47,10 @@
       {
         "name": "Check",
         "fail": 17,
-        "total": 32,
+        "total": 31,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/30331504752",
         "last_fail_at": "2026-07-28T05:23:39Z",
-        "fail_rate": 0.531
+        "fail_rate": 0.548
       },
       {
         "name": "github_actions in /. - Update #1485365905",
@@ -63,10 +63,10 @@
       {
         "name": "Build",
         "fail": 1,
-        "total": 14,
+        "total": 13,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29329340567",
         "last_fail_at": "2026-07-14T11:33:55Z",
-        "fail_rate": 0.071
+        "fail_rate": 0.077
       }
     ]
   },
@@ -93,48 +93,6 @@
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/30291581814",
         "last_fail_at": "2026-07-27T17:57:22Z",
         "fail_rate": 0.515
-      }
-    ]
-  },
-  {
-    "repo": "helm-charts",
-    "workflows": [
-      {
-        "name": "Renovate",
-        "fail": 14,
-        "total": 42,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
-        "last_fail_at": "2026-07-01T06:34:40Z",
-        "fail_rate": 0.333
-      },
-      {
-        "name": "\ud83e\uddea E2E (KinD)",
-        "fail": 3,
-        "total": 14,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/29331851647",
-        "last_fail_at": "2026-07-14T12:16:00Z",
-        "fail_rate": 0.214
-      }
-    ]
-  },
-  {
-    "repo": "checkout-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 15,
-        "total": 36,
-        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/30400522230",
-        "last_fail_at": "2026-07-28T21:24:17Z",
-        "fail_rate": 0.417
-      },
-      {
-        "name": "Build",
-        "fail": 2,
-        "total": 21,
-        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29541816634",
-        "last_fail_at": "2026-07-16T23:17:32Z",
-        "fail_rate": 0.095
       }
     ]
   },
@@ -190,6 +148,48 @@
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/30366622180",
         "last_fail_at": "2026-07-28T14:05:14Z",
         "fail_rate": 0.516
+      }
+    ]
+  },
+  {
+    "repo": "helm-charts",
+    "workflows": [
+      {
+        "name": "Renovate",
+        "fail": 14,
+        "total": 43,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
+        "last_fail_at": "2026-07-01T06:34:40Z",
+        "fail_rate": 0.326
+      },
+      {
+        "name": "\ud83e\uddea E2E (KinD)",
+        "fail": 2,
+        "total": 13,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/29331851647",
+        "last_fail_at": "2026-07-14T12:16:00Z",
+        "fail_rate": 0.154
+      }
+    ]
+  },
+  {
+    "repo": "checkout-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 14,
+        "total": 35,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/30400522230",
+        "last_fail_at": "2026-07-28T21:24:17Z",
+        "fail_rate": 0.4
+      },
+      {
+        "name": "Build",
+        "fail": 2,
+        "total": 22,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/29541816634",
+        "last_fail_at": "2026-07-16T23:17:32Z",
+        "fail_rate": 0.091
       }
     ]
   },
@@ -312,26 +312,26 @@
       {
         "name": "python",
         "fail": 2,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29470640818",
         "last_fail_at": "2026-07-16T04:08:43Z",
-        "fail_rate": 0.133
+        "fail_rate": 0.125
       },
       {
         "name": "node",
         "fail": 1,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29717369927",
         "last_fail_at": "2026-07-20T04:38:25Z",
-        "fail_rate": 0.067
+        "fail_rate": 0.062
       },
       {
         "name": "go",
         "fail": 1,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29890767264",
         "last_fail_at": "2026-07-22T04:19:43Z",
-        "fail_rate": 0.067
+        "fail_rate": 0.062
       }
     ]
   },
@@ -340,11 +340,11 @@
     "workflows": [
       {
         "name": "build-rpms",
-        "fail": 4,
-        "total": 52,
+        "fail": 3,
+        "total": 50,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
         "last_fail_at": "2026-06-15T23:40:17Z",
-        "fail_rate": 0.077
+        "fail_rate": 0.06
       }
     ]
   },
