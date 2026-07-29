@@ -405,21 +405,6 @@
     "lead_time_h": 0.06
   },
   {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/42",
-    "number": 42,
-    "title": "Add 'dependabot' to allowed branch prefixes",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2026-03-25T02:56:45Z",
-    "merged_at": "2026-03-25T02:56:58Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 0.0
-  },
-  {
     "repo": "wolfi-images",
     "url": "https://github.com/duynhlab/wolfi-images/pull/85",
     "number": 85,
@@ -1264,15 +1249,15 @@
     "url": "https://github.com/duynhlab/homelab/pull/614",
     "number": 614,
     "title": "Refactor ADR v2 template and proposals hubs",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-28T16:47:08Z",
-    "merged_at": null,
+    "merged_at": "2026-07-29T02:08:32Z",
     "additions": 772,
     "deletions": 144,
     "changed_files": 7,
-    "lead_time_h": null
+    "lead_time_h": 9.36
   },
   {
     "repo": "homelab",
@@ -3901,6 +3886,21 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/154",
+    "number": 154,
+    "title": "Reconcile orders whose stock disagrees with their outcome (RFC-0021 P3)",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-29T02:02:31Z",
+    "merged_at": "2026-07-29T02:07:23Z",
+    "additions": 3041,
+    "deletions": 27,
+    "changed_files": 21,
+    "lead_time_h": 0.08
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/152",
     "number": 152,
     "title": "Add the fulfillment start outbox (RFC-0021 P3)",
@@ -4393,36 +4393,6 @@
     "deletions": 0,
     "changed_files": 5,
     "lead_time_h": 2.83
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/105",
-    "number": 105,
-    "title": "test: real unit + integration coverage (middleware/config/repository)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-30T09:34:53Z",
-    "merged_at": "2026-06-30T09:55:33Z",
-    "additions": 647,
-    "deletions": 8,
-    "changed_files": 6,
-    "lead_time_h": 0.34
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/104",
-    "number": 104,
-    "title": "ci: version-tagged image + keyless binary release on v* tags",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-29T16:35:43Z",
-    "merged_at": "2026-06-29T16:43:10Z",
-    "additions": 39,
-    "deletions": 21,
-    "changed_files": 3,
-    "lead_time_h": 0.12
   },
   {
     "repo": "review-service",
@@ -5878,21 +5848,6 @@
     "deletions": 3,
     "changed_files": 3,
     "lead_time_h": 0.08
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/81",
-    "number": 81,
-    "title": "Add web/v1 handler tests (0%->91% coverage)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-13T17:36:09Z",
-    "merged_at": "2026-06-13T17:41:24Z",
-    "additions": 189,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 0.09
   },
   {
     "repo": "frontend",

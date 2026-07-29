@@ -18,16 +18,16 @@
     "repos": 3
   },
   {
-    "login": "sourcery-ai",
+    "login": "gemini-code-assist",
     "approved": 0,
-    "commented": 4,
+    "commented": 3,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 4,
+    "total": 3,
     "repos": 2
   },
   {
-    "login": "gemini-code-assist",
+    "login": "sourcery-ai",
     "approved": 0,
     "commented": 3,
     "changes_requested": 0,
@@ -38,10 +38,10 @@
   {
     "login": "sentry",
     "approved": 0,
-    "commented": 2,
+    "commented": 1,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 2,
+    "total": 1,
     "repos": 1
   },
   {

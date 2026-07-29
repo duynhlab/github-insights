@@ -11,12 +11,12 @@
     },
     {
       "repo": "gha-workflows",
-      "XS": 4,
+      "XS": 3,
       "S": 1,
       "M": 7,
       "L": 1,
       "XL": 2,
-      "total": 15
+      "total": 14
     },
     {
       "repo": "wolfi-images",
@@ -85,10 +85,10 @@
       "repo": "order-service",
       "XS": 4,
       "S": 7,
-      "M": 6,
-      "L": 14,
-      "XL": 4,
-      "total": 35
+      "M": 5,
+      "L": 13,
+      "XL": 5,
+      "total": 34
     },
     {
       "repo": "review-service",
@@ -112,10 +112,10 @@
       "repo": "shipping-service",
       "XS": 9,
       "S": 10,
-      "M": 7,
+      "M": 6,
       "L": 7,
       "XL": 0,
-      "total": 33
+      "total": 32
     },
     {
       "repo": "frontend",
@@ -222,19 +222,19 @@
       "author": "duynhne",
       "XS": 107,
       "S": 113,
-      "M": 129,
-      "L": 135,
-      "XL": 52,
-      "total": 536
+      "M": 127,
+      "L": 134,
+      "XL": 53,
+      "total": 534
     },
     {
       "author": "duyhenryer",
-      "XS": 4,
+      "XS": 3,
       "S": 1,
       "M": 0,
       "L": 3,
       "XL": 4,
-      "total": 12
+      "total": 11
     }
   ],
   "buckets": [
