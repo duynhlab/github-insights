@@ -39,11 +39,11 @@
     {
       "repo": "homelab",
       "XS": 4,
-      "S": 7,
-      "M": 11,
+      "S": 8,
+      "M": 15,
       "L": 16,
-      "XL": 8,
-      "total": 46
+      "XL": 4,
+      "total": 47
     },
     {
       "repo": "auth-service",
@@ -66,11 +66,11 @@
     {
       "repo": "product-service",
       "XS": 7,
-      "S": 8,
-      "M": 8,
+      "S": 6,
+      "M": 9,
       "L": 9,
       "XL": 1,
-      "total": 33
+      "total": 32
     },
     {
       "repo": "cart-service",
@@ -218,23 +218,23 @@
     },
     {
       "repo": "release-radar",
-      "XS": 0,
+      "XS": 1,
       "S": 1,
-      "M": 0,
-      "L": 2,
-      "XL": 1,
-      "total": 4
+      "M": 1,
+      "L": 4,
+      "XL": 6,
+      "total": 13
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 107,
-      "S": 112,
-      "M": 127,
-      "L": 137,
-      "XL": 56,
-      "total": 539
+      "XS": 108,
+      "S": 111,
+      "M": 133,
+      "L": 139,
+      "XL": 57,
+      "total": 548
     },
     {
       "author": "duyhenryer",
