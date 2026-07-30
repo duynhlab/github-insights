@@ -139,14 +139,14 @@
   },
   {
     "name": "inventory-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 3,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
   {
     "name": "release-radar",
     "bot_open_pr": 0,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 0.21
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 0.08
   }
 ]
