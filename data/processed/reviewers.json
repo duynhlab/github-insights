@@ -11,37 +11,28 @@
   {
     "login": "qodo-code-review",
     "approved": 0,
-    "commented": 5,
+    "commented": 4,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 5,
-    "repos": 3
-  },
-  {
-    "login": "gemini-code-assist",
-    "approved": 0,
-    "commented": 3,
-    "changes_requested": 0,
-    "dismissed": 0,
-    "total": 3,
+    "total": 4,
     "repos": 2
   },
   {
     "login": "sourcery-ai",
     "approved": 0,
-    "commented": 3,
+    "commented": 2,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 3,
-    "repos": 2
+    "total": 2,
+    "repos": 1
   },
   {
-    "login": "sentry",
+    "login": "gemini-code-assist",
     "approved": 0,
-    "commented": 1,
+    "commented": 2,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 1,
+    "total": 2,
     "repos": 1
   },
   {

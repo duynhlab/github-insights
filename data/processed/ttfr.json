@@ -8,9 +8,9 @@
     },
     {
       "repo": "gha-workflows",
-      "sample": 1,
-      "median_h": 0.04,
-      "p90_h": 0.04
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     },
     {
       "repo": "wolfi-images",
@@ -154,9 +154,9 @@
   "by_author": [
     {
       "author": "duyhenryer",
-      "sample": 3,
+      "sample": 2,
       "median_h": 0.01,
-      "p90_h": 0.04
+      "p90_h": 0.01
     },
     {
       "author": "duynhne",

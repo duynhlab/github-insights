@@ -405,21 +405,6 @@
     "lead_time_h": 0.35
   },
   {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/45",
-    "number": 45,
-    "title": "ci: docker build and scan",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duyhenryer",
-    "created_at": "2026-04-13T07:27:07Z",
-    "merged_at": "2026-04-13T07:30:48Z",
-    "additions": 537,
-    "deletions": 207,
-    "changed_files": 4,
-    "lead_time_h": 0.06
-  },
-  {
     "repo": "wolfi-images",
     "url": "https://github.com/duynhlab/wolfi-images/pull/85",
     "number": 85,
@@ -1261,6 +1246,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/622",
+    "number": 622,
+    "title": "Alert on a stock branch that disagrees with its record",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-30T01:54:04Z",
+    "merged_at": "2026-07-30T02:00:24Z",
+    "additions": 233,
+    "deletions": 2,
+    "changed_files": 7,
+    "lead_time_h": 0.11
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/620",
     "number": 620,
     "title": "Align docs/api observability contracts with review bundle.",
@@ -1933,21 +1933,6 @@
     "deletions": 304,
     "changed_files": 7,
     "lead_time_h": 3.54
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/572",
-    "number": 572,
-    "title": "Add credential maturity ladder to ADR-025",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-20T16:13:09Z",
-    "merged_at": "2026-07-20T16:14:06Z",
-    "additions": 33,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 0.02
   },
   {
     "repo": "auth-service",
@@ -3901,18 +3886,33 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/156",
+    "number": 156,
+    "title": "Report a reservation the order's row does not account for",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-30T01:49:59Z",
+    "merged_at": "2026-07-30T01:59:35Z",
+    "additions": 313,
+    "deletions": 9,
+    "changed_files": 3,
+    "lead_time_h": 0.16
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/155",
     "number": 155,
     "title": "Start sagas from the order's recorded stock participant",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-07-29T10:07:31Z",
-    "merged_at": null,
+    "merged_at": "2026-07-30T01:30:06Z",
     "additions": 547,
     "deletions": 33,
     "changed_files": 15,
-    "lead_time_h": null
+    "lead_time_h": 15.38
   },
   {
     "repo": "order-service",
@@ -4393,21 +4393,6 @@
     "deletions": 6,
     "changed_files": 4,
     "lead_time_h": 0.18
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/107",
-    "number": 107,
-    "title": "docs: document unit + testcontainers integration testing",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-30T14:23:54Z",
-    "merged_at": "2026-06-30T14:36:06Z",
-    "additions": 42,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 0.2
   },
   {
     "repo": "review-service",
@@ -8188,6 +8173,36 @@
     "deletions": 0,
     "changed_files": 5,
     "lead_time_h": 0.07
+  },
+  {
+    "repo": "release-radar",
+    "url": "https://github.com/duynhlab/release-radar/pull/4",
+    "number": 4,
+    "title": "Use mermaid diagram in README",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-30T01:38:39Z",
+    "merged_at": "2026-07-30T01:46:14Z",
+    "additions": 15,
+    "deletions": 4,
+    "changed_files": 1,
+    "lead_time_h": 0.13
+  },
+  {
+    "repo": "release-radar",
+    "url": "https://github.com/duynhlab/release-radar/pull/3",
+    "number": 3,
+    "title": "Merge onboarding guide into README",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-30T01:35:10Z",
+    "merged_at": "2026-07-30T01:37:12Z",
+    "additions": 105,
+    "deletions": 152,
+    "changed_files": 2,
+    "lead_time_h": 0.03
   },
   {
     "repo": "release-radar",
