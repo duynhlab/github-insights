@@ -74,12 +74,12 @@
     },
     {
       "repo": "cart-service",
-      "XS": 12,
-      "S": 6,
+      "XS": 11,
+      "S": 5,
       "M": 10,
       "L": 6,
       "XL": 0,
-      "total": 34
+      "total": 32
     },
     {
       "repo": "order-service",
@@ -104,9 +104,9 @@
       "XS": 9,
       "S": 8,
       "M": 8,
-      "L": 6,
+      "L": 4,
       "XL": 1,
-      "total": 32
+      "total": 30
     },
     {
       "repo": "shipping-service",
@@ -121,9 +121,9 @@
       "repo": "frontend",
       "XS": 4,
       "S": 9,
-      "M": 9,
+      "M": 8,
       "L": 7,
-      "XL": 5,
+      "XL": 6,
       "total": 34
     },
     {
@@ -229,12 +229,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 108,
-      "S": 114,
-      "M": 133,
-      "L": 138,
-      "XL": 57,
-      "total": 550
+      "XS": 107,
+      "S": 113,
+      "M": 132,
+      "L": 136,
+      "XL": 58,
+      "total": 546
     },
     {
       "author": "duyhenryer",

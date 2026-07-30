@@ -3855,36 +3855,6 @@
     "lead_time_h": 40.75
   },
   {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/87",
-    "number": 87,
-    "title": "refactor(db): fold sequence realignment into the seed migration",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-16T04:51:51Z",
-    "merged_at": "2026-06-16T04:56:35Z",
-    "additions": 5,
-    "deletions": 8,
-    "changed_files": 2,
-    "lead_time_h": 0.08
-  },
-  {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/85",
-    "number": 85,
-    "title": "Harden runtime image: full apk upgrade",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-14T16:19:43Z",
-    "merged_at": "2026-06-14T16:23:16Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 0.06
-  },
-  {
     "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/156",
     "number": 156,
@@ -5325,36 +5295,6 @@
     "lead_time_h": 0.08
   },
   {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/79",
-    "number": 79,
-    "title": "Refactor to 3-layer repo and adopt pkg v0.5.0 contracts",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-13T16:43:20Z",
-    "merged_at": "2026-06-13T17:10:06Z",
-    "additions": 388,
-    "deletions": 79,
-    "changed_files": 11,
-    "lead_time_h": 0.45
-  },
-  {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/78",
-    "number": 78,
-    "title": "Add logic tests and Sonar coverage config",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-09T02:53:38Z",
-    "merged_at": "2026-06-09T07:32:11Z",
-    "additions": 485,
-    "deletions": 56,
-    "changed_files": 6,
-    "lead_time_h": 4.64
-  },
-  {
     "repo": "shipping-service",
     "url": "https://github.com/duynhlab/shipping-service/pull/125",
     "number": 125,
@@ -5833,6 +5773,21 @@
     "deletions": 3,
     "changed_files": 3,
     "lead_time_h": 0.08
+  },
+  {
+    "repo": "frontend",
+    "url": "https://github.com/duynhlab/frontend/pull/77",
+    "number": 77,
+    "title": "Cut over UI to TypeScript, Tailwind v4 and shadcn/ui",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-07-30T15:24:15Z",
+    "merged_at": null,
+    "additions": 17769,
+    "deletions": 7403,
+    "changed_files": 272,
+    "lead_time_h": null
   },
   {
     "repo": "frontend",
@@ -6328,21 +6283,6 @@
     "deletions": 5,
     "changed_files": 5,
     "lead_time_h": 0.08
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/27",
-    "number": 27,
-    "title": "Refactor AGENTS.md to flux2 style",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-02T17:03:12Z",
-    "merged_at": "2026-06-02T17:11:57Z",
-    "additions": 108,
-    "deletions": 107,
-    "changed_files": 1,
-    "lead_time_h": 0.15
   },
   {
     "repo": "tf-local",
