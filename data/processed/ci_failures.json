@@ -134,19 +134,6 @@
     ]
   },
   {
-    "repo": "review-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 17,
-        "total": 30,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/30535786364",
-        "last_fail_at": "2026-07-30T10:43:42Z",
-        "fail_rate": 0.567
-      }
-    ]
-  },
-  {
     "repo": "notification-service",
     "workflows": [
       {
@@ -181,15 +168,15 @@
     ]
   },
   {
-    "repo": "order-service",
+    "repo": "review-service",
     "workflows": [
       {
         "name": "Check",
         "fail": 16,
-        "total": 30,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/30395403840",
-        "last_fail_at": "2026-07-28T20:13:37Z",
-        "fail_rate": 0.533
+        "total": 28,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/30535786364",
+        "last_fail_at": "2026-07-30T10:43:42Z",
+        "fail_rate": 0.571
       }
     ]
   },
@@ -215,15 +202,28 @@
     ]
   },
   {
+    "repo": "order-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 15,
+        "total": 31,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/30395403840",
+        "last_fail_at": "2026-07-28T20:13:37Z",
+        "fail_rate": 0.484
+      }
+    ]
+  },
+  {
     "repo": "payment-service",
     "workflows": [
       {
         "name": "Check",
         "fail": 11,
-        "total": 25,
+        "total": 24,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/30530550207",
         "last_fail_at": "2026-07-30T09:24:18Z",
-        "fail_rate": 0.44
+        "fail_rate": 0.458
       },
       {
         "name": "docker in /db/migrations - Update #1476049290",
@@ -310,27 +310,27 @@
     "repo": "wolfi-images",
     "workflows": [
       {
+        "name": "go",
+        "fail": 1,
+        "total": 16,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29890767264",
+        "last_fail_at": "2026-07-22T04:19:43Z",
+        "fail_rate": 0.062
+      },
+      {
+        "name": "python",
+        "fail": 1,
+        "total": 16,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29470640818",
+        "last_fail_at": "2026-07-16T04:08:43Z",
+        "fail_rate": 0.062
+      },
+      {
         "name": "node",
         "fail": 1,
         "total": 17,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29717369927",
         "last_fail_at": "2026-07-20T04:38:25Z",
-        "fail_rate": 0.059
-      },
-      {
-        "name": "go",
-        "fail": 1,
-        "total": 17,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29890767264",
-        "last_fail_at": "2026-07-22T04:19:43Z",
-        "fail_rate": 0.059
-      },
-      {
-        "name": "python",
-        "fail": 1,
-        "total": 17,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29470640818",
-        "last_fail_at": "2026-07-16T04:08:43Z",
         "fail_rate": 0.059
       }
     ]
