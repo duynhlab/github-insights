@@ -4261,6 +4261,36 @@
   },
   {
     "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/19",
+    "number": 19,
+    "title": "chore(deps): bump docker/login-action from 3 to 4",
+    "state": "CLOSED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-14T21:24:06Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/35",
+    "number": 35,
+    "title": "chore(deps): bump docker/login-action from 3 to 4.5.2",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-30T21:24:15Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "checkout-service",
     "url": "https://github.com/duynhlab/checkout-service/pull/33",
     "number": 33,
     "title": "chore(deps): bump github.com/duynhlab/pkg from 0.29.0 to 0.30.0",
@@ -4407,21 +4437,6 @@
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/19",
-    "number": 19,
-    "title": "chore(deps): bump docker/login-action from 3 to 4",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-07-14T21:24:06Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
     "lead_time_h": null
   },
   {
