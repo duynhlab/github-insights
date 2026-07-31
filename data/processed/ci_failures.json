@@ -1,5 +1,18 @@
 [
   {
+    "repo": "frontend",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 27,
+        "total": 42,
+        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/30600457261",
+        "last_fail_at": "2026-07-31T03:00:38Z",
+        "fail_rate": 0.643
+      }
+    ]
+  },
+  {
     "repo": "trivy-viewer",
     "workflows": [
       {
@@ -21,48 +34,6 @@
     ]
   },
   {
-    "repo": "product-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 19,
-        "total": 31,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/30516500918",
-        "last_fail_at": "2026-07-30T05:23:54Z",
-        "fail_rate": 0.613
-      },
-      {
-        "name": "github_actions in /. - Update #1485365905",
-        "fail": 1,
-        "total": 2,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/30239622261",
-        "last_fail_at": "2026-07-27T05:23:42Z",
-        "fail_rate": 0.5
-      },
-      {
-        "name": "Build",
-        "fail": 1,
-        "total": 14,
-        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29329340567",
-        "last_fail_at": "2026-07-14T11:33:55Z",
-        "fail_rate": 0.071
-      }
-    ]
-  },
-  {
-    "repo": "frontend",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 21,
-        "total": 36,
-        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/30598864023",
-        "last_fail_at": "2026-07-31T02:23:47Z",
-        "fail_rate": 0.583
-      }
-    ]
-  },
-  {
     "repo": "auth-service",
     "workflows": [
       {
@@ -80,6 +51,35 @@
         "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/29098522621",
         "last_fail_at": "2026-07-10T14:05:53Z",
         "fail_rate": 0.077
+      }
+    ]
+  },
+  {
+    "repo": "product-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 17,
+        "total": 30,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/30516500918",
+        "last_fail_at": "2026-07-30T05:23:54Z",
+        "fail_rate": 0.567
+      },
+      {
+        "name": "github_actions in /. - Update #1485365905",
+        "fail": 1,
+        "total": 2,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/30239622261",
+        "last_fail_at": "2026-07-27T05:23:42Z",
+        "fail_rate": 0.5
+      },
+      {
+        "name": "Build",
+        "fail": 1,
+        "total": 16,
+        "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/29329340567",
+        "last_fail_at": "2026-07-14T11:33:55Z",
+        "fail_rate": 0.062
       }
     ]
   },
@@ -186,10 +186,10 @@
       {
         "name": "Check",
         "fail": 16,
-        "total": 29,
+        "total": 30,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/30395403840",
         "last_fail_at": "2026-07-28T20:13:37Z",
-        "fail_rate": 0.552
+        "fail_rate": 0.533
       }
     ]
   },
@@ -199,10 +199,10 @@
       {
         "name": "Renovate",
         "fail": 14,
-        "total": 44,
+        "total": 45,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
         "last_fail_at": "2026-07-01T06:34:40Z",
-        "fail_rate": 0.318
+        "fail_rate": 0.311
       },
       {
         "name": "\ud83e\uddea E2E (KinD)",
@@ -310,14 +310,6 @@
     "repo": "wolfi-images",
     "workflows": [
       {
-        "name": "python",
-        "fail": 2,
-        "total": 17,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29470640818",
-        "last_fail_at": "2026-07-16T04:08:43Z",
-        "fail_rate": 0.118
-      },
-      {
         "name": "node",
         "fail": 1,
         "total": 17,
@@ -332,6 +324,14 @@
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29890767264",
         "last_fail_at": "2026-07-22T04:19:43Z",
         "fail_rate": 0.059
+      },
+      {
+        "name": "python",
+        "fail": 1,
+        "total": 17,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/29470640818",
+        "last_fail_at": "2026-07-16T04:08:43Z",
+        "fail_rate": 0.059
       }
     ]
   },
@@ -341,10 +341,10 @@
       {
         "name": "build-rpms",
         "fail": 3,
-        "total": 48,
+        "total": 46,
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
         "last_fail_at": "2026-06-15T23:40:17Z",
-        "fail_rate": 0.062
+        "fail_rate": 0.065
       }
     ]
   },

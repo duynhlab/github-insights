@@ -2055,21 +2055,6 @@
     "lead_time_h": 257.63
   },
   {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/82",
-    "number": 82,
-    "title": "build(deps): bump github.com/redis/go-redis/v9 from 9.20.0 to 9.20.1",
-    "state": "MERGED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-06-12T05:23:21Z",
-    "merged_at": "2026-06-14T16:04:09Z",
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 2,
-    "lead_time_h": 58.68
-  },
-  {
     "repo": "cart-service",
     "url": "https://github.com/duynhlab/cart-service/pull/128",
     "number": 128,
