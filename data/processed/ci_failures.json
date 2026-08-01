@@ -5,10 +5,10 @@
       {
         "name": "Check",
         "fail": 28,
-        "total": 42,
+        "total": 43,
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/30653077750",
         "last_fail_at": "2026-07-31T17:55:13Z",
-        "fail_rate": 0.667
+        "fail_rate": 0.651
       }
     ]
   },
@@ -186,18 +186,18 @@
       {
         "name": "Renovate",
         "fail": 14,
-        "total": 45,
+        "total": 46,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
         "last_fail_at": "2026-07-01T06:34:40Z",
-        "fail_rate": 0.311
+        "fail_rate": 0.304
       },
       {
         "name": "\ud83e\uddea E2E (KinD)",
-        "fail": 2,
-        "total": 13,
+        "fail": 1,
+        "total": 12,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/29331851647",
         "last_fail_at": "2026-07-14T12:16:00Z",
-        "fail_rate": 0.154
+        "fail_rate": 0.083
       }
     ]
   },
@@ -247,19 +247,6 @@
     ]
   },
   {
-    "repo": "order-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 13,
-        "total": 33,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/30647410557",
-        "last_fail_at": "2026-07-31T16:30:40Z",
-        "fail_rate": 0.394
-      }
-    ]
-  },
-  {
     "repo": "tf-local",
     "workflows": [
       {
@@ -303,6 +290,19 @@
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/30406798318",
         "last_fail_at": "2026-07-28T23:04:26Z",
         "fail_rate": 0.407
+      }
+    ]
+  },
+  {
+    "repo": "order-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 10,
+        "total": 34,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/30647410557",
+        "last_fail_at": "2026-07-31T16:30:40Z",
+        "fail_rate": 0.294
       }
     ]
   },
@@ -375,10 +375,10 @@
       {
         "name": "CI Pipeline",
         "fail": 2,
-        "total": 87,
+        "total": 89,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/30486353626",
         "last_fail_at": "2026-07-29T19:53:32Z",
-        "fail_rate": 0.023
+        "fail_rate": 0.022
       }
     ]
   },
