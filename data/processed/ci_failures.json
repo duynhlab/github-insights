@@ -202,15 +202,36 @@
     ]
   },
   {
+    "repo": "tf-local",
+    "workflows": [
+      {
+        "name": "CI",
+        "fail": 8,
+        "total": 23,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
+        "last_fail_at": "2026-06-25T00:26:33Z",
+        "fail_rate": 0.348
+      },
+      {
+        "name": ".github/workflows/aws-ci.yml",
+        "fail": 5,
+        "total": 5,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
+        "last_fail_at": "2026-06-19T12:53:29Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "payment-service",
     "workflows": [
       {
         "name": "Check",
-        "fail": 11,
-        "total": 24,
+        "fail": 9,
+        "total": 27,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/30530550207",
         "last_fail_at": "2026-07-30T09:24:18Z",
-        "fail_rate": 0.458
+        "fail_rate": 0.333
       },
       {
         "name": "docker in /db/migrations - Update #1476049290",
@@ -242,27 +263,6 @@
         "total": 1,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/29731799750",
         "last_fail_at": "2026-07-20T09:31:58Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
-    "repo": "tf-local",
-    "workflows": [
-      {
-        "name": "CI",
-        "fail": 8,
-        "total": 23,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
-        "last_fail_at": "2026-06-25T00:26:33Z",
-        "fail_rate": 0.348
-      },
-      {
-        "name": ".github/workflows/aws-ci.yml",
-        "fail": 5,
-        "total": 5,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
-        "last_fail_at": "2026-06-19T12:53:29Z",
         "fail_rate": 1.0
       }
     ]
