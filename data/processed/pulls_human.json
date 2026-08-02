@@ -3886,6 +3886,21 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/169",
+    "number": 169,
+    "title": "Name the two refunds an order can owe",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-02T05:47:38Z",
+    "merged_at": "2026-08-02T05:51:21Z",
+    "additions": 63,
+    "deletions": 39,
+    "changed_files": 10,
+    "lead_time_h": 0.06
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/168",
     "number": 168,
     "title": "Fail closed when the payment outcome is unknown",
@@ -4423,21 +4438,6 @@
     "deletions": 37,
     "changed_files": 15,
     "lead_time_h": 0.06
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/121",
-    "number": 121,
-    "title": "Bump grpc to 1.82.0 and temporal SDK to 1.45.0",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-04T14:01:54Z",
-    "merged_at": "2026-07-04T14:04:56Z",
-    "additions": 6,
-    "deletions": 6,
-    "changed_files": 2,
-    "lead_time_h": 0.05
   },
   {
     "repo": "review-service",
