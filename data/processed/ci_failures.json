@@ -186,10 +186,10 @@
       {
         "name": "Renovate",
         "fail": 14,
-        "total": 46,
+        "total": 47,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/28498478719",
         "last_fail_at": "2026-07-01T06:34:40Z",
-        "fail_rate": 0.304
+        "fail_rate": 0.298
       },
       {
         "name": "\ud83e\uddea E2E (KinD)",
@@ -228,10 +228,10 @@
       {
         "name": "Check",
         "fail": 9,
-        "total": 27,
+        "total": 30,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/30530550207",
         "last_fail_at": "2026-07-30T09:24:18Z",
-        "fail_rate": 0.333
+        "fail_rate": 0.3
       },
       {
         "name": "docker in /db/migrations - Update #1476049290",
@@ -299,10 +299,10 @@
       {
         "name": "Check",
         "fail": 10,
-        "total": 34,
+        "total": 35,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/30647410557",
         "last_fail_at": "2026-07-31T16:30:40Z",
-        "fail_rate": 0.294
+        "fail_rate": 0.286
       }
     ]
   },
@@ -375,7 +375,7 @@
       {
         "name": "CI Pipeline",
         "fail": 2,
-        "total": 90,
+        "total": 89,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/30486353626",
         "last_fail_at": "2026-07-29T19:53:32Z",
         "fail_rate": 0.022
