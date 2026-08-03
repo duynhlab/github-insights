@@ -160,10 +160,10 @@
       {
         "name": "Check",
         "fail": 16,
-        "total": 28,
+        "total": 27,
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/30535786364",
         "last_fail_at": "2026-07-30T10:43:42Z",
-        "fail_rate": 0.571
+        "fail_rate": 0.593
       }
     ]
   },
@@ -198,27 +198,6 @@
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/29331851647",
         "last_fail_at": "2026-07-14T12:16:00Z",
         "fail_rate": 0.083
-      }
-    ]
-  },
-  {
-    "repo": "tf-local",
-    "workflows": [
-      {
-        "name": "CI",
-        "fail": 8,
-        "total": 23,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
-        "last_fail_at": "2026-06-25T00:26:33Z",
-        "fail_rate": 0.348
-      },
-      {
-        "name": ".github/workflows/aws-ci.yml",
-        "fail": 5,
-        "total": 5,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
-        "last_fail_at": "2026-06-19T12:53:29Z",
-        "fail_rate": 1.0
       }
     ]
   },
@@ -303,6 +282,27 @@
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/30406798318",
         "last_fail_at": "2026-07-28T23:04:26Z",
         "fail_rate": 0.407
+      }
+    ]
+  },
+  {
+    "repo": "tf-local",
+    "workflows": [
+      {
+        "name": "CI",
+        "fail": 6,
+        "total": 22,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
+        "last_fail_at": "2026-06-25T00:26:33Z",
+        "fail_rate": 0.273
+      },
+      {
+        "name": ".github/workflows/aws-ci.yml",
+        "fail": 5,
+        "total": 5,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
+        "last_fail_at": "2026-06-19T12:53:29Z",
+        "fail_rate": 1.0
       }
     ]
   },

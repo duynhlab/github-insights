@@ -288,9 +288,9 @@
     "name": "tf-local",
     "url": "https://github.com/duynhlab/tf-local",
     "lang": "HCL",
-    "size_kb": 736,
-    "pushed_at": "2026-06-25T02:38:58Z",
-    "open_issues": 0,
+    "size_kb": 739,
+    "pushed_at": "2026-08-03T12:54:30Z",
+    "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 25,
@@ -300,15 +300,15 @@
     "ttfr_median_h": 0.04,
     "ttfr_p90_h": 0.07,
     "ttfr_sample": 8,
-    "ci_success_rate": 0.87,
+    "ci_success_rate": 0.89,
     "ci_runs": 100
   },
   {
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 4086,
-    "pushed_at": "2026-08-03T02:33:43Z",
+    "size_kb": 4089,
+    "pushed_at": "2026-08-03T09:40:13Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -452,8 +452,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.736,
-    "ci_runs": 72
+    "ci_success_rate": 0.747,
+    "ci_runs": 75
   },
   {
     "name": "release-radar",
