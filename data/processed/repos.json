@@ -148,7 +148,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.81,
+    "ci_success_rate": 0.83,
     "ci_runs": 100
   },
   {
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 4030,
-    "pushed_at": "2026-08-02T19:07:00Z",
+    "size_kb": 4086,
+    "pushed_at": "2026-08-03T02:33:43Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -421,9 +421,9 @@
     "name": "trivy-viewer",
     "url": "https://github.com/duynhlab/trivy-viewer",
     "lang": "TypeScript",
-    "size_kb": 256,
-    "pushed_at": "2026-07-27T06:20:58Z",
-    "open_issues": 11,
+    "size_kb": 389,
+    "pushed_at": "2026-08-03T06:18:36Z",
+    "open_issues": 14,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 4,
@@ -433,8 +433,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.615,
-    "ci_runs": 65
+    "ci_success_rate": 0.592,
+    "ci_runs": 76
   },
   {
     "name": "inventory-service",
@@ -459,7 +459,7 @@
     "name": "release-radar",
     "url": "https://github.com/duynhlab/release-radar",
     "lang": "TypeScript",
-    "size_kb": 3873,
+    "size_kb": 3877,
     "pushed_at": "2026-08-03T02:04:02Z",
     "open_issues": 0,
     "human_open_pr": 0,
@@ -471,7 +471,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.94,
-    "ci_runs": 50
+    "ci_success_rate": 0.941,
+    "ci_runs": 51
   }
 ]

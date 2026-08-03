@@ -169,6 +169,13 @@
   },
   {
     "week": "2026-W32",
+    "author": "dependabot",
+    "is_bot": true,
+    "created": 6,
+    "merged": 0
+  },
+  {
+    "week": "2026-W32",
     "author": "duynhne",
     "is_bot": false,
     "created": 1,
