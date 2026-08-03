@@ -25,11 +25,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 27,
-        "total": 44,
-        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/30653077750",
-        "last_fail_at": "2026-07-31T17:55:13Z",
-        "fail_rate": 0.614
+        "fail": 28,
+        "total": 45,
+        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/30838997179",
+        "last_fail_at": "2026-08-03T17:56:24Z",
+        "fail_rate": 0.622
       }
     ]
   },
@@ -67,19 +67,19 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 17,
-        "total": 27,
+        "fail": 16,
+        "total": 25,
         "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/30558902190",
         "last_fail_at": "2026-07-30T15:53:32Z",
-        "fail_rate": 0.63
+        "fail_rate": 0.64
       },
       {
         "name": "Build",
         "fail": 1,
-        "total": 12,
+        "total": 11,
         "last_fail_url": "https://github.com/duynhlab/auth-service/actions/runs/29098522621",
         "last_fail_at": "2026-07-10T14:05:53Z",
-        "fail_rate": 0.083
+        "fail_rate": 0.091
       }
     ]
   },
@@ -139,10 +139,10 @@
       {
         "name": "Check",
         "fail": 15,
-        "total": 26,
+        "total": 25,
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/30560505788",
         "last_fail_at": "2026-07-30T16:13:56Z",
-        "fail_rate": 0.577
+        "fail_rate": 0.6
       },
       {
         "name": "github_actions in /. - Update #1458971783",
@@ -260,19 +260,6 @@
     ]
   },
   {
-    "repo": "user-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 11,
-        "total": 22,
-        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/30556471277",
-        "last_fail_at": "2026-07-30T15:23:52Z",
-        "fail_rate": 0.5
-      }
-    ]
-  },
-  {
     "repo": "shipping-service",
     "workflows": [
       {
@@ -303,6 +290,19 @@
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
         "last_fail_at": "2026-06-19T12:53:29Z",
         "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "user-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 10,
+        "total": 21,
+        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/30556471277",
+        "last_fail_at": "2026-07-30T15:23:52Z",
+        "fail_rate": 0.476
       }
     ]
   },

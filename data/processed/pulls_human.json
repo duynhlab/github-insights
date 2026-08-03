@@ -6330,21 +6330,6 @@
     "lead_time_h": 0.1
   },
   {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/30",
-    "number": 30,
-    "title": "Clear runtime image CVEs via full apk upgrade",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-14T06:35:35Z",
-    "merged_at": "2026-06-14T06:38:27Z",
-    "additions": 5,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 0.05
-  },
-  {
     "repo": "tf-local",
     "url": "https://github.com/duynhlab/tf-local/pull/30",
     "number": 30,

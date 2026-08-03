@@ -110,7 +110,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.82,
+    "ci_success_rate": 0.83,
     "ci_runs": 100
   },
   {
@@ -129,7 +129,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.89,
+    "ci_success_rate": 0.9,
     "ci_runs": 100
   },
   {
@@ -250,19 +250,19 @@
     "name": "frontend",
     "url": "https://github.com/duynhlab/frontend",
     "lang": "JavaScript",
-    "size_kb": 18560,
-    "pushed_at": "2026-08-01T09:51:38Z",
+    "size_kb": 18559,
+    "pushed_at": "2026-08-03T17:56:17Z",
     "open_issues": 5,
     "human_open_pr": 1,
     "human_stale_pr": 0,
-    "human_merged_pr": 31,
+    "human_merged_pr": 30,
     "commits_window": 82,
-    "lead_time_median_h": 0.11,
+    "lead_time_median_h": 0.12,
     "lead_time_p95_h": 2.24,
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.71,
+    "ci_success_rate": 0.7,
     "ci_runs": 100
   },
   {
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 4089,
-    "pushed_at": "2026-08-03T09:40:13Z",
+    "size_kb": 4090,
+    "pushed_at": "2026-08-03T14:34:15Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
