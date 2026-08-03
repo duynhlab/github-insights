@@ -218,23 +218,23 @@
     },
     {
       "repo": "release-radar",
-      "XS": 1,
+      "XS": 2,
       "S": 1,
       "M": 1,
       "L": 5,
       "XL": 6,
-      "total": 14
+      "total": 15
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 108,
+      "XS": 109,
       "S": 111,
       "M": 140,
       "L": 136,
       "XL": 62,
-      "total": 557
+      "total": 558
     },
     {
       "author": "duyhenryer",

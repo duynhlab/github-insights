@@ -354,10 +354,10 @@
       {
         "name": "CI",
         "fail": 2,
-        "total": 37,
+        "total": 39,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/30473177602",
         "last_fail_at": "2026-07-29T16:58:12Z",
-        "fail_rate": 0.054
+        "fail_rate": 0.051
       },
       {
         "name": "Add tool",

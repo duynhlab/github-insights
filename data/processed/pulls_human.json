@@ -8266,6 +8266,21 @@
   },
   {
     "repo": "release-radar",
+    "url": "https://github.com/duynhlab/release-radar/pull/18",
+    "number": 18,
+    "title": "Update Git config for GitHub Actions bot",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-03T02:03:50Z",
+    "merged_at": "2026-08-03T02:04:00Z",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 1,
+    "lead_time_h": 0.0
+  },
+  {
+    "repo": "release-radar",
     "url": "https://github.com/duynhlab/release-radar/pull/17",
     "number": 17,
     "title": "Fix pgaudit tag pattern, harden add-tool",
