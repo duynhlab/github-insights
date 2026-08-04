@@ -32,8 +32,8 @@
   {
     "name": "auth-service",
     "bot_open_pr": 4,
-    "bot_merged_pr": 3,
-    "bot_lead_time_median_h": 168.07
+    "bot_merged_pr": 2,
+    "bot_lead_time_median_h": 106.02
   },
   {
     "name": "user-service",
@@ -145,7 +145,7 @@
   },
   {
     "name": "release-radar",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 0.08
   }

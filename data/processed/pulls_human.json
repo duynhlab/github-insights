@@ -2895,21 +2895,6 @@
     "lead_time_h": 4.63
   },
   {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/74",
-    "number": 74,
-    "title": "Add logic tests and Sonar coverage config",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-09T02:45:25Z",
-    "merged_at": null,
-    "additions": 415,
-    "deletions": 12,
-    "changed_files": 5,
-    "lead_time_h": null
-  },
-  {
     "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/136",
     "number": 136,
@@ -3868,21 +3853,6 @@
     "deletions": 69,
     "changed_files": 7,
     "lead_time_h": 0.04
-  },
-  {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/88",
-    "number": 88,
-    "title": "Wrap trace sampler in ParentBased",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-23T16:15:39Z",
-    "merged_at": "2026-06-25T09:00:40Z",
-    "additions": 3,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 40.75
   },
   {
     "repo": "order-service",
@@ -5368,21 +5338,6 @@
     "deletions": 12,
     "changed_files": 2,
     "lead_time_h": 0.12
-  },
-  {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/80",
-    "number": 80,
-    "title": "Adopt pkg v0.6.0 (grpcx hardening)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-14T02:20:56Z",
-    "merged_at": "2026-06-14T02:25:37Z",
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 2,
-    "lead_time_h": 0.08
   },
   {
     "repo": "shipping-service",
