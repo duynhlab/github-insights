@@ -111,11 +111,11 @@
     {
       "repo": "shipping-service",
       "XS": 9,
-      "S": 10,
+      "S": 8,
       "M": 6,
       "L": 7,
       "XL": 0,
-      "total": 32
+      "total": 30
     },
     {
       "repo": "frontend",
@@ -230,11 +230,11 @@
     {
       "author": "duynhne",
       "XS": 108,
-      "S": 111,
+      "S": 109,
       "M": 140,
       "L": 136,
       "XL": 62,
-      "total": 557
+      "total": 555
     },
     {
       "author": "duyhenryer",
