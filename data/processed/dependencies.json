@@ -43,9 +43,9 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 3,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 128.99
+    "bot_open_pr": 2,
+    "bot_merged_pr": 1,
+    "bot_lead_time_median_h": 0.34
   },
   {
     "name": "cart-service",
@@ -145,7 +145,7 @@
   },
   {
     "name": "release-radar",
-    "bot_open_pr": 1,
+    "bot_open_pr": 0,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 0.08
   }
