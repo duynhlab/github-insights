@@ -1246,6 +1246,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/656",
+    "number": 656,
+    "title": "Sync docs/api to the P4 as-built",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-05T01:33:58Z",
+    "merged_at": "2026-08-05T01:35:03Z",
+    "additions": 113,
+    "deletions": 73,
+    "changed_files": 6,
+    "lead_time_h": 0.02
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/655",
     "number": 655,
     "title": "Run the order reconciler on the current build only",
@@ -1933,21 +1948,6 @@
     "deletions": 0,
     "changed_files": 1,
     "lead_time_h": 0.02
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/607",
-    "number": 607,
-    "title": "Stage official Temporal helm chart, commented out (ADR-030)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-27T08:06:04Z",
-    "merged_at": "2026-07-27T09:37:12Z",
-    "additions": 90,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 1.52
   },
   {
     "repo": "auth-service",
@@ -5773,21 +5773,6 @@
     "deletions": 8,
     "changed_files": 12,
     "lead_time_h": 0.26
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/84",
-    "number": 84,
-    "title": "Rename CI workflow refs to duynhlab/gha-workflows",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-14T05:52:48Z",
-    "merged_at": "2026-06-14T06:00:25Z",
-    "additions": 12,
-    "deletions": 12,
-    "changed_files": 2,
-    "lead_time_h": 0.13
   },
   {
     "repo": "frontend",
