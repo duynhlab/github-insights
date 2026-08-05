@@ -27,12 +27,12 @@
     "pr_updated_at": "2026-08-04T23:04:23Z"
   },
   "frontend": {
-    "pr_updated_at": "2026-08-05T07:21:34Z"
+    "pr_updated_at": "2026-08-05T17:55:35Z"
   },
   "tf-local": {
     "pr_updated_at": "2026-08-03T12:54:35Z"
   },
-  "last_run": "2026-08-05T14:03:40.015998+00:00",
+  "last_run": "2026-08-05T19:27:38.868048+00:00",
   "github-insights": {
     "pr_updated_at": "2026-08-04T08:07:35Z"
   },
@@ -70,6 +70,6 @@
     "pr_updated_at": "2026-08-05T13:24:32Z"
   },
   "release-radar": {
-    "pr_updated_at": "2026-08-05T14:03:28Z"
+    "pr_updated_at": "2026-08-05T15:28:43Z"
   }
 }

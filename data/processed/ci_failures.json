@@ -25,11 +25,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 26,
-        "total": 46,
-        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/30838997179",
-        "last_fail_at": "2026-08-03T17:56:24Z",
-        "fail_rate": 0.565
+        "fail": 27,
+        "total": 42,
+        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/31032290529",
+        "last_fail_at": "2026-08-05T17:55:36Z",
+        "fail_rate": 0.643
       }
     ]
   },
@@ -346,10 +346,10 @@
       {
         "name": "CI",
         "fail": 2,
-        "total": 43,
+        "total": 57,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/30473177602",
         "last_fail_at": "2026-07-29T16:58:12Z",
-        "fail_rate": 0.047
+        "fail_rate": 0.035
       },
       {
         "name": "Add tool",
