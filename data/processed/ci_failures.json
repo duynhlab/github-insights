@@ -39,10 +39,10 @@
       {
         "name": "Check",
         "fail": 16,
-        "total": 27,
+        "total": 29,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/31010053333",
         "last_fail_at": "2026-08-05T13:24:33Z",
-        "fail_rate": 0.593
+        "fail_rate": 0.552
       },
       {
         "name": "Build",
@@ -67,19 +67,19 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 16,
-        "total": 30,
-        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/30952195681",
-        "last_fail_at": "2026-08-04T21:24:24Z",
-        "fail_rate": 0.533
+        "fail": 17,
+        "total": 31,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/31064544297",
+        "last_fail_at": "2026-08-06T02:04:05Z",
+        "fail_rate": 0.548
       },
       {
         "name": "Build",
         "fail": 2,
-        "total": 17,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/30974680647",
         "last_fail_at": "2026-08-05T04:16:51Z",
-        "fail_rate": 0.118
+        "fail_rate": 0.133
       }
     ]
   },
@@ -199,10 +199,10 @@
       {
         "name": "Check",
         "fail": 12,
-        "total": 25,
+        "total": 24,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/30958737670",
         "last_fail_at": "2026-08-04T23:04:24Z",
-        "fail_rate": 0.48
+        "fail_rate": 0.5
       }
     ]
   },
@@ -299,6 +299,27 @@
     ]
   },
   {
+    "repo": "release-radar",
+    "workflows": [
+      {
+        "name": "CI",
+        "fail": 3,
+        "total": 61,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31064211225",
+        "last_fail_at": "2026-08-06T01:57:14Z",
+        "fail_rate": 0.049
+      },
+      {
+        "name": "Add tool",
+        "fail": 1,
+        "total": 7,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/30511880240",
+        "last_fail_at": "2026-07-30T03:42:11Z",
+        "fail_rate": 0.143
+      }
+    ]
+  },
+  {
     "repo": "wolfi-images",
     "workflows": [
       {
@@ -337,27 +358,6 @@
         "last_fail_url": "https://github.com/duynhlab/packages/actions/runs/27583671932",
         "last_fail_at": "2026-06-15T23:40:17Z",
         "fail_rate": 0.071
-      }
-    ]
-  },
-  {
-    "repo": "release-radar",
-    "workflows": [
-      {
-        "name": "CI",
-        "fail": 2,
-        "total": 57,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/30473177602",
-        "last_fail_at": "2026-07-29T16:58:12Z",
-        "fail_rate": 0.035
-      },
-      {
-        "name": "Add tool",
-        "fail": 1,
-        "total": 7,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/30511880240",
-        "last_fail_at": "2026-07-30T03:42:11Z",
-        "fail_rate": 0.143
       }
     ]
   },

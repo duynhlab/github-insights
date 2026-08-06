@@ -7666,6 +7666,21 @@
   },
   {
     "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/41",
+    "number": 41,
+    "title": "Fail closed when inventory does not track a SKU",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-06T02:04:01Z",
+    "merged_at": null,
+    "additions": 356,
+    "deletions": 10,
+    "changed_files": 13,
+    "lead_time_h": null
+  },
+  {
+    "repo": "checkout-service",
     "url": "https://github.com/duynhlab/checkout-service/pull/40",
     "number": 40,
     "title": "Answer 503, not 500, when a dependency is down at session create",
@@ -8041,6 +8056,21 @@
   },
   {
     "repo": "inventory-service",
+    "url": "https://github.com/duynhlab/inventory-service/pull/21",
+    "number": 21,
+    "title": "Report unknown SKUs instead of zero-ATP shortages",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-06T01:36:51Z",
+    "merged_at": null,
+    "additions": 232,
+    "deletions": 27,
+    "changed_files": 8,
+    "lead_time_h": null
+  },
+  {
+    "repo": "inventory-service",
     "url": "https://github.com/duynhlab/inventory-service/pull/19",
     "number": 19,
     "title": "Retire the phase-2 stock backfill",
@@ -8233,6 +8263,21 @@
     "deletions": 0,
     "changed_files": 5,
     "lead_time_h": 0.07
+  },
+  {
+    "repo": "release-radar",
+    "url": "https://github.com/duynhlab/release-radar/pull/30",
+    "number": 30,
+    "title": "feat(ui): rebuild on tanstack start and cloudflare workers",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-06T01:56:42Z",
+    "merged_at": null,
+    "additions": 9576,
+    "deletions": 6464,
+    "changed_files": 140,
+    "lead_time_h": null
   },
   {
     "repo": "release-radar",
