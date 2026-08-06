@@ -8,8 +8,8 @@
   {
     "name": "gha-workflows",
     "bot_open_pr": 4,
-    "bot_merged_pr": 27,
-    "bot_lead_time_median_h": 24.9
+    "bot_merged_pr": 24,
+    "bot_lead_time_median_h": 24.87
   },
   {
     "name": "wolfi-images",
@@ -55,7 +55,7 @@
   },
   {
     "name": "order-service",
-    "bot_open_pr": 4,
+    "bot_open_pr": 9,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -73,9 +73,9 @@
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 3,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 264.55
+    "bot_open_pr": 8,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "frontend",
@@ -121,7 +121,7 @@
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 5,
+    "bot_open_pr": 9,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },

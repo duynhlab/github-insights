@@ -23,7 +23,7 @@
     "url": "https://github.com/duynhlab/gha-workflows",
     "lang": null,
     "size_kb": 339,
-    "pushed_at": "2026-08-06T10:35:04Z",
+    "pushed_at": "2026-08-06T23:09:53Z",
     "open_issues": 5,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -91,7 +91,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.99,
+    "ci_success_rate": 0.98,
     "ci_runs": 100
   },
   {
@@ -129,7 +129,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.9,
+    "ci_success_rate": 0.91,
     "ci_runs": 100
   },
   {
@@ -167,26 +167,26 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.84,
+    "ci_success_rate": 0.83,
     "ci_runs": 100
   },
   {
     "name": "order-service",
     "url": "https://github.com/duynhlab/order-service",
     "lang": "Go",
-    "size_kb": 933,
-    "pushed_at": "2026-08-06T07:01:54Z",
-    "open_issues": 4,
+    "size_kb": 973,
+    "pushed_at": "2026-08-06T20:14:49Z",
+    "open_issues": 9,
     "human_open_pr": 0,
     "human_stale_pr": 0,
-    "human_merged_pr": 38,
+    "human_merged_pr": 34,
     "commits_window": 140,
-    "lead_time_median_h": 0.5,
+    "lead_time_median_h": 0.37,
     "lead_time_p95_h": 6.45,
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.91,
+    "ci_success_rate": 0.89,
     "ci_runs": 100
   },
   {
@@ -232,18 +232,18 @@
     "url": "https://github.com/duynhlab/shipping-service",
     "lang": "Go",
     "size_kb": 302,
-    "pushed_at": "2026-08-06T07:01:24Z",
-    "open_issues": 3,
+    "pushed_at": "2026-08-06T23:04:50Z",
+    "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
-    "human_merged_pr": 29,
+    "human_merged_pr": 25,
     "commits_window": 86,
-    "lead_time_median_h": 0.4,
-    "lead_time_p95_h": 40.74,
+    "lead_time_median_h": 0.42,
+    "lead_time_p95_h": 8.81,
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.88,
+    "ci_success_rate": 0.84,
     "ci_runs": 100
   },
   {
@@ -262,7 +262,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.71,
+    "ci_success_rate": 0.67,
     "ci_runs": 100
   },
   {
@@ -307,8 +307,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 3578,
-    "pushed_at": "2026-08-06T08:32:45Z",
+    "size_kb": 3582,
+    "pushed_at": "2026-08-06T14:02:22Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -319,7 +319,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.99,
+    "ci_success_rate": 0.98,
     "ci_runs": 100
   },
   {
@@ -383,9 +383,9 @@
     "name": "checkout-service",
     "url": "https://github.com/duynhlab/checkout-service",
     "lang": "Go",
-    "size_kb": 296,
-    "pushed_at": "2026-08-06T07:02:28Z",
-    "open_issues": 5,
+    "size_kb": 338,
+    "pushed_at": "2026-08-06T21:24:21Z",
+    "open_issues": 9,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 20,
@@ -395,7 +395,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.84,
+    "ci_success_rate": 0.81,
     "ci_runs": 100
   },
   {
@@ -471,7 +471,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.94,
+    "ci_success_rate": 0.93,
     "ci_runs": 100
   }
 ]
