@@ -25,7 +25,7 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 1,
+    "bot_open_pr": 0,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -74,8 +74,8 @@
   {
     "name": "shipping-service",
     "bot_open_pr": 3,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 264.45
+    "bot_merged_pr": 1,
+    "bot_lead_time_median_h": 264.55
   },
   {
     "name": "frontend",
@@ -121,7 +121,7 @@
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 6,
+    "bot_open_pr": 5,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -139,7 +139,7 @@
   },
   {
     "name": "inventory-service",
-    "bot_open_pr": 3,
+    "bot_open_pr": 2,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
