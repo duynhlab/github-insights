@@ -126,19 +126,6 @@
     ]
   },
   {
-    "repo": "review-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 15,
-        "total": 25,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/30998593776",
-        "last_fail_at": "2026-08-05T10:43:53Z",
-        "fail_rate": 0.6
-      }
-    ]
-  },
-  {
     "repo": "notification-service",
     "workflows": [
       {
@@ -169,6 +156,19 @@
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/29331851647",
         "last_fail_at": "2026-07-14T12:16:00Z",
         "fail_rate": 0.1
+      }
+    ]
+  },
+  {
+    "repo": "review-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 14,
+        "total": 24,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/30998593776",
+        "last_fail_at": "2026-08-05T10:43:53Z",
+        "fail_rate": 0.583
       }
     ]
   },
@@ -233,10 +233,10 @@
       {
         "name": "Check",
         "fail": 7,
-        "total": 31,
+        "total": 29,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/30530550207",
         "last_fail_at": "2026-07-30T09:24:18Z",
-        "fail_rate": 0.226
+        "fail_rate": 0.241
       },
       {
         "name": "go_modules in /. - Update #1502118678",
@@ -367,10 +367,23 @@
       {
         "name": "CI",
         "fail": 1,
-        "total": 76,
+        "total": 77,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31064211225",
         "last_fail_at": "2026-08-06T01:57:14Z",
         "fail_rate": 0.013
+      }
+    ]
+  },
+  {
+    "repo": "homelab",
+    "workflows": [
+      {
+        "name": "CI Pipeline",
+        "fail": 1,
+        "total": 89,
+        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/31090998198",
+        "last_fail_at": "2026-08-06T09:53:38Z",
+        "fail_rate": 0.011
       }
     ]
   },

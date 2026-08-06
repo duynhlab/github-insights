@@ -12,11 +12,11 @@
     {
       "repo": "gha-workflows",
       "XS": 3,
-      "S": 2,
+      "S": 3,
       "M": 7,
       "L": 0,
       "XL": 2,
-      "total": 14
+      "total": 15
     },
     {
       "repo": "wolfi-images",
@@ -41,8 +41,8 @@
       "XS": 2,
       "S": 16,
       "M": 20,
-      "L": 10,
-      "XL": 2,
+      "L": 11,
+      "XL": 1,
       "total": 50
     },
     {
@@ -221,29 +221,29 @@
       "XS": 2,
       "S": 3,
       "M": 7,
-      "L": 10,
-      "XL": 9,
-      "total": 31
+      "L": 12,
+      "XL": 10,
+      "total": 34
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
       "XS": 102,
-      "S": 127,
+      "S": 128,
       "M": 145,
-      "L": 137,
-      "XL": 68,
-      "total": 579
+      "L": 138,
+      "XL": 67,
+      "total": 580
     },
     {
       "author": "duyhenryer",
       "XS": 3,
       "S": 1,
       "M": 0,
-      "L": 2,
-      "XL": 3,
-      "total": 9
+      "L": 4,
+      "XL": 4,
+      "total": 12
     }
   ],
   "buckets": [
