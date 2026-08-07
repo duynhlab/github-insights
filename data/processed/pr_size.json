@@ -12,8 +12,8 @@
     {
       "repo": "gha-workflows",
       "XS": 3,
-      "S": 3,
-      "M": 7,
+      "S": 4,
+      "M": 6,
       "L": 0,
       "XL": 2,
       "total": 15
@@ -39,9 +39,9 @@
     {
       "repo": "homelab",
       "XS": 0,
-      "S": 10,
+      "S": 11,
       "M": 14,
-      "L": 7,
+      "L": 6,
       "XL": 2,
       "total": 33
     },
@@ -85,19 +85,19 @@
       "repo": "order-service",
       "XS": 3,
       "S": 5,
-      "M": 6,
+      "M": 7,
       "L": 12,
       "XL": 9,
-      "total": 35
+      "total": 36
     },
     {
       "repo": "review-service",
       "XS": 9,
-      "S": 10,
+      "S": 8,
       "M": 5,
-      "L": 7,
+      "L": 4,
       "XL": 1,
-      "total": 32
+      "total": 27
     },
     {
       "repo": "notification-service",
@@ -120,10 +120,10 @@
     {
       "repo": "frontend",
       "XS": 3,
-      "S": 8,
+      "S": 9,
       "M": 7,
       "L": 7,
-      "XL": 7,
+      "XL": 6,
       "total": 32
     },
     {
@@ -175,10 +175,10 @@
       "repo": "payment-service",
       "XS": 6,
       "S": 4,
-      "M": 8,
-      "L": 18,
-      "XL": 2,
-      "total": 38
+      "M": 9,
+      "L": 13,
+      "XL": 1,
+      "total": 33
     },
     {
       "repo": "checkout-service",
@@ -211,10 +211,10 @@
       "repo": "inventory-service",
       "XS": 0,
       "S": 4,
-      "M": 1,
+      "M": 2,
       "L": 5,
       "XL": 5,
-      "total": 15
+      "total": 16
     },
     {
       "repo": "release-radar",
@@ -230,11 +230,11 @@
     {
       "author": "duynhne",
       "XS": 105,
-      "S": 117,
-      "M": 136,
-      "L": 130,
-      "XL": 68,
-      "total": 556
+      "S": 118,
+      "M": 138,
+      "L": 121,
+      "XL": 66,
+      "total": 548
     },
     {
       "author": "duyhenryer",
