@@ -1,6 +1,21 @@
 [
   {
     "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/95",
+    "number": 95,
+    "title": "build(deps): bump slackapi/slack-github-action from 3.0.1 to 4.0.0 in /.github/actions/slack-notification",
+    "state": "MERGED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-31T15:11:48Z",
+    "merged_at": "2026-08-07T02:07:24Z",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 1,
+    "lead_time_h": 154.93
+  },
+  {
+    "repo": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows/pull/102",
     "number": 102,
     "title": "build(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.5",
@@ -86,21 +101,6 @@
     "merged_at": null,
     "additions": 1,
     "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/95",
-    "number": 95,
-    "title": "build(deps): bump slackapi/slack-github-action from 3.0.1 to 4.0.0 in /.github/actions/slack-notification",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-07-31T15:11:48Z",
-    "merged_at": null,
-    "additions": 2,
-    "deletions": 2,
     "changed_files": 1,
     "lead_time_h": null
   },

@@ -99,11 +99,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 16,
+        "fail": 15,
         "total": 33,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/31128622334",
         "last_fail_at": "2026-08-06T21:54:29Z",
-        "fail_rate": 0.485
+        "fail_rate": 0.455
       },
       {
         "name": "Build",
@@ -397,35 +397,6 @@
     ]
   },
   {
-    "repo": "release-radar",
-    "workflows": [
-      {
-        "name": "Add tool",
-        "fail": 1,
-        "total": 7,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/30511880240",
-        "last_fail_at": "2026-07-30T03:42:11Z",
-        "fail_rate": 0.143
-      },
-      {
-        "name": "Sync releases",
-        "fail": 1,
-        "total": 13,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31119293613",
-        "last_fail_at": "2026-08-06T16:17:25Z",
-        "fail_rate": 0.077
-      },
-      {
-        "name": "CI",
-        "fail": 1,
-        "total": 76,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31064211225",
-        "last_fail_at": "2026-08-06T01:57:14Z",
-        "fail_rate": 0.013
-      }
-    ]
-  },
-  {
     "repo": "homelab",
     "workflows": [
       {
@@ -456,6 +427,27 @@
         "last_fail_url": "https://github.com/duynhlab/backstage/actions/runs/22710319088",
         "last_fail_at": "2026-03-05T09:02:21Z",
         "fail_rate": 0.182
+      }
+    ]
+  },
+  {
+    "repo": "release-radar",
+    "workflows": [
+      {
+        "name": "Add tool",
+        "fail": 1,
+        "total": 7,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/30511880240",
+        "last_fail_at": "2026-07-30T03:42:11Z",
+        "fail_rate": 0.143
+      },
+      {
+        "name": "CI",
+        "fail": 1,
+        "total": 76,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31064211225",
+        "last_fail_at": "2026-08-06T01:57:14Z",
+        "fail_rate": 0.013
       }
     ]
   },

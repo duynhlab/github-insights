@@ -7621,6 +7621,21 @@
   },
   {
     "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/47",
+    "number": 47,
+    "title": "Answer 503, not 500, when checkout's own database is unavailable",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-07T02:21:10Z",
+    "merged_at": null,
+    "additions": 815,
+    "deletions": 37,
+    "changed_files": 12,
+    "lead_time_h": null
+  },
+  {
+    "repo": "checkout-service",
     "url": "https://github.com/duynhlab/checkout-service/pull/42",
     "number": 42,
     "title": "Pin reusable workflows, pass only needed secrets",
