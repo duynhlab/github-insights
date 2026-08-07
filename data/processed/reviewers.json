@@ -2,19 +2,19 @@
   {
     "login": "cubic-dev-ai",
     "approved": 0,
-    "commented": 10,
+    "commented": 9,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 10,
+    "total": 9,
     "repos": 2
   },
   {
     "login": "qodo-code-review",
     "approved": 0,
-    "commented": 4,
+    "commented": 3,
     "changes_requested": 0,
     "dismissed": 0,
-    "total": 4,
+    "total": 3,
     "repos": 2
   },
   {

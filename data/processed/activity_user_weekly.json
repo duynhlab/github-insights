@@ -24,7 +24,7 @@
     "week": "2026-W23",
     "author": "dependabot",
     "is_bot": true,
-    "created": 10,
+    "created": 9,
     "merged": 2
   },
   {
@@ -38,21 +38,21 @@
     "week": "2026-W24",
     "author": "duynhne",
     "is_bot": false,
-    "created": 44,
-    "merged": 40
+    "created": 42,
+    "merged": 38
   },
   {
     "week": "2026-W24",
     "author": "dependabot",
     "is_bot": true,
     "created": 5,
-    "merged": 9
+    "merged": 8
   },
   {
     "week": "2026-W25",
     "author": "dependabot",
     "is_bot": true,
-    "created": 13,
+    "created": 12,
     "merged": 2
   },
   {
@@ -66,29 +66,29 @@
     "week": "2026-W26",
     "author": "duynhne",
     "is_bot": false,
-    "created": 58,
-    "merged": 58
+    "created": 55,
+    "merged": 55
   },
   {
     "week": "2026-W26",
     "author": "dependabot",
     "is_bot": true,
-    "created": 12,
-    "merged": 8
+    "created": 10,
+    "merged": 7
   },
   {
     "week": "2026-W27",
     "author": "dependabot",
     "is_bot": true,
-    "created": 38,
-    "merged": 7
+    "created": 37,
+    "merged": 6
   },
   {
     "week": "2026-W27",
     "author": "duynhne",
     "is_bot": false,
-    "created": 92,
-    "merged": 91
+    "created": 88,
+    "merged": 87
   },
   {
     "week": "2026-W28",
@@ -101,7 +101,7 @@
     "week": "2026-W28",
     "author": "dependabot",
     "is_bot": true,
-    "created": 52,
+    "created": 51,
     "merged": 0
   },
   {
@@ -122,7 +122,7 @@
     "week": "2026-W30",
     "author": "dependabot",
     "is_bot": true,
-    "created": 38,
+    "created": 39,
     "merged": 1
   },
   {
@@ -150,8 +150,8 @@
     "week": "2026-W31",
     "author": "duynhne",
     "is_bot": false,
-    "created": 76,
-    "merged": 74
+    "created": 57,
+    "merged": 55
   },
   {
     "week": "2026-W31",
@@ -164,15 +164,22 @@
     "week": "2026-W32",
     "author": "dependabot",
     "is_bot": true,
-    "created": 41,
-    "merged": 1
+    "created": 48,
+    "merged": 2
   },
   {
     "week": "2026-W32",
     "author": "duynhne",
     "is_bot": false,
-    "created": 78,
-    "merged": 77
+    "created": 90,
+    "merged": 89
+  },
+  {
+    "week": "2026-W32",
+    "author": "renovate",
+    "is_bot": true,
+    "created": 16,
+    "merged": 0
   },
   {
     "week": "2026-W32",
