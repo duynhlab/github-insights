@@ -38,8 +38,8 @@
   {
     "name": "user-service",
     "bot_open_pr": 6,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 253.92
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "product-service",
@@ -62,8 +62,8 @@
   {
     "name": "review-service",
     "bot_open_pr": 7,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 255.81
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "notification-service",
