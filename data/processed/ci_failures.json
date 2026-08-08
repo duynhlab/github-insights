@@ -292,18 +292,18 @@
       {
         "name": "Check",
         "fail": 17,
-        "total": 32,
-        "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/31182580573",
-        "last_fail_at": "2026-08-07T13:25:43Z",
-        "fail_rate": 0.531
+        "total": 31,
+        "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/31256567079",
+        "last_fail_at": "2026-08-08T12:08:35Z",
+        "fail_rate": 0.548
       },
       {
         "name": "Build",
         "fail": 4,
-        "total": 23,
+        "total": 20,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/30323913639",
         "last_fail_at": "2026-07-28T02:43:19Z",
-        "fail_rate": 0.174
+        "fail_rate": 0.2
       }
     ]
   },

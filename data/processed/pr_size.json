@@ -211,10 +211,10 @@
       "repo": "inventory-service",
       "XS": 0,
       "S": 4,
-      "M": 2,
+      "M": 3,
       "L": 5,
       "XL": 5,
-      "total": 16
+      "total": 17
     },
     {
       "repo": "release-radar",
@@ -231,10 +231,10 @@
       "author": "duynhne",
       "XS": 90,
       "S": 115,
-      "M": 139,
+      "M": 140,
       "L": 113,
       "XL": 66,
-      "total": 523
+      "total": 524
     },
     {
       "author": "duyhenryer",
