@@ -384,9 +384,9 @@
       {
         "name": "CI Pipeline",
         "fail": 4,
-        "total": 94,
-        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/31213450268",
-        "last_fail_at": "2026-08-07T19:53:33Z",
+        "total": 93,
+        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/31315687078",
+        "last_fail_at": "2026-08-09T13:23:32Z",
         "fail_rate": 0.043
       },
       {
@@ -447,7 +447,7 @@
       {
         "name": "CI",
         "fail": 1,
-        "total": 71,
+        "total": 70,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31064211225",
         "last_fail_at": "2026-08-06T01:57:14Z",
         "fail_rate": 0.014
