@@ -39,18 +39,18 @@
     {
       "repo": "homelab",
       "XS": 0,
-      "S": 5,
-      "M": 19,
+      "S": 3,
+      "M": 21,
       "L": 3,
       "XL": 3,
       "total": 30
     },
     {
       "repo": "auth-service",
-      "XS": 7,
+      "XS": 6,
       "S": 7,
       "M": 5,
-      "L": 7,
+      "L": 8,
       "XL": 2,
       "total": 28
     },
@@ -58,8 +58,8 @@
       "repo": "user-service",
       "XS": 9,
       "S": 7,
-      "M": 8,
-      "L": 4,
+      "M": 7,
+      "L": 5,
       "XL": 0,
       "total": 28
     },
@@ -77,25 +77,25 @@
       "XS": 5,
       "S": 7,
       "M": 7,
-      "L": 6,
+      "L": 7,
       "XL": 0,
-      "total": 25
+      "total": 26
     },
     {
       "repo": "order-service",
-      "XS": 3,
+      "XS": 2,
       "S": 4,
       "M": 8,
-      "L": 11,
+      "L": 12,
       "XL": 8,
       "total": 34
     },
     {
       "repo": "review-service",
-      "XS": 9,
+      "XS": 8,
       "S": 7,
       "M": 7,
-      "L": 4,
+      "L": 5,
       "XL": 1,
       "total": 28
     },
@@ -104,23 +104,23 @@
       "XS": 5,
       "S": 8,
       "M": 8,
-      "L": 4,
+      "L": 5,
       "XL": 1,
-      "total": 26
+      "total": 27
     },
     {
       "repo": "shipping-service",
       "XS": 7,
       "S": 7,
-      "M": 6,
-      "L": 6,
+      "M": 5,
+      "L": 7,
       "XL": 0,
       "total": 26
     },
     {
       "repo": "frontend",
-      "XS": 3,
-      "S": 9,
+      "XS": 4,
+      "S": 8,
       "M": 7,
       "L": 6,
       "XL": 6,
@@ -175,8 +175,8 @@
       "repo": "payment-service",
       "XS": 6,
       "S": 4,
-      "M": 10,
-      "L": 10,
+      "M": 9,
+      "L": 11,
       "XL": 1,
       "total": 31
     },
@@ -185,9 +185,9 @@
       "XS": 2,
       "S": 4,
       "M": 8,
-      "L": 6,
+      "L": 7,
       "XL": 5,
-      "total": 25
+      "total": 26
     },
     {
       "repo": "gitops",
@@ -209,12 +209,12 @@
     },
     {
       "repo": "inventory-service",
-      "XS": 0,
+      "XS": 1,
       "S": 4,
       "M": 3,
-      "L": 5,
+      "L": 6,
       "XL": 5,
-      "total": 17
+      "total": 19
     },
     {
       "repo": "release-radar",
@@ -229,12 +229,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 87,
-      "S": 113,
-      "M": 150,
-      "L": 111,
+      "XS": 86,
+      "S": 110,
+      "M": 149,
+      "L": 121,
       "XL": 65,
-      "total": 526
+      "total": 531
     },
     {
       "author": "duyhenryer",
