@@ -1261,6 +1261,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/722",
+    "number": 722,
+    "title": "Add RFC-0022: Keycloak as platform IdP",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-09T04:32:56Z",
+    "merged_at": null,
+    "additions": 990,
+    "deletions": 3,
+    "changed_files": 4,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/721",
     "number": 721,
     "title": "Say which document owns which fact",
@@ -1693,21 +1708,6 @@
     "deletions": 47,
     "changed_files": 14,
     "lead_time_h": 0.77
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/675",
-    "number": 675,
-    "title": "Fix SLO correctness and duplicate paging",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-06T10:17:05Z",
-    "merged_at": "2026-08-06T10:36:59Z",
-    "additions": 519,
-    "deletions": 66,
-    "changed_files": 21,
-    "lead_time_h": 0.33
   },
   {
     "repo": "auth-service",
