@@ -43,7 +43,7 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 9,
+    "bot_open_pr": 14,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -145,7 +145,7 @@
   },
   {
     "name": "release-radar",
-    "bot_open_pr": 0,
+    "bot_open_pr": 4,
     "bot_merged_pr": 3,
     "bot_lead_time_median_h": 0.08
   }
