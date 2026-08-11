@@ -129,6 +129,27 @@
     ]
   },
   {
+    "repo": "review-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 31,
+        "total": 39,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31483486582",
+        "last_fail_at": "2026-08-11T10:43:42Z",
+        "fail_rate": 0.795
+      },
+      {
+        "name": "docker in /db/migrations - Update #1513268840",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31238149867",
+        "last_fail_at": "2026-08-08T03:51:49Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "notification-service",
     "workflows": [
       {
@@ -216,27 +237,6 @@
     ]
   },
   {
-    "repo": "review-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 29,
-        "total": 37,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31380428706",
-        "last_fail_at": "2026-08-10T10:44:17Z",
-        "fail_rate": 0.784
-      },
-      {
-        "name": "docker in /db/migrations - Update #1513268840",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31238149867",
-        "last_fail_at": "2026-08-08T03:51:49Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "checkout-service",
     "workflows": [
       {
@@ -312,11 +312,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 19,
+        "fail": 21,
         "total": 48,
-        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/31375227382",
-        "last_fail_at": "2026-08-10T09:34:24Z",
-        "fail_rate": 0.396
+        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/31477571984",
+        "last_fail_at": "2026-08-11T09:24:38Z",
+        "fail_rate": 0.438
       },
       {
         "name": "docker in /db/migrations - Update #1513269521",
@@ -444,10 +444,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 1,
-        "total": 88,
+        "total": 85,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/31108531339",
         "last_fail_at": "2026-08-06T13:58:56Z",
-        "fail_rate": 0.011
+        "fail_rate": 0.012
       }
     ]
   },

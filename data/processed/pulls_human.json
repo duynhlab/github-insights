@@ -1204,15 +1204,30 @@
     "url": "https://github.com/duynhlab/homelab/pull/747",
     "number": 747,
     "title": "Accept ADR-039 and mark its adoption complete",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-08-11T06:46:17Z",
-    "merged_at": null,
+    "merged_at": "2026-08-11T09:23:37Z",
     "additions": 22,
     "deletions": 6,
     "changed_files": 4,
-    "lead_time_h": null
+    "lead_time_h": 2.62
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/748",
+    "number": 748,
+    "title": "Correct docs/api and local-stack against reality",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-11T08:38:24Z",
+    "merged_at": "2026-08-11T09:23:26Z",
+    "additions": 193,
+    "deletions": 93,
+    "changed_files": 16,
+    "lead_time_h": 0.75
   },
   {
     "repo": "homelab",
@@ -1633,21 +1648,6 @@
     "deletions": 23,
     "changed_files": 3,
     "lead_time_h": 0.61
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/706",
-    "number": 706,
-    "title": "Close the gaps a post-wave audit found",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-07T14:30:27Z",
-    "merged_at": "2026-08-07T14:41:38Z",
-    "additions": 239,
-    "deletions": 18,
-    "changed_files": 12,
-    "lead_time_h": 0.19
   },
   {
     "repo": "auth-service",
@@ -3733,21 +3733,6 @@
     "deletions": 8,
     "changed_files": 10,
     "lead_time_h": 0.54
-  },
-  {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/89",
-    "number": 89,
-    "title": "ci: version-tagged image + keyless binary release on v* tags",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-29T16:35:48Z",
-    "merged_at": "2026-06-29T16:43:20Z",
-    "additions": 39,
-    "deletions": 21,
-    "changed_files": 3,
-    "lead_time_h": 0.13
   },
   {
     "repo": "notification-service",
@@ -5998,21 +5983,6 @@
     "deletions": 3,
     "changed_files": 1,
     "lead_time_h": 0.11
-  },
-  {
-    "repo": "payment-service",
-    "url": "https://github.com/duynhlab/payment-service/pull/26",
-    "number": 26,
-    "title": "Tee application logs into the OTLP pipeline (RFC-0014 P4)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-09T09:57:06Z",
-    "merged_at": "2026-07-09T14:27:54Z",
-    "additions": 19,
-    "deletions": 5,
-    "changed_files": 1,
-    "lead_time_h": 4.51
   },
   {
     "repo": "checkout-service",

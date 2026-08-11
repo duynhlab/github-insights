@@ -61,7 +61,7 @@
   },
   {
     "name": "review-service",
-    "bot_open_pr": 12,
+    "bot_open_pr": 14,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -115,7 +115,7 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 14,
+    "bot_open_pr": 16,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
