@@ -1201,6 +1201,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/749",
+    "number": 749,
+    "title": "Accept RFC-0024 program and create ADR-041 to 046",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-11T16:06:38Z",
+    "merged_at": null,
+    "additions": 1647,
+    "deletions": 42,
+    "changed_files": 18,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/747",
     "number": 747,
     "title": "Accept ADR-039 and mark its adoption complete",
@@ -1633,21 +1648,6 @@
     "deletions": 18,
     "changed_files": 8,
     "lead_time_h": 0.13
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/708",
-    "number": 708,
-    "title": "Make the RustFS bucket gate prove what it claims",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-07T15:05:36Z",
-    "merged_at": "2026-08-07T15:42:15Z",
-    "additions": 117,
-    "deletions": 23,
-    "changed_files": 3,
-    "lead_time_h": 0.61
   },
   {
     "repo": "auth-service",
