@@ -1876,6 +1876,21 @@
   },
   {
     "repo": "user-service",
+    "url": "https://github.com/duynhlab/user-service/pull/142",
+    "number": 142,
+    "title": "Adopt OIDC string user_id and retire internal provisioning",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-12T07:16:25Z",
+    "merged_at": null,
+    "additions": 478,
+    "deletions": 696,
+    "changed_files": 20,
+    "lead_time_h": null
+  },
+  {
+    "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/134",
     "number": 134,
     "title": "Align the docs with the canonical contract",
@@ -2187,21 +2202,6 @@
     "additions": 32,
     "deletions": 6,
     "changed_files": 4,
-    "lead_time_h": 0.2
-  },
-  {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/92",
-    "number": 92,
-    "title": "docs: document unit + testcontainers integration testing",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-30T14:23:46Z",
-    "merged_at": "2026-06-30T14:35:31Z",
-    "additions": 41,
-    "deletions": 1,
-    "changed_files": 2,
     "lead_time_h": 0.2
   },
   {
@@ -2578,6 +2578,21 @@
     "deletions": 104,
     "changed_files": 14,
     "lead_time_h": 0.44
+  },
+  {
+    "repo": "cart-service",
+    "url": "https://github.com/duynhlab/cart-service/pull/154",
+    "number": 154,
+    "title": "Adopt OIDC string user_id and Keycloak verification",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-12T07:14:07Z",
+    "merged_at": null,
+    "additions": 116,
+    "deletions": 54,
+    "changed_files": 10,
+    "lead_time_h": null
   },
   {
     "repo": "cart-service",
@@ -3646,6 +3661,21 @@
   },
   {
     "repo": "notification-service",
+    "url": "https://github.com/duynhlab/notification-service/pull/148",
+    "number": 148,
+    "title": "Adopt OIDC string user_id and Keycloak verification",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-12T06:59:39Z",
+    "merged_at": null,
+    "additions": 219,
+    "deletions": 173,
+    "changed_files": 19,
+    "lead_time_h": null
+  },
+  {
+    "repo": "notification-service",
     "url": "https://github.com/duynhlab/notification-service/pull/140",
     "number": 140,
     "title": "Align the docs with the canonical contract",
@@ -3943,21 +3973,6 @@
     "deletions": 3,
     "changed_files": 2,
     "lead_time_h": 0.11
-  },
-  {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/100",
-    "number": 100,
-    "title": "Drop auth gRPC fallback; JWT-only middleware",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-02T11:17:50Z",
-    "merged_at": "2026-07-02T11:50:15Z",
-    "additions": 20,
-    "deletions": 36,
-    "changed_files": 6,
-    "lead_time_h": 0.54
   },
   {
     "repo": "shipping-service",
@@ -5521,6 +5536,21 @@
   },
   {
     "repo": "payment-service",
+    "url": "https://github.com/duynhlab/payment-service/pull/75",
+    "number": 75,
+    "title": "Adopt OIDC string user_id and Keycloak verification",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-12T07:01:43Z",
+    "merged_at": null,
+    "additions": 358,
+    "deletions": 295,
+    "changed_files": 27,
+    "lead_time_h": null
+  },
+  {
+    "repo": "payment-service",
     "url": "https://github.com/duynhlab/payment-service/pull/67",
     "number": 67,
     "title": "Track AGENTS.md and align the docs",
@@ -5878,21 +5908,6 @@
     "deletions": 23,
     "changed_files": 7,
     "lead_time_h": 1.74
-  },
-  {
-    "repo": "payment-service",
-    "url": "https://github.com/duynhlab/payment-service/pull/29",
-    "number": 29,
-    "title": "Document the gRPC, webhook and reconciliation surfaces",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-10T13:57:59Z",
-    "merged_at": "2026-07-10T14:04:49Z",
-    "additions": 29,
-    "deletions": 3,
-    "changed_files": 1,
-    "lead_time_h": 0.11
   },
   {
     "repo": "checkout-service",
