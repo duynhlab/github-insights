@@ -39,10 +39,10 @@
     {
       "repo": "homelab",
       "XS": 0,
-      "S": 3,
-      "M": 9,
-      "L": 7,
-      "XL": 5,
+      "S": 2,
+      "M": 8,
+      "L": 8,
+      "XL": 6,
       "total": 24
     },
     {
@@ -65,10 +65,10 @@
     },
     {
       "repo": "product-service",
-      "XS": 5,
+      "XS": 6,
       "S": 6,
       "M": 9,
-      "L": 5,
+      "L": 4,
       "XL": 0,
       "total": 25
     },
@@ -85,18 +85,18 @@
       "repo": "order-service",
       "XS": 1,
       "S": 3,
-      "M": 8,
+      "M": 9,
       "L": 9,
       "XL": 8,
-      "total": 29
+      "total": 30
     },
     {
       "repo": "review-service",
       "XS": 5,
       "S": 7,
       "M": 4,
-      "L": 5,
-      "XL": 1,
+      "L": 6,
+      "XL": 0,
       "total": 22
     },
     {
@@ -120,10 +120,10 @@
     {
       "repo": "frontend",
       "XS": 3,
-      "S": 8,
+      "S": 7,
       "M": 6,
       "L": 5,
-      "XL": 6,
+      "XL": 7,
       "total": 28
     },
     {
@@ -184,10 +184,10 @@
       "repo": "checkout-service",
       "XS": 2,
       "S": 4,
-      "M": 8,
+      "M": 9,
       "L": 7,
       "XL": 5,
-      "total": 26
+      "total": 27
     },
     {
       "repo": "gitops",
@@ -209,12 +209,12 @@
     },
     {
       "repo": "inventory-service",
-      "XS": 1,
+      "XS": 2,
       "S": 4,
       "M": 3,
       "L": 6,
       "XL": 5,
-      "total": 19
+      "total": 20
     },
     {
       "repo": "release-radar",
@@ -229,12 +229,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 77,
-      "S": 95,
-      "M": 120,
-      "L": 108,
-      "XL": 63,
-      "total": 463
+      "XS": 79,
+      "S": 93,
+      "M": 121,
+      "L": 109,
+      "XL": 64,
+      "total": 466
     },
     {
       "author": "duyhenryer",

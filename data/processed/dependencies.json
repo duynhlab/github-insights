@@ -7,15 +7,15 @@
   },
   {
     "name": "gha-workflows",
-    "bot_open_pr": 4,
-    "bot_merged_pr": 25,
-    "bot_lead_time_median_h": 24.84
+    "bot_open_pr": 0,
+    "bot_merged_pr": 29,
+    "bot_lead_time_median_h": 40.02
   },
   {
     "name": "wolfi-images",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 25,
-    "bot_lead_time_median_h": 21.01
+    "bot_open_pr": 0,
+    "bot_merged_pr": 26,
+    "bot_lead_time_median_h": 22.47
   },
   {
     "name": "packages",
