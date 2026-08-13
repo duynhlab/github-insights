@@ -12,11 +12,11 @@
     {
       "repo": "gha-workflows",
       "XS": 2,
-      "S": 3,
+      "S": 4,
       "M": 5,
       "L": 0,
       "XL": 2,
-      "total": 12
+      "total": 13
     },
     {
       "repo": "wolfi-images",
@@ -38,12 +38,12 @@
     },
     {
       "repo": "homelab",
-      "XS": 0,
-      "S": 2,
+      "XS": 1,
+      "S": 4,
       "M": 7,
-      "L": 8,
-      "XL": 7,
-      "total": 24
+      "L": 9,
+      "XL": 6,
+      "total": 27
     },
     {
       "repo": "auth-service",
@@ -229,12 +229,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 79,
-      "S": 93,
+      "XS": 80,
+      "S": 96,
       "M": 120,
-      "L": 109,
-      "XL": 65,
-      "total": 466
+      "L": 110,
+      "XL": 64,
+      "total": 470
     },
     {
       "author": "duyhenryer",
