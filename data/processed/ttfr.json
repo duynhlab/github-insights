@@ -149,6 +149,12 @@
       "sample": 0,
       "median_h": null,
       "p90_h": null
+    },
+    {
+      "repo": "admin-service",
+      "sample": 0,
+      "median_h": null,
+      "p90_h": null
     }
   ],
   "by_author": [
