@@ -25,7 +25,7 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 15,
+    "bot_open_pr": 16,
     "bot_merged_pr": 1,
     "bot_lead_time_median_h": 567.03
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "order-service",
-    "bot_open_pr": 10,
+    "bot_open_pr": 14,
     "bot_merged_pr": 5,
     "bot_lead_time_median_h": 56.24
   },
@@ -73,7 +73,7 @@
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 10,
+    "bot_open_pr": 14,
     "bot_merged_pr": 5,
     "bot_lead_time_median_h": 53.43
   },
@@ -121,7 +121,7 @@
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 11,
+    "bot_open_pr": 14,
     "bot_merged_pr": 4,
     "bot_lead_time_median_h": 55.07
   },
