@@ -1725,21 +1725,6 @@
     "lead_time_h": 1.46
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/749",
-    "number": 749,
-    "title": "Accept RFC-0024 program and create ADR-041 to 046",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-11T16:06:38Z",
-    "merged_at": "2026-08-12T01:39:04Z",
-    "additions": 1647,
-    "deletions": 42,
-    "changed_files": 18,
-    "lead_time_h": 9.54
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/144",
     "number": 144,
