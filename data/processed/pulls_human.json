@@ -196,6 +196,21 @@
   },
   {
     "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/109",
+    "number": 109,
+    "title": "Bump default golangci-lint to v2.12.2",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-16T03:47:05Z",
+    "merged_at": "2026-08-16T03:49:07Z",
+    "additions": 4,
+    "deletions": 4,
+    "changed_files": 2,
+    "lead_time_h": 0.03
+  },
+  {
+    "repo": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows/pull/108",
     "number": 108,
     "title": "Skip the two secret-dependent jobs on dependabot runs",
@@ -1741,6 +1756,21 @@
   },
   {
     "repo": "auth-service",
+    "url": "https://github.com/duynhlab/auth-service/pull/156",
+    "number": 156,
+    "title": "Pin gha-workflows workflows to v1.0.2",
+    "state": "CLOSED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-16T03:58:13Z",
+    "merged_at": null,
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/144",
     "number": 144,
     "title": "Align the docs with the canonical contract",
@@ -2010,19 +2040,19 @@
     "lead_time_h": 1.16
   },
   {
-    "repo": "auth-service",
-    "url": "https://github.com/duynhlab/auth-service/pull/107",
-    "number": 107,
-    "title": "Use random bytes for the timing-dummy hash",
+    "repo": "user-service",
+    "url": "https://github.com/duynhlab/user-service/pull/148",
+    "number": 148,
+    "title": "Pin gha-workflows workflows to e321897",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-07-03T01:57:23Z",
-    "merged_at": "2026-07-03T02:22:29Z",
-    "additions": 40,
-    "deletions": 6,
+    "created_at": "2026-08-16T04:04:50Z",
+    "merged_at": "2026-08-16T05:12:58Z",
+    "additions": 13,
+    "deletions": 13,
     "changed_files": 2,
-    "lead_time_h": 0.42
+    "lead_time_h": 1.14
   },
   {
     "repo": "user-service",
@@ -2308,6 +2338,21 @@
     "deletions": 3,
     "changed_files": 2,
     "lead_time_h": 0.11
+  },
+  {
+    "repo": "product-service",
+    "url": "https://github.com/duynhlab/product-service/pull/170",
+    "number": 170,
+    "title": "Pin gha-workflows workflows to e321897",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-16T04:05:02Z",
+    "merged_at": "2026-08-16T05:13:51Z",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 1.15
   },
   {
     "repo": "product-service",
@@ -2640,19 +2685,19 @@
     "lead_time_h": 1.15
   },
   {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/123",
-    "number": 123,
-    "title": "Instrument the Valkey cache: redisotel + hit/miss (RFC-0017 W2)",
+    "repo": "cart-service",
+    "url": "https://github.com/duynhlab/cart-service/pull/159",
+    "number": 159,
+    "title": "Pin gha-workflows workflows to e321897",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-07-16T00:42:06Z",
-    "merged_at": "2026-07-16T01:28:11Z",
-    "additions": 142,
-    "deletions": 3,
-    "changed_files": 5,
-    "lead_time_h": 0.77
+    "created_at": "2026-08-16T04:05:19Z",
+    "merged_at": "2026-08-16T05:14:16Z",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 1.15
   },
   {
     "repo": "cart-service",
@@ -2925,19 +2970,19 @@
     "lead_time_h": 0.67
   },
   {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/111",
-    "number": 111,
-    "title": "Adopt obsx SetupObservability for OTel dual-emit (RFC-0014 P1c)",
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/200",
+    "number": 200,
+    "title": "Pin gha-workflows workflows to e321897",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-07-08T23:36:27Z",
-    "merged_at": "2026-07-09T00:55:05Z",
-    "additions": 99,
-    "deletions": 373,
-    "changed_files": 8,
-    "lead_time_h": 1.31
+    "created_at": "2026-08-16T04:05:36Z",
+    "merged_at": "2026-08-16T05:13:36Z",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 1.13
   },
   {
     "repo": "order-service",
@@ -3345,19 +3390,19 @@
     "lead_time_h": 15.38
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/154",
-    "number": 154,
-    "title": "Reconcile orders whose stock disagrees with their outcome (RFC-0021 P3)",
+    "repo": "review-service",
+    "url": "https://github.com/duynhlab/review-service/pull/145",
+    "number": 145,
+    "title": "Pin gha-workflows workflows to e321897",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-07-29T02:02:31Z",
-    "merged_at": "2026-07-29T02:07:23Z",
-    "additions": 3041,
-    "deletions": 27,
-    "changed_files": 21,
-    "lead_time_h": 0.08
+    "created_at": "2026-08-16T04:05:47Z",
+    "merged_at": "2026-08-16T05:13:14Z",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 1.12
   },
   {
     "repo": "review-service",
@@ -3630,19 +3675,19 @@
     "lead_time_h": 0.11
   },
   {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/97",
-    "number": 97,
-    "title": "Drop auth gRPC fallback; JWT-only middleware",
+    "repo": "notification-service",
+    "url": "https://github.com/duynhlab/notification-service/pull/153",
+    "number": 153,
+    "title": "Pin gha-workflows workflows to e321897",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-07-02T11:17:53Z",
-    "merged_at": "2026-07-02T11:50:34Z",
-    "additions": 22,
-    "deletions": 37,
-    "changed_files": 6,
-    "lead_time_h": 0.54
+    "created_at": "2026-08-16T04:06:08Z",
+    "merged_at": "2026-08-16T05:14:25Z",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 1.14
   },
   {
     "repo": "notification-service",
@@ -3931,6 +3976,21 @@
   },
   {
     "repo": "shipping-service",
+    "url": "https://github.com/duynhlab/shipping-service/pull/159",
+    "number": 159,
+    "title": "Pin gha-workflows workflows to e321897",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-16T04:05:57Z",
+    "merged_at": "2026-08-16T05:13:59Z",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 1.13
+  },
+  {
+    "repo": "shipping-service",
     "url": "https://github.com/duynhlab/shipping-service/pull/158",
     "number": 158,
     "title": "Add the protected Backoffice shipment reads",
@@ -4215,19 +4275,19 @@
     "lead_time_h": 0.55
   },
   {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/111",
-    "number": 111,
-    "title": "Adopt obsx SetupObservability for OTel dual-emit (RFC-0014 P1c)",
+    "repo": "frontend",
+    "url": "https://github.com/duynhlab/frontend/pull/98",
+    "number": 98,
+    "title": "Pin gha-workflows workflows to e321897",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-07-08T23:38:21Z",
-    "merged_at": "2026-07-09T00:55:20Z",
-    "additions": 96,
-    "deletions": 434,
-    "changed_files": 9,
-    "lead_time_h": 1.28
+    "created_at": "2026-08-16T04:06:46Z",
+    "merged_at": "2026-08-16T05:12:32Z",
+    "additions": 7,
+    "deletions": 7,
+    "changed_files": 2,
+    "lead_time_h": 1.1
   },
   {
     "repo": "frontend",
@@ -4573,21 +4633,6 @@
     "deletions": 0,
     "changed_files": 1,
     "lead_time_h": 0.03
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/48",
-    "number": 48,
-    "title": "Promo code entry in the checkout funnel (RFC-0015 P4)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-13T05:02:25Z",
-    "merged_at": "2026-07-13T06:44:37Z",
-    "additions": 50,
-    "deletions": 1,
-    "changed_files": 2,
-    "lead_time_h": 1.7
   },
   {
     "repo": "tf-local",
@@ -5416,6 +5461,21 @@
   },
   {
     "repo": "payment-service",
+    "url": "https://github.com/duynhlab/payment-service/pull/83",
+    "number": 83,
+    "title": "Pin gha-workflows workflows to e321897",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-16T04:06:25Z",
+    "merged_at": "2026-08-16T05:14:07Z",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 1.13
+  },
+  {
+    "repo": "payment-service",
     "url": "https://github.com/duynhlab/payment-service/pull/82",
     "number": 82,
     "title": "Compute reconciliation ages on the database clock",
@@ -5745,19 +5805,19 @@
     "lead_time_h": 1.07
   },
   {
-    "repo": "payment-service",
-    "url": "https://github.com/duynhlab/payment-service/pull/35",
-    "number": 35,
-    "title": "Trace the mockpay money-hop + provider SLI (RFC-0017 W2)",
+    "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/67",
+    "number": 67,
+    "title": "Pin gha-workflows workflows to e321897",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-07-16T00:42:03Z",
-    "merged_at": "2026-07-16T02:43:56Z",
-    "additions": 207,
-    "deletions": 9,
-    "changed_files": 5,
-    "lead_time_h": 2.03
+    "created_at": "2026-08-16T04:06:35Z",
+    "merged_at": "2026-08-16T05:13:43Z",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 1.12
   },
   {
     "repo": "checkout-service",
@@ -6283,6 +6343,21 @@
     "deletions": 1668,
     "changed_files": 53,
     "lead_time_h": 0.11
+  },
+  {
+    "repo": "inventory-service",
+    "url": "https://github.com/duynhlab/inventory-service/pull/47",
+    "number": 47,
+    "title": "Pin gha-workflows workflows to e321897",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-16T04:05:09Z",
+    "merged_at": "2026-08-16T05:13:01Z",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": 1.13
   },
   {
     "repo": "inventory-service",
