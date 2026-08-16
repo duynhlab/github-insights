@@ -1,50 +1,50 @@
 [
   {
     "week": "2026-W22",
-    "commits": 35
+    "commits": 67
   },
   {
     "week": "2026-W23",
-    "commits": 330
+    "commits": 298
   },
   {
     "week": "2026-W24",
-    "commits": 149
+    "commits": 184
   },
   {
     "week": "2026-W25",
-    "commits": 269
+    "commits": 239
   },
   {
     "week": "2026-W26",
-    "commits": 177
+    "commits": 174
   },
   {
     "week": "2026-W27",
-    "commits": 238
+    "commits": 279
   },
   {
     "week": "2026-W28",
-    "commits": 208
+    "commits": 187
   },
   {
     "week": "2026-W29",
-    "commits": 282
+    "commits": 268
   },
   {
     "week": "2026-W30",
-    "commits": 116
+    "commits": 108
   },
   {
     "week": "2026-W31",
-    "commits": 134
+    "commits": 151
   },
   {
     "week": "2026-W32",
-    "commits": 214
+    "commits": 236
   },
   {
     "week": "2026-W33",
-    "commits": 269
+    "commits": 243
   }
 ]
