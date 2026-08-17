@@ -97,19 +97,6 @@
     ]
   },
   {
-    "repo": "review-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 28,
-        "total": 47,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
-        "last_fail_at": "2026-08-16T16:35:01Z",
-        "fail_rate": 0.596
-      }
-    ]
-  },
-  {
     "repo": "notification-service",
     "workflows": [
       {
@@ -149,10 +136,10 @@
       {
         "name": "Check",
         "fail": 26,
-        "total": 47,
+        "total": 51,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/31956362907",
         "last_fail_at": "2026-08-16T15:40:31Z",
-        "fail_rate": 0.553
+        "fail_rate": 0.51
       }
     ]
   },
@@ -200,6 +187,19 @@
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/31957640401",
         "last_fail_at": "2026-08-16T16:06:24Z",
         "fail_rate": 0.48
+      }
+    ]
+  },
+  {
+    "repo": "review-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 23,
+        "total": 47,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
+        "last_fail_at": "2026-08-16T16:35:01Z",
+        "fail_rate": 0.489
       }
     ]
   },
