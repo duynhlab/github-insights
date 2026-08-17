@@ -390,36 +390,6 @@
     "lead_time_h": 0.54
   },
   {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/63",
-    "number": 63,
-    "title": "Fix GoReleaser dirty-state abort on build-info.env",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-28T11:33:04Z",
-    "merged_at": "2026-06-28T11:33:25Z",
-    "additions": 4,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 0.01
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/62",
-    "number": 62,
-    "title": "Add reusable GoReleaser binary-release workflow",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-28T10:26:08Z",
-    "merged_at": "2026-06-28T10:28:45Z",
-    "additions": 87,
-    "deletions": 0,
-    "changed_files": 2,
-    "lead_time_h": 0.04
-  },
-  {
     "repo": "wolfi-images",
     "url": "https://github.com/duynhlab/wolfi-images/pull/85",
     "number": 85,
@@ -1246,6 +1216,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/788",
+    "number": 788,
+    "title": "Document httpmw and add the portal to local-stack",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-16T23:52:55Z",
+    "merged_at": null,
+    "additions": 401,
+    "deletions": 125,
+    "changed_files": 13,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/787",
     "number": 787,
     "title": "Pin checkout 0.7.1 and frontend 3.1.0",
@@ -1755,21 +1740,6 @@
     "lead_time_h": 0.72
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/754",
-    "number": 754,
-    "title": "Retire the previous token layer from local-stack and fix four edge defects",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-12T17:06:35Z",
-    "merged_at": "2026-08-12T17:42:49Z",
-    "additions": 3377,
-    "deletions": 1164,
-    "changed_files": 69,
-    "lead_time_h": 0.6
-  },
-  {
     "repo": "auth-service",
     "url": "https://github.com/duynhlab/auth-service/pull/156",
     "number": 156,
@@ -2064,9 +2034,9 @@
     "author": "duynhne",
     "created_at": "2026-08-16T15:45:31Z",
     "merged_at": null,
-    "additions": 109,
-    "deletions": 879,
-    "changed_files": 12,
+    "additions": 253,
+    "deletions": 1020,
+    "changed_files": 13,
     "lead_time_h": null
   },
   {
@@ -3474,9 +3444,9 @@
     "author": "duynhne",
     "created_at": "2026-08-16T16:04:51Z",
     "merged_at": null,
-    "additions": 107,
-    "deletions": 889,
-    "changed_files": 13,
+    "additions": 265,
+    "deletions": 1044,
+    "changed_files": 16,
     "lead_time_h": null
   },
   {
@@ -5589,8 +5559,8 @@
     "author": "duynhne",
     "created_at": "2026-08-16T15:26:59Z",
     "merged_at": null,
-    "additions": 129,
-    "deletions": 840,
+    "additions": 160,
+    "deletions": 847,
     "changed_files": 18,
     "lead_time_h": null
   },
@@ -5949,8 +5919,8 @@
     "author": "duynhne",
     "created_at": "2026-08-16T15:48:13Z",
     "merged_at": null,
-    "additions": 131,
-    "deletions": 886,
+    "additions": 138,
+    "deletions": 910,
     "changed_files": 16,
     "lead_time_h": null
   },
