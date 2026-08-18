@@ -48,20 +48,20 @@
     {
       "repo": "auth-service",
       "XS": 5,
-      "S": 6,
+      "S": 5,
       "M": 2,
-      "L": 6,
+      "L": 3,
       "XL": 0,
-      "total": 19
+      "total": 15
     },
     {
       "repo": "user-service",
       "XS": 6,
-      "S": 5,
+      "S": 4,
       "M": 4,
-      "L": 4,
+      "L": 2,
       "XL": 2,
-      "total": 21
+      "total": 18
     },
     {
       "repo": "product-service",
@@ -75,20 +75,20 @@
     {
       "repo": "cart-service",
       "XS": 5,
-      "S": 6,
-      "M": 5,
-      "L": 3,
+      "S": 3,
+      "M": 4,
+      "L": 2,
       "XL": 1,
-      "total": 20
+      "total": 15
     },
     {
       "repo": "order-service",
       "XS": 2,
       "S": 4,
-      "M": 9,
-      "L": 7,
-      "XL": 6,
-      "total": 28
+      "M": 8,
+      "L": 4,
+      "XL": 5,
+      "total": 23
     },
     {
       "repo": "review-service",
@@ -101,30 +101,30 @@
     },
     {
       "repo": "notification-service",
-      "XS": 5,
-      "S": 7,
+      "XS": 4,
+      "S": 5,
       "M": 4,
-      "L": 4,
+      "L": 3,
       "XL": 1,
-      "total": 21
+      "total": 17
     },
     {
       "repo": "shipping-service",
-      "XS": 8,
-      "S": 4,
-      "M": 5,
+      "XS": 6,
+      "S": 3,
+      "M": 3,
       "L": 3,
       "XL": 1,
-      "total": 21
+      "total": 16
     },
     {
       "repo": "frontend",
       "XS": 2,
-      "S": 8,
+      "S": 7,
       "M": 1,
       "L": 5,
       "XL": 8,
-      "total": 24
+      "total": 23
     },
     {
       "repo": "backstage",
@@ -183,11 +183,11 @@
     {
       "repo": "checkout-service",
       "XS": 3,
-      "S": 4,
-      "M": 11,
+      "S": 3,
+      "M": 9,
       "L": 6,
       "XL": 6,
-      "total": 30
+      "total": 27
     },
     {
       "repo": "gitops",
@@ -212,9 +212,9 @@
       "XS": 3,
       "S": 6,
       "M": 4,
-      "L": 6,
-      "XL": 6,
-      "total": 25
+      "L": 4,
+      "XL": 5,
+      "total": 22
     },
     {
       "repo": "release-radar",
@@ -238,12 +238,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 79,
-      "S": 104,
-      "M": 120,
-      "L": 105,
-      "XL": 77,
-      "total": 485
+      "XS": 76,
+      "S": 94,
+      "M": 114,
+      "L": 93,
+      "XL": 75,
+      "total": 452
     },
     {
       "author": "duyhenryer",
