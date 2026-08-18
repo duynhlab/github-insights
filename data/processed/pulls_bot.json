@@ -1231,6 +1231,36 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/739",
+    "number": 739,
+    "title": "chore(deps): update clickhouse/clickhouse-server docker tag to v25.12",
+    "state": "OPEN",
+    "draft": false,
+    "author": "renovate",
+    "created_at": "2026-08-10T16:02:30Z",
+    "merged_at": null,
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/693",
+    "number": 693,
+    "title": "chore(deps): update otel/opentelemetry-collector-contrib docker tag to v0.159.0",
+    "state": "OPEN",
+    "draft": false,
+    "author": "renovate",
+    "created_at": "2026-08-07T04:21:29Z",
+    "merged_at": null,
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/732",
     "number": 732,
     "title": "chore(deps): update victoriametrics/victoria-metrics docker tag to v1.150.0",
@@ -1423,21 +1453,6 @@
     "deletions": 4,
     "changed_files": 3,
     "lead_time_h": 567.03
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/679",
-    "number": 679,
-    "title": "chore(deps): update helm release altinity-clickhouse-operator to v0.27.3 - autoclosed",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-08-07T04:19:22Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
   },
   {
     "repo": "auth-service",
