@@ -1216,18 +1216,33 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/800",
+    "number": 800,
+    "title": "Close the observability dashboard gaps, live-verified",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-18T15:40:30Z",
+    "merged_at": "2026-08-18T16:39:02Z",
+    "additions": 7479,
+    "deletions": 4126,
+    "changed_files": 28,
+    "lead_time_h": 0.98
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/799",
     "number": 799,
     "title": "Bump Envoy Gateway to v1.9.0 with Gateway API v1.6.1",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-08-18T10:28:18Z",
-    "merged_at": null,
+    "merged_at": "2026-08-18T14:28:28Z",
     "additions": 5744,
     "deletions": 579,
     "changed_files": 8,
-    "lead_time_h": null
+    "lead_time_h": 4.0
   },
   {
     "repo": "homelab",
