@@ -1216,6 +1216,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/799",
+    "number": 799,
+    "title": "Bump Envoy Gateway to v1.9.0 with Gateway API v1.6.1",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-18T10:28:18Z",
+    "merged_at": null,
+    "additions": 5744,
+    "deletions": 579,
+    "changed_files": 8,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/798",
     "number": 798,
     "title": "chore: purge Kong residue from manifests and edge tooling",
@@ -1723,21 +1738,6 @@
     "deletions": 473,
     "changed_files": 24,
     "lead_time_h": null
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/744",
-    "number": 744,
-    "title": "Add parallel Tempo HelmRelease per ADR-040",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-11T01:50:45Z",
-    "merged_at": "2026-08-13T10:55:28Z",
-    "additions": 160,
-    "deletions": 2,
-    "changed_files": 8,
-    "lead_time_h": 57.08
   },
   {
     "repo": "auth-service",

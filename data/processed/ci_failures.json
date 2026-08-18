@@ -157,19 +157,6 @@
     ]
   },
   {
-    "repo": "review-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 23,
-        "total": 47,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
-        "last_fail_at": "2026-08-16T16:35:01Z",
-        "fail_rate": 0.489
-      }
-    ]
-  },
-  {
     "repo": "checkout-service",
     "workflows": [
       {
@@ -200,6 +187,19 @@
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/31957558187",
         "last_fail_at": "2026-08-16T16:04:46Z",
         "fail_rate": 0.5
+      }
+    ]
+  },
+  {
+    "repo": "review-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 22,
+        "total": 46,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
+        "last_fail_at": "2026-08-16T16:35:01Z",
+        "fail_rate": 0.478
       }
     ]
   },
@@ -361,11 +361,11 @@
     "workflows": [
       {
         "name": "CI Pipeline",
-        "fail": 4,
+        "fail": 3,
         "total": 92,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/32090133421",
         "last_fail_at": "2026-08-18T01:58:28Z",
-        "fail_rate": 0.043
+        "fail_rate": 0.033
       }
     ]
   },
@@ -388,10 +388,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 2,
-        "total": 88,
+        "total": 89,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/32055500003",
         "last_fail_at": "2026-08-17T18:33:44Z",
-        "fail_rate": 0.023
+        "fail_rate": 0.022
       }
     ]
   },
