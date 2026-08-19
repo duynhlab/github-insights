@@ -38,12 +38,12 @@
     },
     {
       "repo": "homelab",
-      "XS": 5,
-      "S": 5,
-      "M": 12,
-      "L": 7,
-      "XL": 6,
-      "total": 35
+      "XS": 2,
+      "S": 3,
+      "M": 9,
+      "L": 4,
+      "XL": 4,
+      "total": 22
     },
     {
       "repo": "auth-service",
@@ -120,10 +120,10 @@
     {
       "repo": "frontend",
       "XS": 2,
-      "S": 7,
+      "S": 8,
       "M": 1,
       "L": 5,
-      "XL": 8,
+      "XL": 7,
       "total": 23
     },
     {
@@ -184,9 +184,9 @@
       "repo": "checkout-service",
       "XS": 3,
       "S": 3,
-      "M": 9,
+      "M": 10,
       "L": 6,
-      "XL": 6,
+      "XL": 5,
       "total": 27
     },
     {
@@ -221,29 +221,29 @@
       "XS": 2,
       "S": 3,
       "M": 8,
-      "L": 13,
+      "L": 14,
       "XL": 11,
-      "total": 37
+      "total": 38
     },
     {
       "repo": "admin-service",
       "XS": 0,
       "S": 2,
       "M": 2,
-      "L": 6,
+      "L": 7,
       "XL": 0,
-      "total": 10
+      "total": 11
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 76,
-      "S": 94,
-      "M": 115,
-      "L": 93,
-      "XL": 74,
-      "total": 452
+      "XS": 73,
+      "S": 93,
+      "M": 113,
+      "L": 92,
+      "XL": 70,
+      "total": 441
     },
     {
       "author": "duyhenryer",
