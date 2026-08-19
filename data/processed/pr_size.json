@@ -42,8 +42,8 @@
       "S": 5,
       "M": 12,
       "L": 7,
-      "XL": 7,
-      "total": 36
+      "XL": 6,
+      "total": 35
     },
     {
       "repo": "auth-service",
@@ -242,8 +242,8 @@
       "S": 94,
       "M": 115,
       "L": 93,
-      "XL": 75,
-      "total": 453
+      "XL": 74,
+      "total": 452
     },
     {
       "author": "duyhenryer",
