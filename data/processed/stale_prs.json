@@ -19,7 +19,7 @@
     "url": "https://github.com/duynhlab/review-service/pull/108",
     "created_at": "2026-07-13T09:33:00Z",
     "updated_at": "2026-07-13T09:35:38Z",
-    "days_idle": 36,
+    "days_idle": 37,
     "loc": 4,
     "is_draft": false
   },
@@ -33,18 +33,6 @@
     "updated_at": "2026-07-15T02:12:03Z",
     "days_idle": 35,
     "loc": 222,
-    "is_draft": false
-  },
-  {
-    "repo": "auth-service",
-    "number": 131,
-    "title": "Add go-security scanning to PR checks",
-    "author": "duynhne",
-    "url": "https://github.com/duynhlab/auth-service/pull/131",
-    "created_at": "2026-07-31T15:16:29Z",
-    "updated_at": "2026-07-31T15:19:23Z",
-    "days_idle": 18,
-    "loc": 13,
     "is_draft": false
   }
 ]

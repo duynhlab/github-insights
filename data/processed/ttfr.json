@@ -31,12 +31,6 @@
       "p90_h": null
     },
     {
-      "repo": "auth-service",
-      "sample": 0,
-      "median_h": null,
-      "p90_h": null
-    },
-    {
       "repo": "user-service",
       "sample": 0,
       "median_h": null,
