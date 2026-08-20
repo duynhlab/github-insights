@@ -6196,6 +6196,21 @@
   },
   {
     "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/76",
+    "number": 76,
+    "title": "chore(deps): bump library/golang from 1.26.6-alpine to 1.27rc3-alpine",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-08-19T21:25:30Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "checkout-service",
     "url": "https://github.com/duynhlab/checkout-service/pull/74",
     "number": 74,
     "title": "chore(deps): bump duynhlab/gha-workflows/.github/workflows/goreleaser.yml from e321897e5c28e7c861b9d8beb37614e1c5823f42 to 1a4e948008fe87b11173dd4c2e44e28b36ab3f7e",

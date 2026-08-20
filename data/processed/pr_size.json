@@ -174,11 +174,11 @@
     {
       "repo": "checkout-service",
       "XS": 3,
-      "S": 3,
+      "S": 2,
       "M": 10,
       "L": 6,
       "XL": 5,
-      "total": 27
+      "total": 26
     },
     {
       "repo": "gitops",
@@ -230,11 +230,11 @@
     {
       "author": "duynhne",
       "XS": 67,
-      "S": 85,
+      "S": 84,
       "M": 113,
       "L": 91,
       "XL": 72,
-      "total": 428
+      "total": 427
     },
     {
       "author": "duyhenryer",

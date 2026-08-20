@@ -5400,21 +5400,6 @@
     "lead_time_h": 0.43
   },
   {
-    "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/40",
-    "number": 40,
-    "title": "Answer 503, not 500, when a dependency is down at session create",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-05T05:03:27Z",
-    "merged_at": "2026-08-05T05:07:24Z",
-    "additions": 31,
-    "deletions": 6,
-    "changed_files": 3,
-    "lead_time_h": 0.07
-  },
-  {
     "repo": "gitops",
     "url": "https://github.com/duynhlab/gitops/pull/3",
     "number": 3,
