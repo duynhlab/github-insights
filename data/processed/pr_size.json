@@ -220,10 +220,10 @@
       "repo": "admin-service",
       "XS": 0,
       "S": 2,
-      "M": 2,
+      "M": 3,
       "L": 7,
       "XL": 0,
-      "total": 11
+      "total": 12
     }
   ],
   "by_author": [
@@ -231,10 +231,10 @@
       "author": "duynhne",
       "XS": 67,
       "S": 87,
-      "M": 112,
+      "M": 113,
       "L": 91,
       "XL": 73,
-      "total": 430
+      "total": 431
     },
     {
       "author": "duyhenryer",
