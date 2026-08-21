@@ -42,17 +42,17 @@
       "S": 9,
       "M": 24,
       "L": 4,
-      "XL": 2,
-      "total": 40
+      "XL": 3,
+      "total": 41
     },
     {
       "repo": "user-service",
-      "XS": 7,
-      "S": 4,
+      "XS": 4,
+      "S": 3,
       "M": 4,
       "L": 2,
       "XL": 2,
-      "total": 19
+      "total": 15
     },
     {
       "repo": "product-service",
@@ -65,21 +65,21 @@
     },
     {
       "repo": "cart-service",
-      "XS": 6,
+      "XS": 4,
       "S": 3,
-      "M": 4,
+      "M": 3,
       "L": 2,
       "XL": 1,
-      "total": 16
+      "total": 13
     },
     {
       "repo": "order-service",
-      "XS": 3,
-      "S": 4,
-      "M": 6,
+      "XS": 4,
+      "S": 5,
+      "M": 5,
       "L": 2,
       "XL": 3,
-      "total": 18
+      "total": 19
     },
     {
       "repo": "review-service",
@@ -92,12 +92,12 @@
     },
     {
       "repo": "notification-service",
-      "XS": 4,
+      "XS": 3,
       "S": 5,
-      "M": 4,
+      "M": 3,
       "L": 3,
       "XL": 1,
-      "total": 17
+      "total": 15
     },
     {
       "repo": "shipping-service",
@@ -114,8 +114,8 @@
       "S": 6,
       "M": 1,
       "L": 4,
-      "XL": 6,
-      "total": 19
+      "XL": 5,
+      "total": 18
     },
     {
       "repo": "backstage",
@@ -229,12 +229,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 72,
+      "XS": 67,
       "S": 92,
-      "M": 124,
+      "M": 121,
       "L": 83,
-      "XL": 62,
-      "total": 433
+      "XL": 63,
+      "total": 426
     },
     {
       "author": "duyhenryer",
@@ -242,8 +242,8 @@
       "S": 1,
       "M": 0,
       "L": 4,
-      "XL": 4,
-      "total": 11
+      "XL": 3,
+      "total": 10
     }
   ],
   "buckets": [
