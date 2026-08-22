@@ -302,6 +302,27 @@
     ]
   },
   {
+    "repo": "release-radar",
+    "workflows": [
+      {
+        "name": "Sync releases",
+        "fail": 4,
+        "total": 37,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
+        "last_fail_at": "2026-08-21T03:14:59Z",
+        "fail_rate": 0.108
+      },
+      {
+        "name": "CI",
+        "fail": 2,
+        "total": 55,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31349362903",
+        "last_fail_at": "2026-08-10T02:16:51Z",
+        "fail_rate": 0.036
+      }
+    ]
+  },
+  {
     "repo": "admin-service",
     "workflows": [
       {
@@ -362,10 +383,10 @@
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 96,
+        "total": 95,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/32498969796",
         "last_fail_at": "2026-08-21T15:41:33Z",
-        "fail_rate": 0.01
+        "fail_rate": 0.011
       }
     ]
   },

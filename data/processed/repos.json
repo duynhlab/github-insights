@@ -288,8 +288,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 3594,
-    "pushed_at": "2026-08-21T18:34:17Z",
+    "size_kb": 3647,
+    "pushed_at": "2026-08-22T01:04:24Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -440,8 +440,8 @@
     "name": "release-radar",
     "url": "https://github.com/duynhlab/release-radar",
     "lang": "TypeScript",
-    "size_kb": 4913,
-    "pushed_at": "2026-08-21T14:54:10Z",
+    "size_kb": 4914,
+    "pushed_at": "2026-08-22T03:07:45Z",
     "open_issues": 0,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -452,8 +452,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": null,
-    "ci_runs": 0
+    "ci_success_rate": 0.9,
+    "ci_runs": 100
   },
   {
     "name": "admin-service",
