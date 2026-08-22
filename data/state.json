@@ -15,7 +15,7 @@
     "pr_updated_at": "2026-08-21T16:14:07Z"
   },
   "order-service": {
-    "pr_updated_at": "2026-08-21T16:25:57Z"
+    "pr_updated_at": "2026-08-21T20:13:55Z"
   },
   "review-service": {
     "pr_updated_at": "2026-08-21T10:44:20Z"
@@ -32,7 +32,7 @@
   "tf-local": {
     "pr_updated_at": "2026-08-03T12:54:35Z"
   },
-  "last_run": "2026-08-21T18:34:16.324915+00:00",
+  "last_run": "2026-08-22T01:04:23.424334+00:00",
   "github-insights": {
     "pr_updated_at": "2026-08-11T08:07:07Z"
   },

@@ -2805,21 +2805,6 @@
     "lead_time_h": 0.45
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/171",
-    "number": 171,
-    "title": "Remove the product stock branch from the saga",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-04T09:13:33Z",
-    "merged_at": "2026-08-04T09:22:59Z",
-    "additions": 7839,
-    "deletions": 555,
-    "changed_files": 29,
-    "lead_time_h": 0.16
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/153",
     "number": 153,
