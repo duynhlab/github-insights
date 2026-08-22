@@ -1335,36 +1335,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/734",
-    "number": 734,
-    "title": "chore(deps): update clickhouse/clickhouse-server docker tag to v26",
-    "state": "MERGED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-08-10T16:01:35Z",
-    "merged_at": "2026-08-20T08:11:01Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 232.16
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/806",
-    "number": 806,
-    "title": "chore(deps): update quay.io/keycloak/keycloak docker tag to v26.7.2",
-    "state": "MERGED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-08-19T03:02:19Z",
-    "merged_at": "2026-08-20T08:10:43Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 29.14
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/151",
     "number": 151,
