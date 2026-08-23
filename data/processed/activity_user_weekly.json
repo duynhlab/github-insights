@@ -157,7 +157,7 @@
     "week": "2026-W32",
     "author": "renovate",
     "is_bot": true,
-    "created": 2,
+    "created": 1,
     "merged": 0
   },
   {
@@ -192,7 +192,7 @@
     "week": "2026-W33",
     "author": "renovate",
     "is_bot": true,
-    "created": 3,
+    "created": 2,
     "merged": 0
   },
   {
@@ -206,14 +206,14 @@
     "week": "2026-W34",
     "author": "duynhne",
     "is_bot": false,
-    "created": 71,
-    "merged": 79
+    "created": 73,
+    "merged": 81
   },
   {
     "week": "2026-W34",
     "author": "renovate",
     "is_bot": true,
     "created": 2,
-    "merged": 5
+    "merged": 4
   }
 ]
