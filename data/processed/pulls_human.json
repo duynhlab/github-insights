@@ -1216,6 +1216,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/874",
+    "number": 874,
+    "title": "Make docs/api name every log and trace store",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-23T04:46:00Z",
+    "merged_at": null,
+    "additions": 64,
+    "deletions": 23,
+    "changed_files": 9,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/873",
     "number": 873,
     "title": "Assert the compose rows too, and stop keeping two copies",
@@ -1843,21 +1858,6 @@
     "deletions": 1,
     "changed_files": 2,
     "lead_time_h": 0.03
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/831",
-    "number": 831,
-    "title": "Sync docs to the Keycloak 26.7.2 + ClickHouse 26.7 bumps",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-20T08:13:53Z",
-    "merged_at": "2026-08-20T08:43:57Z",
-    "additions": 18,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 0.5
   },
   {
     "repo": "user-service",
