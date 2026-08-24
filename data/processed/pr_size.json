@@ -40,10 +40,10 @@
       "repo": "homelab",
       "XS": 2,
       "S": 7,
-      "M": 27,
-      "L": 8,
-      "XL": 4,
-      "total": 48
+      "M": 24,
+      "L": 7,
+      "XL": 7,
+      "total": 47
     },
     {
       "repo": "user-service",
@@ -59,9 +59,9 @@
       "XS": 4,
       "S": 5,
       "M": 6,
-      "L": 2,
+      "L": 1,
       "XL": 2,
-      "total": 19
+      "total": 18
     },
     {
       "repo": "cart-service",
@@ -157,10 +157,10 @@
       "repo": "helm-charts",
       "XS": 3,
       "S": 7,
-      "M": 6,
+      "M": 7,
       "L": 2,
       "XL": 3,
-      "total": 21
+      "total": 22
     },
     {
       "repo": "payment-service",
@@ -210,11 +210,11 @@
     {
       "repo": "release-radar",
       "XS": 2,
-      "S": 3,
+      "S": 2,
       "M": 9,
       "L": 14,
       "XL": 10,
-      "total": 38
+      "total": 37
     },
     {
       "repo": "admin-service",
@@ -230,11 +230,11 @@
     {
       "author": "duynhne",
       "XS": 68,
-      "S": 90,
-      "M": 124,
-      "L": 87,
-      "XL": 63,
-      "total": 432
+      "S": 89,
+      "M": 122,
+      "L": 85,
+      "XL": 66,
+      "total": 430
     },
     {
       "author": "duyhenryer",
