@@ -67,11 +67,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 21,
-        "total": 48,
+        "fail": 19,
+        "total": 47,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/31956362907",
         "last_fail_at": "2026-08-16T15:40:31Z",
-        "fail_rate": 0.438
+        "fail_rate": 0.404
       }
     ]
   },
@@ -206,11 +206,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 14,
+        "fail": 12,
         "total": 46,
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
         "last_fail_at": "2026-08-16T16:35:01Z",
-        "fail_rate": 0.304
+        "fail_rate": 0.261
       }
     ]
   },
