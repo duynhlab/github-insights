@@ -254,34 +254,34 @@
       {
         "name": "go",
         "fail": 2,
-        "total": 14,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32208115367",
         "last_fail_at": "2026-08-19T02:19:01Z",
-        "fail_rate": 0.143
+        "fail_rate": 0.133
       },
       {
         "name": "python",
         "fail": 2,
-        "total": 14,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32439629189",
         "last_fail_at": "2026-08-21T02:22:35Z",
-        "fail_rate": 0.143
+        "fail_rate": 0.133
       },
       {
         "name": "node",
         "fail": 1,
-        "total": 14,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/31559972416",
         "last_fail_at": "2026-08-12T03:24:29Z",
-        "fail_rate": 0.071
+        "fail_rate": 0.067
       },
       {
         "name": "nginx",
         "fail": 1,
-        "total": 14,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/31559764726",
         "last_fail_at": "2026-08-12T03:20:23Z",
-        "fail_rate": 0.071
+        "fail_rate": 0.067
       }
     ]
   },
@@ -291,15 +291,15 @@
       {
         "name": "Sync releases",
         "fail": 4,
-        "total": 42,
+        "total": 43,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
         "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.095
+        "fail_rate": 0.093
       },
       {
         "name": "CI",
         "fail": 1,
-        "total": 48,
+        "total": 47,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31349362903",
         "last_fail_at": "2026-08-10T02:16:51Z",
         "fail_rate": 0.021
@@ -341,7 +341,7 @@
       {
         "name": "CI Pipeline",
         "fail": 2,
-        "total": 95,
+        "total": 94,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/32744098943",
         "last_fail_at": "2026-08-24T15:18:57Z",
         "fail_rate": 0.021
