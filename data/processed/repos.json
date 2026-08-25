@@ -79,8 +79,8 @@
     "name": "homelab",
     "url": "https://github.com/duynhlab/homelab",
     "lang": "JavaScript",
-    "size_kb": 32473,
-    "pushed_at": "2026-08-25T10:22:49Z",
+    "size_kb": 30902,
+    "pushed_at": "2026-08-25T16:18:11Z",
     "open_issues": 4,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -110,7 +110,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.78,
+    "ci_success_rate": 0.81,
     "ci_runs": 100
   },
   {
@@ -148,7 +148,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.83,
+    "ci_success_rate": 0.84,
     "ci_runs": 100
   },
   {
@@ -205,7 +205,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.85,
+    "ci_success_rate": 0.87,
     "ci_runs": 100
   },
   {
@@ -243,7 +243,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.86,
+    "ci_success_rate": 0.89,
     "ci_runs": 100
   },
   {
@@ -288,8 +288,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 4009,
-    "pushed_at": "2026-08-25T06:42:44Z",
+    "size_kb": 4061,
+    "pushed_at": "2026-08-25T12:42:55Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -433,15 +433,15 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.66,
+    "ci_success_rate": 0.67,
     "ci_runs": 100
   },
   {
     "name": "release-radar",
     "url": "https://github.com/duynhlab/release-radar",
     "lang": "TypeScript",
-    "size_kb": 5124,
-    "pushed_at": "2026-08-25T03:13:19Z",
+    "size_kb": 5131,
+    "pushed_at": "2026-08-25T15:05:18Z",
     "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
