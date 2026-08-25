@@ -15,7 +15,7 @@
     "pr_updated_at": "2026-08-24T16:16:41Z"
   },
   "order-service": {
-    "pr_updated_at": "2026-08-21T20:13:55Z"
+    "pr_updated_at": "2026-08-24T20:13:59Z"
   },
   "review-service": {
     "pr_updated_at": "2026-08-24T10:44:45Z"
@@ -24,7 +24,7 @@
     "pr_updated_at": "2026-08-24T14:06:49Z"
   },
   "shipping-service": {
-    "pr_updated_at": "2026-08-20T23:05:10Z"
+    "pr_updated_at": "2026-08-24T23:05:33Z"
   },
   "frontend": {
     "pr_updated_at": "2026-08-24T17:57:06Z"
@@ -32,7 +32,7 @@
   "tf-local": {
     "pr_updated_at": "2026-08-03T12:54:35Z"
   },
-  "last_run": "2026-08-24T18:37:48.821457+00:00",
+  "last_run": "2026-08-25T01:06:31.923304+00:00",
   "github-insights": {
     "pr_updated_at": "2026-08-11T08:07:07Z"
   },
@@ -49,7 +49,7 @@
     "pr_updated_at": "2026-08-24T13:55:22Z"
   },
   "gha-workflows": {
-    "pr_updated_at": "2026-08-20T23:09:04Z"
+    "pr_updated_at": "2026-08-24T23:10:41Z"
   },
   "wolfi-images": {
     "pr_updated_at": "2026-08-24T09:09:35Z"
@@ -58,7 +58,7 @@
     "pr_updated_at": "2026-08-24T09:33:26Z"
   },
   "checkout-service": {
-    "pr_updated_at": "2026-08-20T17:11:05Z"
+    "pr_updated_at": "2026-08-24T21:25:20Z"
   },
   "gitops": {
     "pr_updated_at": "2026-07-15T02:12:03Z"

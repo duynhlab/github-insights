@@ -360,36 +360,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/68",
-    "number": 68,
-    "title": "ci(go-check): disable testcontainers Ryuk reaper on the integration job",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-30T10:14:47Z",
-    "merged_at": "2026-06-30T10:15:27Z",
-    "additions": 6,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 0.01
-  },
-  {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/67",
-    "number": 67,
-    "title": "ci: support test/ branches, integration-test job, and merged coverage",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-06-30T08:04:37Z",
-    "merged_at": "2026-06-30T08:05:05Z",
-    "additions": 69,
-    "deletions": 3,
-    "changed_files": 3,
-    "lead_time_h": 0.01
-  },
-  {
     "repo": "wolfi-images",
     "url": "https://github.com/duynhlab/wolfi-images/pull/85",
     "number": 85,
@@ -2835,21 +2805,6 @@
     "lead_time_h": 0.2
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/172",
-    "number": 172,
-    "title": "Keep the outbox dispatchers on the current build",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-04T10:22:12Z",
-    "merged_at": "2026-08-04T10:48:58Z",
-    "additions": 64,
-    "deletions": 2,
-    "changed_files": 4,
-    "lead_time_h": 0.45
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/153",
     "number": 153,
@@ -3388,36 +3343,6 @@
     "deletions": 19,
     "changed_files": 2,
     "lead_time_h": 0.19
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/125",
-    "number": 125,
-    "title": "Bump pkg to v0.24.0 (DB-scale duration buckets)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-16T05:32:30Z",
-    "merged_at": "2026-07-16T06:37:46Z",
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 2,
-    "lead_time_h": 1.09
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/124",
-    "number": 124,
-    "title": "Add shipping W2 business metrics (RFC-0017)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-16T02:04:58Z",
-    "merged_at": "2026-07-16T02:43:13Z",
-    "additions": 257,
-    "deletions": 2,
-    "changed_files": 4,
-    "lead_time_h": 0.64
   },
   {
     "repo": "frontend",
@@ -5308,21 +5233,6 @@
     "deletions": 17,
     "changed_files": 6,
     "lead_time_h": 0.07
-  },
-  {
-    "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/29",
-    "number": 29,
-    "title": "Add inventory availability shadow reads (RFC-0021 P2-4)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-24T10:04:18Z",
-    "merged_at": "2026-07-24T10:20:05Z",
-    "additions": 469,
-    "deletions": 5,
-    "changed_files": 10,
-    "lead_time_h": 0.26
   },
   {
     "repo": "gitops",

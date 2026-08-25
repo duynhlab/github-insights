@@ -11,12 +11,12 @@
     },
     {
       "repo": "gha-workflows",
-      "XS": 2,
+      "XS": 1,
       "S": 5,
-      "M": 4,
+      "M": 3,
       "L": 0,
       "XL": 2,
-      "total": 13
+      "total": 11
     },
     {
       "repo": "wolfi-images",
@@ -76,10 +76,10 @@
       "repo": "order-service",
       "XS": 4,
       "S": 5,
-      "M": 5,
+      "M": 4,
       "L": 2,
       "XL": 2,
-      "total": 18
+      "total": 17
     },
     {
       "repo": "review-service",
@@ -101,12 +101,12 @@
     },
     {
       "repo": "shipping-service",
-      "XS": 5,
+      "XS": 4,
       "S": 3,
       "M": 2,
-      "L": 3,
+      "L": 2,
       "XL": 1,
-      "total": 14
+      "total": 12
     },
     {
       "repo": "frontend",
@@ -176,9 +176,9 @@
       "XS": 4,
       "S": 2,
       "M": 10,
-      "L": 6,
+      "L": 5,
       "XL": 4,
-      "total": 26
+      "total": 25
     },
     {
       "repo": "gitops",
@@ -229,12 +229,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 68,
+      "XS": 66,
       "S": 82,
-      "M": 119,
-      "L": 83,
+      "M": 117,
+      "L": 81,
       "XL": 68,
-      "total": 420
+      "total": 414
     },
     {
       "author": "duyhenryer",
