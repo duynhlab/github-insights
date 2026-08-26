@@ -217,10 +217,10 @@
       {
         "name": "Lint Helm Charts",
         "fail": 2,
-        "total": 16,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/32391785172",
         "last_fail_at": "2026-08-20T16:24:12Z",
-        "fail_rate": 0.125
+        "fail_rate": 0.133
       },
       {
         "name": ".github/workflows/e2e.yml",
@@ -238,34 +238,34 @@
       {
         "name": "go",
         "fail": 2,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32208115367",
         "last_fail_at": "2026-08-19T02:19:01Z",
-        "fail_rate": 0.133
+        "fail_rate": 0.125
       },
       {
         "name": "python",
         "fail": 2,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32439629189",
         "last_fail_at": "2026-08-21T02:22:35Z",
-        "fail_rate": 0.133
+        "fail_rate": 0.125
       },
       {
         "name": "node",
         "fail": 1,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/31559972416",
         "last_fail_at": "2026-08-12T03:24:29Z",
-        "fail_rate": 0.067
+        "fail_rate": 0.062
       },
       {
         "name": "nginx",
         "fail": 1,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/31559764726",
         "last_fail_at": "2026-08-12T03:20:23Z",
-        "fail_rate": 0.067
+        "fail_rate": 0.062
       }
     ]
   },
@@ -275,15 +275,15 @@
       {
         "name": "Sync releases",
         "fail": 4,
-        "total": 44,
+        "total": 45,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
         "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.091
+        "fail_rate": 0.089
       },
       {
         "name": "CI",
         "fail": 1,
-        "total": 46,
+        "total": 45,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31349362903",
         "last_fail_at": "2026-08-10T02:16:51Z",
         "fail_rate": 0.022
@@ -338,7 +338,7 @@
       {
         "name": "collect-and-deploy",
         "fail": 2,
-        "total": 91,
+        "total": 92,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/32055500003",
         "last_fail_at": "2026-08-17T18:33:44Z",
         "fail_rate": 0.022

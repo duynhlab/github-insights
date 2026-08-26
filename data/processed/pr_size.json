@@ -38,12 +38,12 @@
     },
     {
       "repo": "homelab",
-      "XS": 3,
+      "XS": 2,
       "S": 4,
-      "M": 20,
-      "L": 12,
+      "M": 19,
+      "L": 11,
       "XL": 8,
-      "total": 47
+      "total": 44
     },
     {
       "repo": "user-service",
@@ -229,12 +229,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 67,
+      "XS": 66,
       "S": 83,
-      "M": 113,
-      "L": 85,
+      "M": 112,
+      "L": 84,
       "XL": 67,
-      "total": 415
+      "total": 412
     },
     {
       "author": "duyhenryer",
