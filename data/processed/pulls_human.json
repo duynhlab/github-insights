@@ -1201,6 +1201,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/926",
+    "number": 926,
+    "title": "Simplify repository metadata and labels",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-26T06:51:49Z",
+    "merged_at": "2026-08-26T06:57:00Z",
+    "additions": 13,
+    "deletions": 104,
+    "changed_files": 5,
+    "lead_time_h": 0.09
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/922",
     "number": 922,
     "title": "Clarify trusted API documentation",
@@ -1843,21 +1858,6 @@
     "deletions": 10,
     "changed_files": 3,
     "lead_time_h": 0.07
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/877",
-    "number": 877,
-    "title": "Open RFC-0027 research on backend consolidation",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-23T15:56:25Z",
-    "merged_at": "2026-08-24T00:19:06Z",
-    "additions": 564,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 8.38
   },
   {
     "repo": "user-service",
