@@ -25,11 +25,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 31,
-        "total": 42,
+        "fail": 28,
+        "total": 39,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/32394564619",
         "last_fail_at": "2026-08-20T16:53:50Z",
-        "fail_rate": 0.738
+        "fail_rate": 0.718
       },
       {
         "name": "Build",
@@ -55,27 +55,6 @@
     ]
   },
   {
-    "repo": "user-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 17,
-        "total": 44,
-        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/32042325675",
-        "last_fail_at": "2026-08-17T15:26:19Z",
-        "fail_rate": 0.386
-      },
-      {
-        "name": "Build",
-        "fail": 1,
-        "total": 15,
-        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/31665986980",
-        "last_fail_at": "2026-08-13T04:06:58Z",
-        "fail_rate": 0.067
-      }
-    ]
-  },
-  {
     "repo": "product-service",
     "workflows": [
       {
@@ -89,15 +68,31 @@
     ]
   },
   {
-    "repo": "cart-service",
+    "repo": "user-service",
     "workflows": [
       {
         "name": "Check",
-        "fail": 16,
-        "total": 47,
-        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/31957558187",
-        "last_fail_at": "2026-08-16T16:04:46Z",
-        "fail_rate": 0.34
+        "fail": 14,
+        "total": 41,
+        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/32042325675",
+        "last_fail_at": "2026-08-17T15:26:19Z",
+        "fail_rate": 0.341
+      },
+      {
+        "name": "go_modules in /. - Update #1541845961",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/32984877475",
+        "last_fail_at": "2026-08-26T15:22:37Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "Build",
+        "fail": 1,
+        "total": 15,
+        "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/31665986980",
+        "last_fail_at": "2026-08-13T04:06:58Z",
+        "fail_rate": 0.067
       }
     ]
   },
@@ -123,6 +118,19 @@
     ]
   },
   {
+    "repo": "cart-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 15,
+        "total": 46,
+        "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/31957558187",
+        "last_fail_at": "2026-08-16T16:04:46Z",
+        "fail_rate": 0.326
+      }
+    ]
+  },
+  {
     "repo": "shipping-service",
     "workflows": [
       {
@@ -136,27 +144,6 @@
     ]
   },
   {
-    "repo": "notification-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 12,
-        "total": 46,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
-        "last_fail_at": "2026-08-16T16:06:48Z",
-        "fail_rate": 0.261
-      },
-      {
-        "name": "Build",
-        "fail": 1,
-        "total": 10,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31671687807",
-        "last_fail_at": "2026-08-13T05:50:13Z",
-        "fail_rate": 0.1
-      }
-    ]
-  },
-  {
     "repo": "review-service",
     "workflows": [
       {
@@ -166,6 +153,27 @@
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
         "last_fail_at": "2026-08-16T16:35:01Z",
         "fail_rate": 0.261
+      }
+    ]
+  },
+  {
+    "repo": "notification-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 10,
+        "total": 44,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
+        "last_fail_at": "2026-08-16T16:06:48Z",
+        "fail_rate": 0.227
+      },
+      {
+        "name": "Build",
+        "fail": 1,
+        "total": 10,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31671687807",
+        "last_fail_at": "2026-08-13T05:50:13Z",
+        "fail_rate": 0.1
       }
     ]
   },
@@ -275,18 +283,18 @@
       {
         "name": "Sync releases",
         "fail": 4,
-        "total": 45,
+        "total": 46,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
         "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.089
+        "fail_rate": 0.087
       },
       {
         "name": "CI",
         "fail": 1,
-        "total": 45,
+        "total": 44,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31349362903",
         "last_fail_at": "2026-08-10T02:16:51Z",
-        "fail_rate": 0.022
+        "fail_rate": 0.023
       }
     ]
   },
@@ -338,10 +346,10 @@
       {
         "name": "collect-and-deploy",
         "fail": 2,
-        "total": 93,
+        "total": 94,
         "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/32055500003",
         "last_fail_at": "2026-08-17T18:33:44Z",
-        "fail_rate": 0.022
+        "fail_rate": 0.021
       }
     ]
   },
