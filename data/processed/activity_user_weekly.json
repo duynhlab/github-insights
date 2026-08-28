@@ -200,13 +200,13 @@
     "author": "dependabot",
     "is_bot": true,
     "created": 39,
-    "merged": 0
+    "merged": 1
   },
   {
     "week": "2026-W35",
     "author": "renovate",
     "is_bot": true,
     "created": 6,
-    "merged": 0
+    "merged": 1
   }
 ]
