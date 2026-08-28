@@ -1201,6 +1201,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/952",
+    "number": 952,
+    "title": "Replicate the ClickHouse observability store (RFC-0028 / ADR-065)",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-28T10:10:39Z",
+    "merged_at": null,
+    "additions": 1792,
+    "deletions": 159,
+    "changed_files": 33,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/951",
     "number": 951,
     "title": "Name the platform docs RFC-0028 must move at implementation",
@@ -1828,21 +1843,6 @@
     "deletions": 4,
     "changed_files": 2,
     "lead_time_h": 0.02
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/905",
-    "number": 905,
-    "title": "Stop the design records contradicting themselves",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-25T05:25:33Z",
-    "merged_at": "2026-08-25T05:32:19Z",
-    "additions": 118,
-    "deletions": 39,
-    "changed_files": 34,
-    "lead_time_h": 0.11
   },
   {
     "repo": "user-service",
