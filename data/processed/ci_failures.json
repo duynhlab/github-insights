@@ -188,10 +188,10 @@
       {
         "name": "\ud83e\uddea E2E (KinD)",
         "fail": 4,
-        "total": 14,
+        "total": 13,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/32732843904",
         "last_fail_at": "2026-08-24T13:27:57Z",
-        "fail_rate": 0.286
+        "fail_rate": 0.308
       },
       {
         "name": "Lint Helm Charts",
@@ -254,18 +254,18 @@
       {
         "name": "Sync releases",
         "fail": 4,
-        "total": 49,
+        "total": 50,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
         "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.082
+        "fail_rate": 0.08
       },
       {
         "name": "CI",
         "fail": 1,
-        "total": 41,
+        "total": 40,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31349362903",
         "last_fail_at": "2026-08-10T02:16:51Z",
-        "fail_rate": 0.024
+        "fail_rate": 0.025
       }
     ]
   },
@@ -338,12 +338,25 @@
     ]
   },
   {
+    "repo": "gha-workflows",
+    "workflows": [
+      {
+        "name": "Lint",
+        "fail": 1,
+        "total": 68,
+        "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
+        "last_fail_at": "2026-08-29T10:42:35Z",
+        "fail_rate": 0.015
+      }
+    ]
+  },
+  {
     "repo": "homelab",
     "workflows": [
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 92,
+        "total": 91,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/33150424721",
         "last_fail_at": "2026-08-28T07:09:25Z",
         "fail_rate": 0.011

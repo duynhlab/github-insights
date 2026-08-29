@@ -211,6 +211,21 @@
   },
   {
     "repo": "gha-workflows",
+    "url": "https://github.com/duynhlab/gha-workflows/pull/119",
+    "number": 119,
+    "title": "Refactor CI/CD trust gates",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-08-29T10:42:32Z",
+    "merged_at": null,
+    "additions": 1689,
+    "deletions": 3050,
+    "changed_files": 33,
+    "lead_time_h": null
+  },
+  {
+    "repo": "gha-workflows",
     "url": "https://github.com/duynhlab/gha-workflows/pull/114",
     "number": 114,
     "title": "Build multi-arch images by default",
