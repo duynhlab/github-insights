@@ -94,10 +94,10 @@
       {
         "name": "Check",
         "fail": 14,
-        "total": 43,
+        "total": 44,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/31989349694",
         "last_fail_at": "2026-08-17T02:52:54Z",
-        "fail_rate": 0.326
+        "fail_rate": 0.318
       }
     ]
   },
