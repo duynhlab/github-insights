@@ -312,19 +312,6 @@
     ]
   },
   {
-    "repo": "github-insights",
-    "workflows": [
-      {
-        "name": "collect-and-deploy",
-        "fail": 2,
-        "total": 95,
-        "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/32055500003",
-        "last_fail_at": "2026-08-17T18:33:44Z",
-        "fail_rate": 0.021
-      }
-    ]
-  },
-  {
     "repo": "checkout-service",
     "workflows": [
       {
@@ -359,6 +346,19 @@
         "total": 90,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/33150424721",
         "last_fail_at": "2026-08-28T07:09:25Z",
+        "fail_rate": 0.011
+      }
+    ]
+  },
+  {
+    "repo": "github-insights",
+    "workflows": [
+      {
+        "name": "collect-and-deploy",
+        "fail": 1,
+        "total": 95,
+        "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/32055500003",
+        "last_fail_at": "2026-08-17T18:33:44Z",
         "fail_rate": 0.011
       }
     ]
