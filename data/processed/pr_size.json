@@ -20,12 +20,12 @@
     },
     {
       "repo": "wolfi-images",
-      "XS": 5,
+      "XS": 4,
       "S": 2,
       "M": 1,
       "L": 1,
       "XL": 0,
-      "total": 9
+      "total": 8
     },
     {
       "repo": "packages",
@@ -41,8 +41,8 @@
       "XS": 1,
       "S": 9,
       "M": 14,
-      "L": 14,
-      "XL": 5,
+      "L": 13,
+      "XL": 6,
       "total": 43
     },
     {
@@ -232,18 +232,18 @@
       "XS": 63,
       "S": 88,
       "M": 107,
-      "L": 84,
-      "XL": 66,
+      "L": 83,
+      "XL": 67,
       "total": 408
     },
     {
       "author": "duyhenryer",
-      "XS": 2,
+      "XS": 1,
       "S": 1,
       "M": 0,
       "L": 4,
       "XL": 3,
-      "total": 10
+      "total": 9
     }
   ],
   "buckets": [
