@@ -38,11 +38,11 @@
     },
     {
       "repo": "homelab",
-      "XS": 2,
+      "XS": 1,
       "S": 9,
-      "M": 15,
-      "L": 13,
-      "XL": 4,
+      "M": 14,
+      "L": 14,
+      "XL": 5,
       "total": 43
     },
     {
@@ -212,9 +212,9 @@
       "XS": 2,
       "S": 2,
       "M": 9,
-      "L": 14,
+      "L": 13,
       "XL": 10,
-      "total": 37
+      "total": 36
     },
     {
       "repo": "admin-service",
@@ -229,12 +229,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 64,
+      "XS": 63,
       "S": 88,
-      "M": 108,
+      "M": 107,
       "L": 84,
-      "XL": 65,
-      "total": 409
+      "XL": 66,
+      "total": 408
     },
     {
       "author": "duyhenryer",
