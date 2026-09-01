@@ -380,7 +380,7 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 68,
+        "total": 67,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.015
