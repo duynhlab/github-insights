@@ -39,9 +39,9 @@
     {
       "repo": "homelab",
       "XS": 1,
-      "S": 9,
-      "M": 14,
-      "L": 13,
+      "S": 10,
+      "M": 15,
+      "L": 11,
       "XL": 6,
       "total": 43
     },
@@ -201,11 +201,11 @@
     {
       "repo": "inventory-service",
       "XS": 4,
-      "S": 5,
+      "S": 3,
       "M": 4,
       "L": 2,
-      "XL": 2,
-      "total": 17
+      "XL": 1,
+      "total": 14
     },
     {
       "repo": "release-radar",
@@ -228,11 +228,11 @@
     {
       "repo": "obs-as-code",
       "XS": 0,
-      "S": 1,
+      "S": 2,
       "M": 0,
       "L": 0,
-      "XL": 2,
-      "total": 3
+      "XL": 3,
+      "total": 5
     }
   ],
   "by_author": [
@@ -240,10 +240,10 @@
       "author": "duynhne",
       "XS": 62,
       "S": 88,
-      "M": 105,
-      "L": 83,
+      "M": 106,
+      "L": 81,
       "XL": 69,
-      "total": 407
+      "total": 406
     },
     {
       "author": "duyhenryer",
