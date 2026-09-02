@@ -205,7 +205,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.91,
+    "ci_success_rate": 0.93,
     "ci_runs": 100
   },
   {
@@ -281,15 +281,15 @@
     "ttfr_median_h": 0.04,
     "ttfr_p90_h": 0.07,
     "ttfr_sample": 8,
-    "ci_success_rate": 0.92,
+    "ci_success_rate": 0.93,
     "ci_runs": 100
   },
   {
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 5458,
-    "pushed_at": "2026-09-02T02:47:38Z",
+    "size_kb": 5512,
+    "pushed_at": "2026-09-02T10:37:10Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
