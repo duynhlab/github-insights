@@ -2730,21 +2730,6 @@
     "lead_time_h": 0.22
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/180",
-    "number": 180,
-    "title": "Add the G2b fault hook and the UNKNOWN_SKU failure reason",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-07T08:06:12Z",
-    "merged_at": "2026-08-07T08:16:29Z",
-    "additions": 196,
-    "deletions": 10,
-    "changed_files": 10,
-    "lead_time_h": 0.17
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/153",
     "number": 153,

@@ -76,10 +76,10 @@
       "repo": "order-service",
       "XS": 3,
       "S": 5,
-      "M": 5,
+      "M": 4,
       "L": 2,
       "XL": 2,
-      "total": 17
+      "total": 16
     },
     {
       "repo": "review-service",
@@ -240,10 +240,10 @@
       "author": "duynhne",
       "XS": 63,
       "S": 87,
-      "M": 109,
+      "M": 108,
       "L": 80,
       "XL": 71,
-      "total": 410
+      "total": 409
     },
     {
       "author": "duyhenryer",

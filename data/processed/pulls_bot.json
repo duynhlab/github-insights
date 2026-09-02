@@ -2971,6 +2971,36 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/218",
+    "number": 218,
+    "title": "build(deps): bump library/golang from 1.26.7-alpine to 1.27.0-alpine",
+    "state": "CLOSED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-08-24T20:13:55Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/221",
+    "number": 221,
+    "title": "build(deps): bump library/golang from 1.26.7-alpine to 1.27.1-alpine",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-09-02T20:13:26Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/192",
     "number": 192,
     "title": "build(deps): bump github.com/testcontainers/testcontainers-go from 0.43.0 to 0.44.0",
@@ -3117,21 +3147,6 @@
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/218",
-    "number": 218,
-    "title": "build(deps): bump library/golang from 1.26.7-alpine to 1.27.0-alpine",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-24T20:13:55Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
     "lead_time_h": null
   },
   {
