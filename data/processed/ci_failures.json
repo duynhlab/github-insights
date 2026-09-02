@@ -96,11 +96,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 14,
-        "total": 44,
+        "fail": 13,
+        "total": 43,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/31989349694",
         "last_fail_at": "2026-08-17T02:52:54Z",
-        "fail_rate": 0.318
+        "fail_rate": 0.302
       }
     ]
   },
@@ -372,7 +372,7 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 67,
+        "total": 66,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.015
