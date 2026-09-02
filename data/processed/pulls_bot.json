@@ -1350,21 +1350,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/884",
-    "number": 884,
-    "title": "chore(deps): update helm release kyverno to v3.9.0",
-    "state": "OPEN",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-08-24T06:11:13Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/165",
     "number": 165,

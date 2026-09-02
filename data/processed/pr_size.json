@@ -38,12 +38,12 @@
     },
     {
       "repo": "homelab",
-      "XS": 1,
-      "S": 10,
-      "M": 15,
-      "L": 11,
+      "XS": 2,
+      "S": 9,
+      "M": 17,
+      "L": 10,
       "XL": 6,
-      "total": 43
+      "total": 44
     },
     {
       "repo": "user-service",
@@ -229,21 +229,21 @@
       "repo": "obs-as-code",
       "XS": 0,
       "S": 2,
-      "M": 0,
+      "M": 1,
       "L": 0,
-      "XL": 3,
-      "total": 5
+      "XL": 5,
+      "total": 8
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 62,
-      "S": 88,
-      "M": 106,
-      "L": 81,
-      "XL": 69,
-      "total": 406
+      "XS": 63,
+      "S": 87,
+      "M": 109,
+      "L": 80,
+      "XL": 71,
+      "total": 410
     },
     {
       "author": "duyhenryer",

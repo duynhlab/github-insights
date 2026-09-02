@@ -1,6 +1,6 @@
 {
   "homelab": {
-    "pr_updated_at": "2026-09-01T15:38:21Z"
+    "pr_updated_at": "2026-09-02T09:26:59Z"
   },
   "auth-service": {
     "pr_updated_at": "2026-08-17T18:18:57Z"
@@ -32,7 +32,7 @@
   "tf-local": {
     "pr_updated_at": "2026-08-03T12:54:35Z"
   },
-  "last_run": "2026-09-02T02:47:37.755266+00:00",
+  "last_run": "2026-09-02T10:37:09.143512+00:00",
   "github-insights": {
     "pr_updated_at": "2026-08-11T08:07:07Z"
   },
@@ -40,7 +40,7 @@
     "pr_updated_at": "2026-05-20T04:41:21Z"
   },
   "packages": {
-    "pr_updated_at": "2026-09-01T06:25:03Z"
+    "pr_updated_at": "2026-09-02T06:13:58Z"
   },
   "grafana-dashboards": {
     "pr_updated_at": "2026-08-25T10:13:51Z"
@@ -76,6 +76,6 @@
     "pr_updated_at": "2026-08-20T17:09:11Z"
   },
   "obs-as-code": {
-    "pr_updated_at": "2026-09-01T16:00:40Z"
+    "pr_updated_at": "2026-09-02T08:48:48Z"
   }
 }
