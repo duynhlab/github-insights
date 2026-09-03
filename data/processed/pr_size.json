@@ -39,11 +39,11 @@
     {
       "repo": "homelab",
       "XS": 2,
-      "S": 9,
+      "S": 10,
       "M": 17,
       "L": 10,
       "XL": 6,
-      "total": 44
+      "total": 45
     },
     {
       "repo": "user-service",
@@ -175,10 +175,10 @@
       "repo": "checkout-service",
       "XS": 3,
       "S": 2,
-      "M": 9,
+      "M": 8,
       "L": 4,
       "XL": 5,
-      "total": 23
+      "total": 22
     },
     {
       "repo": "gitops",
@@ -230,20 +230,20 @@
       "XS": 0,
       "S": 2,
       "M": 1,
-      "L": 0,
+      "L": 2,
       "XL": 5,
-      "total": 8
+      "total": 10
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
       "XS": 63,
-      "S": 87,
-      "M": 108,
-      "L": 80,
+      "S": 88,
+      "M": 107,
+      "L": 82,
       "XL": 71,
-      "total": 409
+      "total": 411
     },
     {
       "author": "duyhenryer",

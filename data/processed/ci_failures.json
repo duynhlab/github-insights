@@ -92,19 +92,6 @@
     ]
   },
   {
-    "repo": "shipping-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 13,
-        "total": 43,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/31989349694",
-        "last_fail_at": "2026-08-17T02:52:54Z",
-        "fail_rate": 0.302
-      }
-    ]
-  },
-  {
     "repo": "cart-service",
     "workflows": [
       {
@@ -114,6 +101,19 @@
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/31957558187",
         "last_fail_at": "2026-08-16T16:04:46Z",
         "fail_rate": 0.286
+      }
+    ]
+  },
+  {
+    "repo": "shipping-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 11,
+        "total": 41,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/33693348880",
+        "last_fail_at": "2026-09-02T23:04:06Z",
+        "fail_rate": 0.268
       }
     ]
   },
@@ -338,10 +338,10 @@
       {
         "name": "Check",
         "fail": 2,
-        "total": 48,
+        "total": 49,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/31956738859",
         "last_fail_at": "2026-08-16T15:48:16Z",
-        "fail_rate": 0.042
+        "fail_rate": 0.041
       }
     ]
   },
@@ -351,10 +351,10 @@
       {
         "name": "CI",
         "fail": 2,
-        "total": 19,
+        "total": 22,
         "last_fail_url": "https://github.com/duynhlab/obs-as-code/actions/runs/33410958777",
         "last_fail_at": "2026-08-31T15:52:51Z",
-        "fail_rate": 0.105
+        "fail_rate": 0.091
       }
     ]
   },
@@ -364,7 +364,7 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 66,
+        "total": 65,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.015
