@@ -1860,21 +1860,6 @@
     "lead_time_h": 0.08
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/927",
-    "number": 927,
-    "title": "Propose ADR-062: staff-group SSO for infra tools",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-26T15:14:50Z",
-    "merged_at": "2026-08-26T15:20:32Z",
-    "additions": 272,
-    "deletions": 1,
-    "changed_files": 4,
-    "lead_time_h": 0.1
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/156",
     "number": 156,
@@ -3073,21 +3058,6 @@
     "deletions": 19,
     "changed_files": 2,
     "lead_time_h": 0.2
-  },
-  {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/123",
-    "number": 123,
-    "title": "Add delivery-key idempotent email sends",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-23T02:49:14Z",
-    "merged_at": "2026-07-23T03:02:49Z",
-    "additions": 211,
-    "deletions": 9,
-    "changed_files": 10,
-    "lead_time_h": 0.23
   },
   {
     "repo": "shipping-service",
@@ -5385,21 +5355,6 @@
     "lead_time_h": 0.2
   },
   {
-    "repo": "inventory-service",
-    "url": "https://github.com/duynhlab/inventory-service/pull/21",
-    "number": 21,
-    "title": "Report unknown SKUs instead of zero-ATP shortages",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-06T01:36:51Z",
-    "merged_at": "2026-08-06T02:29:41Z",
-    "additions": 232,
-    "deletions": 27,
-    "changed_files": 8,
-    "lead_time_h": 0.88
-  },
-  {
     "repo": "release-radar",
     "url": "https://github.com/duynhlab/release-radar/pull/53",
     "number": 53,
@@ -6133,6 +6088,21 @@
     "deletions": 0,
     "changed_files": 5,
     "lead_time_h": 0.19
+  },
+  {
+    "repo": "obs-as-code",
+    "url": "https://github.com/duynhlab/obs-as-code/pull/18",
+    "number": 18,
+    "title": "Put variable queries in query, not expr",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-03T11:23:07Z",
+    "merged_at": null,
+    "additions": 218,
+    "deletions": 26,
+    "changed_files": 14,
+    "lead_time_h": null
   },
   {
     "repo": "obs-as-code",

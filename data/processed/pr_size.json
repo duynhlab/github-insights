@@ -41,9 +41,9 @@
       "XS": 2,
       "S": 11,
       "M": 17,
-      "L": 10,
+      "L": 9,
       "XL": 5,
-      "total": 45
+      "total": 44
     },
     {
       "repo": "user-service",
@@ -94,10 +94,10 @@
       "repo": "notification-service",
       "XS": 3,
       "S": 3,
-      "M": 3,
+      "M": 2,
       "L": 2,
       "XL": 1,
-      "total": 12
+      "total": 11
     },
     {
       "repo": "shipping-service",
@@ -203,9 +203,9 @@
       "XS": 4,
       "S": 3,
       "M": 4,
-      "L": 2,
+      "L": 1,
       "XL": 1,
-      "total": 14
+      "total": 13
     },
     {
       "repo": "release-radar",
@@ -229,10 +229,10 @@
       "repo": "obs-as-code",
       "XS": 1,
       "S": 3,
-      "M": 2,
+      "M": 3,
       "L": 6,
       "XL": 5,
-      "total": 17
+      "total": 18
     }
   ],
   "by_author": [
@@ -241,9 +241,9 @@
       "XS": 64,
       "S": 90,
       "M": 108,
-      "L": 85,
+      "L": 83,
       "XL": 70,
-      "total": 417
+      "total": 415
     },
     {
       "author": "duyhenryer",
