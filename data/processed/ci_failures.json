@@ -246,18 +246,18 @@
       {
         "name": "Sync releases",
         "fail": 4,
-        "total": 58,
+        "total": 59,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
         "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.069
+        "fail_rate": 0.068
       },
       {
         "name": "CI",
         "fail": 1,
-        "total": 29,
+        "total": 28,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31349362903",
         "last_fail_at": "2026-08-10T02:16:51Z",
-        "fail_rate": 0.034
+        "fail_rate": 0.036
       }
     ]
   },
