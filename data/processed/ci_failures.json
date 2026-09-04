@@ -70,11 +70,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 17,
-        "total": 44,
+        "fail": 16,
+        "total": 43,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/31956362907",
         "last_fail_at": "2026-08-16T15:40:31Z",
-        "fail_rate": 0.386
+        "fail_rate": 0.372
       }
     ]
   },
@@ -199,10 +199,10 @@
       {
         "name": "CI Pipeline",
         "fail": 6,
-        "total": 87,
+        "total": 86,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/33712265210",
         "last_fail_at": "2026-09-03T03:41:26Z",
-        "fail_rate": 0.069
+        "fail_rate": 0.07
       }
     ]
   },
@@ -296,26 +296,26 @@
       {
         "name": "go",
         "fail": 1,
-        "total": 16,
+        "total": 17,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32208115367",
         "last_fail_at": "2026-08-19T02:19:01Z",
-        "fail_rate": 0.062
+        "fail_rate": 0.059
       },
       {
         "name": "python",
         "fail": 1,
-        "total": 16,
+        "total": 17,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32439629189",
         "last_fail_at": "2026-08-21T02:22:35Z",
-        "fail_rate": 0.062
+        "fail_rate": 0.059
       },
       {
         "name": "nginx",
         "fail": 1,
-        "total": 16,
+        "total": 17,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/33364804789",
         "last_fail_at": "2026-08-31T06:35:19Z",
-        "fail_rate": 0.062
+        "fail_rate": 0.059
       }
     ]
   },
