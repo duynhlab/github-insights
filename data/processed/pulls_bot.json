@@ -1395,18 +1395,18 @@
     "lead_time_h": 5.86
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/923",
-    "number": 923,
-    "title": "chore(deps): update registry.k8s.io/git-sync/git-sync docker tag to v4.7.1 - autoclosed",
-    "state": "CLOSED",
+    "repo": "user-service",
+    "url": "https://github.com/duynhlab/user-service/pull/165",
+    "number": 165,
+    "title": "build(deps): bump the duynhlab-pkg group across 1 directory with 7 updates",
+    "state": "OPEN",
     "draft": false,
-    "author": "renovate",
-    "created_at": "2026-08-26T06:28:05Z",
+    "author": "dependabot",
+    "created_at": "2026-08-31T15:26:15Z",
     "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
+    "additions": 34,
+    "deletions": 34,
+    "changed_files": 2,
     "lead_time_h": null
   },
   {
@@ -1437,21 +1437,6 @@
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/165",
-    "number": 165,
-    "title": "build(deps): bump the duynhlab-pkg group across 1 directory with 7 updates",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-31T15:26:15Z",
-    "merged_at": null,
-    "additions": 34,
-    "deletions": 34,
-    "changed_files": 2,
     "lead_time_h": null
   },
   {
