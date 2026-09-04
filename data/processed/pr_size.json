@@ -41,9 +41,9 @@
       "XS": 2,
       "S": 11,
       "M": 15,
-      "L": 8,
-      "XL": 5,
-      "total": 41
+      "L": 6,
+      "XL": 4,
+      "total": 38
     },
     {
       "repo": "user-service",
@@ -241,9 +241,9 @@
       "XS": 63,
       "S": 90,
       "M": 106,
-      "L": 82,
-      "XL": 70,
-      "total": 411
+      "L": 80,
+      "XL": 69,
+      "total": 408
     },
     {
       "author": "duyhenryer",

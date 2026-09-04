@@ -110,10 +110,10 @@
       {
         "name": "CI Pipeline",
         "fail": 9,
-        "total": 87,
+        "total": 86,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/33870481523",
         "last_fail_at": "2026-09-04T11:58:49Z",
-        "fail_rate": 0.103
+        "fail_rate": 0.105
       }
     ]
   },
@@ -207,19 +207,6 @@
     ]
   },
   {
-    "repo": "frontend",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 6,
-        "total": 31,
-        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/31826236729",
-        "last_fail_at": "2026-08-14T17:55:23Z",
-        "fail_rate": 0.194
-      }
-    ]
-  },
-  {
     "repo": "tf-local",
     "workflows": [
       {
@@ -236,6 +223,19 @@
         "total": 18,
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
         "last_fail_at": "2026-06-25T00:26:33Z",
+        "fail_rate": 0.167
+      }
+    ]
+  },
+  {
+    "repo": "frontend",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 5,
+        "total": 30,
+        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/31826236729",
+        "last_fail_at": "2026-08-14T17:55:23Z",
         "fail_rate": 0.167
       }
     ]
