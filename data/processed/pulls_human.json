@@ -1201,6 +1201,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/977",
+    "number": 977,
+    "title": "Bump obs-as-code to v0.5.1 for the empty pickers",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-04T01:21:26Z",
+    "merged_at": null,
+    "additions": 25,
+    "deletions": 1,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/972",
     "number": 972,
     "title": "Gate the V2 dashboards behind their folder wave",
@@ -1783,21 +1798,6 @@
     "deletions": 17,
     "changed_files": 5,
     "lead_time_h": 0.07
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/932",
-    "number": 932,
-    "title": "Give OpenBAO an OIDC door through the staff realm",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-26T16:22:12Z",
-    "merged_at": "2026-08-26T16:24:18Z",
-    "additions": 264,
-    "deletions": 8,
-    "changed_files": 9,
-    "lead_time_h": 0.04
   },
   {
     "repo": "user-service",
@@ -6019,15 +6019,15 @@
     "url": "https://github.com/duynhlab/obs-as-code/pull/18",
     "number": 18,
     "title": "Put variable queries in query, not expr",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-03T11:23:07Z",
-    "merged_at": null,
+    "merged_at": "2026-09-04T01:17:46Z",
     "additions": 218,
     "deletions": 26,
     "changed_files": 14,
-    "lead_time_h": null
+    "lead_time_h": 13.91
   },
   {
     "repo": "obs-as-code",
