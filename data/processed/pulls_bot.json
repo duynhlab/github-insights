@@ -1395,21 +1395,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/924",
-    "number": 924,
-    "title": "chore(deps): update renovatebot/github-action action to v46.2.4 - autoclosed",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-08-26T06:28:11Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/165",
     "number": 165,
