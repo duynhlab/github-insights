@@ -194,19 +194,6 @@
     ]
   },
   {
-    "repo": "homelab",
-    "workflows": [
-      {
-        "name": "CI Pipeline",
-        "fail": 6,
-        "total": 91,
-        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/34032406243",
-        "last_fail_at": "2026-09-06T12:12:11Z",
-        "fail_rate": 0.066
-      }
-    ]
-  },
-  {
     "repo": "tf-local",
     "workflows": [
       {
@@ -368,6 +355,19 @@
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.016
+      }
+    ]
+  },
+  {
+    "repo": "homelab",
+    "workflows": [
+      {
+        "name": "CI Pipeline",
+        "fail": 1,
+        "total": 97,
+        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/34032406243",
+        "last_fail_at": "2026-09-06T12:12:11Z",
+        "fail_rate": 0.01
       }
     ]
   },
