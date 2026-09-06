@@ -1201,6 +1201,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/999",
+    "number": 999,
+    "title": "Repair two alerts and mark a third dormant",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-06T03:40:00Z",
+    "merged_at": null,
+    "additions": 76,
+    "deletions": 11,
+    "changed_files": 6,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/998",
     "number": 998,
     "title": "Bound two more ClickHouse system log tables",
@@ -1798,21 +1813,6 @@
     "deletions": 29,
     "changed_files": 3,
     "lead_time_h": 0.03
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/947",
-    "number": 947,
-    "title": "Open RFC-0028 research: ClickHouse replication + least privilege",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-28T07:09:20Z",
-    "merged_at": "2026-08-28T07:21:56Z",
-    "additions": 434,
-    "deletions": 1,
-    "changed_files": 3,
-    "lead_time_h": 0.21
   },
   {
     "repo": "user-service",
