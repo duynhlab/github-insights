@@ -215,6 +215,35 @@
     ]
   },
   {
+    "repo": "release-radar",
+    "workflows": [
+      {
+        "name": "Sync releases",
+        "fail": 4,
+        "total": 58,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
+        "last_fail_at": "2026-08-21T03:14:59Z",
+        "fail_rate": 0.069
+      },
+      {
+        "name": "npm_and_yarn in / for @tanstack/react-router, @tanstack/react-start, lucide-react, @cloudflare/vite-plugin, @cloudflare/vitest-pool-workers, @testing-library/react, @types/node, @types/react-dom, @vitejs/plugin-react, agent-browser, typescript-eslint, vite, vitest, wrangler - Update #1560168311",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/34075402118",
+        "last_fail_at": "2026-09-07T02:10:32Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "CI",
+        "fail": 1,
+        "total": 28,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31349362903",
+        "last_fail_at": "2026-08-10T02:16:51Z",
+        "fail_rate": 0.036
+      }
+    ]
+  },
+  {
     "repo": "frontend",
     "workflows": [
       {
@@ -224,27 +253,6 @@
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/31826236729",
         "last_fail_at": "2026-08-14T17:55:23Z",
         "fail_rate": 0.167
-      }
-    ]
-  },
-  {
-    "repo": "release-radar",
-    "workflows": [
-      {
-        "name": "Sync releases",
-        "fail": 4,
-        "total": 59,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
-        "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.068
-      },
-      {
-        "name": "CI",
-        "fail": 1,
-        "total": 28,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/31349362903",
-        "last_fail_at": "2026-08-10T02:16:51Z",
-        "fail_rate": 0.036
       }
     ]
   },
@@ -351,7 +359,7 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 64,
+        "total": 63,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.016
