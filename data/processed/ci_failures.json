@@ -109,11 +109,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 8,
-        "total": 36,
+        "fail": 7,
+        "total": 35,
         "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/32042325675",
         "last_fail_at": "2026-08-17T15:26:19Z",
-        "fail_rate": 0.222
+        "fail_rate": 0.2
       },
       {
         "name": "go_modules in /. - Update #1541845961",
@@ -122,19 +122,6 @@
         "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/32984877475",
         "last_fail_at": "2026-08-26T15:22:37Z",
         "fail_rate": 0.5
-      }
-    ]
-  },
-  {
-    "repo": "notification-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 7,
-        "total": 39,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
-        "last_fail_at": "2026-08-16T16:06:48Z",
-        "fail_rate": 0.179
       }
     ]
   },
@@ -194,23 +181,15 @@
     ]
   },
   {
-    "repo": "tf-local",
+    "repo": "notification-service",
     "workflows": [
       {
-        "name": ".github/workflows/aws-ci.yml",
-        "fail": 3,
-        "total": 3,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
-        "last_fail_at": "2026-06-19T12:53:29Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "CI",
-        "fail": 3,
-        "total": 18,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
-        "last_fail_at": "2026-06-25T00:26:33Z",
-        "fail_rate": 0.167
+        "name": "Check",
+        "fail": 6,
+        "total": 38,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
+        "last_fail_at": "2026-08-16T16:06:48Z",
+        "fail_rate": 0.158
       }
     ]
   },
@@ -253,6 +232,27 @@
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/31826236729",
         "last_fail_at": "2026-08-14T17:55:23Z",
         "fail_rate": 0.167
+      }
+    ]
+  },
+  {
+    "repo": "tf-local",
+    "workflows": [
+      {
+        "name": "CI",
+        "fail": 3,
+        "total": 18,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
+        "last_fail_at": "2026-06-25T00:26:33Z",
+        "fail_rate": 0.167
+      },
+      {
+        "name": ".github/workflows/aws-ci.yml",
+        "fail": 2,
+        "total": 2,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
+        "last_fail_at": "2026-06-19T12:53:29Z",
+        "fail_rate": 1.0
       }
     ]
   },
