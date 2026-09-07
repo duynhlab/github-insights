@@ -42,8 +42,8 @@
       "S": 0,
       "M": 13,
       "L": 8,
-      "XL": 6,
-      "total": 28
+      "XL": 7,
+      "total": 29
     },
     {
       "repo": "user-service",
@@ -114,8 +114,8 @@
       "S": 6,
       "M": 1,
       "L": 2,
-      "XL": 5,
-      "total": 16
+      "XL": 4,
+      "total": 15
     },
     {
       "repo": "backstage",

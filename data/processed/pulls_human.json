@@ -1201,6 +1201,36 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1036",
+    "number": 1036,
+    "title": "Audit Envoy and ClickHouse alerts against the community set",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-07T17:44:15Z",
+    "merged_at": null,
+    "additions": 1512,
+    "deletions": 30,
+    "changed_files": 19,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1035",
+    "number": 1035,
+    "title": "Rewrite RFC-0030 around PeerDB",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-07T17:13:02Z",
+    "merged_at": "2026-09-07T17:17:31Z",
+    "additions": 930,
+    "deletions": 1565,
+    "changed_files": 4,
+    "lead_time_h": 0.07
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1033",
     "number": 1033,
     "title": "Tier otel_logs and otel_traces onto RustFS after 7 days",
@@ -1603,21 +1633,6 @@
     "deletions": 19,
     "changed_files": 3,
     "lead_time_h": 0.24
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/989",
-    "number": 989,
-    "title": "Harden PostgreSQL authorization bootstrap",
-    "state": "OPEN",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-05T03:10:35Z",
-    "merged_at": null,
-    "additions": 1431,
-    "deletions": 15,
-    "changed_files": 13,
-    "lead_time_h": null
   },
   {
     "repo": "user-service",
@@ -3208,21 +3223,6 @@
     "deletions": 55,
     "changed_files": 1,
     "lead_time_h": 0.06
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/71",
-    "number": 71,
-    "title": "Migrate toasts, add mock mode, fix catalog UX",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-24T08:38:26Z",
-    "merged_at": "2026-07-24T08:57:32Z",
-    "additions": 1017,
-    "deletions": 506,
-    "changed_files": 48,
-    "lead_time_h": 0.32
   },
   {
     "repo": "tf-local",
