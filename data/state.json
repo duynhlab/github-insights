@@ -1,6 +1,6 @@
 {
   "homelab": {
-    "pr_updated_at": "2026-09-08T14:24:21Z"
+    "pr_updated_at": "2026-09-08T18:52:02Z"
   },
   "auth-service": {
     "pr_updated_at": "2026-08-17T18:18:57Z"
@@ -27,12 +27,12 @@
     "pr_updated_at": "2026-09-07T23:05:34Z"
   },
   "frontend": {
-    "pr_updated_at": "2026-09-07T17:56:23Z"
+    "pr_updated_at": "2026-09-08T17:55:28Z"
   },
   "tf-local": {
     "pr_updated_at": "2026-08-03T12:54:35Z"
   },
-  "last_run": "2026-09-08T15:59:28.228241+00:00",
+  "last_run": "2026-09-08T20:43:23.747136+00:00",
   "github-insights": {
     "pr_updated_at": "2026-08-11T08:07:07Z"
   },
