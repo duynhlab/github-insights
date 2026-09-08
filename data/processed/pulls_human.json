@@ -1201,6 +1201,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1041",
+    "number": 1041,
+    "title": "Use pg_cron for RFC-0030 heartbeat",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-08T14:22:57Z",
+    "merged_at": "2026-09-08T14:24:18Z",
+    "additions": 231,
+    "deletions": 92,
+    "changed_files": 4,
+    "lead_time_h": 0.02
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1040",
     "number": 1040,
     "title": "Exclude DR designated primary from standby alert",
@@ -1618,21 +1633,6 @@
     "deletions": 13,
     "changed_files": 10,
     "lead_time_h": 0.05
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/991",
-    "number": 991,
-    "title": "Give the Flux alert group its runbooks",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-05T05:08:17Z",
-    "merged_at": "2026-09-05T05:16:05Z",
-    "additions": 661,
-    "deletions": 11,
-    "changed_files": 9,
-    "lead_time_h": 0.13
   },
   {
     "repo": "user-service",
