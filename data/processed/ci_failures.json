@@ -126,19 +126,6 @@
     ]
   },
   {
-    "repo": "shipping-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 7,
-        "total": 37,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/33693348880",
-        "last_fail_at": "2026-09-02T23:04:06Z",
-        "fail_rate": 0.189
-      }
-    ]
-  },
-  {
     "repo": "helm-charts",
     "workflows": [
       {
@@ -190,6 +177,19 @@
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
         "last_fail_at": "2026-08-16T16:06:48Z",
         "fail_rate": 0.158
+      }
+    ]
+  },
+  {
+    "repo": "shipping-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 6,
+        "total": 36,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/33693348880",
+        "last_fail_at": "2026-09-02T23:04:06Z",
+        "fail_rate": 0.167
       }
     ]
   },
@@ -325,7 +325,7 @@
       {
         "name": "Check",
         "fail": 2,
-        "total": 47,
+        "total": 46,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/31956738859",
         "last_fail_at": "2026-08-16T15:48:16Z",
         "fail_rate": 0.043
