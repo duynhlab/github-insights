@@ -42,10 +42,10 @@
       {
         "name": "Check",
         "fail": 16,
-        "total": 32,
+        "total": 31,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/32394564619",
         "last_fail_at": "2026-08-20T16:53:50Z",
-        "fail_rate": 0.5
+        "fail_rate": 0.516
       },
       {
         "name": "docker in /. - Update #1547373777",
@@ -265,19 +265,6 @@
     ]
   },
   {
-    "repo": "notification-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 4,
-        "total": 36,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
-        "last_fail_at": "2026-08-16T16:06:48Z",
-        "fail_rate": 0.111
-      }
-    ]
-  },
-  {
     "repo": "wolfi-images",
     "workflows": [
       {
@@ -303,6 +290,19 @@
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/33364804789",
         "last_fail_at": "2026-08-31T06:35:19Z",
         "fail_rate": 0.062
+      }
+    ]
+  },
+  {
+    "repo": "notification-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 3,
+        "total": 35,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
+        "last_fail_at": "2026-08-16T16:06:48Z",
+        "fail_rate": 0.086
       }
     ]
   },
