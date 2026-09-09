@@ -1201,6 +1201,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1042",
+    "number": 1042,
+    "title": "Accept RFC-0030 architecture decisions",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-09T00:12:06Z",
+    "merged_at": "2026-09-09T00:20:34Z",
+    "additions": 846,
+    "deletions": 22,
+    "changed_files": 8,
+    "lead_time_h": 0.14
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1041",
     "number": 1041,
     "title": "Use pg_cron for RFC-0030 heartbeat",
@@ -1618,21 +1633,6 @@
     "deletions": 16,
     "changed_files": 17,
     "lead_time_h": 0.16
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/993",
-    "number": 993,
-    "title": "Give the Temporal alert group its runbooks",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-05T05:33:06Z",
-    "merged_at": "2026-09-05T05:36:04Z",
-    "additions": 695,
-    "deletions": 13,
-    "changed_files": 10,
-    "lead_time_h": 0.05
   },
   {
     "repo": "user-service",

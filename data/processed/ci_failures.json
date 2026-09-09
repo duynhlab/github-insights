@@ -320,19 +320,6 @@
     ]
   },
   {
-    "repo": "checkout-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 2,
-        "total": 46,
-        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/31956738859",
-        "last_fail_at": "2026-08-16T15:48:16Z",
-        "fail_rate": 0.043
-      }
-    ]
-  },
-  {
     "repo": "obs-as-code",
     "workflows": [
       {
@@ -359,19 +346,6 @@
     ]
   },
   {
-    "repo": "homelab",
-    "workflows": [
-      {
-        "name": "CI Pipeline",
-        "fail": 1,
-        "total": 96,
-        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/34032406243",
-        "last_fail_at": "2026-09-06T12:12:11Z",
-        "fail_rate": 0.01
-      }
-    ]
-  },
-  {
     "repo": "github-insights",
     "workflows": [
       {
@@ -394,6 +368,19 @@
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
         "fail_rate": 0.02
+      }
+    ]
+  },
+  {
+    "repo": "checkout-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 1,
+        "total": 45,
+        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/31956738859",
+        "last_fail_at": "2026-08-16T15:48:16Z",
+        "fail_rate": 0.022
       }
     ]
   }
