@@ -41,11 +41,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 16,
-        "total": 31,
+        "fail": 15,
+        "total": 30,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/32394564619",
         "last_fail_at": "2026-08-20T16:53:50Z",
-        "fail_rate": 0.516
+        "fail_rate": 0.5
       },
       {
         "name": "docker in /. - Update #1547373777",
@@ -168,27 +168,6 @@
     ]
   },
   {
-    "repo": "tf-local",
-    "workflows": [
-      {
-        "name": "CI",
-        "fail": 3,
-        "total": 17,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
-        "last_fail_at": "2026-06-25T00:26:33Z",
-        "fail_rate": 0.176
-      },
-      {
-        "name": ".github/workflows/aws-ci.yml",
-        "fail": 2,
-        "total": 2,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
-        "last_fail_at": "2026-06-19T12:53:29Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "release-radar",
     "workflows": [
       {
@@ -244,10 +223,31 @@
       {
         "name": "Check",
         "fail": 4,
-        "total": 36,
+        "total": 35,
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
         "last_fail_at": "2026-08-16T16:35:01Z",
-        "fail_rate": 0.111
+        "fail_rate": 0.114
+      }
+    ]
+  },
+  {
+    "repo": "tf-local",
+    "workflows": [
+      {
+        "name": "CI",
+        "fail": 3,
+        "total": 17,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
+        "last_fail_at": "2026-06-25T00:26:33Z",
+        "fail_rate": 0.176
+      },
+      {
+        "name": ".github/workflows/aws-ci.yml",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
+        "last_fail_at": "2026-06-19T12:53:29Z",
+        "fail_rate": 1.0
       }
     ]
   },
