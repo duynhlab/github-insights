@@ -96,11 +96,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 11,
-        "total": 41,
+        "fail": 10,
+        "total": 40,
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/31957558187",
         "last_fail_at": "2026-08-16T16:04:46Z",
-        "fail_rate": 0.268
+        "fail_rate": 0.25
       }
     ]
   },
@@ -294,19 +294,6 @@
     ]
   },
   {
-    "repo": "frontend",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 2,
-        "total": 29,
-        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/31826236729",
-        "last_fail_at": "2026-08-14T17:55:23Z",
-        "fail_rate": 0.069
-      }
-    ]
-  },
-  {
     "repo": "backstage",
     "workflows": [
       {
@@ -342,6 +329,19 @@
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.016
+      }
+    ]
+  },
+  {
+    "repo": "frontend",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 1,
+        "total": 26,
+        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/31826236729",
+        "last_fail_at": "2026-08-14T17:55:23Z",
+        "fail_rate": 0.038
       }
     ]
   },
