@@ -159,11 +159,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 6,
-        "total": 35,
+        "fail": 5,
+        "total": 34,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/33693348880",
         "last_fail_at": "2026-09-02T23:04:06Z",
-        "fail_rate": 0.171
+        "fail_rate": 0.147
       }
     ]
   },
@@ -368,19 +368,6 @@
         "last_fail_url": "https://github.com/duynhlab/base64-plugin/actions/runs/26864228204",
         "last_fail_at": "2026-06-03T04:44:43Z",
         "fail_rate": 0.02
-      }
-    ]
-  },
-  {
-    "repo": "checkout-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 1,
-        "total": 45,
-        "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/31956738859",
-        "last_fail_at": "2026-08-16T15:48:16Z",
-        "fail_rate": 0.022
       }
     ]
   }
