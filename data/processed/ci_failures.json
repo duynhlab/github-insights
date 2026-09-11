@@ -66,19 +66,6 @@
     ]
   },
   {
-    "repo": "payment-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 14,
-        "total": 41,
-        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/31956362907",
-        "last_fail_at": "2026-08-16T15:40:31Z",
-        "fail_rate": 0.341
-      }
-    ]
-  },
-  {
     "repo": "product-service",
     "workflows": [
       {
@@ -88,6 +75,19 @@
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/31957640401",
         "last_fail_at": "2026-08-16T16:06:24Z",
         "fail_rate": 0.289
+      }
+    ]
+  },
+  {
+    "repo": "payment-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 13,
+        "total": 40,
+        "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/31956362907",
+        "last_fail_at": "2026-08-16T15:40:31Z",
+        "fail_rate": 0.325
       }
     ]
   },
@@ -110,10 +110,10 @@
       {
         "name": "\ud83e\uddea E2E (KinD)",
         "fail": 4,
-        "total": 12,
+        "total": 11,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/32732843904",
         "last_fail_at": "2026-08-24T13:27:57Z",
-        "fail_rate": 0.333
+        "fail_rate": 0.364
       },
       {
         "name": "Lint Helm Charts",
@@ -257,26 +257,26 @@
       {
         "name": "go",
         "fail": 1,
-        "total": 17,
+        "total": 18,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32208115367",
         "last_fail_at": "2026-08-19T02:19:01Z",
-        "fail_rate": 0.059
+        "fail_rate": 0.056
       },
       {
         "name": "python",
         "fail": 1,
-        "total": 17,
+        "total": 18,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32439629189",
         "last_fail_at": "2026-08-21T02:22:35Z",
-        "fail_rate": 0.059
+        "fail_rate": 0.056
       },
       {
         "name": "nginx",
         "fail": 1,
-        "total": 17,
+        "total": 18,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/33364804789",
         "last_fail_at": "2026-08-31T06:35:19Z",
-        "fail_rate": 0.059
+        "fail_rate": 0.056
       }
     ]
   },
