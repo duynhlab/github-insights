@@ -31,7 +31,7 @@
   },
   {
     "name": "user-service",
-    "bot_open_pr": 15,
+    "bot_open_pr": 16,
     "bot_merged_pr": 5,
     "bot_lead_time_median_h": 60.71
   },
@@ -133,7 +133,7 @@
   },
   {
     "name": "inventory-service",
-    "bot_open_pr": 16,
+    "bot_open_pr": 17,
     "bot_merged_pr": 5,
     "bot_lead_time_median_h": 63.08
   },

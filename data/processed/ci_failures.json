@@ -41,11 +41,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 15,
-        "total": 30,
+        "fail": 14,
+        "total": 29,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/32394564619",
         "last_fail_at": "2026-08-20T16:53:50Z",
-        "fail_rate": 0.5
+        "fail_rate": 0.483
       },
       {
         "name": "docker in /. - Update #1547373777",
@@ -139,10 +139,10 @@
       {
         "name": "Check",
         "fail": 5,
-        "total": 32,
+        "total": 33,
         "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/32042325675",
         "last_fail_at": "2026-08-17T15:26:19Z",
-        "fail_rate": 0.156
+        "fail_rate": 0.152
       },
       {
         "name": "go_modules in /. - Update #1541845961",
@@ -218,28 +218,15 @@
     ]
   },
   {
-    "repo": "review-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 4,
-        "total": 35,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
-        "last_fail_at": "2026-08-16T16:35:01Z",
-        "fail_rate": 0.114
-      }
-    ]
-  },
-  {
     "repo": "tf-local",
     "workflows": [
       {
         "name": "CI",
         "fail": 3,
-        "total": 17,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
         "last_fail_at": "2026-06-25T00:26:33Z",
-        "fail_rate": 0.176
+        "fail_rate": 0.188
       },
       {
         "name": ".github/workflows/aws-ci.yml",
@@ -281,15 +268,28 @@
     ]
   },
   {
-    "repo": "notification-service",
+    "repo": "review-service",
     "workflows": [
       {
         "name": "Check",
         "fail": 3,
-        "total": 35,
+        "total": 34,
+        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
+        "last_fail_at": "2026-08-16T16:35:01Z",
+        "fail_rate": 0.088
+      }
+    ]
+  },
+  {
+    "repo": "notification-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 2,
+        "total": 33,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
         "last_fail_at": "2026-08-16T16:06:48Z",
-        "fail_rate": 0.086
+        "fail_rate": 0.061
       }
     ]
   },

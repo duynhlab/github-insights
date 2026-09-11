@@ -99,8 +99,8 @@
     "url": "https://github.com/duynhlab/user-service",
     "lang": "Go",
     "size_kb": 366,
-    "pushed_at": "2026-09-03T15:24:32Z",
-    "open_issues": 15,
+    "pushed_at": "2026-09-11T15:23:39Z",
+    "open_issues": 16,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 12,
@@ -186,7 +186,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.96,
+    "ci_success_rate": 0.97,
     "ci_runs": 100
   },
   {
@@ -205,7 +205,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.97,
+    "ci_success_rate": 0.98,
     "ci_runs": 100
   },
   {
@@ -288,8 +288,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 5002,
-    "pushed_at": "2026-09-11T02:56:12Z",
+    "size_kb": 5003,
+    "pushed_at": "2026-09-11T10:36:25Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -421,9 +421,9 @@
     "name": "inventory-service",
     "url": "https://github.com/duynhlab/inventory-service",
     "lang": "Go",
-    "size_kb": 317,
-    "pushed_at": "2026-09-03T13:24:26Z",
-    "open_issues": 16,
+    "size_kb": 335,
+    "pushed_at": "2026-09-11T13:24:11Z",
+    "open_issues": 17,
     "human_open_pr": 0,
     "human_stale_pr": 0,
     "human_merged_pr": 13,
@@ -433,7 +433,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.83,
+    "ci_success_rate": 0.84,
     "ci_runs": 100
   },
   {
