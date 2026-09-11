@@ -96,11 +96,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 10,
-        "total": 40,
+        "fail": 9,
+        "total": 39,
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/31957558187",
         "last_fail_at": "2026-08-16T16:04:46Z",
-        "fail_rate": 0.25
+        "fail_rate": 0.231
       }
     ]
   },
