@@ -118,10 +118,10 @@
       {
         "name": "Lint Helm Charts",
         "fail": 2,
-        "total": 13,
+        "total": 12,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/32391785172",
         "last_fail_at": "2026-08-20T16:24:12Z",
-        "fail_rate": 0.154
+        "fail_rate": 0.167
       },
       {
         "name": ".github/workflows/e2e.yml",
