@@ -346,19 +346,6 @@
     ]
   },
   {
-    "repo": "github-insights",
-    "workflows": [
-      {
-        "name": "collect-and-deploy",
-        "fail": 1,
-        "total": 100,
-        "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/32055500003",
-        "last_fail_at": "2026-08-17T18:33:44Z",
-        "fail_rate": 0.01
-      }
-    ]
-  },
-  {
     "repo": "base64-plugin",
     "workflows": [
       {

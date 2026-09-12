@@ -26,7 +26,7 @@
     "pushed_at": "2026-09-06T23:07:01Z",
     "open_issues": 7,
     "human_open_pr": 1,
-    "human_stale_pr": 0,
+    "human_stale_pr": 1,
     "human_merged_pr": 10,
     "commits_window": 45,
     "lead_time_median_h": 0.02,
@@ -288,8 +288,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 5058,
-    "pushed_at": "2026-09-12T03:03:21Z",
+    "size_kb": 5063,
+    "pushed_at": "2026-09-12T10:05:01Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -300,7 +300,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.98,
+    "ci_success_rate": 0.99,
     "ci_runs": 100
   },
   {
