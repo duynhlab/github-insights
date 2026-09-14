@@ -4,11 +4,19 @@
     "workflows": [
       {
         "name": "CI",
-        "fail": 36,
-        "total": 45,
+        "fail": 35,
+        "total": 43,
         "last_fail_url": "https://github.com/duynhlab/trivy-viewer/actions/runs/34090189534",
         "last_fail_at": "2026-09-07T06:17:44Z",
-        "fail_rate": 0.8
+        "fail_rate": 0.814
+      },
+      {
+        "name": "go_modules in /. - Update #1574717932",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/trivy-viewer/actions/runs/34812559031",
+        "last_fail_at": "2026-09-14T06:13:41Z",
+        "fail_rate": 1.0
       },
       {
         "name": "go_modules in /. - Update #1560741994",
@@ -83,11 +91,11 @@
     "workflows": [
       {
         "name": "Check",
-        "fail": 13,
-        "total": 40,
+        "fail": 12,
+        "total": 39,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/31956362907",
         "last_fail_at": "2026-08-16T15:40:31Z",
-        "fail_rate": 0.325
+        "fail_rate": 0.308
       }
     ]
   },
@@ -247,35 +255,6 @@
     ]
   },
   {
-    "repo": "wolfi-images",
-    "workflows": [
-      {
-        "name": "go",
-        "fail": 1,
-        "total": 18,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32208115367",
-        "last_fail_at": "2026-08-19T02:19:01Z",
-        "fail_rate": 0.056
-      },
-      {
-        "name": "python",
-        "fail": 1,
-        "total": 18,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/32439629189",
-        "last_fail_at": "2026-08-21T02:22:35Z",
-        "fail_rate": 0.056
-      },
-      {
-        "name": "nginx",
-        "fail": 1,
-        "total": 18,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/33364804789",
-        "last_fail_at": "2026-08-31T06:35:19Z",
-        "fail_rate": 0.056
-      }
-    ]
-  },
-  {
     "repo": "review-service",
     "workflows": [
       {
@@ -337,6 +316,19 @@
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.016
+      }
+    ]
+  },
+  {
+    "repo": "wolfi-images",
+    "workflows": [
+      {
+        "name": "nginx",
+        "fail": 1,
+        "total": 14,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/33364804789",
+        "last_fail_at": "2026-08-31T06:35:19Z",
+        "fail_rate": 0.071
       }
     ]
   },

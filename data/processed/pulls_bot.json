@@ -571,6 +571,21 @@
   },
   {
     "repo": "wolfi-images",
+    "url": "https://github.com/duynhlab/wolfi-images/pull/94",
+    "number": 94,
+    "title": "chore(actions)(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0 in the actions group",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-09-14T09:08:22Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "wolfi-images",
     "url": "https://github.com/duynhlab/wolfi-images/pull/93",
     "number": 93,
     "title": "chore(actions)(deps): bump the actions group across 1 directory with 2 updates",
@@ -1183,21 +1198,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": null
-  },
-  {
-    "repo": "wolfi-images",
-    "url": "https://github.com/duynhlab/wolfi-images/pull/44",
-    "number": 44,
-    "title": "chore(actions)(deps): bump sigstore/cosign-installer from 3.10.0 to 4.0.0 in the actions group",
-    "state": "MERGED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2025-10-17T09:26:21Z",
-    "merged_at": "2025-10-20T04:55:12Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 67.48
   },
   {
     "repo": "packages",
