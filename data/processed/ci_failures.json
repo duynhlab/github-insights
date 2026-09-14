@@ -333,19 +333,6 @@
     ]
   },
   {
-    "repo": "frontend",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 1,
-        "total": 26,
-        "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/31826236729",
-        "last_fail_at": "2026-08-14T17:55:23Z",
-        "fail_rate": 0.038
-      }
-    ]
-  },
-  {
     "repo": "base64-plugin",
     "workflows": [
       {

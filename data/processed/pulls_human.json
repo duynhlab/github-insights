@@ -1605,21 +1605,6 @@
     "lead_time_h": 0.11
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/998",
-    "number": 998,
-    "title": "Bound two more ClickHouse system log tables",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-06T02:23:55Z",
-    "merged_at": "2026-09-06T09:30:28Z",
-    "additions": 237,
-    "deletions": 10,
-    "changed_files": 4,
-    "lead_time_h": 7.11
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/156",
     "number": 156,
@@ -3193,21 +3178,6 @@
     "deletions": 11,
     "changed_files": 5,
     "lead_time_h": 0.43
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/73",
-    "number": 73,
-    "title": "Rewrite README for DuynhLab dev reference",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-24T09:43:14Z",
-    "merged_at": "2026-07-24T09:46:44Z",
-    "additions": 196,
-    "deletions": 55,
-    "changed_files": 1,
-    "lead_time_h": 0.06
   },
   {
     "repo": "tf-local",
