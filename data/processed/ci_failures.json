@@ -147,10 +147,10 @@
       {
         "name": "Check",
         "fail": 5,
-        "total": 33,
+        "total": 31,
         "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/32042325675",
         "last_fail_at": "2026-08-17T15:26:19Z",
-        "fail_rate": 0.152
+        "fail_rate": 0.161
       },
       {
         "name": "go_modules in /. - Update #1541845961",
