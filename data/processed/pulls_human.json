@@ -1201,6 +1201,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1050",
+    "number": 1050,
+    "title": "Add platform-engineer skill and slim AGENTS.md",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-15T13:22:23Z",
+    "merged_at": "2026-09-15T13:50:04Z",
+    "additions": 207,
+    "deletions": 254,
+    "changed_files": 4,
+    "lead_time_h": 0.46
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1047",
     "number": 1047,
     "title": "Expand ClickHouse operations guidance",
@@ -1588,21 +1603,6 @@
     "deletions": 17,
     "changed_files": 11,
     "lead_time_h": 0.03
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1000",
-    "number": 1000,
-    "title": "Open RFC-0030 commerce research",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-06T09:24:41Z",
-    "merged_at": "2026-09-06T09:31:33Z",
-    "additions": 872,
-    "deletions": 1,
-    "changed_files": 3,
-    "lead_time_h": 0.11
   },
   {
     "repo": "user-service",
