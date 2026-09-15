@@ -92,10 +92,10 @@
       {
         "name": "Check",
         "fail": 12,
-        "total": 39,
+        "total": 38,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/31956362907",
         "last_fail_at": "2026-08-16T15:40:31Z",
-        "fail_rate": 0.308
+        "fail_rate": 0.316
       }
     ]
   },
@@ -325,10 +325,10 @@
       {
         "name": "nginx",
         "fail": 1,
-        "total": 14,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/33364804789",
         "last_fail_at": "2026-08-31T06:35:19Z",
-        "fail_rate": 0.071
+        "fail_rate": 0.067
       }
     ]
   },
