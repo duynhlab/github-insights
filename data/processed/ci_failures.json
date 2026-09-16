@@ -189,10 +189,10 @@
       {
         "name": "Check",
         "fail": 4,
-        "total": 29,
+        "total": 27,
         "last_fail_url": "https://github.com/duynhlab/user-service/actions/runs/32042325675",
         "last_fail_at": "2026-08-17T15:26:19Z",
-        "fail_rate": 0.138
+        "fail_rate": 0.148
       },
       {
         "name": "go_modules in /. - Update #1541845961",
@@ -281,19 +281,6 @@
     ]
   },
   {
-    "repo": "notification-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 2,
-        "total": 33,
-        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
-        "last_fail_at": "2026-08-16T16:06:48Z",
-        "fail_rate": 0.061
-      }
-    ]
-  },
-  {
     "repo": "backstage",
     "workflows": [
       {
@@ -351,10 +338,23 @@
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 84,
+        "total": 85,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/34974577133",
         "last_fail_at": "2026-09-15T13:22:27Z",
         "fail_rate": 0.012
+      }
+    ]
+  },
+  {
+    "repo": "notification-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 1,
+        "total": 32,
+        "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/31957657620",
+        "last_fail_at": "2026-08-16T16:06:48Z",
+        "fail_rate": 0.031
       }
     ]
   },

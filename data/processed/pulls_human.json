@@ -1248,15 +1248,15 @@
     "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1062",
     "number": 1062,
-    "title": "Audit telemetry standards and open RFC-0031",
+    "title": "Audit cross-signal telemetry and open RFC-0031",
     "state": "OPEN",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-16T10:15:57Z",
     "merged_at": null,
-    "additions": 518,
+    "additions": 1162,
     "deletions": 0,
-    "changed_files": 7,
+    "changed_files": 8,
     "lead_time_h": null
   },
   {
