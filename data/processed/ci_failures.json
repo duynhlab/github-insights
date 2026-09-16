@@ -192,19 +192,6 @@
     ]
   },
   {
-    "repo": "shipping-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 5,
-        "total": 34,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/33693348880",
-        "last_fail_at": "2026-09-02T23:04:06Z",
-        "fail_rate": 0.147
-      }
-    ]
-  },
-  {
     "repo": "admin-service",
     "workflows": [
       {
@@ -230,6 +217,19 @@
         "last_fail_url": "https://github.com/duynhlab/admin-service/actions/runs/31722857344",
         "last_fail_at": "2026-08-13T16:52:17Z",
         "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "shipping-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 4,
+        "total": 33,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/33693348880",
+        "last_fail_at": "2026-09-02T23:04:06Z",
+        "fail_rate": 0.121
       }
     ]
   },
