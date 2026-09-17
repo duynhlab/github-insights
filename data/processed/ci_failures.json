@@ -160,10 +160,10 @@
       {
         "name": "Sync releases",
         "fail": 4,
-        "total": 63,
+        "total": 64,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
         "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.063
+        "fail_rate": 0.062
       },
       {
         "name": "npm_and_yarn in / for @tanstack/react-router, @tanstack/react-start, lucide-react, @cloudflare/vite-plugin, @cloudflare/vitest-pool-workers, @testing-library/react, @types/node, @types/react-dom, @vitejs/plugin-react, agent-browser, typescript-eslint, vite, vitest, wrangler - Update #1560168311",
@@ -268,19 +268,6 @@
     ]
   },
   {
-    "repo": "review-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 2,
-        "total": 33,
-        "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/31959033673",
-        "last_fail_at": "2026-08-16T16:35:01Z",
-        "fail_rate": 0.061
-      }
-    ]
-  },
-  {
     "repo": "backstage",
     "workflows": [
       {
@@ -325,10 +312,10 @@
       {
         "name": "nginx",
         "fail": 1,
-        "total": 16,
+        "total": 17,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/33364804789",
         "last_fail_at": "2026-08-31T06:35:19Z",
-        "fail_rate": 0.062
+        "fail_rate": 0.059
       }
     ]
   },
@@ -338,7 +325,7 @@
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 84,
+        "total": 83,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/34974577133",
         "last_fail_at": "2026-09-15T13:22:27Z",
         "fail_rate": 0.012
