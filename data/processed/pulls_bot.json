@@ -1261,6 +1261,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1067",
+    "number": 1067,
+    "title": "Bump renovatebot/github-action from 46.3.0 to 46.3.1",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-09-17T19:53:15Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1008",
     "number": 1008,
     "title": "chore(deps): update quay.io/keycloak/keycloak docker tag to v26.7.4",

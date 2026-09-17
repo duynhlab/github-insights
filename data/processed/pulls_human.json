@@ -1470,21 +1470,6 @@
     "lead_time_h": 9.57
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1035",
-    "number": 1035,
-    "title": "Rewrite RFC-0030 around PeerDB",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-07T17:13:02Z",
-    "merged_at": "2026-09-07T17:17:31Z",
-    "additions": 930,
-    "deletions": 1565,
-    "changed_files": 4,
-    "lead_time_h": 0.07
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/156",
     "number": 156,
