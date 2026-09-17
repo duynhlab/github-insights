@@ -1261,6 +1261,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1008",
+    "number": 1008,
+    "title": "chore(deps): update quay.io/keycloak/keycloak docker tag to v26.7.4",
+    "state": "OPEN",
+    "draft": false,
+    "author": "renovate",
+    "created_at": "2026-09-06T15:42:28Z",
+    "merged_at": null,
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1007",
     "number": 1007,
     "title": "chore(deps): update grafana/grafana docker tag to v13.2.2",
@@ -1587,21 +1602,6 @@
     "additions": 3,
     "deletions": 3,
     "changed_files": 3,
-    "lead_time_h": null
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1008",
-    "number": 1008,
-    "title": "chore(deps): update quay.io/keycloak/keycloak docker tag to v26.7.3",
-    "state": "OPEN",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-09-06T15:42:28Z",
-    "merged_at": null,
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
     "lead_time_h": null
   },
   {

@@ -234,19 +234,6 @@
     ]
   },
   {
-    "repo": "shipping-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 4,
-        "total": 33,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/33693348880",
-        "last_fail_at": "2026-09-02T23:04:06Z",
-        "fail_rate": 0.121
-      }
-    ]
-  },
-  {
     "repo": "tf-local",
     "workflows": [
       {
@@ -264,6 +251,19 @@
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
         "last_fail_at": "2026-06-19T12:53:29Z",
         "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "shipping-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 3,
+        "total": 32,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/33693348880",
+        "last_fail_at": "2026-09-02T23:04:06Z",
+        "fail_rate": 0.094
       }
     ]
   },
