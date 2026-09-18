@@ -25,9 +25,9 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 29,
-    "bot_merged_pr": 4,
-    "bot_lead_time_median_h": 28.42
+    "bot_open_pr": 25,
+    "bot_merged_pr": 8,
+    "bot_lead_time_median_h": 28.43
   },
   {
     "name": "user-service",
