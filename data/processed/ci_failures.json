@@ -358,7 +358,7 @@
       {
         "name": "Check",
         "fail": 1,
-        "total": 42,
+        "total": 41,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/35316575669",
         "last_fail_at": "2026-09-18T06:49:32Z",
         "fail_rate": 0.024
@@ -444,7 +444,7 @@
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 86,
+        "total": 85,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/34974577133",
         "last_fail_at": "2026-09-15T13:22:27Z",
         "fail_rate": 0.012
