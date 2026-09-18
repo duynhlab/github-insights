@@ -1,6 +1,36 @@
 [
   {
     "repo": "grafana-dashboards",
+    "url": "https://github.com/duynhlab/grafana-dashboards/pull/19",
+    "number": 19,
+    "title": "feat(as-code): port the two OTel microservices boards",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-18T14:26:35Z",
+    "merged_at": "2026-09-18T14:34:43Z",
+    "additions": 12760,
+    "deletions": 4,
+    "changed_files": 24,
+    "lead_time_h": 0.14
+  },
+  {
+    "repo": "grafana-dashboards",
+    "url": "https://github.com/duynhlab/grafana-dashboards/pull/18",
+    "number": 18,
+    "title": "feat(skill): portable multi-agent skill, ship every dashboard in CI and e2e",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-18T11:49:15Z",
+    "merged_at": "2026-09-18T12:42:10Z",
+    "additions": 800,
+    "deletions": 358,
+    "changed_files": 25,
+    "lead_time_h": 0.88
+  },
+  {
+    "repo": "grafana-dashboards",
     "url": "https://github.com/duynhlab/grafana-dashboards/pull/17",
     "number": 17,
     "title": "feat(as-code): port five dashboards to Foundation SDK",
@@ -1273,6 +1303,21 @@
     "deletions": 4,
     "changed_files": 2,
     "lead_time_h": 0.1
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1073",
+    "number": 1073,
+    "title": "Make PROFILING_ENABLED a per-service input",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-18T11:32:46Z",
+    "merged_at": null,
+    "additions": 46,
+    "deletions": 10,
+    "changed_files": 7,
+    "lead_time_h": null
   },
   {
     "repo": "homelab",

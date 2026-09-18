@@ -50,10 +50,10 @@
       {
         "name": "As-Code Dashboards",
         "fail": 10,
-        "total": 16,
+        "total": 19,
         "last_fail_url": "https://github.com/duynhlab/grafana-dashboards/actions/runs/35074121290",
         "last_fail_at": "2026-09-16T08:30:10Z",
-        "fail_rate": 0.625
+        "fail_rate": 0.526
       }
     ]
   },
@@ -279,10 +279,10 @@
       {
         "name": "Check",
         "fail": 2,
-        "total": 32,
+        "total": 30,
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/35316583306",
         "last_fail_at": "2026-09-18T06:49:38Z",
-        "fail_rate": 0.062
+        "fail_rate": 0.067
       },
       {
         "name": "docker in /db/migrations - Update #1581557788",
@@ -379,10 +379,10 @@
       {
         "name": "Check",
         "fail": 1,
-        "total": 31,
+        "total": 30,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/35316598417",
         "last_fail_at": "2026-09-18T06:49:51Z",
-        "fail_rate": 0.032
+        "fail_rate": 0.033
       }
     ]
   },
