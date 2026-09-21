@@ -116,6 +116,35 @@
     ]
   },
   {
+    "repo": "release-radar",
+    "workflows": [
+      {
+        "name": "Sync releases",
+        "fail": 4,
+        "total": 66,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
+        "last_fail_at": "2026-08-21T03:14:59Z",
+        "fail_rate": 0.061
+      },
+      {
+        "name": "CI",
+        "fail": 2,
+        "total": 17,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/35553784701",
+        "last_fail_at": "2026-09-21T02:19:14Z",
+        "fail_rate": 0.118
+      },
+      {
+        "name": "npm_and_yarn in / for @tanstack/react-router, @tanstack/react-start, lucide-react, @cloudflare/vite-plugin, @cloudflare/vitest-pool-workers, @testing-library/react, @types/node, @types/react-dom, @vitejs/plugin-react, agent-browser, typescript-eslint, vite, vitest, wrangler - Update #1560168311",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/34075402118",
+        "last_fail_at": "2026-09-07T02:10:32Z",
+        "fail_rate": 1.0
+      }
+    ]
+  },
+  {
     "repo": "shipping-service",
     "workflows": [
       {
@@ -141,35 +170,6 @@
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/35305660720",
         "last_fail_at": "2026-09-18T04:06:03Z",
         "fail_rate": 0.143
-      }
-    ]
-  },
-  {
-    "repo": "release-radar",
-    "workflows": [
-      {
-        "name": "Sync releases",
-        "fail": 4,
-        "total": 67,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
-        "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.06
-      },
-      {
-        "name": "npm_and_yarn in / for @tanstack/react-router, @tanstack/react-start, lucide-react, @cloudflare/vite-plugin, @cloudflare/vitest-pool-workers, @testing-library/react, @types/node, @types/react-dom, @vitejs/plugin-react, agent-browser, typescript-eslint, vite, vitest, wrangler - Update #1560168311",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/34075402118",
-        "last_fail_at": "2026-09-07T02:10:32Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "CI",
-        "fail": 1,
-        "total": 19,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/34798693880",
-        "last_fail_at": "2026-09-14T02:16:59Z",
-        "fail_rate": 0.053
       }
     ]
   },
