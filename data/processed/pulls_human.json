@@ -1560,36 +1560,6 @@
     "lead_time_h": 0.16
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1045",
-    "number": 1045,
-    "title": "Cover CNPG DR cluster loss",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-14T06:37:42Z",
-    "merged_at": "2026-09-14T06:46:07Z",
-    "additions": 182,
-    "deletions": 10,
-    "changed_files": 7,
-    "lead_time_h": 0.14
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1044",
-    "number": 1044,
-    "title": "Fix failed Job namespace",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-14T06:36:07Z",
-    "merged_at": "2026-09-14T06:43:52Z",
-    "additions": 30,
-    "deletions": 4,
-    "changed_files": 4,
-    "lead_time_h": 0.13
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/180",
     "number": 180,
