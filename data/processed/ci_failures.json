@@ -316,10 +316,10 @@
       {
         "name": "Check",
         "fail": 1,
-        "total": 31,
+        "total": 30,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/35316561404",
         "last_fail_at": "2026-09-18T06:49:19Z",
-        "fail_rate": 0.032
+        "fail_rate": 0.033
       }
     ]
   },
@@ -337,10 +337,10 @@
       {
         "name": "Check",
         "fail": 1,
-        "total": 45,
+        "total": 47,
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/35316567859",
         "last_fail_at": "2026-09-18T06:49:25Z",
-        "fail_rate": 0.022
+        "fail_rate": 0.021
       }
     ]
   },
@@ -379,10 +379,10 @@
       {
         "name": "Check",
         "fail": 1,
-        "total": 31,
+        "total": 33,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/35316598417",
         "last_fail_at": "2026-09-18T06:49:51Z",
-        "fail_rate": 0.032
+        "fail_rate": 0.03
       }
     ]
   },
