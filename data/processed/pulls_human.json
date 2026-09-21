@@ -1,6 +1,21 @@
 [
   {
     "repo": "grafana-dashboards",
+    "url": "https://github.com/duynhlab/grafana-dashboards/pull/20",
+    "number": 20,
+    "title": "refactor(as-code): group generated output by domain",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-21T09:10:31Z",
+    "merged_at": "2026-09-21T09:21:11Z",
+    "additions": 208,
+    "deletions": 51,
+    "changed_files": 48,
+    "lead_time_h": 0.18
+  },
+  {
+    "repo": "grafana-dashboards",
     "url": "https://github.com/duynhlab/grafana-dashboards/pull/19",
     "number": 19,
     "title": "feat(as-code): port the two OTel microservices boards",
@@ -1306,6 +1321,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1074",
+    "number": 1074,
+    "title": "Carry the as-code boards as Dashboard V2 manifests",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-21T09:49:08Z",
+    "merged_at": null,
+    "additions": 3437,
+    "deletions": 5,
+    "changed_files": 6,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1073",
     "number": 1073,
     "title": "Make PROFILING_ENABLED a per-service input",
@@ -1561,6 +1591,21 @@
   },
   {
     "repo": "user-service",
+    "url": "https://github.com/duynhlab/user-service/pull/180",
+    "number": 180,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-21T08:57:58Z",
+    "merged_at": null,
+    "additions": 146,
+    "deletions": 157,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/179",
     "number": 179,
     "title": "Run the fleet lint policy on pull requests",
@@ -1693,6 +1738,21 @@
     "deletions": 3,
     "changed_files": 12,
     "lead_time_h": 0.4
+  },
+  {
+    "repo": "product-service",
+    "url": "https://github.com/duynhlab/product-service/pull/200",
+    "number": 200,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-21T08:58:06Z",
+    "merged_at": null,
+    "additions": 152,
+    "deletions": 163,
+    "changed_files": 2,
+    "lead_time_h": null
   },
   {
     "repo": "product-service",
@@ -1846,6 +1906,21 @@
   },
   {
     "repo": "cart-service",
+    "url": "https://github.com/duynhlab/cart-service/pull/189",
+    "number": 189,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-21T08:58:20Z",
+    "merged_at": null,
+    "additions": 152,
+    "deletions": 163,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "cart-service",
     "url": "https://github.com/duynhlab/cart-service/pull/188",
     "number": 188,
     "title": "Run the fleet lint policy on pull requests",
@@ -1980,19 +2055,19 @@
     "lead_time_h": 18.86
   },
   {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/146",
-    "number": 146,
-    "title": "Align the docs with the canonical contract",
-    "state": "MERGED",
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/236",
+    "number": 236,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-08-09T03:31:50Z",
-    "merged_at": "2026-08-12T07:42:04Z",
-    "additions": 201,
-    "deletions": 322,
+    "created_at": "2026-09-21T08:59:10Z",
+    "merged_at": null,
+    "additions": 155,
+    "deletions": 166,
     "changed_files": 2,
-    "lead_time_h": 76.17
+    "lead_time_h": null
   },
   {
     "repo": "order-service",
@@ -2175,19 +2250,19 @@
     "lead_time_h": 0.04
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/200",
-    "number": 200,
-    "title": "Pin gha-workflows workflows to e321897",
-    "state": "MERGED",
+    "repo": "review-service",
+    "url": "https://github.com/duynhlab/review-service/pull/175",
+    "number": 175,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-08-16T04:05:36Z",
-    "merged_at": "2026-08-16T05:13:36Z",
-    "additions": 13,
-    "deletions": 13,
+    "created_at": "2026-09-21T08:59:21Z",
+    "merged_at": null,
+    "additions": 152,
+    "deletions": 163,
     "changed_files": 2,
-    "lead_time_h": 1.13
+    "lead_time_h": null
   },
   {
     "repo": "review-service",
@@ -2310,34 +2385,19 @@
     "lead_time_h": 1.12
   },
   {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/140",
-    "number": 140,
-    "title": "Adopt OIDC string user_id and fix the swallowed subject error",
-    "state": "MERGED",
+    "repo": "notification-service",
+    "url": "https://github.com/duynhlab/notification-service/pull/183",
+    "number": 183,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-08-12T07:29:59Z",
-    "merged_at": "2026-08-13T02:05:39Z",
-    "additions": 205,
-    "deletions": 88,
-    "changed_files": 15,
-    "lead_time_h": 18.59
-  },
-  {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/132",
-    "number": 132,
-    "title": "Align the docs with the canonical contract",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-09T03:16:39Z",
-    "merged_at": "2026-08-12T07:40:51Z",
-    "additions": 158,
-    "deletions": 205,
+    "created_at": "2026-09-21T08:59:42Z",
+    "merged_at": null,
+    "additions": 152,
+    "deletions": 163,
     "changed_files": 2,
-    "lead_time_h": 76.4
+    "lead_time_h": null
   },
   {
     "repo": "notification-service",
@@ -2475,19 +2535,19 @@
     "lead_time_h": 19.1
   },
   {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/140",
-    "number": 140,
-    "title": "Align the docs with the canonical contract",
-    "state": "MERGED",
+    "repo": "shipping-service",
+    "url": "https://github.com/duynhlab/shipping-service/pull/189",
+    "number": 189,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-08-09T03:29:48Z",
-    "merged_at": "2026-08-12T07:42:34Z",
-    "additions": 197,
-    "deletions": 303,
+    "created_at": "2026-09-21T08:59:31Z",
+    "merged_at": null,
+    "additions": 152,
+    "deletions": 163,
     "changed_files": 2,
-    "lead_time_h": 76.21
+    "lead_time_h": null
   },
   {
     "repo": "shipping-service",
@@ -3766,6 +3826,21 @@
   },
   {
     "repo": "payment-service",
+    "url": "https://github.com/duynhlab/payment-service/pull/105",
+    "number": 105,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-21T08:59:53Z",
+    "merged_at": null,
+    "additions": 155,
+    "deletions": 166,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "payment-service",
     "url": "https://github.com/duynhlab/payment-service/pull/104",
     "number": 104,
     "title": "Run the fleet lint policy on pull requests",
@@ -3975,19 +4050,19 @@
     "lead_time_h": 0.12
   },
   {
-    "repo": "payment-service",
-    "url": "https://github.com/duynhlab/payment-service/pull/65",
-    "number": 65,
-    "title": "Fix dependency and toolchain CVEs",
-    "state": "MERGED",
+    "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/97",
+    "number": 97,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-08-08T04:25:41Z",
-    "merged_at": "2026-08-08T04:38:19Z",
-    "additions": 45,
-    "deletions": 45,
-    "changed_files": 3,
-    "lead_time_h": 0.21
+    "created_at": "2026-09-21T08:58:38Z",
+    "merged_at": null,
+    "additions": 158,
+    "deletions": 169,
+    "changed_files": 2,
+    "lead_time_h": null
   },
   {
     "repo": "checkout-service",
@@ -4185,21 +4260,6 @@
     "lead_time_h": 0.06
   },
   {
-    "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/61",
-    "number": 61,
-    "title": "Adopt OIDC string user_id and Keycloak verification",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-12T10:10:44Z",
-    "merged_at": "2026-08-13T02:06:08Z",
-    "additions": 148,
-    "deletions": 42,
-    "changed_files": 14,
-    "lead_time_h": 15.92
-  },
-  {
     "repo": "gitops",
     "url": "https://github.com/duynhlab/gitops/pull/3",
     "number": 3,
@@ -4303,6 +4363,21 @@
     "deletions": 1668,
     "changed_files": 53,
     "lead_time_h": 0.11
+  },
+  {
+    "repo": "inventory-service",
+    "url": "https://github.com/duynhlab/inventory-service/pull/79",
+    "number": 79,
+    "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-21T08:58:13Z",
+    "merged_at": null,
+    "additions": 107,
+    "deletions": 120,
+    "changed_files": 2,
+    "lead_time_h": null
   },
   {
     "repo": "inventory-service",

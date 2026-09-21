@@ -13,7 +13,7 @@
   },
   {
     "name": "wolfi-images",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 26,
     "bot_lead_time_median_h": 18.92
   },
@@ -26,20 +26,20 @@
   {
     "name": "homelab",
     "bot_open_pr": 25,
-    "bot_merged_pr": 7,
-    "bot_lead_time_median_h": 28.43
+    "bot_merged_pr": 6,
+    "bot_lead_time_median_h": 41.08
   },
   {
     "name": "user-service",
     "bot_open_pr": 9,
-    "bot_merged_pr": 5,
+    "bot_merged_pr": 4,
     "bot_lead_time_median_h": 60.71
   },
   {
     "name": "product-service",
     "bot_open_pr": 13,
-    "bot_merged_pr": 5,
-    "bot_lead_time_median_h": 73.28
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 73.37
   },
   {
     "name": "cart-service",
@@ -55,8 +55,8 @@
   },
   {
     "name": "review-service",
-    "bot_open_pr": 10,
-    "bot_merged_pr": 5,
+    "bot_open_pr": 11,
+    "bot_merged_pr": 4,
     "bot_lead_time_median_h": 68.48
   },
   {
@@ -68,7 +68,7 @@
   {
     "name": "shipping-service",
     "bot_open_pr": 10,
-    "bot_merged_pr": 4,
+    "bot_merged_pr": 3,
     "bot_lead_time_median_h": 53.44
   },
   {
@@ -134,7 +134,7 @@
   {
     "name": "inventory-service",
     "bot_open_pr": 11,
-    "bot_merged_pr": 2,
+    "bot_merged_pr": 1,
     "bot_lead_time_median_h": 63.08
   },
   {

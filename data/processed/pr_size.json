@@ -5,9 +5,9 @@
       "XS": 1,
       "S": 1,
       "M": 0,
-      "L": 5,
+      "L": 6,
       "XL": 12,
-      "total": 19
+      "total": 20
     },
     {
       "repo": "gha-workflows",
@@ -42,26 +42,26 @@
       "S": 2,
       "M": 9,
       "L": 1,
-      "XL": 5,
-      "total": 17
+      "XL": 6,
+      "total": 18
     },
     {
       "repo": "user-service",
       "XS": 4,
       "S": 2,
       "M": 1,
-      "L": 1,
+      "L": 2,
       "XL": 1,
-      "total": 9
+      "total": 10
     },
     {
       "repo": "product-service",
       "XS": 4,
       "S": 2,
       "M": 2,
-      "L": 0,
+      "L": 1,
       "XL": 2,
-      "total": 10
+      "total": 11
     },
     {
       "repo": "cart-service",
@@ -75,9 +75,9 @@
     {
       "repo": "order-service",
       "XS": 5,
-      "S": 5,
+      "S": 4,
       "M": 2,
-      "L": 0,
+      "L": 1,
       "XL": 1,
       "total": 13
     },
@@ -86,9 +86,9 @@
       "XS": 4,
       "S": 2,
       "M": 1,
-      "L": 2,
+      "L": 1,
       "XL": 1,
-      "total": 10
+      "total": 9
     },
     {
       "repo": "notification-service",
@@ -104,9 +104,9 @@
       "XS": 4,
       "S": 2,
       "M": 1,
-      "L": 1,
+      "L": 2,
       "XL": 1,
-      "total": 9
+      "total": 10
     },
     {
       "repo": "frontend",
@@ -166,8 +166,8 @@
       "repo": "payment-service",
       "XS": 4,
       "S": 3,
-      "M": 4,
-      "L": 3,
+      "M": 3,
+      "L": 4,
       "XL": 1,
       "total": 15
     },
@@ -175,8 +175,8 @@
       "repo": "checkout-service",
       "XS": 4,
       "S": 2,
-      "M": 5,
-      "L": 1,
+      "M": 4,
+      "L": 2,
       "XL": 2,
       "total": 14
     },
@@ -202,10 +202,10 @@
       "repo": "inventory-service",
       "XS": 4,
       "S": 3,
-      "M": 3,
+      "M": 4,
       "L": 0,
       "XL": 1,
-      "total": 11
+      "total": 12
     },
     {
       "repo": "release-radar",
@@ -239,11 +239,11 @@
     {
       "author": "duynhne",
       "XS": 69,
-      "S": 73,
-      "M": 85,
-      "L": 62,
-      "XL": 65,
-      "total": 354
+      "S": 72,
+      "M": 84,
+      "L": 68,
+      "XL": 66,
+      "total": 359
     },
     {
       "author": "duyhenryer",
