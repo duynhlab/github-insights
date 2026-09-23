@@ -6,8 +6,8 @@
       "S": 1,
       "M": 0,
       "L": 6,
-      "XL": 12,
-      "total": 20
+      "XL": 14,
+      "total": 22
     },
     {
       "repo": "gha-workflows",
@@ -40,10 +40,10 @@
       "repo": "homelab",
       "XS": 0,
       "S": 1,
-      "M": 8,
+      "M": 9,
       "L": 1,
-      "XL": 5,
-      "total": 15
+      "XL": 6,
+      "total": 17
     },
     {
       "repo": "user-service",
@@ -176,9 +176,9 @@
       "XS": 4,
       "S": 2,
       "M": 4,
-      "L": 2,
+      "L": 3,
       "XL": 2,
-      "total": 14
+      "total": 15
     },
     {
       "repo": "gitops",
@@ -240,10 +240,10 @@
       "author": "duynhne",
       "XS": 69,
       "S": 71,
-      "M": 82,
-      "L": 67,
-      "XL": 64,
-      "total": 353
+      "M": 83,
+      "L": 68,
+      "XL": 67,
+      "total": 358
     },
     {
       "author": "duyhenryer",

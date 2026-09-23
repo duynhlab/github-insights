@@ -50,10 +50,10 @@
       {
         "name": "As-Code Dashboards",
         "fail": 10,
-        "total": 20,
+        "total": 25,
         "last_fail_url": "https://github.com/duynhlab/grafana-dashboards/actions/runs/35074121290",
         "last_fail_at": "2026-09-16T08:30:10Z",
-        "fail_rate": 0.5
+        "fail_rate": 0.4
       }
     ]
   },
@@ -292,10 +292,10 @@
       {
         "name": "Check",
         "fail": 2,
-        "total": 30,
+        "total": 29,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/35847559350",
         "last_fail_at": "2026-09-23T10:13:38Z",
-        "fail_rate": 0.067
+        "fail_rate": 0.069
       },
       {
         "name": "docker in /db/migrations - Update #1581557877",
@@ -304,35 +304,6 @@
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/35316149752",
         "last_fail_at": "2026-09-18T06:43:48Z",
         "fail_rate": 1.0
-      }
-    ]
-  },
-  {
-    "repo": "inventory-service",
-    "workflows": [
-      {
-        "name": "docker in /. - Update #1547373777",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/33396772115",
-        "last_fail_at": "2026-08-31T13:24:08Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "go_modules in /. - Update #1547373772",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/33396772018",
-        "last_fail_at": "2026-08-31T13:24:08Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "Check",
-        "fail": 1,
-        "total": 32,
-        "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/35316561404",
-        "last_fail_at": "2026-09-18T06:49:19Z",
-        "fail_rate": 0.031
       }
     ]
   },
@@ -392,6 +363,27 @@
     ]
   },
   {
+    "repo": "inventory-service",
+    "workflows": [
+      {
+        "name": "docker in /. - Update #1547373777",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/33396772115",
+        "last_fail_at": "2026-08-31T13:24:08Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "Check",
+        "fail": 1,
+        "total": 32,
+        "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/35316561404",
+        "last_fail_at": "2026-09-18T06:49:19Z",
+        "fail_rate": 0.031
+      }
+    ]
+  },
+  {
     "repo": "obs-as-code",
     "workflows": [
       {
@@ -418,6 +410,19 @@
     ]
   },
   {
+    "repo": "homelab",
+    "workflows": [
+      {
+        "name": "CI Pipeline",
+        "fail": 1,
+        "total": 87,
+        "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/35871024478",
+        "last_fail_at": "2026-09-23T14:00:18Z",
+        "fail_rate": 0.011
+      }
+    ]
+  },
+  {
     "repo": "base64-plugin",
     "workflows": [
       {
@@ -436,10 +441,10 @@
       {
         "name": "Check",
         "fail": 1,
-        "total": 43,
+        "total": 45,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/35316610675",
         "last_fail_at": "2026-09-18T06:50:01Z",
-        "fail_rate": 0.023
+        "fail_rate": 0.022
       }
     ]
   }

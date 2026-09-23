@@ -25,7 +25,7 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 26,
+    "bot_open_pr": 24,
     "bot_merged_pr": 9,
     "bot_lead_time_median_h": 53.73
   },
@@ -116,7 +116,7 @@
   {
     "name": "checkout-service",
     "bot_open_pr": 11,
-    "bot_merged_pr": 2,
+    "bot_merged_pr": 1,
     "bot_lead_time_median_h": 55.07
   },
   {
