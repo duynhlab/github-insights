@@ -1321,6 +1321,51 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1084",
+    "number": 1084,
+    "title": "Point the cluster at the obsx v0.44.0 fleet images",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-23T10:30:54Z",
+    "merged_at": null,
+    "additions": 133,
+    "deletions": 17,
+    "changed_files": 15,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1083",
+    "number": 1083,
+    "title": "Record RFC-0031 Phase 1 as built in the shared package",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-23T08:50:11Z",
+    "merged_at": "2026-09-23T08:57:54Z",
+    "additions": 147,
+    "deletions": 43,
+    "changed_files": 14,
+    "lead_time_h": 0.13
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1071",
+    "number": 1071,
+    "title": "Record Task 1.1c-A: obsx speaks API types, fleet follows",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-09-18T07:03:48Z",
+    "merged_at": "2026-09-23T08:10:49Z",
+    "additions": 84,
+    "deletions": 25,
+    "changed_files": 5,
+    "lead_time_h": 121.12
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1074",
     "number": 1074,
     "title": "Carry the as-code boards as Dashboard V2 manifests",
@@ -1393,21 +1438,6 @@
     "deletions": 6,
     "changed_files": 5,
     "lead_time_h": 3.98
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1071",
-    "number": 1071,
-    "title": "Record Task 1.1c-A: obsx speaks API types, fleet follows",
-    "state": "OPEN",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T07:03:48Z",
-    "merged_at": null,
-    "additions": 84,
-    "deletions": 25,
-    "changed_files": 5,
-    "lead_time_h": null
   },
   {
     "repo": "homelab",
@@ -1515,34 +1545,19 @@
     "lead_time_h": 0.03
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1050",
-    "number": 1050,
-    "title": "Add platform-engineer skill and slim AGENTS.md",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-15T13:22:23Z",
-    "merged_at": "2026-09-15T13:50:04Z",
-    "additions": 207,
-    "deletions": 254,
-    "changed_files": 4,
-    "lead_time_h": 0.46
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/180",
     "number": 180,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:57:58Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:07:57Z",
     "additions": 146,
     "deletions": 157,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.17
   },
   {
     "repo": "user-service",
@@ -1684,15 +1699,15 @@
     "url": "https://github.com/duynhlab/product-service/pull/200",
     "number": 200,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:58:06Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:08:03Z",
     "additions": 152,
     "deletions": 163,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.17
   },
   {
     "repo": "product-service",
@@ -1849,15 +1864,15 @@
     "url": "https://github.com/duynhlab/cart-service/pull/189",
     "number": 189,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:58:20Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:08:13Z",
     "additions": 152,
     "deletions": 163,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.16
   },
   {
     "repo": "cart-service",
@@ -1984,15 +1999,15 @@
     "url": "https://github.com/duynhlab/order-service/pull/236",
     "number": 236,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:59:10Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:08:20Z",
     "additions": 155,
     "deletions": 166,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.15
   },
   {
     "repo": "order-service",
@@ -2179,15 +2194,15 @@
     "url": "https://github.com/duynhlab/review-service/pull/175",
     "number": 175,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:59:21Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:08:25Z",
     "additions": 152,
     "deletions": 163,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.15
   },
   {
     "repo": "review-service",
@@ -2314,15 +2329,15 @@
     "url": "https://github.com/duynhlab/notification-service/pull/183",
     "number": 183,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:59:42Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:08:39Z",
     "additions": 152,
     "deletions": 163,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.15
   },
   {
     "repo": "notification-service",
@@ -2449,15 +2464,15 @@
     "url": "https://github.com/duynhlab/shipping-service/pull/189",
     "number": 189,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:59:31Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:08:31Z",
     "additions": 152,
     "deletions": 163,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.15
   },
   {
     "repo": "shipping-service",
@@ -3739,15 +3754,15 @@
     "url": "https://github.com/duynhlab/payment-service/pull/105",
     "number": 105,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:59:53Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:08:44Z",
     "additions": 155,
     "deletions": 166,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.15
   },
   {
     "repo": "payment-service",
@@ -3964,15 +3979,15 @@
     "url": "https://github.com/duynhlab/checkout-service/pull/97",
     "number": 97,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:58:38Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:08:49Z",
     "additions": 158,
     "deletions": 169,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.17
   },
   {
     "repo": "checkout-service",
@@ -4279,15 +4294,15 @@
     "url": "https://github.com/duynhlab/inventory-service/pull/79",
     "number": 79,
     "title": "Move to obsx v0.44.0 and the OTel 1.46 line",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-09-21T08:58:13Z",
-    "merged_at": null,
+    "merged_at": "2026-09-23T10:08:08Z",
     "additions": 107,
     "deletions": 120,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 49.17
   },
   {
     "repo": "inventory-service",
