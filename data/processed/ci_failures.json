@@ -92,7 +92,7 @@
       {
         "name": "Sync releases",
         "fail": 4,
-        "total": 71,
+        "total": 72,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
         "last_fail_at": "2026-08-21T03:14:59Z",
         "fail_rate": 0.056
@@ -100,10 +100,10 @@
       {
         "name": "CI",
         "fail": 2,
-        "total": 14,
+        "total": 13,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/35553784701",
         "last_fail_at": "2026-09-21T02:19:14Z",
-        "fail_rate": 0.143
+        "fail_rate": 0.154
       },
       {
         "name": "npm_and_yarn in / for @tanstack/react-router, @tanstack/react-start, lucide-react, @cloudflare/vite-plugin, @cloudflare/vitest-pool-workers, @testing-library/react, @types/node, @types/react-dom, @vitejs/plugin-react, agent-browser, typescript-eslint, vite, vitest, wrangler - Update #1560168311",
@@ -321,10 +321,10 @@
       {
         "name": "Check",
         "fail": 1,
-        "total": 41,
+        "total": 39,
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/35316567859",
         "last_fail_at": "2026-09-18T06:49:25Z",
-        "fail_rate": 0.024
+        "fail_rate": 0.026
       }
     ]
   },
@@ -342,10 +342,10 @@
       {
         "name": "Check",
         "fail": 1,
-        "total": 42,
+        "total": 40,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/35316575669",
         "last_fail_at": "2026-09-18T06:49:32Z",
-        "fail_rate": 0.024
+        "fail_rate": 0.025
       }
     ]
   },
@@ -415,10 +415,10 @@
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 87,
+        "total": 86,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/35871024478",
         "last_fail_at": "2026-09-23T14:00:18Z",
-        "fail_rate": 0.011
+        "fail_rate": 0.012
       }
     ]
   },
