@@ -137,10 +137,10 @@
       {
         "name": "Build",
         "fail": 1,
-        "total": 8,
+        "total": 7,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/35305660720",
         "last_fail_at": "2026-09-18T04:06:03Z",
-        "fail_rate": 0.125
+        "fail_rate": 0.143
       }
     ]
   },
