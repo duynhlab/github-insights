@@ -32,8 +32,8 @@
   {
     "name": "user-service",
     "bot_open_pr": 9,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 60.71
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "product-service",
@@ -44,8 +44,8 @@
   {
     "name": "cart-service",
     "bot_open_pr": 11,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 60.08
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "order-service",
@@ -56,14 +56,14 @@
   {
     "name": "review-service",
     "bot_open_pr": 10,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 68.49
+    "bot_merged_pr": 1,
+    "bot_lead_time_median_h": 68.5
   },
   {
     "name": "notification-service",
     "bot_open_pr": 10,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 64.22
+    "bot_merged_pr": 1,
+    "bot_lead_time_median_h": 64.71
   },
   {
     "name": "shipping-service",
@@ -110,7 +110,7 @@
   {
     "name": "payment-service",
     "bot_open_pr": 10,
-    "bot_merged_pr": 4,
+    "bot_merged_pr": 3,
     "bot_lead_time_median_h": 66.91
   },
   {

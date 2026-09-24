@@ -48,35 +48,35 @@
     {
       "repo": "user-service",
       "XS": 4,
-      "S": 3,
+      "S": 4,
       "M": 2,
       "L": 2,
       "XL": 1,
-      "total": 12
+      "total": 13
     },
     {
       "repo": "product-service",
       "XS": 5,
-      "S": 2,
+      "S": 3,
       "M": 2,
       "L": 2,
-      "XL": 2,
+      "XL": 1,
       "total": 13
     },
     {
       "repo": "cart-service",
       "XS": 5,
-      "S": 2,
+      "S": 3,
       "M": 2,
       "L": 1,
       "XL": 1,
-      "total": 11
+      "total": 12
     },
     {
       "repo": "order-service",
-      "XS": 5,
+      "XS": 4,
       "S": 5,
-      "M": 2,
+      "M": 3,
       "L": 1,
       "XL": 2,
       "total": 15
@@ -84,27 +84,27 @@
     {
       "repo": "review-service",
       "XS": 5,
-      "S": 2,
+      "S": 3,
       "M": 1,
       "L": 2,
       "XL": 1,
-      "total": 11
+      "total": 12
     },
     {
       "repo": "notification-service",
       "XS": 4,
-      "S": 3,
+      "S": 4,
       "M": 2,
       "L": 1,
       "XL": 1,
-      "total": 11
+      "total": 12
     },
     {
       "repo": "shipping-service",
       "XS": 5,
-      "S": 2,
+      "S": 3,
       "M": 2,
-      "L": 2,
+      "L": 1,
       "XL": 1,
       "total": 12
     },
@@ -166,10 +166,10 @@
       "repo": "payment-service",
       "XS": 6,
       "S": 3,
-      "M": 3,
+      "M": 4,
       "L": 3,
       "XL": 1,
-      "total": 16
+      "total": 17
     },
     {
       "repo": "checkout-service",
@@ -201,11 +201,11 @@
     {
       "repo": "inventory-service",
       "XS": 5,
-      "S": 1,
+      "S": 2,
       "M": 4,
       "L": 1,
       "XL": 0,
-      "total": 11
+      "total": 12
     },
     {
       "repo": "release-radar",
@@ -238,12 +238,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 77,
-      "S": 72,
-      "M": 88,
-      "L": 73,
-      "XL": 67,
-      "total": 377
+      "XS": 76,
+      "S": 79,
+      "M": 90,
+      "L": 72,
+      "XL": 66,
+      "total": 383
     },
     {
       "author": "duyhenryer",
