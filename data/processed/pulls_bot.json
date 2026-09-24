@@ -1231,6 +1231,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1096",
+    "number": 1096,
+    "title": "Bump renovatebot/github-action from 46.3.1 to 46.3.3",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-09-24T19:53:10Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1082",
     "number": 1082,
     "title": "chore(deps): update helm release rustfs to v1",
@@ -1693,21 +1708,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": 17.68
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1077",
-    "number": 1077,
-    "title": "Bump fluxcd/pkg/actions/kustomize from 46433b84001347af7b914217f84154fe858f9d38 to fc29ca0375323410da6588eb84a304444943f898",
-    "state": "MERGED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-09-21T19:55:42Z",
-    "merged_at": "2026-09-22T13:36:03Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 17.67
   },
   {
     "repo": "user-service",

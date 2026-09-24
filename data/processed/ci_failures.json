@@ -92,10 +92,10 @@
       {
         "name": "Sync releases",
         "fail": 4,
-        "total": 73,
+        "total": 74,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
         "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.055
+        "fail_rate": 0.054
       },
       {
         "name": "CI",
@@ -415,7 +415,7 @@
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 95,
+        "total": 94,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/35871024478",
         "last_fail_at": "2026-09-23T14:00:18Z",
         "fail_rate": 0.011
