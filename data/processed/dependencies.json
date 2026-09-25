@@ -25,9 +25,9 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 28,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 542.87
+    "bot_open_pr": 27,
+    "bot_merged_pr": 1,
+    "bot_lead_time_median_h": 7.72
   },
   {
     "name": "user-service",
@@ -37,7 +37,7 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 12,
+    "bot_open_pr": 13,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "review-service",
-    "bot_open_pr": 9,
+    "bot_open_pr": 10,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -109,9 +109,9 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 9,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 68.07
+    "bot_open_pr": 10,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "checkout-service",

@@ -4,10 +4,10 @@
       "repo": "grafana-dashboards",
       "XS": 1,
       "S": 1,
-      "M": 0,
+      "M": 1,
       "L": 7,
       "XL": 14,
-      "total": 23
+      "total": 24
     },
     {
       "repo": "gha-workflows",
@@ -38,12 +38,12 @@
     },
     {
       "repo": "homelab",
-      "XS": 1,
-      "S": 1,
-      "M": 11,
-      "L": 2,
+      "XS": 2,
+      "S": 2,
+      "M": 10,
+      "L": 3,
       "XL": 5,
-      "total": 20
+      "total": 22
     },
     {
       "repo": "user-service",
@@ -57,11 +57,11 @@
     {
       "repo": "product-service",
       "XS": 6,
-      "S": 3,
+      "S": 2,
       "M": 1,
       "L": 2,
       "XL": 1,
-      "total": 13
+      "total": 12
     },
     {
       "repo": "cart-service",
@@ -84,11 +84,11 @@
     {
       "repo": "review-service",
       "XS": 6,
-      "S": 3,
+      "S": 2,
       "M": 1,
       "L": 2,
       "XL": 1,
-      "total": 13
+      "total": 12
     },
     {
       "repo": "notification-service",
@@ -165,11 +165,11 @@
     {
       "repo": "payment-service",
       "XS": 6,
-      "S": 4,
-      "M": 4,
-      "L": 3,
+      "S": 3,
+      "M": 3,
+      "L": 2,
       "XL": 1,
-      "total": 18
+      "total": 15
     },
     {
       "repo": "checkout-service",
@@ -247,12 +247,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 86,
-      "S": 79,
-      "M": 90,
+      "XS": 87,
+      "S": 77,
+      "M": 89,
       "L": 71,
       "XL": 65,
-      "total": 391
+      "total": 389
     },
     {
       "author": "duyhenryer",
