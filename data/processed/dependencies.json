@@ -49,7 +49,7 @@
   },
   {
     "name": "order-service",
-    "bot_open_pr": 12,
+    "bot_open_pr": 13,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
