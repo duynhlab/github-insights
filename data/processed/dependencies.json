@@ -31,7 +31,7 @@
   },
   {
     "name": "user-service",
-    "bot_open_pr": 8,
+    "bot_open_pr": 9,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 10,
+    "bot_open_pr": 11,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -61,7 +61,7 @@
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 9,
+    "bot_open_pr": 10,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },

@@ -1905,21 +1905,6 @@
     "lead_time_h": 0.07
   },
   {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/148",
-    "number": 148,
-    "title": "Pin gha-workflows workflows to e321897",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-16T04:04:50Z",
-    "merged_at": "2026-08-16T05:12:58Z",
-    "additions": 13,
-    "deletions": 13,
-    "changed_files": 2,
-    "lead_time_h": 1.14
-  },
-  {
     "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/205",
     "number": 205,
@@ -2263,21 +2248,6 @@
     "deletions": 1364,
     "changed_files": 20,
     "lead_time_h": 10.62
-  },
-  {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/160",
-    "number": 160,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-16T14:53:20Z",
-    "merged_at": "2026-08-16T14:56:17Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 0.05
   },
   {
     "repo": "order-service",
@@ -2863,21 +2833,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": 0.04
-  },
-  {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/153",
-    "number": 153,
-    "title": "Pin gha-workflows workflows to e321897",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-16T04:06:08Z",
-    "merged_at": "2026-08-16T05:14:25Z",
-    "additions": 13,
-    "deletions": 13,
-    "changed_files": 2,
-    "lead_time_h": 1.14
   },
   {
     "repo": "shipping-service",
@@ -4963,36 +4918,6 @@
     "deletions": 101,
     "changed_files": 3,
     "lead_time_h": 0.22
-  },
-  {
-    "repo": "inventory-service",
-    "url": "https://github.com/duynhlab/inventory-service/pull/49",
-    "number": 49,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-16T14:53:10Z",
-    "merged_at": "2026-08-16T14:56:06Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 0.05
-  },
-  {
-    "repo": "inventory-service",
-    "url": "https://github.com/duynhlab/inventory-service/pull/48",
-    "number": 48,
-    "title": "Take span helpers from obsx and drop the middleware copy",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-16T14:30:04Z",
-    "merged_at": "2026-08-16T14:33:04Z",
-    "additions": 16,
-    "deletions": 128,
-    "changed_files": 5,
-    "lead_time_h": 0.05
   },
   {
     "repo": "release-radar",
