@@ -8,8 +8,8 @@
   {
     "name": "gha-workflows",
     "bot_open_pr": 5,
-    "bot_merged_pr": 17,
-    "bot_lead_time_median_h": 40.02
+    "bot_merged_pr": 16,
+    "bot_lead_time_median_h": 48.33
   },
   {
     "name": "wolfi-images",
@@ -26,48 +26,48 @@
   {
     "name": "homelab",
     "bot_open_pr": 28,
-    "bot_merged_pr": 4,
-    "bot_lead_time_median_h": 199.9
+    "bot_merged_pr": 2,
+    "bot_lead_time_median_h": 542.87
   },
   {
     "name": "user-service",
-    "bot_open_pr": 9,
+    "bot_open_pr": 8,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
   {
     "name": "product-service",
-    "bot_open_pr": 13,
+    "bot_open_pr": 12,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 11,
+    "bot_open_pr": 10,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
   {
     "name": "order-service",
-    "bot_open_pr": 13,
+    "bot_open_pr": 12,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
   {
     "name": "review-service",
-    "bot_open_pr": 10,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 68.5
+    "bot_open_pr": 9,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 10,
-    "bot_merged_pr": 1,
-    "bot_lead_time_median_h": 64.71
+    "bot_open_pr": 9,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 10,
+    "bot_open_pr": 9,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -109,13 +109,13 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 10,
-    "bot_merged_pr": 3,
-    "bot_lead_time_median_h": 66.91
+    "bot_open_pr": 9,
+    "bot_merged_pr": 2,
+    "bot_lead_time_median_h": 68.07
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 11,
+    "bot_open_pr": 12,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -133,7 +133,7 @@
   },
   {
     "name": "inventory-service",
-    "bot_open_pr": 11,
+    "bot_open_pr": 10,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
   },
@@ -151,6 +151,12 @@
   },
   {
     "name": "obs-as-code",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "crossplane",
     "bot_open_pr": 0,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
