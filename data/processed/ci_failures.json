@@ -142,10 +142,10 @@
       {
         "name": "Check",
         "fail": 3,
-        "total": 35,
+        "total": 40,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/35319894021",
         "last_fail_at": "2026-09-18T07:32:17Z",
-        "fail_rate": 0.086
+        "fail_rate": 0.075
       },
       {
         "name": "docker in /db/migrations - Update #1581557829",
