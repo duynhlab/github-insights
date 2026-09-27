@@ -91,11 +91,11 @@
     "workflows": [
       {
         "name": "Sync releases",
-        "fail": 4,
+        "fail": 3,
         "total": 78,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/32442707331",
         "last_fail_at": "2026-08-21T03:14:59Z",
-        "fail_rate": 0.051
+        "fail_rate": 0.038
       },
       {
         "name": "CI",
