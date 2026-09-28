@@ -39,10 +39,10 @@
     {
       "repo": "homelab",
       "XS": 2,
-      "S": 2,
-      "M": 10,
+      "S": 3,
+      "M": 8,
       "L": 3,
-      "XL": 5,
+      "XL": 6,
       "total": 22
     },
     {
@@ -165,11 +165,11 @@
     {
       "repo": "payment-service",
       "XS": 6,
-      "S": 3,
+      "S": 2,
       "M": 3,
       "L": 2,
       "XL": 1,
-      "total": 15
+      "total": 14
     },
     {
       "repo": "checkout-service",
@@ -233,15 +233,6 @@
       "L": 6,
       "XL": 5,
       "total": 18
-    },
-    {
-      "repo": "crossplane",
-      "XS": 0,
-      "S": 0,
-      "M": 0,
-      "L": 0,
-      "XL": 0,
-      "total": 0
     }
   ],
   "by_author": [
@@ -249,10 +240,10 @@
       "author": "duynhne",
       "XS": 83,
       "S": 75,
-      "M": 88,
+      "M": 86,
       "L": 71,
-      "XL": 65,
-      "total": 382
+      "XL": 66,
+      "total": 381
     },
     {
       "author": "duyhenryer",
