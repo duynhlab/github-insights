@@ -7,9 +7,9 @@
   },
   {
     "name": "gha-workflows",
-    "bot_open_pr": 0,
-    "bot_merged_pr": 21,
-    "bot_lead_time_median_h": 56.7
+    "bot_open_pr": 5,
+    "bot_merged_pr": 16,
+    "bot_lead_time_median_h": 73.75
   },
   {
     "name": "wolfi-images",
@@ -25,7 +25,7 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 19,
+    "bot_open_pr": 17,
     "bot_merged_pr": 10,
     "bot_lead_time_median_h": 515.17
   },
@@ -67,7 +67,7 @@
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 8,
     "bot_merged_pr": 7,
     "bot_lead_time_median_h": 51.62
   },

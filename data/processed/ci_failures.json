@@ -158,27 +158,6 @@
     ]
   },
   {
-    "repo": "shipping-service",
-    "workflows": [
-      {
-        "name": "Check",
-        "fail": 2,
-        "total": 39,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/35319894021",
-        "last_fail_at": "2026-09-18T07:32:17Z",
-        "fail_rate": 0.051
-      },
-      {
-        "name": "docker in /db/migrations - Update #1581557829",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/35316141377",
-        "last_fail_at": "2026-09-18T06:43:42Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "user-service",
     "workflows": [
       {
@@ -217,6 +196,19 @@
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/36084503145",
         "last_fail_at": "2026-09-25T02:01:17Z",
         "fail_rate": 0.023
+      }
+    ]
+  },
+  {
+    "repo": "shipping-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 2,
+        "total": 41,
+        "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/35319894021",
+        "last_fail_at": "2026-09-18T07:32:17Z",
+        "fail_rate": 0.049
       }
     ]
   },
@@ -265,7 +257,7 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 67,
+        "total": 68,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.015
