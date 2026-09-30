@@ -4,10 +4,10 @@
       "repo": "grafana-dashboards",
       "XS": 1,
       "S": 1,
-      "M": 1,
+      "M": 2,
       "L": 7,
       "XL": 14,
-      "total": 24
+      "total": 25
     },
     {
       "repo": "gha-workflows",
@@ -38,75 +38,75 @@
     },
     {
       "repo": "homelab",
-      "XS": 2,
-      "S": 1,
-      "M": 13,
-      "L": 14,
-      "XL": 8,
+      "XS": 3,
+      "S": 10,
+      "M": 12,
+      "L": 9,
+      "XL": 4,
       "total": 38
     },
     {
       "repo": "user-service",
-      "XS": 3,
-      "S": 3,
+      "XS": 4,
+      "S": 4,
       "M": 2,
       "L": 1,
       "XL": 0,
-      "total": 9
+      "total": 11
     },
     {
       "repo": "product-service",
       "XS": 4,
-      "S": 2,
+      "S": 3,
       "M": 0,
       "L": 2,
       "XL": 0,
-      "total": 8
+      "total": 9
     },
     {
       "repo": "cart-service",
-      "XS": 4,
-      "S": 2,
-      "M": 2,
-      "L": 1,
-      "XL": 0,
-      "total": 9
-    },
-    {
-      "repo": "order-service",
-      "XS": 3,
-      "S": 2,
-      "M": 3,
-      "L": 1,
-      "XL": 1,
-      "total": 10
-    },
-    {
-      "repo": "review-service",
-      "XS": 4,
-      "S": 2,
-      "M": 1,
-      "L": 2,
-      "XL": 0,
-      "total": 9
-    },
-    {
-      "repo": "notification-service",
-      "XS": 3,
+      "XS": 5,
       "S": 3,
       "M": 2,
       "L": 1,
       "XL": 0,
-      "total": 9
+      "total": 11
     },
     {
-      "repo": "shipping-service",
+      "repo": "order-service",
       "XS": 4,
-      "S": 2,
+      "S": 3,
+      "M": 2,
+      "L": 1,
+      "XL": 1,
+      "total": 11
+    },
+    {
+      "repo": "review-service",
+      "XS": 5,
+      "S": 3,
+      "M": 1,
+      "L": 2,
+      "XL": 0,
+      "total": 11
+    },
+    {
+      "repo": "notification-service",
+      "XS": 4,
+      "S": 4,
       "M": 2,
       "L": 1,
       "XL": 0,
-      "total": 9
+      "total": 11
+    },
+    {
+      "repo": "shipping-service",
+      "XS": 5,
+      "S": 3,
+      "M": 2,
+      "L": 1,
+      "XL": 0,
+      "total": 11
     },
     {
       "repo": "frontend",
@@ -165,17 +165,17 @@
     {
       "repo": "payment-service",
       "XS": 5,
-      "S": 2,
+      "S": 3,
       "M": 3,
       "L": 2,
       "XL": 0,
-      "total": 12
+      "total": 13
     },
     {
       "repo": "checkout-service",
       "XS": 5,
-      "S": 2,
-      "M": 2,
+      "S": 3,
+      "M": 1,
       "L": 4,
       "XL": 1,
       "total": 14
@@ -200,12 +200,12 @@
     },
     {
       "repo": "inventory-service",
-      "XS": 4,
+      "XS": 5,
       "S": 2,
       "M": 2,
       "L": 1,
       "XL": 0,
-      "total": 9
+      "total": 10
     },
     {
       "repo": "release-radar",
@@ -238,12 +238,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 69,
-      "S": 73,
-      "M": 88,
-      "L": 82,
-      "XL": 58,
-      "total": 370
+      "XS": 77,
+      "S": 91,
+      "M": 86,
+      "L": 77,
+      "XL": 54,
+      "total": 385
     },
     {
       "author": "duyhenryer",

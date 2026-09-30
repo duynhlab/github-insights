@@ -25,55 +25,55 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 8,
+    "bot_open_pr": 1,
     "bot_merged_pr": 3,
-    "bot_lead_time_median_h": 7.79
+    "bot_lead_time_median_h": 7.8
   },
   {
     "name": "user-service",
-    "bot_open_pr": 8,
-    "bot_merged_pr": 6,
+    "bot_open_pr": 7,
+    "bot_merged_pr": 7,
     "bot_lead_time_median_h": 59.26
   },
   {
     "name": "product-service",
-    "bot_open_pr": 8,
-    "bot_merged_pr": 14,
-    "bot_lead_time_median_h": 69.25
+    "bot_open_pr": 5,
+    "bot_merged_pr": 17,
+    "bot_lead_time_median_h": 69.26
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 8,
-    "bot_merged_pr": 9,
-    "bot_lead_time_median_h": 58.45
+    "bot_open_pr": 7,
+    "bot_merged_pr": 10,
+    "bot_lead_time_median_h": 70.53
   },
   {
     "name": "order-service",
-    "bot_open_pr": 9,
-    "bot_merged_pr": 8,
+    "bot_open_pr": 8,
+    "bot_merged_pr": 9,
     "bot_lead_time_median_h": 54.44
   },
   {
     "name": "review-service",
-    "bot_open_pr": 8,
-    "bot_merged_pr": 7,
+    "bot_open_pr": 7,
+    "bot_merged_pr": 8,
     "bot_lead_time_median_h": 63.96
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 8,
-    "bot_merged_pr": 8,
+    "bot_open_pr": 7,
+    "bot_merged_pr": 9,
     "bot_lead_time_median_h": 60.61
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 8,
-    "bot_merged_pr": 7,
+    "bot_open_pr": 7,
+    "bot_merged_pr": 8,
     "bot_lead_time_median_h": 51.62
   },
   {
     "name": "frontend",
-    "bot_open_pr": 9,
+    "bot_open_pr": 8,
     "bot_merged_pr": 8,
     "bot_lead_time_median_h": 920.72
   },
@@ -109,15 +109,15 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 9,
-    "bot_merged_pr": 8,
-    "bot_lead_time_median_h": 65.31
+    "bot_open_pr": 7,
+    "bot_merged_pr": 10,
+    "bot_lead_time_median_h": 113.33
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 9,
-    "bot_merged_pr": 8,
-    "bot_lead_time_median_h": 235.93
+    "bot_open_pr": 7,
+    "bot_merged_pr": 10,
+    "bot_lead_time_median_h": 236.0
   },
   {
     "name": "gitops",
@@ -133,9 +133,9 @@
   },
   {
     "name": "inventory-service",
-    "bot_open_pr": 9,
-    "bot_merged_pr": 6,
-    "bot_lead_time_median_h": 61.26
+    "bot_open_pr": 7,
+    "bot_merged_pr": 8,
+    "bot_lead_time_median_h": 109.34
   },
   {
     "name": "release-radar",
@@ -145,9 +145,9 @@
   },
   {
     "name": "admin-service",
-    "bot_open_pr": 8,
-    "bot_merged_pr": 0,
-    "bot_lead_time_median_h": null
+    "bot_open_pr": 3,
+    "bot_merged_pr": 5,
+    "bot_lead_time_median_h": 5.02
   },
   {
     "name": "obs-as-code",
