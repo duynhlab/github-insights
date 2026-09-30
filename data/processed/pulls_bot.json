@@ -3181,21 +3181,6 @@
   },
   {
     "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/221",
-    "number": 221,
-    "title": "build(deps): bump library/golang from 1.26.7-alpine to 1.27.1-alpine",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-09-02T20:13:26Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
-    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/253",
     "number": 253,
     "title": "build(deps): bump the duynhlab-pkg group across 1 directory with 2 updates",
@@ -3207,6 +3192,21 @@
     "additions": 9,
     "deletions": 9,
     "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/221",
+    "number": 221,
+    "title": "build(deps): bump library/golang from 1.26.7-alpine to 1.27.1-alpine",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-09-02T20:13:26Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
     "lead_time_h": null
   },
   {
@@ -5521,21 +5521,6 @@
   },
   {
     "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/57",
-    "number": 57,
-    "title": "build(deps-dev): bump @eslint/js from 9.39.5 to 10.0.1",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-07-13T17:56:25Z",
-    "merged_at": null,
-    "additions": 4942,
-    "deletions": 4921,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "frontend",
     "url": "https://github.com/duynhlab/frontend/pull/121",
     "number": 121,
     "title": "Bump the minor-and-patch group across 1 directory with 16 updates",
@@ -5546,6 +5531,21 @@
     "merged_at": null,
     "additions": 395,
     "deletions": 348,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "frontend",
+    "url": "https://github.com/duynhlab/frontend/pull/57",
+    "number": 57,
+    "title": "build(deps-dev): bump @eslint/js from 9.39.5 to 10.0.1",
+    "state": "CLOSED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-13T17:56:25Z",
+    "merged_at": null,
+    "additions": 4942,
+    "deletions": 4921,
     "changed_files": 2,
     "lead_time_h": null
   },
@@ -7081,21 +7081,6 @@
   },
   {
     "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/35",
-    "number": 35,
-    "title": "chore(deps): bump docker/login-action from 3 to 4",
-    "state": "MERGED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-07-30T21:24:15Z",
-    "merged_at": "2026-09-30T13:34:14Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 1480.17
-  },
-  {
-    "repo": "checkout-service",
     "url": "https://github.com/duynhlab/checkout-service/pull/109",
     "number": 109,
     "title": "chore(deps): bump the duynhlab-pkg group across 1 directory with 3 updates",
@@ -7108,6 +7093,36 @@
     "deletions": 12,
     "changed_files": 2,
     "lead_time_h": null
+  },
+  {
+    "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/112",
+    "number": 112,
+    "title": "chore(deps): bump duynhlab/gha-workflows/.github/workflows/go-check.yml from 54fd20d46fd99b5fb85e6029247fcaba865c1481 to ad936a94f1f5660000098dcc3fe917e88d1e916d",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-09-30T21:24:50Z",
+    "merged_at": null,
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/35",
+    "number": 35,
+    "title": "chore(deps): bump docker/login-action from 3 to 4",
+    "state": "MERGED",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-07-30T21:24:15Z",
+    "merged_at": "2026-09-30T13:34:14Z",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": 1480.17
   },
   {
     "repo": "checkout-service",
@@ -7602,21 +7617,6 @@
     "additions": 9,
     "deletions": 6,
     "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/76",
-    "number": 76,
-    "title": "chore(deps): bump library/golang from 1.26.6-alpine to 1.27rc3-alpine",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-19T21:25:30Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
     "lead_time_h": null
   },
   {
