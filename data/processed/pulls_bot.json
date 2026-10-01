@@ -1455,21 +1455,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1141",
-    "number": 1141,
-    "title": "chore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.2.2",
-    "state": "MERGED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-09-29T19:53:14Z",
-    "merged_at": "2026-09-30T03:41:12Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 7.8
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/169",
     "number": 169,
