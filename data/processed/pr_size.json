@@ -11,12 +11,12 @@
     },
     {
       "repo": "gha-workflows",
-      "XS": 1,
-      "S": 7,
-      "M": 4,
+      "XS": 3,
+      "S": 8,
+      "M": 2,
       "L": 0,
       "XL": 3,
-      "total": 15
+      "total": 16
     },
     {
       "repo": "wolfi-images",
@@ -39,74 +39,74 @@
     {
       "repo": "homelab",
       "XS": 4,
-      "S": 10,
-      "M": 8,
-      "L": 9,
+      "S": 12,
+      "M": 4,
+      "L": 7,
       "XL": 5,
-      "total": 36
+      "total": 32
     },
     {
       "repo": "user-service",
       "XS": 4,
-      "S": 4,
-      "M": 2,
+      "S": 6,
+      "M": 3,
       "L": 1,
       "XL": 0,
-      "total": 11
+      "total": 14
     },
     {
       "repo": "product-service",
-      "XS": 4,
-      "S": 3,
-      "M": 0,
-      "L": 2,
-      "XL": 0,
-      "total": 9
-    },
-    {
-      "repo": "cart-service",
       "XS": 5,
-      "S": 3,
-      "M": 2,
-      "L": 1,
-      "XL": 0,
-      "total": 11
-    },
-    {
-      "repo": "order-service",
-      "XS": 4,
-      "S": 3,
-      "M": 2,
-      "L": 1,
-      "XL": 1,
-      "total": 11
-    },
-    {
-      "repo": "review-service",
-      "XS": 5,
-      "S": 3,
+      "S": 5,
       "M": 1,
       "L": 2,
       "XL": 0,
-      "total": 11
+      "total": 13
     },
     {
-      "repo": "notification-service",
+      "repo": "cart-service",
       "XS": 4,
-      "S": 4,
+      "S": 5,
       "M": 2,
       "L": 1,
       "XL": 0,
-      "total": 11
+      "total": 12
+    },
+    {
+      "repo": "order-service",
+      "XS": 3,
+      "S": 5,
+      "M": 2,
+      "L": 1,
+      "XL": 1,
+      "total": 12
+    },
+    {
+      "repo": "review-service",
+      "XS": 6,
+      "S": 5,
+      "M": 1,
+      "L": 2,
+      "XL": 0,
+      "total": 14
+    },
+    {
+      "repo": "notification-service",
+      "XS": 5,
+      "S": 6,
+      "M": 2,
+      "L": 1,
+      "XL": 0,
+      "total": 14
     },
     {
       "repo": "shipping-service",
       "XS": 5,
-      "S": 3,
-      "M": 2,
+      "S": 5,
+      "M": 3,
       "L": 1,
       "XL": 0,
-      "total": 11
+      "total": 14
     },
     {
       "repo": "frontend",
@@ -164,21 +164,21 @@
     },
     {
       "repo": "payment-service",
-      "XS": 5,
-      "S": 3,
+      "XS": 4,
+      "S": 5,
       "M": 3,
       "L": 2,
       "XL": 0,
-      "total": 13
+      "total": 14
     },
     {
       "repo": "checkout-service",
       "XS": 5,
-      "S": 3,
-      "M": 1,
-      "L": 4,
-      "XL": 1,
-      "total": 14
+      "S": 5,
+      "M": 2,
+      "L": 3,
+      "XL": 0,
+      "total": 15
     },
     {
       "repo": "gitops",
@@ -201,11 +201,11 @@
     {
       "repo": "inventory-service",
       "XS": 5,
-      "S": 2,
-      "M": 2,
+      "S": 4,
+      "M": 3,
       "L": 1,
       "XL": 0,
-      "total": 10
+      "total": 13
     },
     {
       "repo": "release-radar",
@@ -233,17 +233,26 @@
       "L": 6,
       "XL": 5,
       "total": 18
+    },
+    {
+      "repo": "images",
+      "XS": 1,
+      "S": 0,
+      "M": 0,
+      "L": 1,
+      "XL": 0,
+      "total": 2
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 78,
-      "S": 91,
-      "M": 82,
-      "L": 77,
-      "XL": 55,
-      "total": 383
+      "XS": 81,
+      "S": 114,
+      "M": 81,
+      "L": 75,
+      "XL": 54,
+      "total": 405
     },
     {
       "author": "duyhenryer",

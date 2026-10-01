@@ -7,9 +7,9 @@
   },
   {
     "name": "gha-workflows",
-    "bot_open_pr": 5,
-    "bot_merged_pr": 16,
-    "bot_lead_time_median_h": 73.75
+    "bot_open_pr": 0,
+    "bot_merged_pr": 22,
+    "bot_lead_time_median_h": 57.87
   },
   {
     "name": "wolfi-images",
@@ -25,49 +25,49 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 3,
-    "bot_merged_pr": 3,
+    "bot_open_pr": 5,
+    "bot_merged_pr": 5,
     "bot_lead_time_median_h": 7.8
   },
   {
     "name": "user-service",
-    "bot_open_pr": 7,
+    "bot_open_pr": 0,
     "bot_merged_pr": 7,
     "bot_lead_time_median_h": 59.26
   },
   {
     "name": "product-service",
-    "bot_open_pr": 5,
+    "bot_open_pr": 0,
     "bot_merged_pr": 17,
     "bot_lead_time_median_h": 69.26
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 7,
+    "bot_open_pr": 0,
     "bot_merged_pr": 10,
     "bot_lead_time_median_h": 70.53
   },
   {
     "name": "order-service",
-    "bot_open_pr": 8,
+    "bot_open_pr": 1,
     "bot_merged_pr": 9,
     "bot_lead_time_median_h": 54.44
   },
   {
     "name": "review-service",
-    "bot_open_pr": 7,
+    "bot_open_pr": 0,
     "bot_merged_pr": 8,
     "bot_lead_time_median_h": 63.96
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 7,
+    "bot_open_pr": 0,
     "bot_merged_pr": 9,
     "bot_lead_time_median_h": 60.61
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 7,
+    "bot_open_pr": 0,
     "bot_merged_pr": 8,
     "bot_lead_time_median_h": 51.62
   },
@@ -109,13 +109,13 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 7,
+    "bot_open_pr": 0,
     "bot_merged_pr": 10,
     "bot_lead_time_median_h": 113.33
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 8,
+    "bot_open_pr": 1,
     "bot_merged_pr": 10,
     "bot_lead_time_median_h": 236.0
   },
@@ -133,7 +133,7 @@
   },
   {
     "name": "inventory-service",
-    "bot_open_pr": 7,
+    "bot_open_pr": 0,
     "bot_merged_pr": 8,
     "bot_lead_time_median_h": 109.34
   },
@@ -145,12 +145,18 @@
   },
   {
     "name": "admin-service",
-    "bot_open_pr": 3,
+    "bot_open_pr": 5,
     "bot_merged_pr": 5,
     "bot_lead_time_median_h": 5.02
   },
   {
     "name": "obs-as-code",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "images",
     "bot_open_pr": 0,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
