@@ -13,9 +13,9 @@
   },
   {
     "name": "wolfi-images",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 26,
-    "bot_lead_time_median_h": 18.92
+    "bot_open_pr": 0,
+    "bot_merged_pr": 27,
+    "bot_lead_time_median_h": 16.83
   },
   {
     "name": "packages",
@@ -25,9 +25,9 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 6,
-    "bot_merged_pr": 4,
-    "bot_lead_time_median_h": 96.08
+    "bot_open_pr": 5,
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 0.04
   },
   {
     "name": "user-service",
@@ -37,7 +37,7 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 5,
     "bot_merged_pr": 17,
     "bot_lead_time_median_h": 69.26
   },
@@ -49,13 +49,13 @@
   },
   {
     "name": "order-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 9,
-    "bot_lead_time_median_h": 54.44
+    "bot_open_pr": 0,
+    "bot_merged_pr": 10,
+    "bot_lead_time_median_h": 102.52
   },
   {
     "name": "review-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 5,
     "bot_merged_pr": 8,
     "bot_lead_time_median_h": 63.96
   },
@@ -73,9 +73,9 @@
   },
   {
     "name": "frontend",
-    "bot_open_pr": 8,
-    "bot_merged_pr": 8,
-    "bot_lead_time_median_h": 920.72
+    "bot_open_pr": 3,
+    "bot_merged_pr": 13,
+    "bot_lead_time_median_h": 89.64
   },
   {
     "name": "backstage",
@@ -109,15 +109,15 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 5,
     "bot_merged_pr": 10,
     "bot_lead_time_median_h": 113.33
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 10,
-    "bot_lead_time_median_h": 236.0
+    "bot_open_pr": 0,
+    "bot_merged_pr": 11,
+    "bot_lead_time_median_h": 236.07
   },
   {
     "name": "gitops",
@@ -145,9 +145,9 @@
   },
   {
     "name": "admin-service",
-    "bot_open_pr": 5,
-    "bot_merged_pr": 5,
-    "bot_lead_time_median_h": 5.02
+    "bot_open_pr": 3,
+    "bot_merged_pr": 10,
+    "bot_lead_time_median_h": 6.03
   },
   {
     "name": "images",

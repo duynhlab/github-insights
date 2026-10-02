@@ -5,9 +5,9 @@
       "XS": 1,
       "S": 3,
       "M": 4,
-      "L": 8,
+      "L": 9,
       "XL": 17,
-      "total": 33
+      "total": 34
     },
     {
       "repo": "gha-workflows",
@@ -38,12 +38,12 @@
     },
     {
       "repo": "homelab",
-      "XS": 4,
+      "XS": 6,
       "S": 14,
-      "M": 4,
+      "M": 7,
       "L": 8,
       "XL": 3,
-      "total": 33
+      "total": 38
     },
     {
       "repo": "user-service",
@@ -83,12 +83,12 @@
     },
     {
       "repo": "review-service",
-      "XS": 6,
+      "XS": 5,
       "S": 5,
       "M": 1,
       "L": 2,
       "XL": 0,
-      "total": 14
+      "total": 13
     },
     {
       "repo": "notification-service",
@@ -110,8 +110,8 @@
     },
     {
       "repo": "frontend",
-      "XS": 2,
-      "S": 6,
+      "XS": 3,
+      "S": 5,
       "M": 0,
       "L": 1,
       "XL": 3,
@@ -165,11 +165,11 @@
     {
       "repo": "payment-service",
       "XS": 4,
-      "S": 5,
-      "M": 3,
+      "S": 4,
+      "M": 5,
       "L": 2,
       "XL": 0,
-      "total": 14
+      "total": 15
     },
     {
       "repo": "checkout-service",
@@ -218,12 +218,12 @@
     },
     {
       "repo": "admin-service",
-      "XS": 1,
+      "XS": 3,
       "S": 5,
       "M": 3,
       "L": 7,
       "XL": 0,
-      "total": 16
+      "total": 18
     },
     {
       "repo": "images",
@@ -238,12 +238,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 81,
-      "S": 115,
-      "M": 80,
-      "L": 71,
+      "XS": 85,
+      "S": 113,
+      "M": 85,
+      "L": 72,
       "XL": 50,
-      "total": 397
+      "total": 405
     },
     {
       "author": "duyhenryer",

@@ -68,9 +68,9 @@
     },
     {
       "repo": "shipping-service",
-      "sample": 0,
-      "median_h": null,
-      "p90_h": null
+      "sample": 1,
+      "median_h": 1.91,
+      "p90_h": 1.91
     },
     {
       "repo": "frontend",
@@ -166,9 +166,9 @@
     },
     {
       "author": "duynhne",
-      "sample": 8,
+      "sample": 9,
       "median_h": 0.04,
-      "p90_h": 0.07
+      "p90_h": 0.12
     }
   ]
 }

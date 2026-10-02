@@ -27,6 +27,15 @@
     "repos": 1
   },
   {
+    "login": "duyhenryer",
+    "approved": 2,
+    "commented": 0,
+    "changes_requested": 0,
+    "dismissed": 0,
+    "total": 2,
+    "repos": 1
+  },
+  {
     "login": "qodo-code-review",
     "approved": 0,
     "commented": 2,
