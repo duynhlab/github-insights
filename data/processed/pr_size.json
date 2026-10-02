@@ -3,20 +3,20 @@
     {
       "repo": "grafana-dashboards",
       "XS": 1,
-      "S": 1,
-      "M": 2,
-      "L": 7,
-      "XL": 14,
-      "total": 25
+      "S": 3,
+      "M": 4,
+      "L": 8,
+      "XL": 17,
+      "total": 33
     },
     {
       "repo": "gha-workflows",
-      "XS": 3,
+      "XS": 4,
       "S": 8,
       "M": 2,
       "L": 0,
       "XL": 3,
-      "total": 16
+      "total": 17
     },
     {
       "repo": "wolfi-images",
@@ -39,10 +39,10 @@
     {
       "repo": "homelab",
       "XS": 4,
-      "S": 12,
-      "M": 5,
+      "S": 14,
+      "M": 4,
       "L": 8,
-      "XL": 4,
+      "XL": 3,
       "total": 33
     },
     {
@@ -226,15 +226,6 @@
       "total": 16
     },
     {
-      "repo": "obs-as-code",
-      "XS": 1,
-      "S": 3,
-      "M": 3,
-      "L": 6,
-      "XL": 5,
-      "total": 18
-    },
-    {
       "repo": "images",
       "XS": 1,
       "S": 0,
@@ -248,11 +239,11 @@
     {
       "author": "duynhne",
       "XS": 81,
-      "S": 114,
-      "M": 82,
-      "L": 76,
-      "XL": 53,
-      "total": 406
+      "S": 115,
+      "M": 80,
+      "L": 71,
+      "XL": 50,
+      "total": 397
     },
     {
       "author": "duyhenryer",

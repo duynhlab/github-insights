@@ -8,7 +8,7 @@
   {
     "name": "gha-workflows",
     "bot_open_pr": 0,
-    "bot_merged_pr": 22,
+    "bot_merged_pr": 21,
     "bot_lead_time_median_h": 57.87
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 5,
+    "bot_open_pr": 6,
     "bot_merged_pr": 4,
     "bot_lead_time_median_h": 96.08
   },
@@ -148,12 +148,6 @@
     "bot_open_pr": 5,
     "bot_merged_pr": 5,
     "bot_lead_time_median_h": 5.02
-  },
-  {
-    "name": "obs-as-code",
-    "bot_open_pr": 0,
-    "bot_merged_pr": 0,
-    "bot_lead_time_median_h": null
   },
   {
     "name": "images",

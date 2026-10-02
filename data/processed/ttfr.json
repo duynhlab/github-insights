@@ -151,12 +151,6 @@
       "p90_h": null
     },
     {
-      "repo": "obs-as-code",
-      "sample": 0,
-      "median_h": null,
-      "p90_h": null
-    },
-    {
       "repo": "images",
       "sample": 0,
       "median_h": null,
