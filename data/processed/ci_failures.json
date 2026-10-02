@@ -155,10 +155,10 @@
       {
         "name": "CI",
         "fail": 3,
-        "total": 7,
+        "total": 6,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/36369385701",
         "last_fail_at": "2026-09-28T02:19:33Z",
-        "fail_rate": 0.429
+        "fail_rate": 0.5
       },
       {
         "name": "npm_and_yarn in / for @tanstack/react-router, @tanstack/react-start, lucide-react, @cloudflare/vite-plugin, @cloudflare/vitest-pool-workers, @testing-library/react, @types/node, @types/react-dom, @vitejs/plugin-react, agent-browser, typescript-eslint, vite, vitest, wrangler - Update #1560168311",
@@ -176,18 +176,18 @@
       {
         "name": "Build",
         "fail": 2,
-        "total": 21,
+        "total": 20,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/36856903467",
         "last_fail_at": "2026-10-01T11:41:03Z",
-        "fail_rate": 0.095
+        "fail_rate": 0.1
       },
       {
         "name": "Check",
         "fail": 1,
-        "total": 36,
+        "total": 37,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/36721733849",
         "last_fail_at": "2026-09-30T13:27:13Z",
-        "fail_rate": 0.028
+        "fail_rate": 0.027
       }
     ]
   },
@@ -270,10 +270,10 @@
       {
         "name": "CI Pipeline",
         "fail": 1,
-        "total": 61,
+        "total": 60,
         "last_fail_url": "https://github.com/duynhlab/homelab/actions/runs/36978690407",
         "last_fail_at": "2026-10-02T07:27:55Z",
-        "fail_rate": 0.016
+        "fail_rate": 0.017
       }
     ]
   },
@@ -343,6 +343,19 @@
     ]
   },
   {
+    "repo": "github-insights",
+    "workflows": [
+      {
+        "name": "collect-and-deploy",
+        "fail": 1,
+        "total": 100,
+        "last_fail_url": "https://github.com/duynhlab/github-insights/actions/runs/37040455319",
+        "last_fail_at": "2026-10-02T17:24:10Z",
+        "fail_rate": 0.01
+      }
+    ]
+  },
+  {
     "repo": "base64-plugin",
     "workflows": [
       {
@@ -374,10 +387,10 @@
       {
         "name": "Build",
         "fail": 1,
-        "total": 29,
+        "total": 27,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/36856933461",
         "last_fail_at": "2026-10-01T11:41:20Z",
-        "fail_rate": 0.034
+        "fail_rate": 0.037
       }
     ]
   },

@@ -3660,21 +3660,6 @@
     "lead_time_h": 0.02
   },
   {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/83",
-    "number": 83,
-    "title": "Pin reusable workflows, pass only needed secrets",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-06T06:50:03Z",
-    "merged_at": "2026-08-06T07:02:09Z",
-    "additions": 11,
-    "deletions": 10,
-    "changed_files": 2,
-    "lead_time_h": 0.2
-  },
-  {
     "repo": "tf-local",
     "url": "https://github.com/duynhlab/tf-local/pull/30",
     "number": 30,
@@ -5053,36 +5038,6 @@
     "deletions": 10,
     "changed_files": 3,
     "lead_time_h": 0.92
-  },
-  {
-    "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/85",
-    "number": 85,
-    "title": "Let pkg own the OpenTelemetry version in Dependabot",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T04:36:35Z",
-    "merged_at": "2026-09-18T06:43:51Z",
-    "additions": 7,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 2.12
-  },
-  {
-    "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/84",
-    "number": 84,
-    "title": "Align pkg modules on the current release floor",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T03:54:49Z",
-    "merged_at": "2026-09-18T04:06:15Z",
-    "additions": 39,
-    "deletions": 39,
-    "changed_files": 2,
-    "lead_time_h": 0.19
   },
   {
     "repo": "gitops",

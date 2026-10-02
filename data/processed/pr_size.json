@@ -111,11 +111,11 @@
     {
       "repo": "frontend",
       "XS": 3,
-      "S": 5,
+      "S": 4,
       "M": 0,
       "L": 1,
       "XL": 3,
-      "total": 12
+      "total": 11
     },
     {
       "repo": "backstage",
@@ -173,12 +173,12 @@
     },
     {
       "repo": "checkout-service",
-      "XS": 5,
+      "XS": 4,
       "S": 5,
-      "M": 2,
+      "M": 1,
       "L": 3,
       "XL": 0,
-      "total": 15
+      "total": 13
     },
     {
       "repo": "gitops",
@@ -238,12 +238,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 84,
-      "S": 112,
-      "M": 84,
+      "XS": 83,
+      "S": 111,
+      "M": 83,
       "L": 72,
       "XL": 50,
-      "total": 402
+      "total": 399
     },
     {
       "author": "duyhenryer",
