@@ -1576,18 +1576,33 @@
   },
   {
     "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1198",
-    "number": 1198,
-    "title": "Drop the ADR-017 aliases from edge and docs",
+    "url": "https://github.com/duynhlab/homelab/pull/1199",
+    "number": 1199,
+    "title": "Count Temporal frontend server faults only",
     "state": "OPEN",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-10-02T10:13:42Z",
+    "created_at": "2026-10-02T12:01:13Z",
     "merged_at": null,
+    "additions": 54,
+    "deletions": 17,
+    "changed_files": 4,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1198",
+    "number": 1198,
+    "title": "Drop the ADR-017 aliases from edge and docs",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-02T10:13:42Z",
+    "merged_at": "2026-10-02T11:56:20Z",
     "additions": 50,
     "deletions": 56,
     "changed_files": 11,
-    "lead_time_h": null
+    "lead_time_h": 1.71
   },
   {
     "repo": "homelab",
@@ -2130,21 +2145,6 @@
     "lead_time_h": 0.22
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1154",
-    "number": 1154,
-    "title": "chore(deps): run OpenTelemetry Collector contrib 0.161.0",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-30T16:04:55Z",
-    "merged_at": "2026-09-30T16:08:29Z",
-    "additions": 24,
-    "deletions": 10,
-    "changed_files": 6,
-    "lead_time_h": 0.06
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/201",
     "number": 201,
@@ -2338,21 +2338,6 @@
     "deletions": 0,
     "changed_files": 1,
     "lead_time_h": 2.12
-  },
-  {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/171",
-    "number": 171,
-    "title": "Align pkg modules on the current release floor",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T03:54:26Z",
-    "merged_at": "2026-09-18T04:05:26Z",
-    "additions": 35,
-    "deletions": 35,
-    "changed_files": 3,
-    "lead_time_h": 0.18
   },
   {
     "repo": "product-service",
@@ -3298,21 +3283,6 @@
     "deletions": 6,
     "changed_files": 3,
     "lead_time_h": 0.92
-  },
-  {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/173",
-    "number": 173,
-    "title": "Let pkg own the OpenTelemetry version in Dependabot",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T04:37:01Z",
-    "merged_at": "2026-09-18T06:43:41Z",
-    "additions": 7,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 2.11
   },
   {
     "repo": "shipping-service",
@@ -5383,21 +5353,6 @@
     "deletions": 0,
     "changed_files": 1,
     "lead_time_h": 2.12
-  },
-  {
-    "repo": "inventory-service",
-    "url": "https://github.com/duynhlab/inventory-service/pull/70",
-    "number": 70,
-    "title": "Align pkg modules on the current release floor",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T03:54:31Z",
-    "merged_at": "2026-09-18T04:05:37Z",
-    "additions": 41,
-    "deletions": 41,
-    "changed_files": 3,
-    "lead_time_h": 0.18
   },
   {
     "repo": "release-radar",
