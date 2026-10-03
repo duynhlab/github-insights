@@ -101,12 +101,12 @@
     },
     {
       "repo": "shipping-service",
-      "XS": 5,
+      "XS": 4,
       "S": 5,
       "M": 3,
       "L": 1,
       "XL": 0,
-      "total": 14
+      "total": 13
     },
     {
       "repo": "frontend",
@@ -238,12 +238,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 83,
+      "XS": 82,
       "S": 111,
       "M": 83,
       "L": 72,
       "XL": 50,
-      "total": 399
+      "total": 398
     },
     {
       "author": "duyhenryer",

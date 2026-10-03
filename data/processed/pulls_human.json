@@ -3480,21 +3480,6 @@
     "lead_time_h": 0.92
   },
   {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/179",
-    "number": 179,
-    "title": "Let pkg own the OpenTelemetry version in Dependabot",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T04:36:28Z",
-    "merged_at": "2026-09-18T06:43:35Z",
-    "additions": 7,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 2.12
-  },
-  {
     "repo": "frontend",
     "url": "https://github.com/duynhlab/frontend/pull/127",
     "number": 127,

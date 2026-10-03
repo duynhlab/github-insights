@@ -67,7 +67,7 @@
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 5,
     "bot_merged_pr": 8,
     "bot_lead_time_median_h": 51.62
   },
