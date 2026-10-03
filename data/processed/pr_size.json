@@ -39,11 +39,11 @@
     {
       "repo": "homelab",
       "XS": 6,
-      "S": 13,
+      "S": 12,
       "M": 8,
       "L": 8,
       "XL": 3,
-      "total": 38
+      "total": 37
     },
     {
       "repo": "user-service",
@@ -239,11 +239,11 @@
     {
       "author": "duynhne",
       "XS": 82,
-      "S": 111,
+      "S": 110,
       "M": 83,
       "L": 72,
       "XL": 50,
-      "total": 398
+      "total": 397
     },
     {
       "author": "duyhenryer",
