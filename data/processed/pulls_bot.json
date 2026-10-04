@@ -1920,21 +1920,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/127",
-    "number": 127,
-    "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-07T15:24:44Z",
-    "merged_at": null,
-    "additions": 23,
-    "deletions": 23,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
     "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/226",
     "number": 226,
@@ -2456,21 +2441,6 @@
     "merged_at": null,
     "additions": 20,
     "deletions": 20,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/134",
-    "number": 134,
-    "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-07-30T05:23:32Z",
-    "merged_at": null,
-    "additions": 3,
-    "deletions": 3,
     "changed_files": 2,
     "lead_time_h": null
   },
@@ -3012,21 +2982,6 @@
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/173",
-    "number": 173,
-    "title": "build(deps): bump duynhlab/gha-workflows/.github/workflows/go-check.yml from e321897e5c28e7c861b9d8beb37614e1c5823f42 to 566b62220abb6db150099ca11cb7a9904288f3b5",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-21T16:14:03Z",
-    "merged_at": null,
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
     "lead_time_h": null
   },
   {
@@ -3585,21 +3540,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/213",
-    "number": 213,
-    "title": "build(deps): bump duynhlab/gha-workflows/.github/workflows/pr-checks.yml from e321897e5c28e7c861b9d8beb37614e1c5823f42 to 566b62220abb6db150099ca11cb7a9904288f3b5",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-20T20:13:13Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
     "repo": "review-service",
     "url": "https://github.com/duynhlab/review-service/pull/198",
     "number": 198,
@@ -4118,21 +4058,6 @@
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-08-07T10:43:44Z",
-    "merged_at": null,
-    "additions": 12,
-    "deletions": 12,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/123",
-    "number": 123,
-    "title": "build(deps): bump go.opentelemetry.io/otel/trace from 1.44.0 to 1.45.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-07T10:43:34Z",
     "merged_at": null,
     "additions": 12,
     "deletions": 12,
@@ -4665,21 +4590,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/133",
-    "number": 133,
-    "title": "build(deps): bump go.opentelemetry.io/otel/trace from 1.44.0 to 1.45.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-07T14:04:38Z",
-    "merged_at": null,
-    "additions": 12,
-    "deletions": 12,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
     "repo": "shipping-service",
     "url": "https://github.com/duynhlab/shipping-service/pull/213",
     "number": 213,
@@ -5201,21 +5111,6 @@
     "merged_at": null,
     "additions": 76,
     "deletions": 74,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/137",
-    "number": 137,
-    "title": "build(deps): bump go.opentelemetry.io/otel/sdk from 1.44.0 to 1.45.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-06T23:04:47Z",
-    "merged_at": null,
-    "additions": 23,
-    "deletions": 23,
     "changed_files": 2,
     "lead_time_h": null
   },
@@ -5788,21 +5683,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": 58.61
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/80",
-    "number": 80,
-    "title": "build(deps): bump the minor-and-patch group across 1 directory with 10 updates",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-03T17:56:18Z",
-    "merged_at": null,
-    "additions": 4838,
-    "deletions": 4930,
-    "changed_files": 2,
-    "lead_time_h": null
   },
   {
     "repo": "tf-local",
