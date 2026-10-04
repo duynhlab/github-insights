@@ -25,9 +25,9 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 6,
-    "bot_merged_pr": 3,
-    "bot_lead_time_median_h": 0.04
+    "bot_open_pr": 3,
+    "bot_merged_pr": 6,
+    "bot_lead_time_median_h": 71.97
   },
   {
     "name": "user-service",
@@ -73,8 +73,8 @@
   },
   {
     "name": "frontend",
-    "bot_open_pr": 3,
-    "bot_merged_pr": 14,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 17,
     "bot_lead_time_median_h": 89.64
   },
   {
@@ -145,9 +145,9 @@
   },
   {
     "name": "admin-service",
-    "bot_open_pr": 3,
-    "bot_merged_pr": 10,
-    "bot_lead_time_median_h": 6.03
+    "bot_open_pr": 0,
+    "bot_merged_pr": 13,
+    "bot_lead_time_median_h": 7.04
   },
   {
     "name": "images",

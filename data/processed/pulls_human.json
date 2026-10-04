@@ -1576,6 +1576,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1201",
+    "number": 1201,
+    "title": "Pin frontend 3.2.2 and admin-service 0.4.4",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T07:08:11Z",
+    "merged_at": "2026-10-04T07:09:49Z",
+    "additions": 9,
+    "deletions": 2,
+    "changed_files": 3,
+    "lead_time_h": 0.03
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1200",
     "number": 1200,
     "title": "Give Grafana 1Gi of memory",
@@ -2113,21 +2128,6 @@
     "deletions": 8,
     "changed_files": 7,
     "lead_time_h": 8.81
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1160",
-    "number": 1160,
-    "title": "chore(deps): run ClickHouse Keeper 26.8 LTS (after the servers)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-30T17:14:23Z",
-    "merged_at": "2026-10-01T01:40:28Z",
-    "additions": 8,
-    "deletions": 1,
-    "changed_files": 2,
-    "lead_time_h": 8.43
   },
   {
     "repo": "user-service",
@@ -3541,6 +3541,21 @@
   },
   {
     "repo": "frontend",
+    "url": "https://github.com/duynhlab/frontend/pull/129",
+    "number": 129,
+    "title": "Build and test on one Node line, pin base images",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T05:09:10Z",
+    "merged_at": "2026-10-04T05:10:34Z",
+    "additions": 13,
+    "deletions": 12,
+    "changed_files": 6,
+    "lead_time_h": 0.02
+  },
+  {
+    "repo": "frontend",
     "url": "https://github.com/duynhlab/frontend/pull/127",
     "number": 127,
     "title": "Clear CVE-2026-103111 in the runtime image",
@@ -3688,21 +3703,6 @@
     "deletions": 695,
     "changed_files": 29,
     "lead_time_h": 15.91
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/84",
-    "number": 84,
-    "title": "Pace one jittered retry when the backend says 503 + Retry-After",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-07T08:29:05Z",
-    "merged_at": "2026-08-07T08:30:29Z",
-    "additions": 43,
-    "deletions": 5,
-    "changed_files": 3,
-    "lead_time_h": 0.02
   },
   {
     "repo": "tf-local",
@@ -5893,6 +5893,21 @@
     "deletions": 1,
     "changed_files": 11,
     "lead_time_h": 0.1
+  },
+  {
+    "repo": "admin-service",
+    "url": "https://github.com/duynhlab/admin-service/pull/34",
+    "number": 34,
+    "title": "Build and test on one Node line, pin base images",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T05:09:17Z",
+    "merged_at": "2026-10-04T05:10:43Z",
+    "additions": 15,
+    "deletions": 4,
+    "changed_files": 6,
+    "lead_time_h": 0.02
   },
   {
     "repo": "admin-service",
