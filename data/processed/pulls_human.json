@@ -1576,18 +1576,33 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1200",
+    "number": 1200,
+    "title": "Give Grafana 1Gi of memory",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T04:06:06Z",
+    "merged_at": "2026-10-04T04:10:34Z",
+    "additions": 6,
+    "deletions": 2,
+    "changed_files": 2,
+    "lead_time_h": 0.07
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1199",
     "number": 1199,
     "title": "Count Temporal frontend server faults only",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-02T12:01:13Z",
-    "merged_at": null,
+    "merged_at": "2026-10-04T03:29:50Z",
     "additions": 54,
     "deletions": 17,
     "changed_files": 4,
-    "lead_time_h": null
+    "lead_time_h": 39.48
   },
   {
     "repo": "homelab",
@@ -2115,19 +2130,19 @@
     "lead_time_h": 8.43
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1161",
-    "number": 1161,
-    "title": "chore: trim two long manifest comments to one line",
+    "repo": "user-service",
+    "url": "https://github.com/duynhlab/user-service/pull/207",
+    "number": 207,
+    "title": "ci: group the gha-workflows bumps",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-09-30T17:34:01Z",
-    "merged_at": "2026-10-01T01:39:54Z",
-    "additions": 2,
-    "deletions": 12,
-    "changed_files": 2,
-    "lead_time_h": 8.1
+    "created_at": "2026-10-04T03:53:37Z",
+    "merged_at": "2026-10-04T04:02:51Z",
+    "additions": 12,
+    "deletions": 6,
+    "changed_files": 3,
+    "lead_time_h": 0.15
   },
   {
     "repo": "user-service",
@@ -2310,19 +2325,19 @@
     "lead_time_h": 0.92
   },
   {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/172",
-    "number": 172,
-    "title": "Let pkg own the OpenTelemetry version in Dependabot",
+    "repo": "product-service",
+    "url": "https://github.com/duynhlab/product-service/pull/231",
+    "number": 231,
+    "title": "ci: group the gha-workflows bumps",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-09-18T04:35:47Z",
-    "merged_at": "2026-09-18T06:43:00Z",
-    "additions": 7,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 2.12
+    "created_at": "2026-10-04T03:53:47Z",
+    "merged_at": "2026-10-04T04:13:03Z",
+    "additions": 11,
+    "deletions": 5,
+    "changed_files": 3,
+    "lead_time_h": 0.32
   },
   {
     "repo": "product-service",
@@ -2521,6 +2536,21 @@
   },
   {
     "repo": "cart-service",
+    "url": "https://github.com/duynhlab/cart-service/pull/218",
+    "number": 218,
+    "title": "ci: group the gha-workflows bumps",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T03:54:07Z",
+    "merged_at": "2026-10-04T04:10:22Z",
+    "additions": 11,
+    "deletions": 5,
+    "changed_files": 3,
+    "lead_time_h": 0.27
+  },
+  {
+    "repo": "cart-service",
     "url": "https://github.com/duynhlab/cart-service/pull/212",
     "number": 212,
     "title": "test: wait like the postgres module and use PG 18",
@@ -2701,6 +2731,21 @@
   },
   {
     "repo": "order-service",
+    "url": "https://github.com/duynhlab/order-service/pull/264",
+    "number": 264,
+    "title": "ci: group the gha-workflows bumps",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T03:54:17Z",
+    "merged_at": "2026-10-04T04:10:31Z",
+    "additions": 11,
+    "deletions": 5,
+    "changed_files": 3,
+    "lead_time_h": 0.27
+  },
+  {
+    "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/258",
     "number": 258,
     "title": "test: wait like the postgres module and use PG 18",
@@ -2865,19 +2910,19 @@
     "lead_time_h": 49.15
   },
   {
-    "repo": "order-service",
-    "url": "https://github.com/duynhlab/order-service/pull/224",
-    "number": 224,
-    "title": "Call obsx through its API-typed surface (v0.39.2)",
+    "repo": "review-service",
+    "url": "https://github.com/duynhlab/review-service/pull/203",
+    "number": 203,
+    "title": "ci: group the gha-workflows bumps",
     "state": "MERGED",
     "draft": false,
     "author": "duynhne",
-    "created_at": "2026-09-18T05:49:19Z",
-    "merged_at": "2026-09-18T06:44:30Z",
-    "additions": 9,
-    "deletions": 10,
+    "created_at": "2026-10-04T03:54:27Z",
+    "merged_at": "2026-10-04T04:10:41Z",
+    "additions": 12,
+    "deletions": 6,
     "changed_files": 3,
-    "lead_time_h": 0.92
+    "lead_time_h": 0.27
   },
   {
     "repo": "review-service",
@@ -3076,6 +3121,21 @@
   },
   {
     "repo": "notification-service",
+    "url": "https://github.com/duynhlab/notification-service/pull/211",
+    "number": 211,
+    "title": "ci: group the gha-workflows bumps",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T03:54:48Z",
+    "merged_at": "2026-10-04T04:10:59Z",
+    "additions": 12,
+    "deletions": 6,
+    "changed_files": 3,
+    "lead_time_h": 0.27
+  },
+  {
+    "repo": "notification-service",
     "url": "https://github.com/duynhlab/notification-service/pull/205",
     "number": 205,
     "title": "test: wait like the postgres module and use PG 18",
@@ -3268,6 +3328,21 @@
     "deletions": 6,
     "changed_files": 3,
     "lead_time_h": 0.92
+  },
+  {
+    "repo": "shipping-service",
+    "url": "https://github.com/duynhlab/shipping-service/pull/218",
+    "number": 218,
+    "title": "ci: group the gha-workflows bumps",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T03:54:38Z",
+    "merged_at": "2026-10-04T04:10:50Z",
+    "additions": 12,
+    "deletions": 6,
+    "changed_files": 3,
+    "lead_time_h": 0.27
   },
   {
     "repo": "shipping-service",
@@ -4591,6 +4666,21 @@
   },
   {
     "repo": "payment-service",
+    "url": "https://github.com/duynhlab/payment-service/pull/143",
+    "number": 143,
+    "title": "ci: group the gha-workflows bumps",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T03:54:58Z",
+    "merged_at": "2026-10-04T04:11:07Z",
+    "additions": 12,
+    "deletions": 6,
+    "changed_files": 3,
+    "lead_time_h": 0.27
+  },
+  {
+    "repo": "payment-service",
     "url": "https://github.com/duynhlab/payment-service/pull/137",
     "number": 137,
     "title": "feat(web)!: remove the ADR-017 expand-phase aliases",
@@ -4813,6 +4903,21 @@
     "deletions": 166,
     "changed_files": 2,
     "lead_time_h": 49.15
+  },
+  {
+    "repo": "checkout-service",
+    "url": "https://github.com/duynhlab/checkout-service/pull/121",
+    "number": 121,
+    "title": "ci: group the gha-workflows bumps",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T03:55:04Z",
+    "merged_at": "2026-10-04T04:11:16Z",
+    "additions": 12,
+    "deletions": 6,
+    "changed_files": 3,
+    "lead_time_h": 0.27
   },
   {
     "repo": "checkout-service",
@@ -5101,6 +5206,21 @@
   },
   {
     "repo": "inventory-service",
+    "url": "https://github.com/duynhlab/inventory-service/pull/105",
+    "number": 105,
+    "title": "ci: group the gha-workflows bumps",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T03:53:57Z",
+    "merged_at": "2026-10-04T04:10:13Z",
+    "additions": 12,
+    "deletions": 6,
+    "changed_files": 3,
+    "lead_time_h": 0.27
+  },
+  {
+    "repo": "inventory-service",
     "url": "https://github.com/duynhlab/inventory-service/pull/99",
     "number": 99,
     "title": "test: wait like the postgres module and use PG 18",
@@ -5263,21 +5383,6 @@
     "deletions": 6,
     "changed_files": 3,
     "lead_time_h": 0.92
-  },
-  {
-    "repo": "inventory-service",
-    "url": "https://github.com/duynhlab/inventory-service/pull/71",
-    "number": 71,
-    "title": "Let pkg own the OpenTelemetry version in Dependabot",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T04:36:01Z",
-    "merged_at": "2026-09-18T06:43:11Z",
-    "additions": 7,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 2.12
   },
   {
     "repo": "release-radar",
@@ -5788,6 +5893,21 @@
     "deletions": 1,
     "changed_files": 11,
     "lead_time_h": 0.1
+  },
+  {
+    "repo": "admin-service",
+    "url": "https://github.com/duynhlab/admin-service/pull/33",
+    "number": 33,
+    "title": "ci: group the gha-workflows bumps",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-04T03:55:15Z",
+    "merged_at": "2026-10-04T04:11:24Z",
+    "additions": 8,
+    "deletions": 2,
+    "changed_files": 2,
+    "lead_time_h": 0.27
   },
   {
     "repo": "admin-service",
