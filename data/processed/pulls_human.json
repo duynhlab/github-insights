@@ -1561,6 +1561,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1228",
+    "number": 1228,
+    "title": "Record RFC-0029 Phase 0 run on the Kind cluster",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-05T14:32:04Z",
+    "merged_at": "2026-10-05T14:58:30Z",
+    "additions": 78,
+    "deletions": 22,
+    "changed_files": 4,
+    "lead_time_h": 0.44
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1227",
     "number": 1227,
     "title": "Refresh RFC-0029 research against main",
@@ -1918,21 +1933,6 @@
     "deletions": 1,
     "changed_files": 2,
     "lead_time_h": 0.04
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1187",
-    "number": 1187,
-    "title": "Give vmsingle 1Gi of memory",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-10-02T03:01:20Z",
-    "merged_at": "2026-10-02T03:01:43Z",
-    "additions": 10,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 0.01
   },
   {
     "repo": "user-service",
@@ -3165,21 +3165,6 @@
     "lead_time_h": 49.15
   },
   {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/174",
-    "number": 174,
-    "title": "Call obsx through its API-typed surface (v0.39.2)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T05:49:27Z",
-    "merged_at": "2026-09-18T06:44:45Z",
-    "additions": 6,
-    "deletions": 6,
-    "changed_files": 3,
-    "lead_time_h": 0.92
-  },
-  {
     "repo": "shipping-service",
     "url": "https://github.com/duynhlab/shipping-service/pull/219",
     "number": 219,
@@ -3390,21 +3375,6 @@
     "lead_time_h": 49.15
   },
   {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/180",
-    "number": 180,
-    "title": "Call obsx through its API-typed surface (v0.39.2)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T05:49:24Z",
-    "merged_at": "2026-09-18T06:44:40Z",
-    "additions": 6,
-    "deletions": 6,
-    "changed_files": 3,
-    "lead_time_h": 0.92
-  },
-  {
     "repo": "frontend",
     "url": "https://github.com/duynhlab/frontend/pull/130",
     "number": 130,
@@ -3553,36 +3523,6 @@
     "deletions": 12422,
     "changed_files": 161,
     "lead_time_h": 0.02
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/95",
-    "number": 95,
-    "title": "Bake the cluster Keycloak origin into the released image",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-14T09:12:16Z",
-    "merged_at": "2026-08-14T09:34:14Z",
-    "additions": 15,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 0.37
-  },
-  {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/90",
-    "number": 90,
-    "title": "Replace custom token layer with keycloak-js",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-12T10:12:58Z",
-    "merged_at": "2026-08-13T02:07:23Z",
-    "additions": 591,
-    "deletions": 695,
-    "changed_files": 29,
-    "lead_time_h": 15.91
   },
   {
     "repo": "tf-local",
