@@ -15,8 +15,8 @@
       "S": 8,
       "M": 2,
       "L": 0,
-      "XL": 3,
-      "total": 17
+      "XL": 2,
+      "total": 16
     },
     {
       "repo": "wolfi-images",
@@ -40,9 +40,9 @@
       "repo": "homelab",
       "XS": 5,
       "S": 13,
-      "M": 9,
-      "L": 7,
-      "XL": 3,
+      "M": 11,
+      "L": 6,
+      "XL": 2,
       "total": 37
     },
     {
@@ -57,20 +57,20 @@
     {
       "repo": "product-service",
       "XS": 6,
-      "S": 6,
+      "S": 5,
       "M": 1,
       "L": 2,
       "XL": 0,
-      "total": 15
+      "total": 14
     },
     {
       "repo": "cart-service",
       "XS": 5,
-      "S": 6,
+      "S": 5,
       "M": 2,
       "L": 1,
       "XL": 0,
-      "total": 14
+      "total": 13
     },
     {
       "repo": "order-service",
@@ -157,10 +157,10 @@
       "repo": "helm-charts",
       "XS": 3,
       "S": 7,
-      "M": 9,
+      "M": 10,
       "L": 3,
       "XL": 4,
-      "total": 26
+      "total": 27
     },
     {
       "repo": "payment-service",
@@ -213,8 +213,8 @@
       "S": 2,
       "M": 9,
       "L": 13,
-      "XL": 8,
-      "total": 34
+      "XL": 7,
+      "total": 33
     },
     {
       "repo": "admin-service",
@@ -228,22 +228,22 @@
     {
       "repo": "images",
       "XS": 1,
-      "S": 0,
+      "S": 1,
       "M": 0,
       "L": 1,
       "XL": 0,
-      "total": 2
+      "total": 3
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
       "XS": 88,
-      "S": 123,
-      "M": 84,
-      "L": 70,
-      "XL": 50,
-      "total": 415
+      "S": 122,
+      "M": 87,
+      "L": 69,
+      "XL": 47,
+      "total": 413
     },
     {
       "author": "duyhenryer",

@@ -750,21 +750,6 @@
     "lead_time_h": 0.32
   },
   {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/90",
-    "number": 90,
-    "title": "feat: add Go security reusable workflows (CodeQL, Govulncheck, Dependency Review)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-28T00:32:27Z",
-    "merged_at": "2026-07-28T00:33:57Z",
-    "additions": 1648,
-    "deletions": 0,
-    "changed_files": 11,
-    "lead_time_h": 0.03
-  },
-  {
     "repo": "wolfi-images",
     "url": "https://github.com/duynhlab/wolfi-images/pull/85",
     "number": 85,
@@ -1576,6 +1561,36 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1206",
+    "number": 1206,
+    "title": "Attribute A21's own SKU alert to the gate in K5.8",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-05T03:33:11Z",
+    "merged_at": "2026-10-05T03:35:49Z",
+    "additions": 77,
+    "deletions": 17,
+    "changed_files": 8,
+    "lead_time_h": 0.04
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1205",
+    "number": 1205,
+    "title": "Match gRPC status codes by their spec names",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-05T03:15:45Z",
+    "merged_at": "2026-10-05T03:19:32Z",
+    "additions": 34,
+    "deletions": 22,
+    "changed_files": 5,
+    "lead_time_h": 0.06
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1204",
     "number": 1204,
     "title": "Probe Postgres over TCP in local-stack",
@@ -2100,49 +2115,19 @@
     "lead_time_h": 37.59
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1165",
-    "number": 1165,
-    "title": "docs: accept RFC-0033 architecture",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-10-01T02:33:04Z",
-    "merged_at": "2026-10-01T02:57:22Z",
-    "additions": 969,
-    "deletions": 23,
-    "changed_files": 9,
-    "lead_time_h": 0.41
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1164",
-    "number": 1164,
-    "title": "chore(observability): fetch the ClickHouse plugin dashboards by URL",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-10-01T02:29:04Z",
-    "merged_at": "2026-10-01T02:30:51Z",
-    "additions": 89,
-    "deletions": 8456,
-    "changed_files": 12,
-    "lead_time_h": 0.03
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/208",
     "number": 208,
     "title": "Drop the stale migrations Docker ecosystem",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-04T13:36:53Z",
-    "merged_at": null,
+    "merged_at": "2026-10-05T02:09:49Z",
     "additions": 0,
     "deletions": 6,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 12.55
   },
   {
     "repo": "user-service",
@@ -2344,15 +2329,15 @@
     "url": "https://github.com/duynhlab/product-service/pull/232",
     "number": 232,
     "title": "Drop the stale migrations Docker ecosystem",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-04T13:37:03Z",
-    "merged_at": null,
+    "merged_at": "2026-10-05T02:10:03Z",
     "additions": 0,
     "deletions": 6,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 12.55
   },
   {
     "repo": "product-service",
@@ -2550,34 +2535,19 @@
     "lead_time_h": 49.17
   },
   {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/188",
-    "number": 188,
-    "title": "Call obsx through its API-typed surface (v0.39.2)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T05:49:11Z",
-    "merged_at": "2026-09-18T06:44:15Z",
-    "additions": 6,
-    "deletions": 6,
-    "changed_files": 3,
-    "lead_time_h": 0.92
-  },
-  {
     "repo": "cart-service",
     "url": "https://github.com/duynhlab/cart-service/pull/219",
     "number": 219,
     "title": "Drop the stale migrations Docker ecosystem",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-04T13:37:14Z",
-    "merged_at": null,
+    "merged_at": "2026-10-05T02:10:13Z",
     "additions": 0,
     "deletions": 6,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 12.55
   },
   {
     "repo": "cart-service",
@@ -2760,34 +2730,19 @@
     "lead_time_h": 49.16
   },
   {
-    "repo": "cart-service",
-    "url": "https://github.com/duynhlab/cart-service/pull/178",
-    "number": 178,
-    "title": "Call obsx through its API-typed surface (v0.39.2)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T05:49:16Z",
-    "merged_at": "2026-09-18T06:44:25Z",
-    "additions": 6,
-    "deletions": 6,
-    "changed_files": 3,
-    "lead_time_h": 0.92
-  },
-  {
     "repo": "order-service",
     "url": "https://github.com/duynhlab/order-service/pull/265",
     "number": 265,
     "title": "Drop the stale migrations Docker ecosystem",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-04T13:37:24Z",
-    "merged_at": null,
+    "merged_at": "2026-10-05T02:11:03Z",
     "additions": 0,
     "deletions": 6,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 12.56
   },
   {
     "repo": "order-service",
@@ -2974,15 +2929,15 @@
     "url": "https://github.com/duynhlab/review-service/pull/204",
     "number": 204,
     "title": "Drop the stale migrations Docker ecosystem",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-04T13:37:35Z",
-    "merged_at": null,
+    "merged_at": "2026-10-05T02:10:24Z",
     "additions": 0,
     "deletions": 6,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 12.55
   },
   {
     "repo": "review-service",
@@ -3199,15 +3154,15 @@
     "url": "https://github.com/duynhlab/notification-service/pull/212",
     "number": 212,
     "title": "Drop the stale migrations Docker ecosystem",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-04T13:37:58Z",
-    "merged_at": null,
+    "merged_at": "2026-10-05T02:10:54Z",
     "additions": 0,
     "deletions": 6,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 12.55
   },
   {
     "repo": "notification-service",
@@ -3424,15 +3379,15 @@
     "url": "https://github.com/duynhlab/shipping-service/pull/219",
     "number": 219,
     "title": "Drop the stale migrations Docker ecosystem",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-04T13:37:47Z",
-    "merged_at": null,
+    "merged_at": "2026-10-05T02:10:40Z",
     "additions": 0,
     "deletions": 6,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 12.55
   },
   {
     "repo": "shipping-service",
@@ -3649,15 +3604,15 @@
     "url": "https://github.com/duynhlab/frontend/pull/130",
     "number": 130,
     "title": "Meet AA contrast on primary hover",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-04T13:58:49Z",
-    "merged_at": null,
+    "merged_at": "2026-10-05T02:09:28Z",
     "additions": 7,
     "deletions": 2,
     "changed_files": 3,
-    "lead_time_h": null
+    "lead_time_h": 12.18
   },
   {
     "repo": "frontend",
@@ -4393,6 +4348,21 @@
     "deletions": 66,
     "changed_files": 4,
     "lead_time_h": 0.08
+  },
+  {
+    "repo": "helm-charts",
+    "url": "https://github.com/duynhlab/helm-charts/pull/27",
+    "number": 27,
+    "title": "feat(mop)!: drop the 4xx error-rate SLO",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-05T03:17:41Z",
+    "merged_at": "2026-10-05T03:19:36Z",
+    "additions": 28,
+    "deletions": 44,
+    "changed_files": 8,
+    "lead_time_h": 0.03
   },
   {
     "repo": "helm-charts",
@@ -6000,21 +5970,6 @@
     "lead_time_h": 0.04
   },
   {
-    "repo": "release-radar",
-    "url": "https://github.com/duynhlab/release-radar/pull/8",
-    "number": 8,
-    "title": "Add 9 observability and platform tools",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-07-30T02:54:46Z",
-    "merged_at": "2026-07-30T03:00:32Z",
-    "additions": 1471,
-    "deletions": 1,
-    "changed_files": 11,
-    "lead_time_h": 0.1
-  },
-  {
     "repo": "admin-service",
     "url": "https://github.com/duynhlab/admin-service/pull/35",
     "number": 35,
@@ -6328,6 +6283,21 @@
     "deletions": 0,
     "changed_files": 5,
     "lead_time_h": 0.19
+  },
+  {
+    "repo": "images",
+    "url": "https://github.com/duynhlab/images/pull/3",
+    "number": 3,
+    "title": "feat(clickhouse-ddl): add a key-value index on logs",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-05T03:46:02Z",
+    "merged_at": "2026-10-05T03:49:55Z",
+    "additions": 21,
+    "deletions": 2,
+    "changed_files": 3,
+    "lead_time_h": 0.06
   },
   {
     "repo": "images",
