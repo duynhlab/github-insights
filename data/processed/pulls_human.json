@@ -1561,6 +1561,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1238",
+    "number": 1238,
+    "title": "Improve database platform learning and operations docs",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-06T16:34:50Z",
+    "merged_at": null,
+    "additions": 780,
+    "deletions": 118,
+    "changed_files": 19,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1237",
     "number": 1237,
     "title": "Gate the Kind run on database membership drift",
@@ -1963,21 +1978,6 @@
     "deletions": 4,
     "changed_files": 5,
     "lead_time_h": 0.08
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1193",
-    "number": 1193,
-    "title": "Say A15 runs on compose",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-10-02T06:00:47Z",
-    "merged_at": "2026-10-02T06:11:14Z",
-    "additions": 21,
-    "deletions": 18,
-    "changed_files": 1,
-    "lead_time_h": 0.17
   },
   {
     "repo": "user-service",

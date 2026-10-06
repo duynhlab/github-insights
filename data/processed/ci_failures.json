@@ -63,10 +63,10 @@
       {
         "name": "Build",
         "fail": 4,
-        "total": 25,
+        "total": 21,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/37175132369",
         "last_fail_at": "2026-10-04T03:48:46Z",
-        "fail_rate": 0.16
+        "fail_rate": 0.19
       },
       {
         "name": "Check",
@@ -139,10 +139,10 @@
       {
         "name": "Build",
         "fail": 3,
-        "total": 27,
+        "total": 23,
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/37175096732",
         "last_fail_at": "2026-10-04T03:48:02Z",
-        "fail_rate": 0.111
+        "fail_rate": 0.13
       },
       {
         "name": "docker in /db/migrations - Update #1607369752",
@@ -160,10 +160,10 @@
       {
         "name": "Build",
         "fail": 3,
-        "total": 25,
+        "total": 24,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/37175248244",
         "last_fail_at": "2026-10-04T03:51:06Z",
-        "fail_rate": 0.12
+        "fail_rate": 0.125
       },
       {
         "name": "docker in /db/migrations - Update #1607369964",
@@ -265,18 +265,18 @@
       {
         "name": "Check",
         "fail": 2,
-        "total": 36,
+        "total": 35,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/36744573645",
         "last_fail_at": "2026-09-30T16:29:26Z",
-        "fail_rate": 0.056
+        "fail_rate": 0.057
       },
       {
         "name": "Build",
         "fail": 1,
-        "total": 27,
+        "total": 26,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/36856890145",
         "last_fail_at": "2026-10-01T11:40:56Z",
-        "fail_rate": 0.037
+        "fail_rate": 0.038
       }
     ]
   },
@@ -414,10 +414,10 @@
       {
         "name": "Build",
         "fail": 1,
-        "total": 31,
+        "total": 29,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/36856933461",
         "last_fail_at": "2026-10-01T11:41:20Z",
-        "fail_rate": 0.032
+        "fail_rate": 0.034
       }
     ]
   },
