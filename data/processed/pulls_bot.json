@@ -1560,21 +1560,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1057",
-    "number": 1057,
-    "title": "chore(deps): update helm release temporal to v1.7.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-09-16T04:14:23Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/210",
     "number": 210,
@@ -9001,10 +8986,25 @@
   },
   {
     "repo": "admin-service",
+    "url": "https://github.com/duynhlab/admin-service/pull/38",
+    "number": 38,
+    "title": "Bump the minor-and-patch group across 1 directory with 5 updates",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-10-06T04:24:57Z",
+    "merged_at": null,
+    "additions": 90,
+    "deletions": 33,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "admin-service",
     "url": "https://github.com/duynhlab/admin-service/pull/37",
     "number": 37,
     "title": "Bump the minor-and-patch group with 3 updates",
-    "state": "OPEN",
+    "state": "CLOSED",
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-10-05T04:38:37Z",
