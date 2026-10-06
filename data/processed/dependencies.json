@@ -25,7 +25,7 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 15,
+    "bot_open_pr": 16,
     "bot_merged_pr": 6,
     "bot_lead_time_median_h": 186.6
   },
@@ -140,8 +140,8 @@
   {
     "name": "release-radar",
     "bot_open_pr": 1,
-    "bot_merged_pr": 7,
-    "bot_lead_time_median_h": 48.01
+    "bot_merged_pr": 8,
+    "bot_lead_time_median_h": 39.27
   },
   {
     "name": "admin-service",
