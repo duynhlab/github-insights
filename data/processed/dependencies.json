@@ -19,9 +19,9 @@
   },
   {
     "name": "packages",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 2,
-    "bot_lead_time_median_h": 40.18
+    "bot_open_pr": 0,
+    "bot_merged_pr": 3,
+    "bot_lead_time_median_h": 80.31
   },
   {
     "name": "homelab",
@@ -37,45 +37,45 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 23,
-    "bot_lead_time_median_h": 46.38
+    "bot_open_pr": 0,
+    "bot_merged_pr": 24,
+    "bot_lead_time_median_h": 57.45
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 16,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 17,
     "bot_lead_time_median_h": 58.44
   },
   {
     "name": "order-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 16,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 17,
     "bot_lead_time_median_h": 54.44
   },
   {
     "name": "review-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 14,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 15,
     "bot_lead_time_median_h": 63.95
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 15,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 16,
     "bot_lead_time_median_h": 60.6
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 14,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 15,
     "bot_lead_time_median_h": 51.61
   },
   {
     "name": "frontend",
-    "bot_open_pr": 6,
-    "bot_merged_pr": 14,
-    "bot_lead_time_median_h": 669.91
+    "bot_open_pr": 0,
+    "bot_merged_pr": 20,
+    "bot_lead_time_median_h": 89.64
   },
   {
     "name": "backstage",
@@ -109,14 +109,14 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 15,
-    "bot_lead_time_median_h": 65.31
+    "bot_open_pr": 0,
+    "bot_merged_pr": 16,
+    "bot_lead_time_median_h": 65.3
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 16,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 17,
     "bot_lead_time_median_h": 235.93
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "name": "inventory-service",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 13,
+    "bot_open_pr": 0,
+    "bot_merged_pr": 14,
     "bot_lead_time_median_h": 61.26
   },
   {
@@ -145,8 +145,8 @@
   },
   {
     "name": "admin-service",
-    "bot_open_pr": 2,
-    "bot_merged_pr": 13,
+    "bot_open_pr": 1,
+    "bot_merged_pr": 15,
     "bot_lead_time_median_h": 7.04
   },
   {
