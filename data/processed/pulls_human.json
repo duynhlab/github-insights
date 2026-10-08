@@ -3600,21 +3600,6 @@
     "lead_time_h": 0.03
   },
   {
-    "repo": "frontend",
-    "url": "https://github.com/duynhlab/frontend/pull/96",
-    "number": 96,
-    "title": "Converge the storefront on the Backoffice stack",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-15T14:03:52Z",
-    "merged_at": "2026-08-15T14:05:12Z",
-    "additions": 13202,
-    "deletions": 12422,
-    "changed_files": 161,
-    "lead_time_h": 0.02
-  },
-  {
     "repo": "tf-local",
     "url": "https://github.com/duynhlab/tf-local/pull/30",
     "number": 30,
