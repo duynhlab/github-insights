@@ -1,12 +1,12 @@
 {
   "homelab": {
-    "pr_updated_at": "2026-10-08T03:38:34Z"
+    "pr_updated_at": "2026-10-08T06:27:43Z"
   },
   "auth-service": {
     "pr_updated_at": "2026-08-17T18:18:57Z"
   },
   "user-service": {
-    "pr_updated_at": "2026-10-07T15:39:20Z"
+    "pr_updated_at": "2026-10-08T06:29:35Z"
   },
   "product-service": {
     "pr_updated_at": "2026-10-08T01:55:15Z"
@@ -21,10 +21,10 @@
     "pr_updated_at": "2026-10-08T01:55:23Z"
   },
   "notification-service": {
-    "pr_updated_at": "2026-10-08T01:55:02Z"
+    "pr_updated_at": "2026-10-08T06:28:48Z"
   },
   "shipping-service": {
-    "pr_updated_at": "2026-10-08T01:55:29Z"
+    "pr_updated_at": "2026-10-08T06:28:49Z"
   },
   "frontend": {
     "pr_updated_at": "2026-10-08T01:54:49Z"
@@ -32,7 +32,7 @@
   "tf-local": {
     "pr_updated_at": "2026-08-03T12:54:35Z"
   },
-  "last_run": "2026-10-08T04:25:29.131354+00:00",
+  "last_run": "2026-10-08T12:49:16.063871+00:00",
   "github-insights": {
     "pr_updated_at": "2026-08-11T08:07:07Z"
   },

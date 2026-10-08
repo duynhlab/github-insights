@@ -42,17 +42,17 @@
       "S": 3,
       "M": 8,
       "L": 12,
-      "XL": 3,
-      "total": 26
+      "XL": 4,
+      "total": 27
     },
     {
       "repo": "user-service",
       "XS": 4,
       "S": 7,
       "M": 2,
-      "L": 1,
+      "L": 2,
       "XL": 0,
-      "total": 14
+      "total": 15
     },
     {
       "repo": "product-service",
@@ -95,18 +95,18 @@
       "XS": 5,
       "S": 6,
       "M": 2,
-      "L": 1,
+      "L": 2,
       "XL": 0,
-      "total": 14
+      "total": 15
     },
     {
       "repo": "shipping-service",
       "XS": 5,
       "S": 5,
       "M": 3,
-      "L": 1,
+      "L": 2,
       "XL": 0,
-      "total": 14
+      "total": 15
     },
     {
       "repo": "frontend",
@@ -241,9 +241,9 @@
       "XS": 83,
       "S": 110,
       "M": 83,
-      "L": 78,
-      "XL": 45,
-      "total": 399
+      "L": 81,
+      "XL": 46,
+      "total": 403
     },
     {
       "author": "duyhenryer",

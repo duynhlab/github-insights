@@ -1545,21 +1545,6 @@
     "lead_time_h": 72.14
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1170",
-    "number": 1170,
-    "title": "chore(deps): update grafana/grafana docker tag to v13.2.3",
-    "state": "MERGED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-10-01T04:48:35Z",
-    "merged_at": "2026-10-04T04:36:50Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 71.8
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/210",
     "number": 210,
@@ -2078,21 +2063,6 @@
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-08-31T15:26:52Z",
-    "merged_at": null,
-    "additions": 18,
-    "deletions": 31,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/167",
-    "number": 167,
-    "title": "build(deps): bump go.opentelemetry.io/otel from 1.44.0 to 1.46.0",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-31T15:26:48Z",
     "merged_at": null,
     "additions": 18,
     "deletions": 31,
@@ -4800,21 +4770,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/164",
-    "number": 164,
-    "title": "build(deps): bump duynhlab/gha-workflows/.github/workflows/status.yml from e321897e5c28e7c861b9d8beb37614e1c5823f42 to 566b62220abb6db150099ca11cb7a9904288f3b5",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-21T14:04:47Z",
-    "merged_at": null,
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
     "repo": "shipping-service",
     "url": "https://github.com/duynhlab/shipping-service/pull/221",
     "number": 221,
@@ -5337,21 +5292,6 @@
     "additions": 2,
     "deletions": 2,
     "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/170",
-    "number": 170,
-    "title": "build(deps): bump duynhlab/gha-workflows/.github/workflows/pr-checks.yml from e321897e5c28e7c861b9d8beb37614e1c5823f42 to 566b62220abb6db150099ca11cb7a9904288f3b5",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-20T23:04:59Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
     "lead_time_h": null
   },
   {
