@@ -223,10 +223,10 @@
       {
         "name": "Build",
         "fail": 2,
-        "total": 23,
+        "total": 22,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/37175036462",
         "last_fail_at": "2026-10-04T03:46:42Z",
-        "fail_rate": 0.087
+        "fail_rate": 0.091
       },
       {
         "name": "docker in /db/migrations - Update #1607372462",
@@ -256,6 +256,27 @@
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/37176253577",
         "last_fail_at": "2026-10-04T04:10:58Z",
         "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "wolfi-images",
+    "workflows": [
+      {
+        "name": "nginx",
+        "fail": 1,
+        "total": 17,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/36826562461",
+        "last_fail_at": "2026-10-01T06:46:18Z",
+        "fail_rate": 0.059
+      },
+      {
+        "name": "node",
+        "fail": 1,
+        "total": 18,
+        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/37897911557",
+        "last_fail_at": "2026-10-09T07:14:43Z",
+        "fail_rate": 0.056
       }
     ]
   },
@@ -294,10 +315,10 @@
       {
         "name": "Build",
         "fail": 1,
-        "total": 21,
+        "total": 20,
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/36856911115",
         "last_fail_at": "2026-10-01T11:41:07Z",
-        "fail_rate": 0.048
+        "fail_rate": 0.05
       }
     ]
   },
@@ -366,19 +387,6 @@
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.014
-      }
-    ]
-  },
-  {
-    "repo": "wolfi-images",
-    "workflows": [
-      {
-        "name": "nginx",
-        "fail": 1,
-        "total": 17,
-        "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/36826562461",
-        "last_fail_at": "2026-10-01T06:46:18Z",
-        "fail_rate": 0.059
       }
     ]
   },

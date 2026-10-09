@@ -59,9 +59,9 @@
       "XS": 6,
       "S": 5,
       "M": 1,
-      "L": 2,
+      "L": 1,
       "XL": 0,
-      "total": 14
+      "total": 13
     },
     {
       "repo": "cart-service",
@@ -167,9 +167,9 @@
       "XS": 5,
       "S": 5,
       "M": 5,
-      "L": 1,
+      "L": 0,
       "XL": 0,
-      "total": 16
+      "total": 15
     },
     {
       "repo": "checkout-service",
@@ -241,9 +241,9 @@
       "XS": 83,
       "S": 110,
       "M": 83,
-      "L": 81,
+      "L": 79,
       "XL": 45,
-      "total": 402
+      "total": 400
     },
     {
       "author": "duyhenryer",

@@ -37,7 +37,7 @@
   },
   {
     "name": "product-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 2,
     "bot_merged_pr": 24,
     "bot_lead_time_median_h": 57.45
   },
@@ -109,7 +109,7 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 16,
     "bot_lead_time_median_h": 65.3
   },
