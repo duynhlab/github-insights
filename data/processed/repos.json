@@ -288,8 +288,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 6371,
-    "pushed_at": "2026-10-11T09:29:26Z",
+    "size_kb": 6375,
+    "pushed_at": "2026-10-11T12:06:16Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -441,7 +441,7 @@
     "url": "https://github.com/duynhlab/release-radar",
     "lang": "TypeScript",
     "size_kb": 5809,
-    "pushed_at": "2026-10-10T18:34:56Z",
+    "pushed_at": "2026-10-11T18:54:40Z",
     "open_issues": 1,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -452,7 +452,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.95,
+    "ci_success_rate": 0.96,
     "ci_runs": 100
   },
   {

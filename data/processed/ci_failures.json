@@ -113,27 +113,6 @@
     ]
   },
   {
-    "repo": "release-radar",
-    "workflows": [
-      {
-        "name": "CI",
-        "fail": 4,
-        "total": 15,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/37254612691",
-        "last_fail_at": "2026-10-05T02:14:28Z",
-        "fail_rate": 0.267
-      },
-      {
-        "name": "npm_and_yarn in / for @tanstack/react-router, @tanstack/react-start, lucide-react, @cloudflare/vite-plugin, @cloudflare/vitest-pool-workers, @testing-library/react, @types/node, @types/react-dom, @vitejs/plugin-react, agent-browser, typescript-eslint, vite, vitest, wrangler - Update #1560168311",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/34075402118",
-        "last_fail_at": "2026-09-07T02:10:32Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "cart-service",
     "workflows": [
       {
@@ -193,6 +172,19 @@
         "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
         "last_fail_at": "2026-06-19T12:53:29Z",
         "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "release-radar",
+    "workflows": [
+      {
+        "name": "CI",
+        "fail": 4,
+        "total": 15,
+        "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/37254612691",
+        "last_fail_at": "2026-10-05T02:14:28Z",
+        "fail_rate": 0.267
       }
     ]
   },
