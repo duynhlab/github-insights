@@ -15,8 +15,8 @@
       "S": 8,
       "M": 2,
       "L": 0,
-      "XL": 2,
-      "total": 16
+      "XL": 1,
+      "total": 15
     },
     {
       "repo": "wolfi-images",
@@ -242,8 +242,8 @@
       "S": 110,
       "M": 83,
       "L": 79,
-      "XL": 45,
-      "total": 400
+      "XL": 44,
+      "total": 399
     },
     {
       "author": "duyhenryer",
