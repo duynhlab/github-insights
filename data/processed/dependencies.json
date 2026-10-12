@@ -25,9 +25,9 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 18,
-    "bot_merged_pr": 4,
-    "bot_lead_time_median_h": 377.87
+    "bot_open_pr": 30,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
   },
   {
     "name": "user-service",
@@ -139,13 +139,13 @@
   },
   {
     "name": "release-radar",
-    "bot_open_pr": 1,
-    "bot_merged_pr": 8,
-    "bot_lead_time_median_h": 39.27
+    "bot_open_pr": 3,
+    "bot_merged_pr": 7,
+    "bot_lead_time_median_h": 48.01
   },
   {
     "name": "admin-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 3,
     "bot_merged_pr": 15,
     "bot_lead_time_median_h": 7.04
   },
