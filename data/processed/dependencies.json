@@ -14,8 +14,8 @@
   {
     "name": "wolfi-images",
     "bot_open_pr": 0,
-    "bot_merged_pr": 27,
-    "bot_lead_time_median_h": 16.83
+    "bot_merged_pr": 28,
+    "bot_lead_time_median_h": 12.39
   },
   {
     "name": "packages",
@@ -25,9 +25,9 @@
   },
   {
     "name": "homelab",
-    "bot_open_pr": 24,
-    "bot_merged_pr": 5,
-    "bot_lead_time_median_h": 175.59
+    "bot_open_pr": 9,
+    "bot_merged_pr": 20,
+    "bot_lead_time_median_h": 175.55
   },
   {
     "name": "user-service",
@@ -55,7 +55,7 @@
   },
   {
     "name": "review-service",
-    "bot_open_pr": 0,
+    "bot_open_pr": 1,
     "bot_merged_pr": 15,
     "bot_lead_time_median_h": 63.95
   },
@@ -109,7 +109,7 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 2,
     "bot_merged_pr": 16,
     "bot_lead_time_median_h": 65.3
   },
@@ -151,6 +151,12 @@
   },
   {
     "name": "images",
+    "bot_open_pr": 0,
+    "bot_merged_pr": 0,
+    "bot_lead_time_median_h": null
+  },
+  {
+    "name": "analytics-service",
     "bot_open_pr": 0,
     "bot_merged_pr": 0,
     "bot_lead_time_median_h": null
