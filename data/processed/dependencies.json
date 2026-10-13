@@ -31,7 +31,7 @@
   },
   {
     "name": "user-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 3,
     "bot_merged_pr": 13,
     "bot_lead_time_median_h": 59.24
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "cart-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 3,
     "bot_merged_pr": 17,
     "bot_lead_time_median_h": 58.44
   },
@@ -61,7 +61,7 @@
   },
   {
     "name": "notification-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 3,
     "bot_merged_pr": 16,
     "bot_lead_time_median_h": 60.6
   },
@@ -133,7 +133,7 @@
   },
   {
     "name": "inventory-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 3,
     "bot_merged_pr": 14,
     "bot_lead_time_median_h": 61.26
   },

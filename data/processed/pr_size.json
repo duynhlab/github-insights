@@ -222,8 +222,8 @@
       "S": 8,
       "M": 3,
       "L": 7,
-      "XL": 0,
-      "total": 21
+      "XL": 1,
+      "total": 22
     },
     {
       "repo": "images",
@@ -251,8 +251,8 @@
       "S": 108,
       "M": 81,
       "L": 76,
-      "XL": 47,
-      "total": 394
+      "XL": 48,
+      "total": 395
     },
     {
       "author": "duyhenryer",

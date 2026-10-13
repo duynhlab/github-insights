@@ -1591,6 +1591,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1264",
+    "number": 1264,
+    "title": "Add RFC-0030 CDC qualification prototype",
+    "state": "OPEN",
+    "draft": true,
+    "author": "duynhne",
+    "created_at": "2026-10-13T07:17:36Z",
+    "merged_at": null,
+    "additions": 1050,
+    "deletions": 58,
+    "changed_files": 14,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1263",
     "number": 1263,
     "title": "Add pg_stat_ch query telemetry into ClickHouse",
@@ -1602,21 +1617,6 @@
     "additions": 1008,
     "deletions": 95,
     "changed_files": 34,
-    "lead_time_h": null
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1264",
-    "number": 1264,
-    "title": "Add RFC-0030 CDC qualification prototype",
-    "state": "OPEN",
-    "draft": true,
-    "author": "duynhne",
-    "created_at": "2026-10-13T07:17:36Z",
-    "merged_at": null,
-    "additions": 1483,
-    "deletions": 58,
-    "changed_files": 25,
     "lead_time_h": null
   },
   {
@@ -5638,6 +5638,21 @@
     "deletions": 16,
     "changed_files": 10,
     "lead_time_h": 0.12
+  },
+  {
+    "repo": "admin-service",
+    "url": "https://github.com/duynhlab/admin-service/pull/45",
+    "number": 45,
+    "title": "Add isolated commerce analytics UI preview",
+    "state": "OPEN",
+    "draft": true,
+    "author": "duynhne",
+    "created_at": "2026-10-13T15:51:03Z",
+    "merged_at": null,
+    "additions": 1230,
+    "deletions": 2,
+    "changed_files": 19,
+    "lead_time_h": null
   },
   {
     "repo": "admin-service",
