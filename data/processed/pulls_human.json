@@ -2235,36 +2235,6 @@
     "lead_time_h": 0.24
   },
   {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/205",
-    "number": 205,
-    "title": "CI: run the fleet lint policy as a blocking pass",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-25T01:51:53Z",
-    "merged_at": "2026-09-25T01:59:21Z",
-    "additions": 6,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": 0.12
-  },
-  {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/204",
-    "number": 204,
-    "title": "Write error text as exception.message and trim redisotel",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-24T14:24:52Z",
-    "merged_at": "2026-09-25T01:31:52Z",
-    "additions": 17,
-    "deletions": 8,
-    "changed_files": 4,
-    "lead_time_h": 11.12
-  },
-  {
     "repo": "cart-service",
     "url": "https://github.com/duynhlab/cart-service/pull/219",
     "number": 219,
@@ -5979,9 +5949,9 @@
     "author": "duynhne",
     "created_at": "2026-10-14T08:40:12Z",
     "merged_at": null,
-    "additions": 3146,
+    "additions": 3721,
     "deletions": 1,
-    "changed_files": 30,
+    "changed_files": 32,
     "lead_time_h": null
   }
 ]
