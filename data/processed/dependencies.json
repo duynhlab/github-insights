@@ -55,7 +55,7 @@
   },
   {
     "name": "review-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 2,
     "bot_merged_pr": 15,
     "bot_lead_time_median_h": 63.95
   },
@@ -73,7 +73,7 @@
   },
   {
     "name": "frontend",
-    "bot_open_pr": 7,
+    "bot_open_pr": 6,
     "bot_merged_pr": 20,
     "bot_lead_time_median_h": 89.64
   },
@@ -109,7 +109,7 @@
   },
   {
     "name": "payment-service",
-    "bot_open_pr": 2,
+    "bot_open_pr": 3,
     "bot_merged_pr": 16,
     "bot_lead_time_median_h": 65.3
   },

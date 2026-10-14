@@ -166,10 +166,10 @@
       "repo": "payment-service",
       "XS": 4,
       "S": 5,
-      "M": 5,
+      "M": 4,
       "L": 0,
       "XL": 0,
-      "total": 14
+      "total": 13
     },
     {
       "repo": "checkout-service",
@@ -249,10 +249,10 @@
       "author": "duynhne",
       "XS": 80,
       "S": 105,
-      "M": 81,
+      "M": 80,
       "L": 75,
       "XL": 48,
-      "total": 389
+      "total": 388
     },
     {
       "author": "duyhenryer",
