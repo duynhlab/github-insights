@@ -110,12 +110,12 @@
     },
     {
       "repo": "frontend",
-      "XS": 4,
-      "S": 3,
+      "XS": 3,
+      "S": 2,
       "M": 0,
-      "L": 1,
-      "XL": 1,
-      "total": 9
+      "L": 0,
+      "XL": 0,
+      "total": 5
     },
     {
       "repo": "backstage",
@@ -247,12 +247,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 82,
-      "S": 108,
+      "XS": 81,
+      "S": 107,
       "M": 81,
-      "L": 76,
-      "XL": 48,
-      "total": 395
+      "L": 75,
+      "XL": 47,
+      "total": 391
     },
     {
       "author": "duyhenryer",
