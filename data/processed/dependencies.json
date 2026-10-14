@@ -67,7 +67,7 @@
   },
   {
     "name": "shipping-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 3,
     "bot_merged_pr": 15,
     "bot_lead_time_median_h": 51.61
   },
@@ -115,7 +115,7 @@
   },
   {
     "name": "checkout-service",
-    "bot_open_pr": 1,
+    "bot_open_pr": 4,
     "bot_merged_pr": 17,
     "bot_lead_time_median_h": 235.93
   },

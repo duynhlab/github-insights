@@ -174,11 +174,11 @@
     {
       "repo": "checkout-service",
       "XS": 4,
-      "S": 6,
+      "S": 5,
       "M": 1,
       "L": 3,
       "XL": 0,
-      "total": 14
+      "total": 13
     },
     {
       "repo": "gitops",
@@ -240,18 +240,18 @@
       "S": 0,
       "M": 0,
       "L": 0,
-      "XL": 0,
-      "total": 0
+      "XL": 1,
+      "total": 1
     }
   ],
   "by_author": [
     {
       "author": "duynhne",
       "XS": 81,
-      "S": 107,
+      "S": 106,
       "M": 81,
       "L": 75,
-      "XL": 47,
+      "XL": 48,
       "total": 391
     },
     {

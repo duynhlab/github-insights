@@ -87,19 +87,6 @@
     ]
   },
   {
-    "repo": "helm-charts",
-    "workflows": [
-      {
-        "name": "\ud83e\uddea E2E (KinD)",
-        "fail": 6,
-        "total": 12,
-        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/37403517064",
-        "last_fail_at": "2026-10-06T02:18:52Z",
-        "fail_rate": 0.5
-      }
-    ]
-  },
-  {
     "repo": "frontend",
     "workflows": [
       {
@@ -109,6 +96,19 @@
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/37001626515",
         "last_fail_at": "2026-10-02T11:33:09Z",
         "fail_rate": 0.263
+      }
+    ]
+  },
+  {
+    "repo": "helm-charts",
+    "workflows": [
+      {
+        "name": "\ud83e\uddea E2E (KinD)",
+        "fail": 5,
+        "total": 11,
+        "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/37403517064",
+        "last_fail_at": "2026-10-06T02:18:52Z",
+        "fail_rate": 0.455
       }
     ]
   },
@@ -249,10 +249,10 @@
       {
         "name": "Build",
         "fail": 2,
-        "total": 21,
+        "total": 20,
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/37175210337",
         "last_fail_at": "2026-10-04T03:50:24Z",
-        "fail_rate": 0.095
+        "fail_rate": 0.1
       },
       {
         "name": "docker in /db/migrations - Update #1607369920",
@@ -270,18 +270,18 @@
       {
         "name": "node",
         "fail": 1,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/37897911557",
         "last_fail_at": "2026-10-09T07:14:43Z",
-        "fail_rate": 0.067
+        "fail_rate": 0.062
       },
       {
         "name": "nginx",
         "fail": 1,
-        "total": 15,
+        "total": 16,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/36826562461",
         "last_fail_at": "2026-10-01T06:46:18Z",
-        "fail_rate": 0.067
+        "fail_rate": 0.062
       }
     ]
   },
@@ -406,10 +406,10 @@
       {
         "name": "Build",
         "fail": 1,
-        "total": 27,
+        "total": 20,
         "last_fail_url": "https://github.com/duynhlab/checkout-service/actions/runs/36856933461",
         "last_fail_at": "2026-10-01T11:41:20Z",
-        "fail_rate": 0.037
+        "fail_rate": 0.05
       }
     ]
   },
@@ -436,6 +436,19 @@
         "last_fail_url": "https://github.com/duynhlab/images/actions/runs/36833542587",
         "last_fail_at": "2026-10-01T07:59:07Z",
         "fail_rate": 0.2
+      }
+    ]
+  },
+  {
+    "repo": "analytics-service",
+    "workflows": [
+      {
+        "name": "Check",
+        "fail": 1,
+        "total": 3,
+        "last_fail_url": "https://github.com/duynhlab/analytics-service/actions/runs/38537736765",
+        "last_fail_at": "2026-10-14T08:48:22Z",
+        "fail_rate": 0.333
       }
     ]
   }

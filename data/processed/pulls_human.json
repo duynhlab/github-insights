@@ -1599,9 +1599,24 @@
     "author": "duynhne",
     "created_at": "2026-10-13T07:17:36Z",
     "merged_at": null,
-    "additions": 1050,
-    "deletions": 58,
-    "changed_files": 14,
+    "additions": 1230,
+    "deletions": 62,
+    "changed_files": 17,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1267",
+    "number": 1267,
+    "title": "Move review's database authorization to the platform",
+    "state": "OPEN",
+    "draft": true,
+    "author": "duynhne",
+    "created_at": "2026-10-14T04:55:25Z",
+    "merged_at": null,
+    "additions": 1363,
+    "deletions": 286,
+    "changed_files": 40,
     "lead_time_h": null
   },
   {
@@ -1858,21 +1873,6 @@
     "deletions": 92,
     "changed_files": 36,
     "lead_time_h": 0.88
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1231",
-    "number": 1231,
-    "title": "Deploy services with duynh and slo, drop mop",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-10-06T02:28:14Z",
-    "merged_at": "2026-10-06T03:12:52Z",
-    "additions": 716,
-    "deletions": 391,
-    "changed_files": 47,
-    "lead_time_h": 0.74
   },
   {
     "repo": "user-service",
@@ -4830,21 +4830,6 @@
     "lead_time_h": 49.17
   },
   {
-    "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/86",
-    "number": 86,
-    "title": "Call obsx through its API-typed surface (v0.39.2)",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-09-18T05:49:33Z",
-    "merged_at": "2026-09-18T06:44:55Z",
-    "additions": 9,
-    "deletions": 10,
-    "changed_files": 3,
-    "lead_time_h": 0.92
-  },
-  {
     "repo": "gitops",
     "url": "https://github.com/duynhlab/gitops/pull/3",
     "number": 3,
@@ -5589,7 +5574,7 @@
     "author": "duynhne",
     "created_at": "2026-10-13T15:51:03Z",
     "merged_at": null,
-    "additions": 1230,
+    "additions": 1273,
     "deletions": 2,
     "changed_files": 19,
     "lead_time_h": null
@@ -5983,5 +5968,20 @@
     "deletions": 1,
     "changed_files": 18,
     "lead_time_h": 0.06
+  },
+  {
+    "repo": "analytics-service",
+    "url": "https://github.com/duynhlab/analytics-service/pull/1",
+    "number": 1,
+    "title": "Add read-only commerce analytics API",
+    "state": "OPEN",
+    "draft": true,
+    "author": "duynhne",
+    "created_at": "2026-10-14T08:40:12Z",
+    "merged_at": null,
+    "additions": 3146,
+    "deletions": 1,
+    "changed_files": 30,
+    "lead_time_h": null
   }
 ]
