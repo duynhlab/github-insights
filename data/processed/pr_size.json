@@ -11,12 +11,12 @@
     },
     {
       "repo": "gha-workflows",
-      "XS": 4,
-      "S": 8,
+      "XS": 5,
+      "S": 9,
       "M": 2,
-      "L": 0,
+      "L": 1,
       "XL": 1,
-      "total": 15
+      "total": 18
     },
     {
       "repo": "wolfi-images",
@@ -39,9 +39,9 @@
     {
       "repo": "homelab",
       "XS": 1,
-      "S": 0,
+      "S": 1,
       "M": 4,
-      "L": 7,
+      "L": 6,
       "XL": 7,
       "total": 19
     },
@@ -229,10 +229,10 @@
       "repo": "images",
       "XS": 1,
       "S": 3,
-      "M": 0,
+      "M": 1,
       "L": 2,
       "XL": 0,
-      "total": 6
+      "total": 7
     },
     {
       "repo": "analytics-service",
@@ -247,12 +247,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 80,
-      "S": 106,
-      "M": 80,
+      "XS": 81,
+      "S": 108,
+      "M": 81,
       "L": 74,
       "XL": 50,
-      "total": 390
+      "total": 394
     },
     {
       "author": "duyhenryer",

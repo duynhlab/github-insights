@@ -155,27 +155,6 @@
     ]
   },
   {
-    "repo": "tf-local",
-    "workflows": [
-      {
-        "name": "CI",
-        "fail": 3,
-        "total": 16,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
-        "last_fail_at": "2026-06-25T00:26:33Z",
-        "fail_rate": 0.188
-      },
-      {
-        "name": ".github/workflows/aws-ci.yml",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/27826879748",
-        "last_fail_at": "2026-06-19T12:53:29Z",
-        "fail_rate": 1.0
-      }
-    ]
-  },
-  {
     "repo": "release-radar",
     "workflows": [
       {
@@ -248,6 +227,19 @@
         "last_fail_url": "https://github.com/duynhlab/shipping-service/actions/runs/37176253577",
         "last_fail_at": "2026-10-04T04:10:58Z",
         "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "tf-local",
+    "workflows": [
+      {
+        "name": "CI",
+        "fail": 3,
+        "total": 16,
+        "last_fail_url": "https://github.com/duynhlab/tf-local/actions/runs/28138533641",
+        "last_fail_at": "2026-06-25T00:26:33Z",
+        "fail_rate": 0.188
       }
     ]
   },
@@ -346,18 +338,18 @@
       {
         "name": "Build",
         "fail": 1,
-        "total": 22,
+        "total": 19,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/36856890145",
         "last_fail_at": "2026-10-01T11:40:56Z",
-        "fail_rate": 0.045
+        "fail_rate": 0.053
       },
       {
         "name": "Check",
         "fail": 1,
-        "total": 28,
+        "total": 26,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/36744573645",
         "last_fail_at": "2026-09-30T16:29:26Z",
-        "fail_rate": 0.036
+        "fail_rate": 0.038
       }
     ]
   },
@@ -367,7 +359,7 @@
       {
         "name": "Lint",
         "fail": 1,
-        "total": 71,
+        "total": 72,
         "last_fail_url": "https://github.com/duynhlab/gha-workflows/actions/runs/33248444827",
         "last_fail_at": "2026-08-29T10:42:35Z",
         "fail_rate": 0.014
