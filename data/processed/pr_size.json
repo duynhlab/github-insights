@@ -6,8 +6,8 @@
       "S": 3,
       "M": 6,
       "L": 9,
-      "XL": 18,
-      "total": 38
+      "XL": 19,
+      "total": 39
     },
     {
       "repo": "gha-workflows",
@@ -41,8 +41,8 @@
       "XS": 1,
       "S": 0,
       "M": 4,
-      "L": 8,
-      "XL": 6,
+      "L": 7,
+      "XL": 7,
       "total": 19
     },
     {
@@ -228,11 +228,11 @@
     {
       "repo": "images",
       "XS": 1,
-      "S": 2,
+      "S": 3,
       "M": 0,
       "L": 2,
       "XL": 0,
-      "total": 5
+      "total": 6
     },
     {
       "repo": "analytics-service",
@@ -248,11 +248,11 @@
     {
       "author": "duynhne",
       "XS": 80,
-      "S": 105,
+      "S": 106,
       "M": 80,
-      "L": 75,
-      "XL": 48,
-      "total": 388
+      "L": 74,
+      "XL": 50,
+      "total": 390
     },
     {
       "author": "duyhenryer",
