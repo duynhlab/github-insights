@@ -15,7 +15,7 @@
     "pr_updated_at": "2026-10-14T21:15:21Z"
   },
   "order-service": {
-    "pr_updated_at": "2026-10-14T20:51:15Z"
+    "pr_updated_at": "2026-10-14T21:33:37Z"
   },
   "review-service": {
     "pr_updated_at": "2026-10-14T17:18:06Z"
@@ -24,15 +24,15 @@
     "pr_updated_at": "2026-10-14T20:54:14Z"
   },
   "shipping-service": {
-    "pr_updated_at": "2026-10-14T08:31:45Z"
+    "pr_updated_at": "2026-10-14T23:04:28Z"
   },
   "frontend": {
-    "pr_updated_at": "2026-10-14T20:31:36Z"
+    "pr_updated_at": "2026-10-14T21:43:45Z"
   },
   "tf-local": {
     "pr_updated_at": "2026-08-03T12:54:35Z"
   },
-  "last_run": "2026-10-14T21:18:39.936559+00:00",
+  "last_run": "2026-10-15T03:07:44.970665+00:00",
   "github-insights": {
     "pr_updated_at": "2026-08-11T08:07:07Z"
   },
@@ -58,7 +58,7 @@
     "pr_updated_at": "2026-10-14T17:00:29Z"
   },
   "checkout-service": {
-    "pr_updated_at": "2026-10-14T05:26:12Z"
+    "pr_updated_at": "2026-10-14T22:07:16Z"
   },
   "gitops": {
     "pr_updated_at": "2026-07-15T02:12:03Z"
@@ -79,7 +79,7 @@
     "pr_updated_at": "2026-09-04T01:17:48Z"
   },
   "images": {
-    "pr_updated_at": "2026-10-13T15:24:47Z"
+    "pr_updated_at": "2026-10-15T02:34:28Z"
   },
   "analytics-service": {
     "pr_updated_at": "2026-10-14T14:33:29Z"

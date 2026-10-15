@@ -299,10 +299,10 @@
       {
         "name": "Build",
         "fail": 1,
-        "total": 21,
+        "total": 22,
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/36856911115",
         "last_fail_at": "2026-10-01T11:41:07Z",
-        "fail_rate": 0.048
+        "fail_rate": 0.045
       }
     ]
   },
