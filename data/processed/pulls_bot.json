@@ -4,15 +4,15 @@
     "url": "https://github.com/duynhlab/gha-workflows/pull/149",
     "number": 149,
     "title": "build(deps): bump goreleaser/goreleaser-action from 7.2.3 to 7.3.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-10-15T23:08:01Z",
-    "merged_at": null,
+    "merged_at": "2026-10-16T12:41:47Z",
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
-    "lead_time_h": null
+    "lead_time_h": 13.56
   },
   {
     "repo": "gha-workflows",
@@ -1186,6 +1186,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1252",
+    "number": 1252,
+    "title": "chore(deps): update helm release external-secrets to v2.13.0",
+    "state": "OPEN",
+    "draft": false,
+    "author": "renovate",
+    "created_at": "2026-10-12T06:04:55Z",
+    "merged_at": null,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1254",
     "number": 1254,
     "title": "chore(deps): update helm release pyroscope to v2.4.0 - autoclosed",
@@ -1348,21 +1363,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": 182.64
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1252",
-    "number": 1252,
-    "title": "chore(deps): update helm release external-secrets to v2.12.0",
-    "state": "OPEN",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-10-12T06:04:55Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
   },
   {
     "repo": "homelab",
@@ -1618,21 +1618,6 @@
     "deletions": 1,
     "changed_files": 1,
     "lead_time_h": 175.52
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1240",
-    "number": 1240,
-    "title": "chore(deps): update terraform controlplaneio-fluxcd/flux-operator-bootstrap/kubernetes to v0.9.0",
-    "state": "OPEN",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-10-07T06:57:20Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
   },
   {
     "repo": "user-service",
@@ -4381,21 +4366,6 @@
   },
   {
     "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/216",
-    "number": 216,
-    "title": "build(deps): bump github.com/duynhlab/pkg/migratex from 0.37.0 to 0.38.0 in the duynhlab-pkg group",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-10-09T14:05:11Z",
-    "merged_at": null,
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "notification-service",
     "url": "https://github.com/duynhlab/notification-service/pull/217",
     "number": 217,
     "title": "build(deps): bump the gha-workflows group with 9 updates",
@@ -4406,6 +4376,21 @@
     "merged_at": null,
     "additions": 13,
     "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "notification-service",
+    "url": "https://github.com/duynhlab/notification-service/pull/216",
+    "number": 216,
+    "title": "build(deps): bump github.com/duynhlab/pkg/migratex from 0.37.0 to 0.38.0 in the duynhlab-pkg group",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-10-09T14:05:11Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
     "changed_files": 2,
     "lead_time_h": null
   },
@@ -8356,21 +8341,6 @@
   },
   {
     "repo": "inventory-service",
-    "url": "https://github.com/duynhlab/inventory-service/pull/107",
-    "number": 107,
-    "title": "Bump github.com/duynhlab/pkg/migratex from 0.37.0 to 0.38.0 in the duynhlab-pkg group",
-    "state": "OPEN",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-10-09T13:25:55Z",
-    "merged_at": null,
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "inventory-service",
     "url": "https://github.com/duynhlab/inventory-service/pull/109",
     "number": 109,
     "title": "Bump the gha-workflows group with 9 updates",
@@ -8381,6 +8351,21 @@
     "merged_at": null,
     "additions": 13,
     "deletions": 13,
+    "changed_files": 2,
+    "lead_time_h": null
+  },
+  {
+    "repo": "inventory-service",
+    "url": "https://github.com/duynhlab/inventory-service/pull/107",
+    "number": 107,
+    "title": "Bump github.com/duynhlab/pkg/migratex from 0.37.0 to 0.38.0 in the duynhlab-pkg group",
+    "state": "OPEN",
+    "draft": false,
+    "author": "dependabot",
+    "created_at": "2026-10-09T13:25:55Z",
+    "merged_at": null,
+    "additions": 3,
+    "deletions": 3,
     "changed_files": 2,
     "lead_time_h": null
   },

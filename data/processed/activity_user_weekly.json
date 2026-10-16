@@ -183,31 +183,31 @@
   },
   {
     "week": "2026-W41",
-    "author": "renovate",
-    "is_bot": true,
-    "created": 17,
-    "merged": 0
+    "author": "duynhne",
+    "is_bot": false,
+    "created": 13,
+    "merged": 17
   },
   {
     "week": "2026-W41",
-    "author": "duynhne",
-    "is_bot": false,
-    "created": 14,
-    "merged": 18
+    "author": "renovate",
+    "is_bot": true,
+    "created": 16,
+    "merged": 0
   },
   {
     "week": "2026-W42",
     "author": "duynhne",
     "is_bot": false,
-    "created": 36,
-    "merged": 27
+    "created": 38,
+    "merged": 29
   },
   {
     "week": "2026-W42",
     "author": "dependabot",
     "is_bot": true,
     "created": 42,
-    "merged": 6
+    "merged": 7
   },
   {
     "week": "2026-W42",
