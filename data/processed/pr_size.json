@@ -5,9 +5,9 @@
       "XS": 2,
       "S": 3,
       "M": 6,
-      "L": 9,
+      "L": 10,
       "XL": 19,
-      "total": 39
+      "total": 40
     },
     {
       "repo": "gha-workflows",
@@ -40,8 +40,8 @@
       "repo": "homelab",
       "XS": 1,
       "S": 1,
-      "M": 4,
-      "L": 6,
+      "M": 5,
+      "L": 5,
       "XL": 7,
       "total": 19
     },
@@ -228,11 +228,11 @@
     {
       "repo": "images",
       "XS": 1,
-      "S": 3,
+      "S": 4,
       "M": 1,
       "L": 2,
       "XL": 0,
-      "total": 7
+      "total": 8
     },
     {
       "repo": "analytics-service",
@@ -248,11 +248,11 @@
     {
       "author": "duynhne",
       "XS": 81,
-      "S": 108,
-      "M": 81,
+      "S": 109,
+      "M": 82,
       "L": 74,
       "XL": 50,
-      "total": 394
+      "total": 396
     },
     {
       "author": "duyhenryer",

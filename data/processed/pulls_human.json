@@ -1,6 +1,21 @@
 [
   {
     "repo": "grafana-dashboards",
+    "url": "https://github.com/duynhlab/grafana-dashboards/pull/40",
+    "number": 40,
+    "title": "feat(postgres): use application_name in telemetry",
+    "state": "OPEN",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-16T01:37:30Z",
+    "merged_at": null,
+    "additions": 392,
+    "deletions": 154,
+    "changed_files": 7,
+    "lead_time_h": null
+  },
+  {
+    "repo": "grafana-dashboards",
     "url": "https://github.com/duynhlab/grafana-dashboards/pull/39",
     "number": 39,
     "title": "feat(postgres): query telemetry drill-down, load and real error rate",
@@ -1651,6 +1666,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1272",
+    "number": 1272,
+    "title": "Set application_name on every service",
+    "state": "OPEN",
+    "draft": true,
+    "author": "duynhne",
+    "created_at": "2026-10-16T01:44:17Z",
+    "merged_at": null,
+    "additions": 134,
+    "deletions": 34,
+    "changed_files": 15,
+    "lead_time_h": null
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1271",
     "number": 1271,
     "title": "Bump the PgDog chart to v0.90",
@@ -1918,21 +1948,6 @@
     "deletions": 4,
     "changed_files": 4,
     "lead_time_h": 0.2
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1236",
-    "number": 1236,
-    "title": "Add the RFC-0029 authorization lab",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-10-06T07:20:07Z",
-    "merged_at": "2026-10-06T07:35:44Z",
-    "additions": 666,
-    "deletions": 6,
-    "changed_files": 14,
-    "lead_time_h": 0.26
   },
   {
     "repo": "user-service",
@@ -5908,6 +5923,21 @@
     "deletions": 0,
     "changed_files": 5,
     "lead_time_h": 0.19
+  },
+  {
+    "repo": "images",
+    "url": "https://github.com/duynhlab/images/pull/10",
+    "number": 10,
+    "title": "feat(clickhouse-ddl): store application_name",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-16T01:35:59Z",
+    "merged_at": "2026-10-16T01:37:17Z",
+    "additions": 28,
+    "deletions": 8,
+    "changed_files": 5,
+    "lead_time_h": 0.02
   },
   {
     "repo": "images",
