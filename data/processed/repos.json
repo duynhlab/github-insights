@@ -15,8 +15,8 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.881,
-    "ci_runs": 84
+    "ci_success_rate": 0.884,
+    "ci_runs": 86
   },
   {
     "name": "gha-workflows",
@@ -167,7 +167,7 @@
     "ttfr_median_h": null,
     "ttfr_p90_h": null,
     "ttfr_sample": 0,
-    "ci_success_rate": 0.95,
+    "ci_success_rate": 0.96,
     "ci_runs": 100
   },
   {
@@ -288,8 +288,8 @@
     "name": "github-insights",
     "url": "https://github.com/duynhlab/github-insights",
     "lang": "Python",
-    "size_kb": 5697,
-    "pushed_at": "2026-10-16T10:41:32Z",
+    "size_kb": 5699,
+    "pushed_at": "2026-10-16T16:04:24Z",
     "open_issues": 8,
     "human_open_pr": 0,
     "human_stale_pr": 0,
@@ -440,8 +440,8 @@
     "name": "release-radar",
     "url": "https://github.com/duynhlab/release-radar",
     "lang": "TypeScript",
-    "size_kb": 6120,
-    "pushed_at": "2026-10-16T07:09:10Z",
+    "size_kb": 6123,
+    "pushed_at": "2026-10-16T18:03:35Z",
     "open_issues": 3,
     "human_open_pr": 0,
     "human_stale_pr": 0,
