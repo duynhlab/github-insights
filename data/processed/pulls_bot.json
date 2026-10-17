@@ -1590,36 +1590,6 @@
     "lead_time_h": 175.59
   },
   {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1258",
-    "number": 1258,
-    "title": "chore(deps): update ghcr.io/prymitive/karma docker tag to v0.133",
-    "state": "MERGED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-10-12T07:45:45Z",
-    "merged_at": "2026-10-12T17:23:10Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 9.62
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1216",
-    "number": 1216,
-    "title": "chore(deps): update helm release opentelemetry-collector to <0.176.0",
-    "state": "MERGED",
-    "draft": false,
-    "author": "renovate",
-    "created_at": "2026-10-05T09:49:28Z",
-    "merged_at": "2026-10-12T17:20:25Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": 175.52
-  },
-  {
     "repo": "user-service",
     "url": "https://github.com/duynhlab/user-service/pull/212",
     "number": 212,
