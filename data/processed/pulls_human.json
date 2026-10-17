@@ -1666,6 +1666,21 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1287",
+    "number": 1287,
+    "title": "Quiet the Kind gate: DR backup, mockpay, Vector",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-16T23:06:17Z",
+    "merged_at": "2026-10-16T23:10:19Z",
+    "additions": 81,
+    "deletions": 6,
+    "changed_files": 9,
+    "lead_time_h": 0.07
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1286",
     "number": 1286,
     "title": "Fix small gate and diagram debts",
@@ -1963,21 +1978,6 @@
     "deletions": 0,
     "changed_files": 0,
     "lead_time_h": null
-  },
-  {
-    "repo": "homelab",
-    "url": "https://github.com/duynhlab/homelab/pull/1261",
-    "number": 1261,
-    "title": "Move RFC-0011 previews into platform docs",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-10-12T17:03:08Z",
-    "merged_at": "2026-10-12T17:05:25Z",
-    "additions": 77,
-    "deletions": 69,
-    "changed_files": 4,
-    "lead_time_h": 0.04
   },
   {
     "repo": "user-service",

@@ -183,17 +183,17 @@
   },
   {
     "week": "2026-W41",
-    "author": "duynhne",
-    "is_bot": false,
-    "created": 13,
-    "merged": 17
-  },
-  {
-    "week": "2026-W41",
     "author": "renovate",
     "is_bot": true,
     "created": 16,
     "merged": 0
+  },
+  {
+    "week": "2026-W41",
+    "author": "duynhne",
+    "is_bot": false,
+    "created": 13,
+    "merged": 17
   },
   {
     "week": "2026-W42",
