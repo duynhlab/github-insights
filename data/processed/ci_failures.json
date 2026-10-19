@@ -139,10 +139,10 @@
       {
         "name": "\ud83e\uddea E2E (KinD)",
         "fail": 5,
-        "total": 11,
+        "total": 10,
         "last_fail_url": "https://github.com/duynhlab/helm-charts/actions/runs/37403517064",
         "last_fail_at": "2026-10-06T02:18:52Z",
-        "fail_rate": 0.455
+        "fail_rate": 0.5
       }
     ]
   },
@@ -173,10 +173,10 @@
       {
         "name": "Build",
         "fail": 3,
-        "total": 22,
+        "total": 21,
         "last_fail_url": "https://github.com/duynhlab/product-service/actions/runs/39133868974",
         "last_fail_at": "2026-10-18T13:58:04Z",
-        "fail_rate": 0.136
+        "fail_rate": 0.143
       },
       {
         "name": "docker in /db/migrations - Update #1607372462",
@@ -317,18 +317,18 @@
       {
         "name": "node",
         "fail": 1,
-        "total": 18,
+        "total": 14,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/37897911557",
         "last_fail_at": "2026-10-09T07:14:43Z",
-        "fail_rate": 0.056
+        "fail_rate": 0.071
       },
       {
         "name": "nginx",
         "fail": 1,
-        "total": 18,
+        "total": 14,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/36826562461",
         "last_fail_at": "2026-10-01T06:46:18Z",
-        "fail_rate": 0.056
+        "fail_rate": 0.071
       }
     ]
   },

@@ -41,9 +41,9 @@
       "XS": 1,
       "S": 3,
       "M": 13,
-      "L": 7,
-      "XL": 7,
-      "total": 31
+      "L": 8,
+      "XL": 8,
+      "total": 33
     },
     {
       "repo": "user-service",
@@ -157,10 +157,10 @@
       "repo": "helm-charts",
       "XS": 3,
       "S": 7,
-      "M": 10,
+      "M": 11,
       "L": 5,
       "XL": 4,
-      "total": 29
+      "total": 30
     },
     {
       "repo": "payment-service",
@@ -221,9 +221,9 @@
       "XS": 3,
       "S": 9,
       "M": 3,
-      "L": 7,
+      "L": 6,
       "XL": 1,
-      "total": 23
+      "total": 22
     },
     {
       "repo": "images",
@@ -249,10 +249,10 @@
       "author": "duynhne",
       "XS": 80,
       "S": 129,
-      "M": 92,
+      "M": 93,
       "L": 75,
-      "XL": 50,
-      "total": 426
+      "XL": 51,
+      "total": 428
     },
     {
       "author": "duyhenryer",
