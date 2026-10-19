@@ -7,13 +7,6 @@
     "merged": 0
   },
   {
-    "week": "2026-W30",
-    "author": "duynhne",
-    "is_bot": false,
-    "created": 0,
-    "merged": 1
-  },
-  {
     "week": "2026-W31",
     "author": "dependabot",
     "is_bot": true,
@@ -28,13 +21,6 @@
     "merged": 1
   },
   {
-    "week": "2026-W31",
-    "author": "github-actions",
-    "is_bot": true,
-    "created": 2,
-    "merged": 2
-  },
-  {
     "week": "2026-W32",
     "author": "dependabot",
     "is_bot": true,
@@ -43,17 +29,17 @@
   },
   {
     "week": "2026-W32",
-    "author": "duynhne",
-    "is_bot": false,
-    "created": 17,
-    "merged": 17
-  },
-  {
-    "week": "2026-W32",
     "author": "duyhenryer",
     "is_bot": false,
     "created": 4,
     "merged": 4
+  },
+  {
+    "week": "2026-W32",
+    "author": "duynhne",
+    "is_bot": false,
+    "created": 16,
+    "merged": 16
   },
   {
     "week": "2026-W32",
@@ -185,7 +171,7 @@
     "week": "2026-W41",
     "author": "renovate",
     "is_bot": true,
-    "created": 10,
+    "created": 9,
     "merged": 0
   },
   {
@@ -200,13 +186,13 @@
     "author": "duynhne",
     "is_bot": false,
     "created": 69,
-    "merged": 64
+    "merged": 65
   },
   {
     "week": "2026-W42",
     "author": "dependabot",
     "is_bot": true,
-    "created": 42,
+    "created": 43,
     "merged": 23
   },
   {
@@ -214,6 +200,20 @@
     "author": "renovate",
     "is_bot": true,
     "created": 10,
-    "merged": 12
+    "merged": 11
+  },
+  {
+    "week": "2026-W43",
+    "author": "duynhne",
+    "is_bot": false,
+    "created": 1,
+    "merged": 1
+  },
+  {
+    "week": "2026-W43",
+    "author": "dependabot",
+    "is_bot": true,
+    "created": 2,
+    "merged": 0
   }
 ]

@@ -12,11 +12,11 @@
     {
       "repo": "gha-workflows",
       "XS": 5,
-      "S": 10,
+      "S": 9,
       "M": 2,
       "L": 1,
       "XL": 1,
-      "total": 19
+      "total": 18
     },
     {
       "repo": "wolfi-images",
@@ -41,9 +41,9 @@
       "XS": 1,
       "S": 3,
       "M": 13,
-      "L": 6,
+      "L": 7,
       "XL": 7,
-      "total": 30
+      "total": 31
     },
     {
       "repo": "user-service",
@@ -248,9 +248,9 @@
     {
       "author": "duynhne",
       "XS": 80,
-      "S": 130,
+      "S": 129,
       "M": 92,
-      "L": 74,
+      "L": 75,
       "XL": 50,
       "total": 426
     },

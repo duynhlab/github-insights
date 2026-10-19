@@ -291,10 +291,10 @@
       {
         "name": "CI",
         "fail": 3,
-        "total": 16,
+        "total": 18,
         "last_fail_url": "https://github.com/duynhlab/release-radar/actions/runs/37254612691",
         "last_fail_at": "2026-10-05T02:14:28Z",
-        "fail_rate": 0.188
+        "fail_rate": 0.167
       }
     ]
   },

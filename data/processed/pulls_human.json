@@ -870,21 +870,6 @@
     "lead_time_h": 3.91
   },
   {
-    "repo": "gha-workflows",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/103",
-    "number": 103,
-    "title": "go-check: Support multi-module monorepos",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "created_at": "2026-08-07T08:35:08Z",
-    "merged_at": "2026-08-07T08:35:46Z",
-    "additions": 16,
-    "deletions": 0,
-    "changed_files": 1,
-    "lead_time_h": 0.01
-  },
-  {
     "repo": "wolfi-images",
     "url": "https://github.com/duynhlab/wolfi-images/pull/85",
     "number": 85,
@@ -1681,18 +1666,33 @@
   },
   {
     "repo": "homelab",
+    "url": "https://github.com/duynhlab/homelab/pull/1310",
+    "number": 1310,
+    "title": "Rotate platform-db runtime passwords via OpenBAO",
+    "state": "MERGED",
+    "draft": false,
+    "author": "duynhne",
+    "created_at": "2026-10-19T02:36:33Z",
+    "merged_at": "2026-10-19T02:45:41Z",
+    "additions": 327,
+    "deletions": 171,
+    "changed_files": 34,
+    "lead_time_h": 0.15
+  },
+  {
+    "repo": "homelab",
     "url": "https://github.com/duynhlab/homelab/pull/1308",
     "number": 1308,
     "title": "Verify and isolate the DR replica like product-db",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-18T17:35:22Z",
-    "merged_at": null,
+    "merged_at": "2026-10-18T23:25:59Z",
     "additions": 130,
     "deletions": 15,
     "changed_files": 11,
-    "lead_time_h": null
+    "lead_time_h": 5.84
   },
   {
     "repo": "homelab",
