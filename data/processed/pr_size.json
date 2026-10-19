@@ -110,12 +110,12 @@
     },
     {
       "repo": "frontend",
-      "XS": 3,
+      "XS": 2,
       "S": 2,
       "M": 0,
       "L": 0,
       "XL": 0,
-      "total": 5
+      "total": 4
     },
     {
       "repo": "backstage",
@@ -211,8 +211,8 @@
       "repo": "release-radar",
       "XS": 1,
       "S": 4,
-      "M": 8,
-      "L": 13,
+      "M": 9,
+      "L": 12,
       "XL": 5,
       "total": 31
     },
@@ -247,21 +247,21 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 80,
+      "XS": 79,
       "S": 129,
       "M": 93,
-      "L": 75,
+      "L": 74,
       "XL": 51,
-      "total": 428
+      "total": 426
     },
     {
       "author": "duyhenryer",
       "XS": 1,
       "S": 0,
-      "M": 0,
+      "M": 1,
       "L": 4,
       "XL": 3,
-      "total": 8
+      "total": 9
     }
   ],
   "buckets": [
