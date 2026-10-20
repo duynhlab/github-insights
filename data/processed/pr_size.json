@@ -39,11 +39,11 @@
     {
       "repo": "homelab",
       "XS": 1,
-      "S": 3,
-      "M": 13,
+      "S": 5,
+      "M": 15,
       "L": 8,
-      "XL": 8,
-      "total": 33
+      "XL": 9,
+      "total": 38
     },
     {
       "repo": "user-service",
@@ -159,8 +159,8 @@
       "S": 7,
       "M": 11,
       "L": 5,
-      "XL": 4,
-      "total": 30
+      "XL": 5,
+      "total": 31
     },
     {
       "repo": "payment-service",
@@ -209,12 +209,12 @@
     },
     {
       "repo": "release-radar",
-      "XS": 1,
+      "XS": 0,
       "S": 4,
-      "M": 9,
-      "L": 12,
+      "M": 10,
+      "L": 13,
       "XL": 5,
-      "total": 31
+      "total": 32
     },
     {
       "repo": "admin-service",
@@ -247,12 +247,12 @@
   "by_author": [
     {
       "author": "duynhne",
-      "XS": 79,
-      "S": 129,
-      "M": 93,
-      "L": 74,
-      "XL": 51,
-      "total": 426
+      "XS": 78,
+      "S": 131,
+      "M": 96,
+      "L": 75,
+      "XL": 53,
+      "total": 433
     },
     {
       "author": "duyhenryer",
