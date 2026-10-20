@@ -58,44 +58,15 @@
     ]
   },
   {
-    "repo": "order-service",
-    "workflows": [
-      {
-        "name": "Build",
-        "fail": 4,
-        "total": 19,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/39133896016",
-        "last_fail_at": "2026-10-18T13:58:29Z",
-        "fail_rate": 0.211
-      },
-      {
-        "name": "docker in /db/migrations - Update #1607369806",
-        "fail": 1,
-        "total": 1,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/37176239367",
-        "last_fail_at": "2026-10-04T04:10:40Z",
-        "fail_rate": 1.0
-      },
-      {
-        "name": "Check",
-        "fail": 1,
-        "total": 23,
-        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/39317631174",
-        "last_fail_at": "2026-10-19T20:14:19Z",
-        "fail_rate": 0.043
-      }
-    ]
-  },
-  {
     "repo": "frontend",
     "workflows": [
       {
         "name": "Build",
         "fail": 6,
-        "total": 19,
+        "total": 18,
         "last_fail_url": "https://github.com/duynhlab/frontend/actions/runs/39136062720",
         "last_fail_at": "2026-10-18T14:27:24Z",
-        "fail_rate": 0.316
+        "fail_rate": 0.333
       }
     ]
   },
@@ -117,6 +88,35 @@
         "last_fail_url": "https://github.com/duynhlab/cart-service/actions/runs/37176229974",
         "last_fail_at": "2026-10-04T04:10:29Z",
         "fail_rate": 1.0
+      }
+    ]
+  },
+  {
+    "repo": "order-service",
+    "workflows": [
+      {
+        "name": "Build",
+        "fail": 3,
+        "total": 17,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/39133896016",
+        "last_fail_at": "2026-10-18T13:58:29Z",
+        "fail_rate": 0.176
+      },
+      {
+        "name": "docker in /db/migrations - Update #1607369806",
+        "fail": 1,
+        "total": 1,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/37176239367",
+        "last_fail_at": "2026-10-04T04:10:40Z",
+        "fail_rate": 1.0
+      },
+      {
+        "name": "Check",
+        "fail": 1,
+        "total": 22,
+        "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/39317631174",
+        "last_fail_at": "2026-10-19T20:14:19Z",
+        "fail_rate": 0.045
       }
     ]
   },
