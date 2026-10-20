@@ -252,10 +252,10 @@
       {
         "name": "Build",
         "fail": 2,
-        "total": 23,
+        "total": 22,
         "last_fail_url": "https://github.com/duynhlab/review-service/actions/runs/39133902192",
         "last_fail_at": "2026-10-18T13:58:34Z",
-        "fail_rate": 0.087
+        "fail_rate": 0.091
       },
       {
         "name": "docker in /db/migrations - Update #1607369864",
@@ -286,10 +286,10 @@
       {
         "name": "Build",
         "fail": 2,
-        "total": 21,
+        "total": 20,
         "last_fail_url": "https://github.com/duynhlab/payment-service/actions/runs/39133927346",
         "last_fail_at": "2026-10-18T13:58:55Z",
-        "fail_rate": 0.095
+        "fail_rate": 0.1
       },
       {
         "name": "docker in /db/migrations - Update #1607370041",
@@ -336,36 +336,23 @@
     ]
   },
   {
-    "repo": "admin-service",
-    "workflows": [
-      {
-        "name": "Build",
-        "fail": 3,
-        "total": 19,
-        "last_fail_url": "https://github.com/duynhlab/admin-service/actions/runs/39136056787",
-        "last_fail_at": "2026-10-18T14:27:19Z",
-        "fail_rate": 0.158
-      }
-    ]
-  },
-  {
     "repo": "wolfi-images",
     "workflows": [
       {
         "name": "node",
         "fail": 1,
-        "total": 14,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/37897911557",
         "last_fail_at": "2026-10-09T07:14:43Z",
-        "fail_rate": 0.071
+        "fail_rate": 0.067
       },
       {
         "name": "nginx",
         "fail": 1,
-        "total": 14,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/wolfi-images/actions/runs/36826562461",
         "last_fail_at": "2026-10-01T06:46:18Z",
-        "fail_rate": 0.071
+        "fail_rate": 0.067
       }
     ]
   },
@@ -379,6 +366,19 @@
         "last_fail_url": "https://github.com/duynhlab/backstage/actions/runs/22710319088",
         "last_fail_at": "2026-03-05T09:02:21Z",
         "fail_rate": 0.182
+      }
+    ]
+  },
+  {
+    "repo": "admin-service",
+    "workflows": [
+      {
+        "name": "Build",
+        "fail": 2,
+        "total": 16,
+        "last_fail_url": "https://github.com/duynhlab/admin-service/actions/runs/39136056787",
+        "last_fail_at": "2026-10-18T14:27:19Z",
+        "fail_rate": 0.125
       }
     ]
   },
