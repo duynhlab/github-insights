@@ -126,10 +126,10 @@
       {
         "name": "Build",
         "fail": 4,
-        "total": 18,
+        "total": 17,
         "last_fail_url": "https://github.com/duynhlab/notification-service/actions/runs/39133909059",
         "last_fail_at": "2026-10-18T13:58:40Z",
-        "fail_rate": 0.222
+        "fail_rate": 0.235
       },
       {
         "name": "docker in /db/migrations - Update #1607369964",
@@ -315,10 +315,10 @@
       {
         "name": "Check",
         "fail": 1,
-        "total": 22,
+        "total": 21,
         "last_fail_url": "https://github.com/duynhlab/inventory-service/actions/runs/36744573645",
         "last_fail_at": "2026-09-30T16:29:26Z",
-        "fail_rate": 0.045
+        "fail_rate": 0.048
       }
     ]
   },

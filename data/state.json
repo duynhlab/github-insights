@@ -6,13 +6,13 @@
     "pr_updated_at": "2026-08-17T18:18:57Z"
   },
   "user-service": {
-    "pr_updated_at": "2026-10-19T15:25:29Z"
+    "pr_updated_at": "2026-10-20T15:23:54Z"
   },
   "product-service": {
     "pr_updated_at": "2026-10-20T05:23:42Z"
   },
   "cart-service": {
-    "pr_updated_at": "2026-10-19T16:14:32Z"
+    "pr_updated_at": "2026-10-20T16:14:09Z"
   },
   "order-service": {
     "pr_updated_at": "2026-10-19T20:16:44Z"
@@ -21,7 +21,7 @@
     "pr_updated_at": "2026-10-18T14:29:08Z"
   },
   "notification-service": {
-    "pr_updated_at": "2026-10-19T14:05:30Z"
+    "pr_updated_at": "2026-10-20T14:04:40Z"
   },
   "shipping-service": {
     "pr_updated_at": "2026-10-19T23:05:26Z"
@@ -32,7 +32,7 @@
   "tf-local": {
     "pr_updated_at": "2026-08-03T12:54:35Z"
   },
-  "last_run": "2026-10-20T10:56:56.551583+00:00",
+  "last_run": "2026-10-20T16:21:39.011791+00:00",
   "github-insights": {
     "pr_updated_at": "2026-08-11T08:07:07Z"
   },
@@ -67,7 +67,7 @@
     "pr_updated_at": "2026-10-05T06:14:34Z"
   },
   "inventory-service": {
-    "pr_updated_at": "2026-10-19T13:31:26Z"
+    "pr_updated_at": "2026-10-20T13:24:16Z"
   },
   "release-radar": {
     "pr_updated_at": "2026-10-20T02:04:54Z"
