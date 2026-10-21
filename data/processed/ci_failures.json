@@ -76,10 +76,10 @@
       {
         "name": "Build",
         "fail": 3,
-        "total": 17,
+        "total": 15,
         "last_fail_url": "https://github.com/duynhlab/order-service/actions/runs/39133896016",
         "last_fail_at": "2026-10-18T13:58:29Z",
-        "fail_rate": 0.176
+        "fail_rate": 0.2
       },
       {
         "name": "docker in /db/migrations - Update #1607369806",
