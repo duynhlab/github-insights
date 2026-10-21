@@ -1845,21 +1845,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "user-service",
-    "url": "https://github.com/duynhlab/user-service/pull/158",
-    "number": 158,
-    "title": "build(deps): bump duynhlab/gha-workflows/.github/workflows/pr-checks.yml from e321897e5c28e7c861b9d8beb37614e1c5823f42 to 566b62220abb6db150099ca11cb7a9904288f3b5",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-21T15:23:21Z",
-    "merged_at": null,
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
     "repo": "product-service",
     "url": "https://github.com/duynhlab/product-service/pull/238",
     "number": 238,
@@ -2412,21 +2397,6 @@
     "additions": 1,
     "deletions": 1,
     "changed_files": 1,
-    "lead_time_h": null
-  },
-  {
-    "repo": "product-service",
-    "url": "https://github.com/duynhlab/product-service/pull/190",
-    "number": 190,
-    "title": "build(deps): bump duynhlab/gha-workflows/.github/workflows/status.yml from e321897e5c28e7c861b9d8beb37614e1c5823f42 to 54fd20d46fd99b5fb85e6029247fcaba865c1481",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-09-18T06:43:56Z",
-    "merged_at": null,
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
     "lead_time_h": null
   },
   {
@@ -3975,21 +3945,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "review-service",
-    "url": "https://github.com/duynhlab/review-service/pull/167",
-    "number": 167,
-    "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.2",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-09-18T06:45:11Z",
-    "merged_at": null,
-    "additions": 20,
-    "deletions": 20,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
     "repo": "notification-service",
     "url": "https://github.com/duynhlab/notification-service/pull/216",
     "number": 216,
@@ -4485,21 +4440,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "notification-service",
-    "url": "https://github.com/duynhlab/notification-service/pull/169",
-    "number": 169,
-    "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.2",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-24T14:06:45Z",
-    "merged_at": null,
-    "additions": 20,
-    "deletions": 20,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
     "repo": "shipping-service",
     "url": "https://github.com/duynhlab/shipping-service/pull/223",
     "number": 223,
@@ -4976,21 +4916,6 @@
     "merged_at": null,
     "additions": 152,
     "deletions": 163,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "shipping-service",
-    "url": "https://github.com/duynhlab/shipping-service/pull/186",
-    "number": 186,
-    "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.2",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-09-18T06:45:47Z",
-    "merged_at": null,
-    "additions": 20,
-    "deletions": 20,
     "changed_files": 2,
     "lead_time_h": null
   },
@@ -7185,21 +7110,6 @@
     "lead_time_h": null
   },
   {
-    "repo": "checkout-service",
-    "url": "https://github.com/duynhlab/checkout-service/pull/82",
-    "number": 82,
-    "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-27T21:24:43Z",
-    "merged_at": null,
-    "additions": 3,
-    "deletions": 3,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
     "repo": "trivy-viewer",
     "url": "https://github.com/duynhlab/trivy-viewer/pull/50",
     "number": 50,
@@ -8423,21 +8333,6 @@
     "draft": false,
     "author": "dependabot",
     "created_at": "2026-08-17T13:25:30Z",
-    "merged_at": null,
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 2,
-    "lead_time_h": null
-  },
-  {
-    "repo": "inventory-service",
-    "url": "https://github.com/duynhlab/inventory-service/pull/54",
-    "number": 54,
-    "title": "Bump duynhlab/gha-workflows/.github/workflows/gitleaks.yml from e321897e5c28e7c861b9d8beb37614e1c5823f42 to 1a4e948008fe87b11173dd4c2e44e28b36ab3f7e",
-    "state": "CLOSED",
-    "draft": false,
-    "author": "dependabot",
-    "created_at": "2026-08-17T13:25:36Z",
     "merged_at": null,
     "additions": 2,
     "deletions": 2,
