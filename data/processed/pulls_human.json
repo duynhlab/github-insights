@@ -2239,15 +2239,15 @@
     "url": "https://github.com/duynhlab/user-service/pull/216",
     "number": 216,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:00:44Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:42:11Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 2.69
   },
   {
     "repo": "user-service",
@@ -2509,15 +2509,15 @@
     "url": "https://github.com/duynhlab/product-service/pull/244",
     "number": 244,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:00:51Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:42:29Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 2.69
   },
   {
     "repo": "product-service",
@@ -2704,15 +2704,15 @@
     "url": "https://github.com/duynhlab/cart-service/pull/227",
     "number": 227,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:01:05Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:42:56Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 2.7
   },
   {
     "repo": "cart-service",
@@ -2929,15 +2929,15 @@
     "url": "https://github.com/duynhlab/order-service/pull/276",
     "number": 276,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:01:12Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:43:10Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 2.7
   },
   {
     "repo": "order-service",
@@ -3124,15 +3124,15 @@
     "url": "https://github.com/duynhlab/review-service/pull/213",
     "number": 213,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:01:18Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:43:20Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 2.7
   },
   {
     "repo": "review-service",
@@ -3409,15 +3409,15 @@
     "url": "https://github.com/duynhlab/notification-service/pull/220",
     "number": 220,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:01:31Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:43:53Z",
     "additions": 6,
     "deletions": 5,
     "changed_files": 3,
-    "lead_time_h": null
+    "lead_time_h": 2.71
   },
   {
     "repo": "notification-service",
@@ -3664,15 +3664,15 @@
     "url": "https://github.com/duynhlab/shipping-service/pull/228",
     "number": 228,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:01:24Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:43:42Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 2.71
   },
   {
     "repo": "shipping-service",
@@ -5029,15 +5029,15 @@
     "url": "https://github.com/duynhlab/payment-service/pull/151",
     "number": 151,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:01:38Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:44:07Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 2.71
   },
   {
     "repo": "payment-service",
@@ -5224,15 +5224,15 @@
     "url": "https://github.com/duynhlab/checkout-service/pull/131",
     "number": 131,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:01:42Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:44:17Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 2.71
   },
   {
     "repo": "checkout-service",
@@ -5554,15 +5554,15 @@
     "url": "https://github.com/duynhlab/inventory-service/pull/112",
     "number": 112,
     "title": "Bump pkg/dbx to v0.39.0",
-    "state": "OPEN",
+    "state": "MERGED",
     "draft": false,
     "author": "duynhne",
     "created_at": "2026-10-21T11:00:58Z",
-    "merged_at": null,
+    "merged_at": "2026-10-21T13:42:40Z",
     "additions": 3,
     "deletions": 3,
     "changed_files": 2,
-    "lead_time_h": null
+    "lead_time_h": 2.69
   },
   {
     "repo": "inventory-service",
