@@ -8,7 +8,8 @@ repos:
     - action-test
     - pkg
 
-# Bot identities (kept, but routed into "Dependency Pulse" tab)
+# Bot identities. GitHub Apps (dependabot, AI reviewers, ...) are detected
+# automatically via GraphQL __typename == Bot; list user accounts that act as bots here.
 bots:
   - dependabot[bot]
   - renovate[bot]
@@ -19,8 +20,9 @@ bots:
 # Time window for rolling metrics (days)
 window_days: 90
 
-# Stale PR threshold (days)
+# Stale thresholds (days without update)
 stale_pr_days: 14
+stale_issue_days: 30
 
 # Output paths (relative to repo root)
 paths:

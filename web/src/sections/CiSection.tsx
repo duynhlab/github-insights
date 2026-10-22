@@ -1,4 +1,4 @@
-import type { CiFailRepo } from "@/lib/data";
+import type { CiFailRepo } from "@/lib/metrics";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import {

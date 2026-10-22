@@ -1,7 +1,9 @@
-import type { Ttfr, TtfrRow } from "@/lib/data";
 import { Card, CardContent } from "@/components/ui/card";
 import { Section } from "@/components/Section";
 import { DataTable, columnHelper } from "@/components/DataTable";
+
+type TtfrRow = { repo: string; sample: number; median_h: number | null; p90_h: number | null };
+type Ttfr = { by_repo: TtfrRow[] };
 
 const h = columnHelper<TtfrRow>();
 const right = { meta: { align: "right" as const } };

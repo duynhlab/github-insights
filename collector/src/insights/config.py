@@ -24,6 +24,7 @@ class Config:
     bots: set[str] = field(default_factory=set)
     window_days: int = 90
     stale_pr_days: int = 14
+    stale_issue_days: int = 30
     paths: Paths = field(default=None)  # type: ignore[assignment]
     min_core_remaining: int = 200
     min_graphql_remaining: int = 200
@@ -55,9 +56,8 @@ def load(config_path: str | Path = "config.yaml", repo_root: Path | None = None)
     paths.state.parent.mkdir(parents=True, exist_ok=True)
 
     rl = raw.get("rate_limit", {})
+    # Only `collect` talks to GitHub; cli.py enforces the token there.
     token = os.getenv("GH_INSIGHTS_TOKEN") or os.getenv("GITHUB_TOKEN") or ""
-    if not token:
-        raise RuntimeError("Set GH_INSIGHTS_TOKEN or GITHUB_TOKEN")
 
     return Config(
         org=raw["org"],
@@ -66,6 +66,7 @@ def load(config_path: str | Path = "config.yaml", repo_root: Path | None = None)
         bots=set(raw.get("bots", [])),
         window_days=int(raw.get("window_days", 90)),
         stale_pr_days=int(raw.get("stale_pr_days", 14)),
+        stale_issue_days=int(raw.get("stale_issue_days", 30)),
         paths=paths,
         min_core_remaining=int(rl.get("min_core_remaining", 200)),
         min_graphql_remaining=int(rl.get("min_graphql_remaining", 200)),

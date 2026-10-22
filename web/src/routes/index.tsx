@@ -1,5 +1,21 @@
+import { useMemo } from "react";
 import { createFileRoute, useRouter, type ErrorComponentProps } from "@tanstack/react-router";
 import { loadDashboard, type Dashboard } from "@/lib/data";
+import {
+  botPulls,
+  ciFailures,
+  depPulse,
+  humanPulls,
+  mergeHeatmap,
+  prSize,
+  repoHealth,
+  reviewLoad,
+  stalePulls,
+  userStats,
+  weeklyByAuthor,
+  weeksIn,
+  type Window,
+} from "@/lib/metrics";
 import { Button } from "@/components/ui/button";
 import { PageSkeleton } from "@/components/Skeletons";
 import StickyNav from "@/components/StickyNav";
@@ -58,8 +74,35 @@ function Header({ overview }: { overview: Dashboard["overview"] }) {
   );
 }
 
+// Dynamic runs (Dependabot / CodeQL default setup) would otherwise dominate CI rates.
+const CI_OPTS = { excludeEvents: ["dynamic"] };
+
 function DashboardPage() {
   const d = Route.useLoaderData();
+  const m = useMemo(() => {
+    const w: Window = { days: d.overview.window_days, now: new Date(d.overview.generated_at) };
+    const repos = repoHealth(d, w, CI_OPTS);
+    return {
+      w,
+      repos,
+      deps: depPulse(d.pulls, w, d.repos),
+      weeks: weeksIn(d.weeks, w),
+      userWeekly: weeklyByAuthor(d.pulls, w),
+      users: userStats(humanPulls(d.pulls), w),
+      bots: userStats(botPulls(d.pulls), w),
+      reviewers: reviewLoad(d.pulls, w),
+      prSize: prSize(d.pulls, w),
+      heatmap: mergeHeatmap(d.pulls, w),
+      ttfr: {
+        by_repo: repos
+          .filter((r) => r.ttfr_sample > 0)
+          .map((r) => ({ repo: r.name, sample: r.ttfr_sample, median_h: r.ttfr_median_h, p90_h: r.ttfr_p90_h })),
+      },
+      stalePrs: stalePulls(d.pulls, w, d.overview.stale_pr_days),
+      ciFailures: ciFailures(d.runs, w, CI_OPTS),
+    };
+  }, [d]);
+
   return (
     <div className="min-h-dvh">
       <main
@@ -69,18 +112,18 @@ function DashboardPage() {
       >
         <Header overview={d.overview} />
         <StickyNav />
-        <KpiSection overview={d.overview} repos={d.repos} deps={d.deps} />
-        <WeeklyActivitySection weeks={d.weeks} />
-        <UserActivitySection data={d.userWeekly} />
-        <RepoHealthSection repos={d.repos} />
-        <UsersSection pullsHuman={d.pullsHuman} pullsBot={d.pullsBot} />
-        <ReviewersSection reviewers={d.reviewers} />
-        <PrSizeSection prSize={d.prSize} />
-        <MergeHeatmapSection pulls={d.pullsHuman} />
-        <TtfrSection ttfr={d.ttfr} />
-        <StaleSection stalePrs={d.stalePrs} />
-        <CiSection ciFailures={d.ciFailures} />
-        <DepsSection deps={d.deps} />
+        <KpiSection overview={d.overview} repos={m.repos} deps={m.deps} />
+        <WeeklyActivitySection weeks={m.weeks} />
+        <UserActivitySection data={m.userWeekly} />
+        <RepoHealthSection repos={m.repos} />
+        <UsersSection users={m.users} bots={m.bots} />
+        <ReviewersSection reviewers={[...m.reviewers.human, ...m.reviewers.ai]} />
+        <PrSizeSection prSize={m.prSize} />
+        <MergeHeatmapSection heatmap={m.heatmap} />
+        <TtfrSection ttfr={m.ttfr} />
+        <StaleSection stalePrs={m.stalePrs} />
+        <CiSection ciFailures={m.ciFailures} />
+        <DepsSection deps={m.deps} />
         <GlossarySection overview={d.overview} />
       </main>
     </div>

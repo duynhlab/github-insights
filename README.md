@@ -8,9 +8,10 @@ Engineering insights dashboard for the **[duynhlab](https://github.com/duynhlab)
 
 ### Data pipeline
 - **Public repos only** — no private-data leakage, FREE plan friendly.
-- **Hybrid REST + GraphQL collector** — REST for listings, GraphQL for PRs + reviews + commits in one query.
-- **Incremental sync** — GraphQL cursor + `updated_at` watermark per repo (saves rate-limit).
-- **Bot-aware** — `dependabot`, `renovate`, `*[bot]`, `duynebot` routed into a separate **Dependency Pulse** section so they don't skew human metrics.
+- **Hybrid REST + GraphQL collector** — REST for repos, workflow runs (+ jobs of failed runs) and commit stats; GraphQL for PRs + reviews and issues.
+- **Full-window fetch** — walks each repo newest-first until `updated_at` leaves the window; no watermark state to drift.
+- **Bot-aware** — GitHub Apps (`dependabot`, `renovate`, AI reviewers…) are detected via GraphQL `__typename == Bot` plus the `bots` list in `config.yaml`; bot PRs and AI reviews are tracked separately so they don't skew human metrics.
+- **Rows, not aggregates** — `data/processed/` holds flat PR / issue / workflow-run rows; the web app computes every metric client-side so the time window is switchable without a rebuild.
 - **Configurable include/exclude** via `config.yaml` (`action-test`, `pkg`, `.github` excluded by default).
 - **Rolling 90-day window** + monthly `tar.gz` archives.
 - **Schedule** — every 6h refresh + weekly Sunday backfill & archive (`.github/workflows/insights.yml`).
@@ -49,10 +50,10 @@ collector/ (Python + uv)        ← incremental, rate-limit aware
 data/raw/   (JSON, gitignored, regenerated)
         │
         ▼
-processor (process.py)          ← splits bot vs human, computes lead time, CI rate
+processor (process.py)          ← normalizes to flat rows (pulls, issues, workflow_runs, repos)
         │
         ▼
-data/processed/   (committed JSON, the dashboard input)
+data/processed/   (committed JSON, the dashboard input; metrics computed in web/src/lib/metrics.ts)
 data/archive/     (monthly raw tar.gz, committed)
         │
         ▼
@@ -128,15 +129,15 @@ collector/        Python ETL (uv project)
   src/insights/
     config.py     YAML loader + bot/repo filters
     github.py     REST + GraphQL client (rate-limit + retry)
-    collect.py    raw fetch (repos, commits, PRs via GraphQL, workflow_runs)
-    process.py    aggregate → processed JSON, monthly archive
+    collect.py    raw fetch (repos, commit stats, PRs + issues via GraphQL, workflow_runs + failed-run jobs)
+    process.py    normalize → processed row JSON, monthly archive
     cli.py        `gh-insights {collect|process|archive|all}`
 config.yaml       org / filters / bots / window
 data/
   raw/            gitignored, regenerated
   processed/      committed (dashboard input)
   archive/        committed (raw-YYYY-MM.tar.gz)
-  state.json      incremental sync watermark
+  state.json      last_run timestamp
 web/              Vite + TanStack Router SPA (src/routes, src/sections, src/components)
 .github/workflows/insights.yml   job collect (cron 6h + weekly) → job deploy (Pages)
 ```

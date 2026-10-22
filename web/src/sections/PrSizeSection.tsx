@@ -1,5 +1,5 @@
 import { Bar, BarChart, CartesianGrid, XAxis, YAxis } from "recharts";
-import type { PrSize } from "@/lib/data";
+import type { SizeRow } from "@/lib/metrics";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import {
@@ -22,7 +22,7 @@ const config = {
   XL: { label: "XL", color: "var(--chart-4)" },
 } satisfies ChartConfig;
 
-export default function PrSizeSection({ prSize }: { prSize: PrSize }) {
+export default function PrSizeSection({ prSize }: { prSize: { by_repo: SizeRow[] } }) {
   const xlCount = prSize.by_repo.reduce((a, r) => a + (r.XL ?? 0), 0);
   const data = prSize.by_repo.filter((r) => r.total > 0);
   const totalPrs = data.reduce((a, r) => a + r.total, 0);

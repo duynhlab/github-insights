@@ -17,6 +17,8 @@ def main() -> None:
     cfg = load(Path(args.config).resolve())
 
     if args.cmd in ("collect", "all"):
+        if not cfg.token:
+            raise SystemExit("collect needs GH_INSIGHTS_TOKEN or GITHUB_TOKEN")
         run_collect(cfg)
     if args.cmd in ("process", "all"):
         aggregate(cfg)
