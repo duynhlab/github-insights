@@ -65,6 +65,9 @@ jobs:
           git config user.email "duynebot@users.noreply.github.com"
           git add data/processed data/archive data/state.json
           git diff --cached --quiet || git commit -m "chore(data): refresh $(date -u +%FT%TZ)"
+          # main may have moved while the collector ran (merged PRs); the data
+          # commit only touches data/, so replaying it on top is safe.
+          git pull --rebase origin main
           git push
 
   # Builds the Vite SPA against the latest data commit and deploys to Pages.
