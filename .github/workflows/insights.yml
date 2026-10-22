@@ -14,9 +14,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "collector/**"
       - "web/**"
-      - "config.yaml"
       - ".github/workflows/**"
 
 concurrency:
@@ -29,11 +27,11 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  # Runs the Python collector and commits a data snapshot. Skipped on web-only
+  # pushes so UI changes don't burn GitHub API rate-limit.
+  collect:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
 
@@ -65,14 +63,29 @@ jobs:
         run: |
           git config user.name  "duynebot"
           git config user.email "duynebot@users.noreply.github.com"
-          git add data/processed data/archive data/state.json || true
+          git add data/processed data/archive data/state.json
           git diff --cached --quiet || git commit -m "chore(data): refresh $(date -u +%FT%TZ)"
-          git push || true
+          git push
+
+  # Builds the Vite SPA against the latest data commit and deploys to Pages.
+  # A push made with GITHUB_TOKEN never triggers another workflow, so deploy
+  # must live in the same workflow and check out `main` after `collect` pushed.
+  deploy:
+    needs: collect
+    if: always() && needs.collect.result != 'failure'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
 
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
-          node-version: "20"
+          node-version: "22"
           cache: "npm"
           cache-dependency-path: web/package-lock.json
 
@@ -81,7 +94,7 @@ jobs:
         env:
           GH_PAGES_BASE: /github-insights
         run: |
-          npm install --no-audit --no-fund --legacy-peer-deps
+          npm ci --no-audit --no-fund
           npm run build
 
       - uses: actions/configure-pages@v6
@@ -89,6 +102,6 @@ jobs:
           enablement: true
       - uses: actions/upload-pages-artifact@v5
         with:
-          path: web/out
+          path: web/dist
       - id: deployment
         uses: actions/deploy-pages@v5
