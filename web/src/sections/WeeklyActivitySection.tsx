@@ -1,5 +1,5 @@
 import { Area, AreaChart, CartesianGrid, XAxis, YAxis } from "recharts";
-import type { WeekRow } from "@/lib/data";
+import type { WeekTotal } from "@/lib/metrics";
 import { Card, CardContent } from "@/components/ui/card";
 import {
   ChartContainer,
@@ -13,7 +13,7 @@ const config = {
   commits: { label: "Commits", color: "var(--chart-1)" },
 } satisfies ChartConfig;
 
-export default function WeeklyActivitySection({ weeks }: { weeks: WeekRow[] }) {
+export default function WeeklyActivitySection({ weeks }: { weeks: WeekTotal[] }) {
   const peak = weeks.reduce((m, w) => Math.max(m, w.commits), 0);
   const latest = weeks.length ? weeks[weeks.length - 1].commits : 0;
   const summary = weeks.length

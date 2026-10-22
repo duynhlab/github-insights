@@ -135,7 +135,11 @@ const dash: Dashboard = {
   pulls,
   issues,
   runs,
-  weeks: [{ week: "2026-W41", commits: 10 }, { week: "2026-W42", commits: 5 }],
+  weeks: [
+    { repo: "app", week: "2026-W41", commits: 10 },
+    { repo: "app", week: "2026-W42", commits: 5 },
+    { repo: "other", week: "2026-W42", commits: 7 },
+  ],
 };
 
 describe("helpers", () => {
@@ -209,7 +213,7 @@ describe("issues + repos + kpis", () => {
   });
   it("repoHealth", () => {
     const r = repoHealth(dash, W)[0];
-    expect(r).toMatchObject({ human_open_pr: 2, human_stale_pr: 1, human_merged_pr: 2, open_issues: 2, bot_open_pr: 1, ci_runs: 3, dormant: false });
+    expect(r).toMatchObject({ human_open_pr: 2, human_stale_pr: 1, human_merged_pr: 2, open_issues: 2, bot_open_pr: 1, ci_runs: 3, commits_window: 15, dormant: false });
   });
   it("kpis", () => {
     expect(kpis(dash, W)).toMatchObject({
@@ -219,7 +223,7 @@ describe("issues + repos + kpis", () => {
       merged: 2,
       issues_open: 2,
       issues_closed: 1,
-      commits: 15,
+      commits: 22,
     });
   });
 });

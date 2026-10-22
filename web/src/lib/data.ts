@@ -81,7 +81,8 @@ export type RunRow = {
   failed_jobs: FailedJob[];
 };
 
-export type WeekRow = { week: string; commits: number };
+/** Commits on the default branch per repo per ISO week (GitHub participation stats, anonymous). */
+export type WeekRow = { repo: string; week: string; commits: number };
 
 export type Dashboard = {
   overview: Overview;
