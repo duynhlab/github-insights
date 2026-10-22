@@ -1,4 +1,4 @@
-import type { DepRow } from "@/lib/data";
+import type { DepRow } from "@/lib/metrics";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Section } from "@/components/Section";

@@ -1,34 +1,12 @@
-import type { PrRow } from "@/lib/data";
+import type { Heatmap } from "@/lib/metrics";
 import { Card, CardContent } from "@/components/ui/card";
 import { Section } from "@/components/Section";
 
 const DAY_LABELS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"] as const;
 const HOURS = Array.from({ length: 24 }, (_, h) => h);
 
-export default function MergeHeatmapSection({ pulls }: { pulls: PrRow[] }) {
-  const matrix: number[][] = Array.from({ length: 7 }, () => Array.from({ length: 24 }, () => 0));
-  let total = 0;
-  for (const p of pulls) {
-    if (!p.merged_at) continue;
-    const d = new Date(p.merged_at);
-    if (Number.isNaN(d.getTime())) continue;
-    matrix[d.getUTCDay()][d.getUTCHours()] += 1;
-    total += 1;
-  }
-
-  let max = 0;
-  let peakDay = 0;
-  let peakHour = 0;
-  for (let d = 0; d < 7; d++) {
-    for (let h = 0; h < 24; h++) {
-      if (matrix[d][h] > max) {
-        max = matrix[d][h];
-        peakDay = d;
-        peakHour = h;
-      }
-    }
-  }
-
+export default function MergeHeatmapSection({ heatmap }: { heatmap: Heatmap }) {
+  const { matrix, max, total, peakDay, peakHour } = heatmap;
   const summary =
     total > 0
       ? `Merge heatmap across ${total} PRs: peak ${DAY_LABELS[peakDay]} ${String(peakHour).padStart(2, "0")}:00 UTC with ${max} merges.`

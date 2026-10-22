@@ -1,4 +1,4 @@
-import type { PrRow } from "@/lib/data";
+import type { UserAgg } from "@/lib/metrics";
 import { Card, CardContent } from "@/components/ui/card";
 import {
   Table,
@@ -10,68 +10,7 @@ import {
 } from "@/components/ui/table";
 import { Section } from "@/components/Section";
 import { DataTable, columnHelper } from "@/components/DataTable";
-import { GhLink, median } from "@/lib/ui";
-
-type UserAgg = {
-  author: string;
-  open_pr: number;
-  merged_pr: number;
-  additions: number;
-  deletions: number;
-  changed_files: number;
-  lead_time_median_h: number | null;
-  repos: number;
-};
-
-function aggregateByUser(prs: PrRow[]): UserAgg[] {
-  const by = new Map<
-    string,
-    {
-      open: number;
-      merged: number;
-      add: number;
-      del: number;
-      files: number;
-      leads: number[];
-      repos: Set<string>;
-    }
-  >();
-  for (const p of prs) {
-    const a = p.author ?? "(unknown)";
-    const r = by.get(a) ?? {
-      open: 0,
-      merged: 0,
-      add: 0,
-      del: 0,
-      files: 0,
-      leads: [] as number[],
-      repos: new Set<string>(),
-    };
-    if (p.state === "OPEN") r.open += 1;
-    if (p.merged_at) {
-      r.merged += 1;
-      r.add += p.additions;
-      r.del += p.deletions;
-      r.files += p.changed_files;
-      if (p.lead_time_h != null) r.leads.push(p.lead_time_h);
-    }
-    r.repos.add(p.repo);
-    by.set(a, r);
-  }
-  return [...by.entries()].map(([author, r]) => {
-    const m = median(r.leads);
-    return {
-      author,
-      open_pr: r.open,
-      merged_pr: r.merged,
-      additions: r.add,
-      deletions: r.del,
-      changed_files: r.files,
-      lead_time_median_h: m == null ? null : Math.round(m * 100) / 100,
-      repos: r.repos.size,
-    };
-  });
-}
+import { GhLink } from "@/lib/ui";
 
 const h = columnHelper<UserAgg>();
 const right = { meta: { align: "right" as const } };
@@ -107,16 +46,7 @@ const columns = h.columns([
   }),
 ]);
 
-export default function UsersSection({
-  pullsHuman,
-  pullsBot,
-}: {
-  pullsHuman: PrRow[];
-  pullsBot: PrRow[];
-}) {
-  const users = aggregateByUser(pullsHuman);
-  const bots = aggregateByUser(pullsBot);
-
+export default function UsersSection({ users, bots }: { users: UserAgg[]; bots: UserAgg[] }) {
   return (
     <Section
       id="users"

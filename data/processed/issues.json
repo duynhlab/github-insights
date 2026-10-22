@@ -1,0 +1,1042 @@
+[
+  {
+    "repo": "packages",
+    "number": 5,
+    "title": "Intergate build .ova with bootc.",
+    "url": "https://github.com/duynhlab/packages/issues/5",
+    "state": "OPEN",
+    "author": "duyhenryer",
+    "author_is_bot": false,
+    "created_at": "2025-11-04T11:19:25Z",
+    "updated_at": "2025-11-18T15:59:35Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1306,
+    "title": "[Task] pgroles: verify-full and application_name via operator env; bump to 0.15.0",
+    "url": "https://github.com/duynhlab/homelab/issues/1306",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T13:49:16Z",
+    "updated_at": "2026-10-22T15:18:31Z",
+    "closed_at": null,
+    "labels": [
+      "blocked/upstream",
+      "area/databases",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1299,
+    "title": "[Task] Monitor PostgreSQL TLS sessions and connection logs",
+    "url": "https://github.com/duynhlab/homelab/issues/1299",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T12:44:55Z",
+    "updated_at": "2026-10-22T15:18:27Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1296,
+    "title": "[Task] Direct platform-db clients: verify-full, hostssl and rotation (Temporal, Keycloak, OpenBAO)",
+    "url": "https://github.com/duynhlab/homelab/issues/1296",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T07:13:09Z",
+    "updated_at": "2026-10-22T15:18:24Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 201,
+    "title": "Renovate Dashboard",
+    "url": "https://github.com/duynhlab/homelab/issues/201",
+    "state": "OPEN",
+    "author": "renovate",
+    "author_is_bot": true,
+    "created_at": "2026-03-12T08:30:22Z",
+    "updated_at": "2026-10-22T15:03:07Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1350,
+    "title": "[Bug] PgDog roll: checkout queries time out at each pod's SIGINT",
+    "url": "https://github.com/duynhlab/homelab/issues/1350",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-22T03:07:20Z",
+    "updated_at": "2026-10-22T14:55:38Z",
+    "closed_at": "2026-10-22T14:55:38Z",
+    "labels": [
+      "bug",
+      "area/databases"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1304,
+    "title": "Opt-in stale-read replica profile for PgDog",
+    "url": "https://github.com/duynhlab/homelab/issues/1304",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T13:49:08Z",
+    "updated_at": "2026-10-22T14:55:38Z",
+    "closed_at": "2026-10-22T14:55:38Z",
+    "labels": [
+      "area/databases",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1339,
+    "title": "Diagram follow-ups: split TLS topology, dashed-edge convention",
+    "url": "https://github.com/duynhlab/homelab/issues/1339",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T07:32:13Z",
+    "updated_at": "2026-10-22T06:27:03Z",
+    "closed_at": "2026-10-22T06:27:03Z",
+    "labels": [
+      "area/docs",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1338,
+    "title": "[Task] Database connection churn: rotation window, PgDog password cache, pooler-roll retries",
+    "url": "https://github.com/duynhlab/homelab/issues/1338",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T07:31:54Z",
+    "updated_at": "2026-10-22T04:40:15Z",
+    "closed_at": "2026-10-22T04:40:15Z",
+    "labels": [
+      "area/databases",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1283,
+    "title": "ADR-089 remaining obligations",
+    "url": "https://github.com/duynhlab/homelab/issues/1283",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-16T12:52:39Z",
+    "updated_at": "2026-10-22T03:09:29Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 14
+  },
+  {
+    "repo": "homelab",
+    "number": 1336,
+    "title": "[Docs] Publish analytics as-built contracts and topology",
+    "url": "https://github.com/duynhlab/homelab/issues/1336",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:33Z",
+    "updated_at": "2026-10-21T07:14:02Z",
+    "closed_at": null,
+    "labels": [
+      "documentation",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1335,
+    "title": "[Task] Integrate Admin analytics and browser gates",
+    "url": "https://github.com/duynhlab/homelab/issues/1335",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:28Z",
+    "updated_at": "2026-10-21T07:13:59Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1334,
+    "title": "[Task] Dark-launch analytics with protected delivery",
+    "url": "https://github.com/duynhlab/homelab/issues/1334",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:23Z",
+    "updated_at": "2026-10-21T07:13:57Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1333,
+    "title": "[Task] Provision analytics serving views and reader access",
+    "url": "https://github.com/duynhlab/homelab/issues/1333",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:19Z",
+    "updated_at": "2026-10-21T07:13:56Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1332,
+    "title": "[Task] Qualify the analytics Go contract",
+    "url": "https://github.com/duynhlab/homelab/issues/1332",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:15Z",
+    "updated_at": "2026-10-21T07:13:54Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1331,
+    "title": "[ADR-069] Serve Commerce Analytics through a Read-Only Service",
+    "url": "https://github.com/duynhlab/homelab/issues/1331",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:11Z",
+    "updated_at": "2026-10-21T07:13:52Z",
+    "closed_at": null,
+    "labels": [
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1330,
+    "title": "[Task] Document and drill heartbeat failure recovery",
+    "url": "https://github.com/duynhlab/homelab/issues/1330",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:05Z",
+    "updated_at": "2026-10-21T07:13:50Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1329,
+    "title": "[Task] Observe scheduler freshness and capacity",
+    "url": "https://github.com/duynhlab/homelab/issues/1329",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:01Z",
+    "updated_at": "2026-10-21T07:13:48Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1328,
+    "title": "[Task] Reconcile heartbeat objects and permissions",
+    "url": "https://github.com/duynhlab/homelab/issues/1328",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:57Z",
+    "updated_at": "2026-10-21T07:13:47Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1327,
+    "title": "[Task] Qualify pg_cron image lifecycle on CNPG",
+    "url": "https://github.com/duynhlab/homelab/issues/1327",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:53Z",
+    "updated_at": "2026-10-21T07:13:45Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1326,
+    "title": "[Task] Qualify the pg_cron system image",
+    "url": "https://github.com/duynhlab/homelab/issues/1326",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:49Z",
+    "updated_at": "2026-10-21T07:13:43Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1325,
+    "title": "[ADR-068] Schedule CDC Freshness Heartbeats with pg_cron",
+    "url": "https://github.com/duynhlab/homelab/issues/1325",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:46Z",
+    "updated_at": "2026-10-21T07:13:41Z",
+    "closed_at": null,
+    "labels": [
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1324,
+    "title": "[Task] Exercise CDC credential and leak recovery",
+    "url": "https://github.com/duynhlab/homelab/issues/1324",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:42Z",
+    "updated_at": "2026-10-21T07:13:39Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1323,
+    "title": "[Task] Audit forbidden fields across CDC egress",
+    "url": "https://github.com/duynhlab/homelab/issues/1323",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:38Z",
+    "updated_at": "2026-10-21T07:13:37Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1322,
+    "title": "[Task] Align PeerDB mappings with the column allowlist",
+    "url": "https://github.com/duynhlab/homelab/issues/1322",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:35Z",
+    "updated_at": "2026-10-21T07:13:36Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1321,
+    "title": "[Task] Verify CDC object grants and denied operations",
+    "url": "https://github.com/duynhlab/homelab/issues/1321",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:30Z",
+    "updated_at": "2026-10-21T07:13:34Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1320,
+    "title": "[Task] Declare CDC publications and source roles",
+    "url": "https://github.com/duynhlab/homelab/issues/1320",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:26Z",
+    "updated_at": "2026-10-21T07:13:32Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1319,
+    "title": "[ADR-067] Constrain Commerce CDC to an Explicit Source Allowlist",
+    "url": "https://github.com/duynhlab/homelab/issues/1319",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:23Z",
+    "updated_at": "2026-10-21T07:13:30Z",
+    "closed_at": null,
+    "labels": [
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1318,
+    "title": "[Task] Operate PeerDB with alerts and recovery guidance",
+    "url": "https://github.com/duynhlab/homelab/issues/1318",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:19Z",
+    "updated_at": "2026-10-21T07:13:28Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1317,
+    "title": "[Task] Qualify three CDC mirrors and recovery",
+    "url": "https://github.com/duynhlab/homelab/issues/1317",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:15Z",
+    "updated_at": "2026-10-21T07:13:26Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1316,
+    "title": "[Task] Measure CDC source capacity and WAL limits",
+    "url": "https://github.com/duynhlab/homelab/issues/1316",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:10Z",
+    "updated_at": "2026-10-21T07:13:24Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1315,
+    "title": "[Task] Isolate PeerDB platform dependencies",
+    "url": "https://github.com/duynhlab/homelab/issues/1315",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:06Z",
+    "updated_at": "2026-10-21T07:13:22Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1314,
+    "title": "[Task] Qualify PeerDB artifacts and licensing",
+    "url": "https://github.com/duynhlab/homelab/issues/1314",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:02Z",
+    "updated_at": "2026-10-21T07:13:21Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1313,
+    "title": "[ADR-066] Adopt PeerDB for Commerce CDC",
+    "url": "https://github.com/duynhlab/homelab/issues/1313",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:53:58Z",
+    "updated_at": "2026-10-21T07:13:19Z",
+    "closed_at": null,
+    "labels": [
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1266,
+    "title": "[RFC-0030] Linux handoff and ADR implementation index",
+    "url": "https://github.com/duynhlab/homelab/issues/1266",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-13T07:41:59Z",
+    "updated_at": "2026-10-21T07:13:17Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1303,
+    "title": "Accelerated rotation audit: 3-hour static roles on Kind",
+    "url": "https://github.com/duynhlab/homelab/issues/1303",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T13:49:05Z",
+    "updated_at": "2026-10-19T07:15:12Z",
+    "closed_at": "2026-10-19T07:15:12Z",
+    "labels": [
+      "area/databases",
+      "area/secrets",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1305,
+    "title": "CDC permissions and recovery through the access contract",
+    "url": "https://github.com/duynhlab/homelab/issues/1305",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T13:49:13Z",
+    "updated_at": "2026-10-19T03:57:33Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1311,
+    "title": "P6: rotate product-db runtime passwords through OpenBAO",
+    "url": "https://github.com/duynhlab/homelab/issues/1311",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T02:55:05Z",
+    "updated_at": "2026-10-19T03:46:49Z",
+    "closed_at": "2026-10-19T03:46:49Z",
+    "labels": [
+      "area/databases",
+      "area/secrets",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1301,
+    "title": "Read DB_PASSWORD_FILE in the nine remaining services",
+    "url": "https://github.com/duynhlab/homelab/issues/1301",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T13:33:08Z",
+    "updated_at": "2026-10-19T03:46:04Z",
+    "closed_at": "2026-10-19T03:46:04Z",
+    "labels": [
+      "area/databases",
+      "area/secrets",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 3
+  },
+  {
+    "repo": "homelab",
+    "number": 1309,
+    "title": "P5: rotate platform-db runtime passwords through OpenBAO",
+    "url": "https://github.com/duynhlab/homelab/issues/1309",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T23:46:20Z",
+    "updated_at": "2026-10-19T02:46:20Z",
+    "closed_at": "2026-10-19T02:46:20Z",
+    "labels": [
+      "area/databases",
+      "area/secrets",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1307,
+    "title": "DR replica cluster needs a homelab-ca server certificate",
+    "url": "https://github.com/duynhlab/homelab/issues/1307",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T13:49:20Z",
+    "updated_at": "2026-10-18T23:26:00Z",
+    "closed_at": "2026-10-18T23:26:00Z",
+    "labels": [
+      "area/databases",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1293,
+    "title": "db_authz CONNECTION LIMIT 10 starves pgroles pools on product-db",
+    "url": "https://github.com/duynhlab/homelab/issues/1293",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-17T12:15:04Z",
+    "updated_at": "2026-10-18T06:57:12Z",
+    "closed_at": "2026-10-18T06:57:12Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1290,
+    "title": "Kind gate exhausts memory on a 30 GB host",
+    "url": "https://github.com/duynhlab/homelab/issues/1290",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-17T07:58:13Z",
+    "updated_at": "2026-10-18T02:13:51Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1291,
+    "title": "authorization.md diagram: product-db frame renders outside the cluster",
+    "url": "https://github.com/duynhlab/homelab/issues/1291",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-17T07:58:15Z",
+    "updated_at": "2026-10-17T15:09:58Z",
+    "closed_at": "2026-10-17T15:09:58Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1289,
+    "title": "Baseline payment Authorize latency on an idle Kind gate",
+    "url": "https://github.com/duynhlab/homelab/issues/1289",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-17T07:58:12Z",
+    "updated_at": "2026-10-17T15:09:57Z",
+    "closed_at": "2026-10-17T15:09:57Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1285,
+    "title": "DR replica: first immediate backup fails during bootstrap replay",
+    "url": "https://github.com/duynhlab/homelab/issues/1285",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-16T14:51:44Z",
+    "updated_at": "2026-10-16T14:51:44Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1280,
+    "title": "RFC-0029: remaining work to close",
+    "url": "https://github.com/duynhlab/homelab/issues/1280",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-16T07:10:39Z",
+    "updated_at": "2026-10-16T13:10:55Z",
+    "closed_at": "2026-10-16T13:10:55Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1269,
+    "title": "Refactor RFC-0029 and track access-contract rollout",
+    "url": "https://github.com/duynhlab/homelab/issues/1269",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-15T15:03:33Z",
+    "updated_at": "2026-10-16T07:10:43Z",
+    "closed_at": "2026-10-16T07:10:43Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 4
+  },
+  {
+    "repo": "homelab",
+    "number": 1273,
+    "title": "Grafana operator cannot update the objects it created",
+    "url": "https://github.com/duynhlab/homelab/issues/1273",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-16T03:38:34Z",
+    "updated_at": "2026-10-16T03:38:34Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1265,
+    "title": "task: audit PR #1263 \u2014 pg_stat_ch query telemetry on Kind (Ubuntu)",
+    "url": "https://github.com/duynhlab/homelab/issues/1265",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-13T07:34:03Z",
+    "updated_at": "2026-10-15T11:19:13Z",
+    "closed_at": "2026-10-15T11:19:13Z",
+    "labels": [
+      "area/databases",
+      "area/observability",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1262,
+    "title": "Audit Renovate compatibility and migration backlog",
+    "url": "https://github.com/duynhlab/homelab/issues/1262",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-12T17:26:23Z",
+    "updated_at": "2026-10-13T00:34:52Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1210,
+    "title": "clickhouse: keyValuePairs index on otel_traces.SpanAttributes",
+    "url": "https://github.com/duynhlab/homelab/issues/1210",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-05T04:32:38Z",
+    "updated_at": "2026-10-05T04:32:38Z",
+    "closed_at": null,
+    "labels": [
+      "hold",
+      "area/observability",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1209,
+    "title": "payment: a mockpay restart pages PaymentReconciliationDiscrepancy for about an hour",
+    "url": "https://github.com/duynhlab/homelab/issues/1209",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-05T04:32:36Z",
+    "updated_at": "2026-10-05T04:32:36Z",
+    "closed_at": null,
+    "labels": [
+      "bug",
+      "area/observability"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1107,
+    "title": "Held dependency updates from the 2026-09-28 bot-PR sweep (49 PRs, 16 groups)",
+    "url": "https://github.com/duynhlab/homelab/issues/1107",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-09-28T07:32:05Z",
+    "updated_at": "2026-10-05T02:58:56Z",
+    "closed_at": "2026-10-05T02:58:56Z",
+    "labels": [
+      "dependencies",
+      "hold",
+      "umbrella-issue"
+    ],
+    "assignees": [],
+    "comments": 7
+  },
+  {
+    "repo": "homelab",
+    "number": 1137,
+    "title": "docs(postgres): learn PostgreSQL 18 internals from the deployed CNPG clusters",
+    "url": "https://github.com/duynhlab/homelab/issues/1137",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-09-29T12:16:37Z",
+    "updated_at": "2026-10-01T03:06:48Z",
+    "closed_at": "2026-10-01T03:06:48Z",
+    "labels": [
+      "documentation",
+      "area/databases"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1127,
+    "title": "docs(clickhouse): learn internals from the live Kind deployment",
+    "url": "https://github.com/duynhlab/homelab/issues/1127",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-09-29T06:53:20Z",
+    "updated_at": "2026-09-30T12:00:44Z",
+    "closed_at": "2026-09-30T12:00:44Z",
+    "labels": [
+      "documentation",
+      "area/observability"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1025,
+    "title": "ClickHouse audit: partition/TTL alignment, one table with no TTL, thin merge headroom",
+    "url": "https://github.com/duynhlab/homelab/issues/1025",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-09-07T01:33:38Z",
+    "updated_at": "2026-09-14T06:49:15Z",
+    "closed_at": "2026-09-14T06:49:15Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 6
+  },
+  {
+    "repo": "homelab",
+    "number": 1022,
+    "title": "product-db-replica cannot be recreated from GitOps (barman empty-archive gate)",
+    "url": "https://github.com/duynhlab/homelab/issues/1022",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-09-07T01:21:34Z",
+    "updated_at": "2026-09-14T06:47:33Z",
+    "closed_at": "2026-09-14T06:47:33Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1023,
+    "title": "No CNPG alert covers product-db-replica; DR cluster can vanish silently",
+    "url": "https://github.com/duynhlab/homelab/issues/1023",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-09-07T01:21:58Z",
+    "updated_at": "2026-09-14T06:46:08Z",
+    "closed_at": "2026-09-14T06:46:08Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1024,
+    "title": "KubeJobFailed prints the wrong namespace in its remediation command",
+    "url": "https://github.com/duynhlab/homelab/issues/1024",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-09-07T01:22:23Z",
+    "updated_at": "2026-09-14T06:43:53Z",
+    "closed_at": "2026-09-14T06:43:53Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 983,
+    "title": "apps-local never Ready: worker deployment version cannot register at 512 history shards",
+    "url": "https://github.com/duynhlab/homelab/issues/983",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-09-04T13:47:59Z",
+    "updated_at": "2026-09-04T15:48:09Z",
+    "closed_at": "2026-09-04T15:48:09Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 982,
+    "title": "ClickHouse: five system.* log tables have no retention",
+    "url": "https://github.com/duynhlab/homelab/issues/982",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-09-04T13:47:23Z",
+    "updated_at": "2026-09-04T13:57:52Z",
+    "closed_at": "2026-09-04T13:57:52Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 1
+  }
+]

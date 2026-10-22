@@ -11,6 +11,8 @@ Static engineering-insights dashboard for the `duynhlab` GitHub org. Two compone
 
 Data flow: `collector` → `data/raw/` (gitignored) → `process` → `data/processed/*.json` (committed) → `web/` bundles JSON at build.
 
+**The processor only normalizes; it does not aggregate.** `data/processed/` holds flat rows (`pulls.json`, `issues.json`, `workflow_runs.json`, `repos.json` meta, `activity_weekly.json` commits/week, `overview.json`). Every KPI, median and bucket is computed in `web/src/lib/metrics.ts` so the UI can re-slice by time window. The collector always fetches the full `window_days` (no incremental watermark); bots are GitHub Apps (`__typename == Bot`) or logins in `config.yaml`.
+
 Pipeline is wired in `.github/workflows/insights.yml`: job `collect` (cron 6h + weekly, commits data) → job `deploy` (Vite build → Pages). Web-only pushes skip `collect`.
 
 ## Layout

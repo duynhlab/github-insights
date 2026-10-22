@@ -1,4 +1,5 @@
-import type { DepRow, Overview, RepoRow } from "@/lib/data";
+import type { Overview } from "@/lib/data";
+import type { DepRow, RepoRow } from "@/lib/metrics";
 import { Card, CardContent } from "@/components/ui/card";
 import { Section } from "@/components/Section";
 import { Kpi } from "@/components/Kpi";

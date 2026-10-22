@@ -1,4 +1,4 @@
-import type { UserWeekRow } from "@/lib/data";
+import type { UserWeekRow } from "@/lib/metrics";
 import { Section } from "@/components/Section";
 import UserActivityChart from "@/components/UserActivityChart";
 
