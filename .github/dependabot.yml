@@ -14,12 +14,16 @@ updates:
     open-pull-requests-limit: 5
     labels: [dependencies, web]
     groups:
-      next:
-        patterns: ["next", "@next/*", "eslint-config-next"]
+      tanstack:
+        patterns: ["@tanstack/*"]
       react:
         patterns: ["react", "react-dom", "@types/react*"]
+      vite:
+        patterns: ["vite", "@vitejs/*", "vitest"]
       tailwind:
-        patterns: ["tailwindcss", "postcss", "autoprefixer"]
+        patterns: ["tailwindcss", "@tailwindcss/*"]
+      ui:
+        patterns: ["radix-ui", "lucide-react", "recharts", "cmdk", "class-variance-authority"]
 
   - package-ecosystem: pip
     directory: /collector
