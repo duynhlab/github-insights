@@ -38,8 +38,8 @@
   {
     "name": "product-service",
     "bot_open_pr": 5,
-    "bot_merged_pr": 25,
-    "bot_lead_time_median_h": 68.51
+    "bot_merged_pr": 24,
+    "bot_lead_time_median_h": 57.45
   },
   {
     "name": "cart-service",
