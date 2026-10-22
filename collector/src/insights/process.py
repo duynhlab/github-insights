@@ -158,7 +158,7 @@ def aggregate(cfg: Config) -> None:
     pulls: list[dict] = []
     issues: list[dict] = []
     runs: list[dict] = []
-    commits_by_week: dict[str, int] = {}
+    activity: list[dict] = []  # {repo, week, commits}
 
     for r in repos:
         name = r["name"]
@@ -193,9 +193,9 @@ def aggregate(cfg: Config) -> None:
             if idx >= weeks_in_window or not count:
                 continue
             week = (week_start - timedelta(weeks=idx)).strftime("%G-W%V")
-            commits_by_week[week] = commits_by_week.get(week, 0) + count
+            activity.append({"repo": name, "week": week, "commits": count})
 
-    activity = [{"week": w, "commits": c} for w, c in sorted(commits_by_week.items())]
+    activity.sort(key=lambda a: (a["week"], a["repo"]))
     overview = {
         "generated_at": now.isoformat(),
         "window_days": cfg.window_days,

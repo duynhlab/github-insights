@@ -471,7 +471,7 @@ export type RepoRow = {
   dormant: boolean;
 };
 
-/** Everything per repo. `commits_window` is org-wide-per-repo only for the 90d window (participation is weekly). */
+/** Everything per repo. `commits_window` comes from weekly participation stats, so it is week-granular. */
 export function repoHealth(d: Dashboard, w: Window, opts: CiOptions = {}): RepoRow[] {
   const ci = ciPassRate(d.runs, w, opts);
   const stale = new Set(stalePulls(d.pulls, w, d.overview.stale_pr_days).map((p) => `${p.repo}#${p.number}`));
@@ -492,7 +492,7 @@ export function repoHealth(d: Dashboard, w: Window, opts: CiOptions = {}): RepoR
       human_stale_pr: open.filter((p) => stale.has(`${p.repo}#${p.number}`)).length,
       human_merged_pr: merged.length,
       open_issues: openIssues,
-      commits_window: 0,
+      commits_window: commitsIn(d.weeks, w, repo.name),
       lead_time_median_h: r2(median(merged.map((p) => hoursBetween(p.created_at, p.merged_at!)))),
       ttfr_median_h: t?.median_h ?? null,
       ttfr_p90_h: t?.p90_h ?? null,
@@ -502,18 +502,32 @@ export function repoHealth(d: Dashboard, w: Window, opts: CiOptions = {}): RepoR
       bot_open_pr: openNow(botPulls(pulls)).length,
       dormant: false,
     };
-    row.dormant = row.human_open_pr + row.human_merged_pr + row.open_issues + (c?.runs ?? 0) === 0;
+    row.dormant =
+      row.human_open_pr + row.human_merged_pr + row.open_issues + row.commits_window + (c?.runs ?? 0) === 0;
     return row;
   });
 }
 
 // ------------------------------------------------------------------- weeks
 
-/** Keep only the ISO weeks that overlap the window. */
-export function weeksIn(weeks: WeekRow[], w: Window): WeekRow[] {
+export type WeekTotal = { week: string; commits: number };
+
+/** Org-wide commits per ISO week, limited to the weeks that overlap the window. */
+export function weeksIn(weeks: WeekRow[], w: Window, repo?: string): WeekTotal[] {
+  const totals = new Map<string, number>();
+  for (const r of weeks) {
+    if (repo && r.repo !== repo) continue;
+    totals.set(r.week, (totals.get(r.week) ?? 0) + r.commits);
+  }
   const n = Math.max(1, Math.ceil(w.days / 7));
-  return weeks.slice(-n);
+  return [...totals]
+    .sort(([a], [b]) => a.localeCompare(b))
+    .slice(-n)
+    .map(([week, commits]) => ({ week, commits }));
 }
+
+export const commitsIn = (weeks: WeekRow[], w: Window, repo?: string) =>
+  weeksIn(weeks, w, repo).reduce((a, x) => a + x.commits, 0);
 
 // --------------------------------------------------------------------- KPI
 
@@ -542,6 +556,6 @@ export function kpis(d: Dashboard, w: Window, opts: CiOptions = {}): Kpis {
     issues_closed: d.issues.filter((i) => inWindow(i.closed_at, w)).length,
     lead_time_median_h: leadTime(d.pulls, w).median_h,
     ci_pass_rate: decided.length ? decided.filter((r) => r.conclusion === "success").length / decided.length : null,
-    commits: weeksIn(d.weeks, w).reduce((a, x) => a + x.commits, 0),
+    commits: commitsIn(d.weeks, w),
   };
 }
