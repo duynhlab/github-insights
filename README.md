@@ -30,8 +30,8 @@ Engineering insights dashboard for the **[duynhlab](https://github.com/duynhlab)
 - **Dependency Pulse** — bot open / merged / median merge time per repo.
 
 ### UI / DX
-- **Static export** — Next.js 16 + Tailwind + Tremor → GitHub Pages (no backend, no runtime cost).
-- **Streaming Server Components** — each section is its own RSC wrapped in `<Suspense>` with a tailored skeleton, so the shell + sticky tabs paint immediately.
+- **Static SPA** — Vite 8 + React 19 + TanStack Router, Tailwind v4 + shadcn/ui + Recharts + TanStack Table → GitHub Pages (no backend, no runtime cost).
+- **Build-time data** — the route loader imports `data/processed/*.json` as code-split chunks; a page skeleton shows while they load.
 - **Sticky tab nav** — auto-scrolls active tab into view on mobile, fade-mask overflow.
 - **Dark mode** — class strategy with no-flash inline init script + toggle in header.
 - **Mobile-friendly** — every table and the CI card grid scroll horizontally with a fade affordance.
@@ -49,18 +49,22 @@ collector/ (Python + uv)        ← incremental, rate-limit aware
 data/raw/   (JSON, gitignored, regenerated)
         │
         ▼
-processor (aggregate.py)        ← splits bot vs human, computes lead time, CI rate
+processor (process.py)          ← splits bot vs human, computes lead time, CI rate
         │
         ▼
 data/processed/   (committed JSON, the dashboard input)
 data/archive/     (monthly raw tar.gz, committed)
         │
         ▼
-web/ (Next.js static export + Tremor)
+web/ (Vite + TanStack Router SPA, shadcn/ui + Recharts)
         │
         ▼
 GitHub Pages  ← deployed by .github/workflows/insights.yml
 ```
+
+CI is two jobs in one workflow: `collect` (cron / manual; runs the collector and
+commits `data/`) → `deploy` (checks out `main`, `npm ci && npm run build`,
+uploads `web/dist` to Pages). Pushes that only touch `web/**` skip `collect`.
 
 ## Local dev
 
@@ -71,10 +75,11 @@ cd collector
 uv sync
 uv run gh-insights all --config ../config.yaml
 
-# 2. Web
+# 2. Web (Node >= 22)
 cd ../web
-npm install
+npm ci
 npm run dev          # http://localhost:3000
+npm run build        # typecheck + static build → web/dist
 ```
 
 ## Configuration
@@ -132,6 +137,6 @@ data/
   processed/      committed (dashboard input)
   archive/        committed (raw-YYYY-MM.tar.gz)
   state.json      incremental sync watermark
-web/              Next.js static export + Tremor
-.github/workflows/insights.yml   cron 6h + weekly backfill + Pages deploy
+web/              Vite + TanStack Router SPA (src/routes, src/sections, src/components)
+.github/workflows/insights.yml   job collect (cron 6h + weekly) → job deploy (Pages)
 ```

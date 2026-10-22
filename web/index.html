@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en" suppressHydrationWarning>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>duynhlab — GitHub Insights</title>
+    <meta name="description" content="Engineering insights for the duynhlab org" />
+    <!-- Avoid theme flash by setting the dark class before paint. -->
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("theme");
+          if (!t) {
+            t = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+          }
+          if (t === "dark") document.documentElement.classList.add("dark");
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
