@@ -23,7 +23,7 @@
     "author": "renovate",
     "author_is_bot": true,
     "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-10-23T10:34:22Z",
+    "updated_at": "2026-10-23T15:39:41Z",
     "closed_at": null,
     "labels": [],
     "assignees": [
@@ -36,14 +36,270 @@
     "number": 1305,
     "title": "CDC permissions and recovery through the access contract",
     "url": "https://github.com/duynhlab/homelab/issues/1305",
-    "state": "OPEN",
+    "state": "CLOSED",
     "author": "duynhne",
     "author_is_bot": false,
     "created_at": "2026-10-18T13:49:13Z",
-    "updated_at": "2026-10-23T09:29:27Z",
-    "closed_at": null,
+    "updated_at": "2026-10-23T14:54:03Z",
+    "closed_at": "2026-10-23T14:54:03Z",
     "labels": [
       "area/databases",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1317,
+    "title": "[Task] Qualify three CDC mirrors and recovery",
+    "url": "https://github.com/duynhlab/homelab/issues/1317",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:15Z",
+    "updated_at": "2026-10-23T14:38:35Z",
+    "closed_at": "2026-10-23T14:38:35Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1316,
+    "title": "[Task] Measure CDC source capacity and WAL limits",
+    "url": "https://github.com/duynhlab/homelab/issues/1316",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:10Z",
+    "updated_at": "2026-10-23T14:38:31Z",
+    "closed_at": "2026-10-23T14:38:31Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1377,
+    "title": "[Bug] CDC slot sync stops on a demoted primary until its stale PeerDB slots are dropped",
+    "url": "https://github.com/duynhlab/homelab/issues/1377",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-23T14:38:19Z",
+    "updated_at": "2026-10-23T14:38:19Z",
+    "closed_at": null,
+    "labels": [
+      "bug"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1324,
+    "title": "[Task] Exercise CDC credential and leak recovery",
+    "url": "https://github.com/duynhlab/homelab/issues/1324",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:42Z",
+    "updated_at": "2026-10-23T14:34:49Z",
+    "closed_at": "2026-10-23T14:34:49Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1330,
+    "title": "[Task] Document and drill heartbeat failure recovery",
+    "url": "https://github.com/duynhlab/homelab/issues/1330",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:05Z",
+    "updated_at": "2026-10-23T13:55:05Z",
+    "closed_at": "2026-10-23T13:55:05Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1329,
+    "title": "[Task] Observe scheduler freshness and capacity",
+    "url": "https://github.com/duynhlab/homelab/issues/1329",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:01Z",
+    "updated_at": "2026-10-23T13:48:49Z",
+    "closed_at": "2026-10-23T13:48:49Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1318,
+    "title": "[Task] Operate PeerDB with alerts and recovery guidance",
+    "url": "https://github.com/duynhlab/homelab/issues/1318",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:19Z",
+    "updated_at": "2026-10-23T13:38:01Z",
+    "closed_at": "2026-10-23T13:38:01Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1358,
+    "title": "[Bug] RFC-0030 staging PII gate matches the pre-rename mirror prefix",
+    "url": "https://github.com/duynhlab/homelab/issues/1358",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-22T16:24:09Z",
+    "updated_at": "2026-10-23T13:37:58Z",
+    "closed_at": "2026-10-23T13:37:58Z",
+    "labels": [
+      "bug",
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 3
+  },
+  {
+    "repo": "homelab",
+    "number": 1328,
+    "title": "[Task] Reconcile heartbeat objects and permissions",
+    "url": "https://github.com/duynhlab/homelab/issues/1328",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:57Z",
+    "updated_at": "2026-10-23T13:37:54Z",
+    "closed_at": "2026-10-23T13:37:54Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1327,
+    "title": "[Task] Qualify pg_cron image lifecycle on CNPG",
+    "url": "https://github.com/duynhlab/homelab/issues/1327",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:53Z",
+    "updated_at": "2026-10-23T13:37:50Z",
+    "closed_at": "2026-10-23T13:37:50Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1326,
+    "title": "[Task] Qualify the pg_cron system image",
+    "url": "https://github.com/duynhlab/homelab/issues/1326",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:49Z",
+    "updated_at": "2026-10-23T13:37:46Z",
+    "closed_at": "2026-10-23T13:37:46Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1323,
+    "title": "[Task] Audit forbidden fields across CDC egress",
+    "url": "https://github.com/duynhlab/homelab/issues/1323",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:38Z",
+    "updated_at": "2026-10-23T13:37:42Z",
+    "closed_at": "2026-10-23T13:37:42Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1322,
+    "title": "[Task] Align PeerDB mappings with the column allowlist",
+    "url": "https://github.com/duynhlab/homelab/issues/1322",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:35Z",
+    "updated_at": "2026-10-23T13:37:38Z",
+    "closed_at": "2026-10-23T13:37:38Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1321,
+    "title": "[Task] Verify CDC object grants and denied operations",
+    "url": "https://github.com/duynhlab/homelab/issues/1321",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:30Z",
+    "updated_at": "2026-10-23T13:37:34Z",
+    "closed_at": "2026-10-23T13:37:34Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1320,
+    "title": "[Task] Declare CDC publications and source roles",
+    "url": "https://github.com/duynhlab/homelab/issues/1320",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:26Z",
+    "updated_at": "2026-10-23T13:37:31Z",
+    "closed_at": "2026-10-23T13:37:31Z",
+    "labels": [
       "task"
     ],
     "assignees": [],
@@ -54,12 +310,29 @@
     "number": 1315,
     "title": "[Task] Isolate PeerDB platform dependencies",
     "url": "https://github.com/duynhlab/homelab/issues/1315",
-    "state": "OPEN",
+    "state": "CLOSED",
     "author": "duynhne",
     "author_is_bot": false,
     "created_at": "2026-10-19T03:54:06Z",
-    "updated_at": "2026-10-23T07:25:07Z",
-    "closed_at": null,
+    "updated_at": "2026-10-23T13:37:26Z",
+    "closed_at": "2026-10-23T13:37:26Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1314,
+    "title": "[Task] Qualify PeerDB artifacts and licensing",
+    "url": "https://github.com/duynhlab/homelab/issues/1314",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:02Z",
+    "updated_at": "2026-10-23T13:37:22Z",
+    "closed_at": "2026-10-23T13:37:22Z",
     "labels": [
       "task"
     ],
@@ -168,24 +441,6 @@
   },
   {
     "repo": "homelab",
-    "number": 1358,
-    "title": "[Bug] RFC-0030 staging PII gate matches the pre-rename mirror prefix",
-    "url": "https://github.com/duynhlab/homelab/issues/1358",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-22T16:24:09Z",
-    "updated_at": "2026-10-22T23:53:57Z",
-    "closed_at": null,
-    "labels": [
-      "bug",
-      "area/adr"
-    ],
-    "assignees": [],
-    "comments": 2
-  },
-  {
-    "repo": "homelab",
     "number": 1334,
     "title": "[Task] Dark-launch analytics with protected delivery",
     "url": "https://github.com/duynhlab/homelab/issues/1334",
@@ -249,23 +504,6 @@
     "closed_at": "2026-10-22T23:53:25Z",
     "labels": [
       "bug"
-    ],
-    "assignees": [],
-    "comments": 1
-  },
-  {
-    "repo": "homelab",
-    "number": 1326,
-    "title": "[Task] Qualify the pg_cron system image",
-    "url": "https://github.com/duynhlab/homelab/issues/1326",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:49Z",
-    "updated_at": "2026-10-22T16:17:41Z",
-    "closed_at": null,
-    "labels": [
-      "task"
     ],
     "assignees": [],
     "comments": 1
@@ -414,159 +652,6 @@
   },
   {
     "repo": "homelab",
-    "number": 1330,
-    "title": "[Task] Document and drill heartbeat failure recovery",
-    "url": "https://github.com/duynhlab/homelab/issues/1330",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:55:05Z",
-    "updated_at": "2026-10-21T07:13:50Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1329,
-    "title": "[Task] Observe scheduler freshness and capacity",
-    "url": "https://github.com/duynhlab/homelab/issues/1329",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:55:01Z",
-    "updated_at": "2026-10-21T07:13:48Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1328,
-    "title": "[Task] Reconcile heartbeat objects and permissions",
-    "url": "https://github.com/duynhlab/homelab/issues/1328",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:57Z",
-    "updated_at": "2026-10-21T07:13:47Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1327,
-    "title": "[Task] Qualify pg_cron image lifecycle on CNPG",
-    "url": "https://github.com/duynhlab/homelab/issues/1327",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:53Z",
-    "updated_at": "2026-10-21T07:13:45Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1324,
-    "title": "[Task] Exercise CDC credential and leak recovery",
-    "url": "https://github.com/duynhlab/homelab/issues/1324",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:42Z",
-    "updated_at": "2026-10-21T07:13:39Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1323,
-    "title": "[Task] Audit forbidden fields across CDC egress",
-    "url": "https://github.com/duynhlab/homelab/issues/1323",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:38Z",
-    "updated_at": "2026-10-21T07:13:37Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1322,
-    "title": "[Task] Align PeerDB mappings with the column allowlist",
-    "url": "https://github.com/duynhlab/homelab/issues/1322",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:35Z",
-    "updated_at": "2026-10-21T07:13:36Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1321,
-    "title": "[Task] Verify CDC object grants and denied operations",
-    "url": "https://github.com/duynhlab/homelab/issues/1321",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:30Z",
-    "updated_at": "2026-10-21T07:13:34Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1320,
-    "title": "[Task] Declare CDC publications and source roles",
-    "url": "https://github.com/duynhlab/homelab/issues/1320",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:26Z",
-    "updated_at": "2026-10-21T07:13:32Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
     "number": 1319,
     "title": "[ADR-067] Constrain Commerce CDC to an Explicit Source Allowlist",
     "url": "https://github.com/duynhlab/homelab/issues/1319",
@@ -578,74 +663,6 @@
     "closed_at": null,
     "labels": [
       "area/adr"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1318,
-    "title": "[Task] Operate PeerDB with alerts and recovery guidance",
-    "url": "https://github.com/duynhlab/homelab/issues/1318",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:19Z",
-    "updated_at": "2026-10-21T07:13:28Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1317,
-    "title": "[Task] Qualify three CDC mirrors and recovery",
-    "url": "https://github.com/duynhlab/homelab/issues/1317",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:15Z",
-    "updated_at": "2026-10-21T07:13:26Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1316,
-    "title": "[Task] Measure CDC source capacity and WAL limits",
-    "url": "https://github.com/duynhlab/homelab/issues/1316",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:10Z",
-    "updated_at": "2026-10-21T07:13:24Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1314,
-    "title": "[Task] Qualify PeerDB artifacts and licensing",
-    "url": "https://github.com/duynhlab/homelab/issues/1314",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:02Z",
-    "updated_at": "2026-10-21T07:13:21Z",
-    "closed_at": null,
-    "labels": [
-      "task"
     ],
     "assignees": [],
     "comments": 0
