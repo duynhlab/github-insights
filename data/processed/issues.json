@@ -23,13 +23,130 @@
     "author": "renovate",
     "author_is_bot": true,
     "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-10-24T08:52:59Z",
+    "updated_at": "2026-10-24T12:02:19Z",
     "closed_at": null,
     "labels": [],
     "assignees": [
       "duynhne"
     ],
     "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1266,
+    "title": "[RFC-0030] Linux handoff and ADR implementation index",
+    "url": "https://github.com/duynhlab/homelab/issues/1266",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-13T07:41:59Z",
+    "updated_at": "2026-10-24T12:00:29Z",
+    "closed_at": "2026-10-24T12:00:29Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 9
+  },
+  {
+    "repo": "homelab",
+    "number": 1331,
+    "title": "[ADR-069] Serve Commerce Analytics through a Read-Only Service",
+    "url": "https://github.com/duynhlab/homelab/issues/1331",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:11Z",
+    "updated_at": "2026-10-24T12:00:26Z",
+    "closed_at": "2026-10-24T12:00:26Z",
+    "labels": [
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 5
+  },
+  {
+    "repo": "homelab",
+    "number": 1325,
+    "title": "[ADR-068] Schedule CDC Freshness Heartbeats with pg_cron",
+    "url": "https://github.com/duynhlab/homelab/issues/1325",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:46Z",
+    "updated_at": "2026-10-24T12:00:22Z",
+    "closed_at": "2026-10-24T12:00:22Z",
+    "labels": [
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 5
+  },
+  {
+    "repo": "homelab",
+    "number": 1319,
+    "title": "[ADR-067] Constrain Commerce CDC to an Explicit Source Allowlist",
+    "url": "https://github.com/duynhlab/homelab/issues/1319",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:23Z",
+    "updated_at": "2026-10-24T12:00:19Z",
+    "closed_at": "2026-10-24T12:00:19Z",
+    "labels": [
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1313,
+    "title": "[ADR-066] Adopt PeerDB for Commerce CDC",
+    "url": "https://github.com/duynhlab/homelab/issues/1313",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:53:58Z",
+    "updated_at": "2026-10-24T12:00:16Z",
+    "closed_at": "2026-10-24T12:00:16Z",
+    "labels": [
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 4
+  },
+  {
+    "repo": "homelab",
+    "number": 1334,
+    "title": "[Task] Dark-launch analytics with protected delivery",
+    "url": "https://github.com/duynhlab/homelab/issues/1334",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:23Z",
+    "updated_at": "2026-10-24T11:59:07Z",
+    "closed_at": "2026-10-24T11:59:07Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 3
+  },
+  {
+    "repo": "homelab",
+    "number": 1333,
+    "title": "[Task] Provision analytics serving views and reader access",
+    "url": "https://github.com/duynhlab/homelab/issues/1333",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:55:19Z",
+    "updated_at": "2026-10-24T10:33:02Z",
+    "closed_at": "2026-10-24T10:33:02Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 3
   },
   {
     "repo": "homelab",
@@ -341,57 +458,6 @@
   },
   {
     "repo": "homelab",
-    "number": 1325,
-    "title": "[ADR-068] Schedule CDC Freshness Heartbeats with pg_cron",
-    "url": "https://github.com/duynhlab/homelab/issues/1325",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:46Z",
-    "updated_at": "2026-10-23T07:25:00Z",
-    "closed_at": null,
-    "labels": [
-      "area/adr"
-    ],
-    "assignees": [],
-    "comments": 4
-  },
-  {
-    "repo": "homelab",
-    "number": 1313,
-    "title": "[ADR-066] Adopt PeerDB for Commerce CDC",
-    "url": "https://github.com/duynhlab/homelab/issues/1313",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:53:58Z",
-    "updated_at": "2026-10-23T07:24:58Z",
-    "closed_at": null,
-    "labels": [
-      "area/adr"
-    ],
-    "assignees": [],
-    "comments": 3
-  },
-  {
-    "repo": "homelab",
-    "number": 1333,
-    "title": "[Task] Provision analytics serving views and reader access",
-    "url": "https://github.com/duynhlab/homelab/issues/1333",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:55:19Z",
-    "updated_at": "2026-10-23T07:01:04Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 2
-  },
-  {
-    "repo": "homelab",
     "number": 1332,
     "title": "[Task] Qualify the analytics Go contract",
     "url": "https://github.com/duynhlab/homelab/issues/1332",
@@ -406,55 +472,6 @@
     ],
     "assignees": [],
     "comments": 2
-  },
-  {
-    "repo": "homelab",
-    "number": 1266,
-    "title": "[RFC-0030] Linux handoff and ADR implementation index",
-    "url": "https://github.com/duynhlab/homelab/issues/1266",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-13T07:41:59Z",
-    "updated_at": "2026-10-23T06:58:57Z",
-    "closed_at": null,
-    "labels": [],
-    "assignees": [],
-    "comments": 8
-  },
-  {
-    "repo": "homelab",
-    "number": 1331,
-    "title": "[ADR-069] Serve Commerce Analytics through a Read-Only Service",
-    "url": "https://github.com/duynhlab/homelab/issues/1331",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:55:11Z",
-    "updated_at": "2026-10-22T23:53:59Z",
-    "closed_at": null,
-    "labels": [
-      "area/adr"
-    ],
-    "assignees": [],
-    "comments": 4
-  },
-  {
-    "repo": "homelab",
-    "number": 1334,
-    "title": "[Task] Dark-launch analytics with protected delivery",
-    "url": "https://github.com/duynhlab/homelab/issues/1334",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:55:23Z",
-    "updated_at": "2026-10-22T23:53:53Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 3
   },
   {
     "repo": "homelab",
@@ -649,23 +666,6 @@
     "labels": [],
     "assignees": [],
     "comments": 14
-  },
-  {
-    "repo": "homelab",
-    "number": 1319,
-    "title": "[ADR-067] Constrain Commerce CDC to an Explicit Source Allowlist",
-    "url": "https://github.com/duynhlab/homelab/issues/1319",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:23Z",
-    "updated_at": "2026-10-21T07:13:30Z",
-    "closed_at": null,
-    "labels": [
-      "area/adr"
-    ],
-    "assignees": [],
-    "comments": 0
   },
   {
     "repo": "homelab",
