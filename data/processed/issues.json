@@ -23,13 +23,45 @@
     "author": "renovate",
     "author_is_bot": true,
     "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-10-28T11:44:28Z",
+    "updated_at": "2026-10-28T16:51:00Z",
     "closed_at": null,
     "labels": [],
     "assignees": [
       "duynhne"
     ],
     "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1262,
+    "title": "Audit Renovate compatibility and migration backlog",
+    "url": "https://github.com/duynhlab/homelab/issues/1262",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-12T17:26:23Z",
+    "updated_at": "2026-10-28T16:06:31Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1315,
+    "title": "[Task] Isolate PeerDB platform dependencies",
+    "url": "https://github.com/duynhlab/homelab/issues/1315",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-19T03:54:06Z",
+    "updated_at": "2026-10-28T15:33:55Z",
+    "closed_at": "2026-10-23T13:37:26Z",
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 3
   },
   {
     "repo": "homelab",
@@ -492,23 +524,6 @@
   },
   {
     "repo": "homelab",
-    "number": 1315,
-    "title": "[Task] Isolate PeerDB platform dependencies",
-    "url": "https://github.com/duynhlab/homelab/issues/1315",
-    "state": "CLOSED",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-19T03:54:06Z",
-    "updated_at": "2026-10-23T13:37:26Z",
-    "closed_at": "2026-10-23T13:37:26Z",
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 2
-  },
-  {
-    "repo": "homelab",
     "number": 1314,
     "title": "[Task] Qualify PeerDB artifacts and licensing",
     "url": "https://github.com/duynhlab/homelab/issues/1314",
@@ -967,21 +982,6 @@
     ],
     "assignees": [],
     "comments": 2
-  },
-  {
-    "repo": "homelab",
-    "number": 1262,
-    "title": "Audit Renovate compatibility and migration backlog",
-    "url": "https://github.com/duynhlab/homelab/issues/1262",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-12T17:26:23Z",
-    "updated_at": "2026-10-13T00:34:52Z",
-    "closed_at": null,
-    "labels": [],
-    "assignees": [],
-    "comments": 0
   },
   {
     "repo": "homelab",
