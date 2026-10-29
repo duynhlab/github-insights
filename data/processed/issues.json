@@ -23,7 +23,7 @@
     "author": "renovate",
     "author_is_bot": true,
     "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-10-28T16:51:00Z",
+    "updated_at": "2026-10-29T04:14:42Z",
     "closed_at": null,
     "labels": [],
     "assignees": [
@@ -40,9 +40,26 @@
     "author": "duynhne",
     "author_is_bot": false,
     "created_at": "2026-10-12T17:26:23Z",
-    "updated_at": "2026-10-28T16:06:31Z",
+    "updated_at": "2026-10-29T03:48:56Z",
     "closed_at": null,
     "labels": [],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1446,
+    "title": "[Bug] Flux web UI OIDC fails with x509 after a cold bring-up until flux-operator restarts",
+    "url": "https://github.com/duynhlab/homelab/issues/1446",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-29T03:21:11Z",
+    "updated_at": "2026-10-29T03:21:12Z",
+    "closed_at": null,
+    "labels": [
+      "bug"
+    ],
     "assignees": [],
     "comments": 0
   },
