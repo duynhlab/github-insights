@@ -23,12 +23,62 @@
     "author": "renovate",
     "author_is_bot": true,
     "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-10-29T04:14:42Z",
+    "updated_at": "2026-10-29T12:12:00Z",
     "closed_at": null,
     "labels": [],
     "assignees": [
       "duynhne"
     ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1460,
+    "title": "[Task] Split the ClickHouse default user into ingest, read-only and DDL users",
+    "url": "https://github.com/duynhlab/homelab/issues/1460",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-29T11:54:15Z",
+    "updated_at": "2026-10-29T11:54:15Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "task"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1290,
+    "title": "Kind gate exhausts memory on a 30 GB host",
+    "url": "https://github.com/duynhlab/homelab/issues/1290",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-17T07:58:13Z",
+    "updated_at": "2026-10-29T10:40:57Z",
+    "closed_at": "2026-10-29T10:40:57Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1456,
+    "title": "[Bug] Grafana pod restart drops GrafanaManifest folders and boards while status stays ApplySuccessful",
+    "url": "https://github.com/duynhlab/homelab/issues/1456",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-29T09:14:01Z",
+    "updated_at": "2026-10-29T10:21:32Z",
+    "closed_at": "2026-10-29T10:21:32Z",
+    "labels": [
+      "bug"
+    ],
+    "assignees": [],
     "comments": 0
   },
   {
@@ -40,11 +90,11 @@
     "author": "duynhne",
     "author_is_bot": false,
     "created_at": "2026-10-12T17:26:23Z",
-    "updated_at": "2026-10-29T03:48:56Z",
+    "updated_at": "2026-10-29T09:14:11Z",
     "closed_at": null,
     "labels": [],
     "assignees": [],
-    "comments": 2
+    "comments": 5
   },
   {
     "repo": "homelab",
@@ -875,21 +925,6 @@
     "labels": [],
     "assignees": [],
     "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1290,
-    "title": "Kind gate exhausts memory on a 30 GB host",
-    "url": "https://github.com/duynhlab/homelab/issues/1290",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-17T07:58:13Z",
-    "updated_at": "2026-10-18T02:13:51Z",
-    "closed_at": null,
-    "labels": [],
-    "assignees": [],
-    "comments": 1
   },
   {
     "repo": "homelab",
