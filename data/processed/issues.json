@@ -23,13 +23,77 @@
     "author": "renovate",
     "author_is_bot": true,
     "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-10-29T12:12:00Z",
+    "updated_at": "2026-10-29T19:22:35Z",
     "closed_at": null,
     "labels": [],
     "assignees": [
       "duynhne"
     ],
     "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1403,
+    "title": "[Task] Standardize log_line_prefix on local-stack Postgres",
+    "url": "https://github.com/duynhlab/homelab/issues/1403",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-28T08:36:00Z",
+    "updated_at": "2026-10-29T17:07:05Z",
+    "closed_at": null,
+    "labels": [
+      "task"
+    ],
+    "assignees": [],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1273,
+    "title": "Grafana operator cannot update the objects it created",
+    "url": "https://github.com/duynhlab/homelab/issues/1273",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-16T03:38:34Z",
+    "updated_at": "2026-10-29T16:05:44Z",
+    "closed_at": "2026-10-29T16:05:44Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1285,
+    "title": "DR replica: first immediate backup fails during bootstrap replay",
+    "url": "https://github.com/duynhlab/homelab/issues/1285",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-16T14:51:44Z",
+    "updated_at": "2026-10-29T15:26:06Z",
+    "closed_at": "2026-10-29T15:26:06Z",
+    "labels": [],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1377,
+    "title": "[Bug] CDC slot sync stops on a demoted primary until its stale PeerDB slots are dropped",
+    "url": "https://github.com/duynhlab/homelab/issues/1377",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-23T14:38:19Z",
+    "updated_at": "2026-10-29T15:26:01Z",
+    "closed_at": "2026-10-29T15:26:01Z",
+    "labels": [
+      "bug"
+    ],
+    "assignees": [],
+    "comments": 2
   },
   {
     "repo": "homelab",
@@ -132,23 +196,6 @@
   },
   {
     "repo": "homelab",
-    "number": 1403,
-    "title": "[Task] Standardize log_line_prefix on local-stack Postgres",
-    "url": "https://github.com/duynhlab/homelab/issues/1403",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-28T08:36:00Z",
-    "updated_at": "2026-10-28T08:36:40Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 1
-  },
-  {
-    "repo": "homelab",
     "number": 1404,
     "title": "[Task] Surface CNPG Postgres record fields in the Vector log pipeline",
     "url": "https://github.com/duynhlab/homelab/issues/1404",
@@ -180,23 +227,6 @@
     ],
     "assignees": [],
     "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1377,
-    "title": "[Bug] CDC slot sync stops on a demoted primary until its stale PeerDB slots are dropped",
-    "url": "https://github.com/duynhlab/homelab/issues/1377",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-23T14:38:19Z",
-    "updated_at": "2026-10-26T04:21:25Z",
-    "closed_at": null,
-    "labels": [
-      "bug"
-    ],
-    "assignees": [],
-    "comments": 1
   },
   {
     "repo": "homelab",
@@ -958,21 +988,6 @@
   },
   {
     "repo": "homelab",
-    "number": 1285,
-    "title": "DR replica: first immediate backup fails during bootstrap replay",
-    "url": "https://github.com/duynhlab/homelab/issues/1285",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-16T14:51:44Z",
-    "updated_at": "2026-10-16T14:51:44Z",
-    "closed_at": null,
-    "labels": [],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
     "number": 1280,
     "title": "RFC-0029: remaining work to close",
     "url": "https://github.com/duynhlab/homelab/issues/1280",
@@ -1000,21 +1015,6 @@
     "labels": [],
     "assignees": [],
     "comments": 4
-  },
-  {
-    "repo": "homelab",
-    "number": 1273,
-    "title": "Grafana operator cannot update the objects it created",
-    "url": "https://github.com/duynhlab/homelab/issues/1273",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-16T03:38:34Z",
-    "updated_at": "2026-10-16T03:38:34Z",
-    "closed_at": null,
-    "labels": [],
-    "assignees": [],
-    "comments": 0
   },
   {
     "repo": "homelab",
