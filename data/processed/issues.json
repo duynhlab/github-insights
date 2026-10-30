@@ -16,6 +16,23 @@
   },
   {
     "repo": "homelab",
+    "number": 1384,
+    "title": "[Docs] Re-sync the alert catalog's domain table with its sections",
+    "url": "https://github.com/duynhlab/homelab/issues/1384",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-26T03:27:42Z",
+    "updated_at": "2026-10-30T15:18:30Z",
+    "closed_at": "2026-10-30T15:18:30Z",
+    "labels": [
+      "documentation"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
     "number": 201,
     "title": "Renovate Dashboard",
     "url": "https://github.com/duynhlab/homelab/issues/201",
@@ -23,7 +40,7 @@
     "author": "renovate",
     "author_is_bot": true,
     "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-10-30T06:15:36Z",
+    "updated_at": "2026-10-30T14:56:16Z",
     "closed_at": null,
     "labels": [],
     "assignees": [
@@ -36,12 +53,12 @@
     "number": 1403,
     "title": "[Task] Standardize log_line_prefix on local-stack Postgres",
     "url": "https://github.com/duynhlab/homelab/issues/1403",
-    "state": "OPEN",
+    "state": "CLOSED",
     "author": "duynhne",
     "author_is_bot": false,
     "created_at": "2026-10-28T08:36:00Z",
-    "updated_at": "2026-10-29T17:07:05Z",
-    "closed_at": null,
+    "updated_at": "2026-10-30T14:55:00Z",
+    "closed_at": "2026-10-30T14:55:00Z",
     "labels": [
       "task"
     ],
@@ -224,23 +241,6 @@
     "closed_at": null,
     "labels": [
       "umbrella-issue"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1384,
-    "title": "[Docs] Re-sync the alert catalog's domain table with its sections",
-    "url": "https://github.com/duynhlab/homelab/issues/1384",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-26T03:27:42Z",
-    "updated_at": "2026-10-26T03:27:42Z",
-    "closed_at": null,
-    "labels": [
-      "documentation"
     ],
     "assignees": [],
     "comments": 0
