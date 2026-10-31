@@ -16,6 +16,23 @@
   },
   {
     "repo": "homelab",
+    "number": 201,
+    "title": "Renovate Dashboard",
+    "url": "https://github.com/duynhlab/homelab/issues/201",
+    "state": "OPEN",
+    "author": "renovate",
+    "author_is_bot": true,
+    "created_at": "2026-03-12T08:30:22Z",
+    "updated_at": "2026-10-30T22:46:39Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
     "number": 1384,
     "title": "[Docs] Re-sync the alert catalog's domain table with its sections",
     "url": "https://github.com/duynhlab/homelab/issues/1384",
@@ -29,23 +46,6 @@
       "documentation"
     ],
     "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 201,
-    "title": "Renovate Dashboard",
-    "url": "https://github.com/duynhlab/homelab/issues/201",
-    "state": "OPEN",
-    "author": "renovate",
-    "author_is_bot": true,
-    "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-10-30T14:56:16Z",
-    "closed_at": null,
-    "labels": [],
-    "assignees": [
-      "duynhne"
-    ],
     "comments": 0
   },
   {
