@@ -59998,33 +59998,6 @@
     "self_merged": false
   },
   {
-    "repo": "release-radar",
-    "number": 18,
-    "title": "Update Git config for GitHub Actions bot",
-    "url": "https://github.com/duynhlab/release-radar/pull/18",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-03T02:03:50Z",
-    "updated_at": "2026-08-03T02:04:02Z",
-    "merged_at": "2026-08-03T02:04:00Z",
-    "closed_at": "2026-08-03T02:04:01Z",
-    "additions": 2,
-    "deletions": 2,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
-    ],
-    "review_decision": null,
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
     "repo": "admin-service",
     "number": 60,
     "title": "Bump @tanstack/react-query from 5.104.5 to 5.105.0 in the minor-and-patch group",
