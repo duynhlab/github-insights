@@ -16,6 +16,1008 @@
   },
   {
     "repo": "homelab",
+    "number": 1517,
+    "title": "[Task] Select the first mini PC within VND 4 million",
+    "url": "https://github.com/duynhlab/homelab/issues/1517",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T15:12:06Z",
+    "updated_at": "2026-11-01T15:18:18Z",
+    "closed_at": null,
+    "labels": [
+      "area/platform",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1499,
+    "title": "[RFC-0011] Qualify hardware and recovery before migration",
+    "url": "https://github.com/duynhlab/homelab/issues/1499",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:47Z",
+    "updated_at": "2026-11-01T15:12:40Z",
+    "closed_at": null,
+    "labels": [
+      "area/platform",
+      "epic",
+      "priority/normal",
+      "blocked/hardware"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1513,
+    "title": "[Task] Review RFC-0033 evidence before deciding on an SDK controller",
+    "url": "https://github.com/duynhlab/homelab/issues/1513",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:40:02Z",
+    "updated_at": "2026-11-01T14:46:09Z",
+    "closed_at": null,
+    "labels": [
+      "area/ci",
+      "priority/normal",
+      "blocked/decision"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1512,
+    "title": "[Task] Qualify RFC-0033 event triggers and reconciliation",
+    "url": "https://github.com/duynhlab/homelab/issues/1512",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:39:56Z",
+    "updated_at": "2026-11-01T14:46:07Z",
+    "closed_at": null,
+    "labels": [
+      "area/ci",
+      "priority/normal",
+      "blocked/decision"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1511,
+    "title": "[Task] Qualify RFC-0033 cross-repository change trains",
+    "url": "https://github.com/duynhlab/homelab/issues/1511",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:39:50Z",
+    "updated_at": "2026-11-01T14:46:05Z",
+    "closed_at": null,
+    "labels": [
+      "area/ci",
+      "priority/normal",
+      "blocked/decision"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1510,
+    "title": "[Task] Qualify the RFC-0033 single-repository documentation canary",
+    "url": "https://github.com/duynhlab/homelab/issues/1510",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:39:45Z",
+    "updated_at": "2026-11-01T14:46:02Z",
+    "closed_at": null,
+    "labels": [
+      "area/ci",
+      "priority/normal",
+      "blocked/decision"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1509,
+    "title": "[Task] Build and evaluate the RFC-0033 read-only harness",
+    "url": "https://github.com/duynhlab/homelab/issues/1509",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:39:38Z",
+    "updated_at": "2026-11-01T14:46:00Z",
+    "closed_at": null,
+    "labels": [
+      "area/ci",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1502,
+    "title": "[Docs] Complete RFC-0034 Kubernetes metadata research",
+    "url": "https://github.com/duynhlab/homelab/issues/1502",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:38:05Z",
+    "updated_at": "2026-11-01T14:45:58Z",
+    "closed_at": null,
+    "labels": [
+      "documentation",
+      "area/docs",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1501,
+    "title": "[RFC-0033] Deliver the bounded agent workflow in gated phases",
+    "url": "https://github.com/duynhlab/homelab/issues/1501",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:59Z",
+    "updated_at": "2026-11-01T14:45:55Z",
+    "closed_at": null,
+    "labels": [
+      "area/platform",
+      "epic",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1500,
+    "title": "[RFC-0020] Review remaining internal TLS rollout slices",
+    "url": "https://github.com/duynhlab/homelab/issues/1500",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:53Z",
+    "updated_at": "2026-11-01T14:45:52Z",
+    "closed_at": null,
+    "labels": [
+      "area/security",
+      "epic",
+      "priority/normal",
+      "blocked/decision"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1496,
+    "title": "[RFC-0004] Review cross-service caching and invalidation",
+    "url": "https://github.com/duynhlab/homelab/issues/1496",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:30Z",
+    "updated_at": "2026-11-01T14:45:48Z",
+    "closed_at": null,
+    "labels": [
+      "area/platform",
+      "epic",
+      "priority/normal",
+      "blocked/decision"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1283,
+    "title": "[ADR-089] Complete PostgreSQL access contract obligations",
+    "url": "https://github.com/duynhlab/homelab/issues/1283",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-16T12:52:39Z",
+    "updated_at": "2026-11-01T14:45:46Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases",
+      "epic",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 14
+  },
+  {
+    "repo": "homelab",
+    "number": 1388,
+    "title": "[Task] Resolve telemetry audit findings and verification",
+    "url": "https://github.com/duynhlab/homelab/issues/1388",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-26T07:30:47Z",
+    "updated_at": "2026-11-01T14:45:44Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "epic",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1494,
+    "title": "[Docs] Reconcile telemetry audit documentation and alert guidance",
+    "url": "https://github.com/duynhlab/homelab/issues/1494",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:16Z",
+    "updated_at": "2026-11-01T14:45:41Z",
+    "closed_at": null,
+    "labels": [
+      "documentation",
+      "area/observability",
+      "priority/low"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1514,
+    "title": "[Task] Complete the native VMRule ownership migration",
+    "url": "https://github.com/duynhlab/homelab/issues/1514",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:40:08Z",
+    "updated_at": "2026-11-01T14:40:12Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "epic"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1209,
+    "title": "[Bug] Mockpay restarts trigger false reconciliation pages",
+    "url": "https://github.com/duynhlab/homelab/issues/1209",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-05T04:32:36Z",
+    "updated_at": "2026-11-01T14:39:13Z",
+    "closed_at": null,
+    "labels": [
+      "bug",
+      "area/observability",
+      "priority/high"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1210,
+    "title": "[Task] Add trace attribute indexing when a consumer needs it",
+    "url": "https://github.com/duynhlab/homelab/issues/1210",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-05T04:32:38Z",
+    "updated_at": "2026-11-01T14:39:10Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "task",
+      "priority/low"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1262,
+    "title": "[Task] Track dependency audit follow-ups",
+    "url": "https://github.com/duynhlab/homelab/issues/1262",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-12T17:26:23Z",
+    "updated_at": "2026-11-01T14:39:07Z",
+    "closed_at": null,
+    "labels": [
+      "area/ci",
+      "epic"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 5
+  },
+  {
+    "repo": "homelab",
+    "number": 1296,
+    "title": "[Task] Direct platform-db clients: verify-full, hostssl and rotation (Temporal, Keycloak, OpenBAO)",
+    "url": "https://github.com/duynhlab/homelab/issues/1296",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T07:13:09Z",
+    "updated_at": "2026-11-01T14:39:00Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases",
+      "task",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 2
+  },
+  {
+    "repo": "homelab",
+    "number": 1299,
+    "title": "[Task] Monitor PostgreSQL TLS sessions and connection logs",
+    "url": "https://github.com/duynhlab/homelab/issues/1299",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T12:44:55Z",
+    "updated_at": "2026-11-01T14:38:58Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases",
+      "area/observability",
+      "task",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1306,
+    "title": "[Task] pgroles: verify-full and application_name via operator env; bump to 0.15.0",
+    "url": "https://github.com/duynhlab/homelab/issues/1306",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-18T13:49:16Z",
+    "updated_at": "2026-11-01T14:38:54Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases",
+      "task",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
+    "number": 1404,
+    "title": "[Task] Surface CNPG Postgres record fields in the Vector log pipeline",
+    "url": "https://github.com/duynhlab/homelab/issues/1404",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-28T08:36:27Z",
+    "updated_at": "2026-11-01T14:38:49Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "task",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1446,
+    "title": "[Bug] Flux web UI OIDC fails with x509 after a cold bring-up until flux-operator restarts",
+    "url": "https://github.com/duynhlab/homelab/issues/1446",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-29T03:21:11Z",
+    "updated_at": "2026-11-01T14:38:47Z",
+    "closed_at": null,
+    "labels": [
+      "bug",
+      "area/gitops",
+      "priority/high"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1508,
+    "title": "[Task] Reconcile Renovate coverage for manually maintained pins",
+    "url": "https://github.com/duynhlab/homelab/issues/1508",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:38:40Z",
+    "updated_at": "2026-11-01T14:38:44Z",
+    "closed_at": null,
+    "labels": [
+      "area/ci"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1460,
+    "title": "[Task] Split the ClickHouse default user into ingest, read-only and DDL users",
+    "url": "https://github.com/duynhlab/homelab/issues/1460",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-10-29T11:54:15Z",
+    "updated_at": "2026-11-01T14:38:44Z",
+    "closed_at": null,
+    "labels": [
+      "area/security",
+      "area/observability",
+      "task",
+      "priority/high"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1507,
+    "title": "[Task] Qualify the PeerDB catalog migration before the image bump",
+    "url": "https://github.com/duynhlab/homelab/issues/1507",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:38:33Z",
+    "updated_at": "2026-11-01T14:38:37Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1506,
+    "title": "[Task] Decide the Envoy proxy image override from the dependency audit",
+    "url": "https://github.com/duynhlab/homelab/issues/1506",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:38:27Z",
+    "updated_at": "2026-11-01T14:38:31Z",
+    "closed_at": null,
+    "labels": [
+      "area/security",
+      "blocked/decision"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1505,
+    "title": "[Docs] Reconcile remaining proposal closure and deferred-work evidence",
+    "url": "https://github.com/duynhlab/homelab/issues/1505",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:38:21Z",
+    "updated_at": "2026-11-01T14:38:25Z",
+    "closed_at": null,
+    "labels": [
+      "documentation",
+      "area/docs",
+      "epic"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1504,
+    "title": "[Task] Prove the remaining ADR-055 drained-version deletion gate",
+    "url": "https://github.com/duynhlab/homelab/issues/1504",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:38:16Z",
+    "updated_at": "2026-11-01T14:38:19Z",
+    "closed_at": null,
+    "labels": [
+      "area/platform",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1503,
+    "title": "[Task] Reconcile ADR-038 middleware adoption evidence",
+    "url": "https://github.com/duynhlab/homelab/issues/1503",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:38:10Z",
+    "updated_at": "2026-11-01T14:38:14Z",
+    "closed_at": null,
+    "labels": [
+      "area/apps"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1498,
+    "title": "[RFC-0008] Review remaining secrets and credential obligations",
+    "url": "https://github.com/duynhlab/homelab/issues/1498",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:42Z",
+    "updated_at": "2026-11-01T14:37:45Z",
+    "closed_at": null,
+    "labels": [
+      "area/secrets",
+      "epic"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1497,
+    "title": "[RFC-0006] Revisit service mesh only when its triggers apply",
+    "url": "https://github.com/duynhlab/homelab/issues/1497",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:35Z",
+    "updated_at": "2026-11-01T14:37:40Z",
+    "closed_at": null,
+    "labels": [
+      "area/platform",
+      "epic",
+      "priority/low",
+      "blocked/decision"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1495,
+    "title": "[Task] Verify and resolve telemetry F17 Inventory Backoffice lacks HTTP spans/RED",
+    "url": "https://github.com/duynhlab/homelab/issues/1495",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:24Z",
+    "updated_at": "2026-11-01T14:37:28Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1493,
+    "title": "[Task] Verify and resolve telemetry F15 Inventory scope uses service name",
+    "url": "https://github.com/duynhlab/homelab/issues/1493",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:08Z",
+    "updated_at": "2026-11-01T14:37:13Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/low"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1492,
+    "title": "[Task] Verify and resolve telemetry F14 Conformance validates a sanitized subset",
+    "url": "https://github.com/duynhlab/homelab/issues/1492",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:37:02Z",
+    "updated_at": "2026-11-01T14:37:06Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/low"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1491,
+    "title": "[Task] Verify and resolve telemetry F13 Volatile queues and unspecified loss budget",
+    "url": "https://github.com/duynhlab/homelab/issues/1491",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:36:56Z",
+    "updated_at": "2026-11-01T14:37:00Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1490,
+    "title": "[Task] Verify and resolve telemetry F12 Broad telemetry trust boundary",
+    "url": "https://github.com/duynhlab/homelab/issues/1490",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:36:49Z",
+    "updated_at": "2026-11-01T14:36:54Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1489,
+    "title": "[Task] Verify and resolve telemetry F11 Compose Collector lacks memory envelope",
+    "url": "https://github.com/duynhlab/homelab/issues/1489",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:36:42Z",
+    "updated_at": "2026-11-01T14:36:47Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1488,
+    "title": "[Task] Verify and resolve telemetry F10 CI version floor permits excessive lag",
+    "url": "https://github.com/duynhlab/homelab/issues/1488",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:36:34Z",
+    "updated_at": "2026-11-01T14:36:40Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1487,
+    "title": "[Task] Verify and resolve telemetry F09 Queue pressure/refusal and sink export alert gaps",
+    "url": "https://github.com/duynhlab/homelab/issues/1487",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:36:28Z",
+    "updated_at": "2026-11-01T14:36:32Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1486,
+    "title": "[Task] Verify and resolve telemetry F08 Controlled mockpay callback loses causality",
+    "url": "https://github.com/duynhlab/homelab/issues/1486",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:36:22Z",
+    "updated_at": "2026-11-01T14:36:26Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1485,
+    "title": "[Task] Verify and resolve telemetry F07 Product logs one dependency error twice",
+    "url": "https://github.com/duynhlab/homelab/issues/1485",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:36:16Z",
+    "updated_at": "2026-11-01T14:36:20Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1484,
+    "title": "[Task] Verify and resolve telemetry F06 Configured releases lag lifecycle fixes",
+    "url": "https://github.com/duynhlab/homelab/issues/1484",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:36:09Z",
+    "updated_at": "2026-11-01T14:36:13Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1483,
+    "title": "[Task] Verify and resolve telemetry F05 GetUser discards child context",
+    "url": "https://github.com/duynhlab/homelab/issues/1483",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:36:02Z",
+    "updated_at": "2026-11-01T14:36:07Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1482,
+    "title": "[Task] Verify and resolve telemetry F04 Untrusted baggage crosses outbound HTTP",
+    "url": "https://github.com/duynhlab/homelab/issues/1482",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:35:57Z",
+    "updated_at": "2026-11-01T14:36:00Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/normal"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1481,
+    "title": "[Task] Verify and resolve telemetry F03 Checkout Finish retry double-counts confirmed sessions",
+    "url": "https://github.com/duynhlab/homelab/issues/1481",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:35:50Z",
+    "updated_at": "2026-11-01T14:35:54Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/high"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1480,
+    "title": "[Task] Verify and resolve telemetry F02 Exception/status values bypass log redaction",
+    "url": "https://github.com/duynhlab/homelab/issues/1480",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:35:44Z",
+    "updated_at": "2026-11-01T14:35:47Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/high"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1479,
+    "title": "[Task] Verify and resolve telemetry F01 Failed business spans remain Unset",
+    "url": "https://github.com/duynhlab/homelab/issues/1479",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T14:35:37Z",
+    "updated_at": "2026-11-01T14:35:41Z",
+    "closed_at": null,
+    "labels": [
+      "area/observability",
+      "priority/high"
+    ],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1477,
+    "title": "[ADR-090] Keep the Documentation Procedure in a Dedicated homelab-docs Skill",
+    "url": "https://github.com/duynhlab/homelab/issues/1477",
+    "state": "CLOSED",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-01T13:46:49Z",
+    "updated_at": "2026-11-01T13:51:35Z",
+    "closed_at": "2026-11-01T13:51:35Z",
+    "labels": [
+      "area/adr"
+    ],
+    "assignees": [],
+    "comments": 1
+  },
+  {
+    "repo": "homelab",
     "number": 201,
     "title": "Renovate Dashboard",
     "url": "https://github.com/duynhlab/homelab/issues/201",
@@ -23,7 +1025,7 @@
     "author": "renovate",
     "author_is_bot": true,
     "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-11-01T06:28:04Z",
+    "updated_at": "2026-11-01T13:50:27Z",
     "closed_at": null,
     "labels": [],
     "assignees": [
@@ -114,24 +1116,6 @@
   },
   {
     "repo": "homelab",
-    "number": 1460,
-    "title": "[Task] Split the ClickHouse default user into ingest, read-only and DDL users",
-    "url": "https://github.com/duynhlab/homelab/issues/1460",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-29T11:54:15Z",
-    "updated_at": "2026-10-29T11:54:15Z",
-    "closed_at": null,
-    "labels": [
-      "area/observability",
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
     "number": 1290,
     "title": "Kind gate exhausts memory on a 30 GB host",
     "url": "https://github.com/duynhlab/homelab/issues/1290",
@@ -164,38 +1148,6 @@
   },
   {
     "repo": "homelab",
-    "number": 1262,
-    "title": "Audit Renovate compatibility and migration backlog",
-    "url": "https://github.com/duynhlab/homelab/issues/1262",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-12T17:26:23Z",
-    "updated_at": "2026-10-29T09:14:11Z",
-    "closed_at": null,
-    "labels": [],
-    "assignees": [],
-    "comments": 5
-  },
-  {
-    "repo": "homelab",
-    "number": 1446,
-    "title": "[Bug] Flux web UI OIDC fails with x509 after a cold bring-up until flux-operator restarts",
-    "url": "https://github.com/duynhlab/homelab/issues/1446",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-29T03:21:11Z",
-    "updated_at": "2026-10-29T03:21:12Z",
-    "closed_at": null,
-    "labels": [
-      "bug"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
     "number": 1315,
     "title": "[Task] Isolate PeerDB platform dependencies",
     "url": "https://github.com/duynhlab/homelab/issues/1315",
@@ -210,40 +1162,6 @@
     ],
     "assignees": [],
     "comments": 3
-  },
-  {
-    "repo": "homelab",
-    "number": 1404,
-    "title": "[Task] Surface CNPG Postgres record fields in the Vector log pipeline",
-    "url": "https://github.com/duynhlab/homelab/issues/1404",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-28T08:36:27Z",
-    "updated_at": "2026-10-28T08:36:29Z",
-    "closed_at": null,
-    "labels": [
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1388,
-    "title": "task: Track telemetry audit findings and Kind verification",
-    "url": "https://github.com/duynhlab/homelab/issues/1388",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-26T07:30:47Z",
-    "updated_at": "2026-10-26T07:33:11Z",
-    "closed_at": null,
-    "labels": [
-      "umbrella-issue"
-    ],
-    "assignees": [],
-    "comments": 0
   },
   {
     "repo": "homelab",
@@ -707,61 +1625,6 @@
   },
   {
     "repo": "homelab",
-    "number": 1306,
-    "title": "[Task] pgroles: verify-full and application_name via operator env; bump to 0.15.0",
-    "url": "https://github.com/duynhlab/homelab/issues/1306",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-18T13:49:16Z",
-    "updated_at": "2026-10-22T15:19:11Z",
-    "closed_at": null,
-    "labels": [
-      "area/databases",
-      "task"
-    ],
-    "assignees": [],
-    "comments": 1
-  },
-  {
-    "repo": "homelab",
-    "number": 1299,
-    "title": "[Task] Monitor PostgreSQL TLS sessions and connection logs",
-    "url": "https://github.com/duynhlab/homelab/issues/1299",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-18T12:44:55Z",
-    "updated_at": "2026-10-22T15:19:09Z",
-    "closed_at": null,
-    "labels": [
-      "area/databases",
-      "area/observability",
-      "task"
-    ],
-    "assignees": [],
-    "comments": 1
-  },
-  {
-    "repo": "homelab",
-    "number": 1296,
-    "title": "[Task] Direct platform-db clients: verify-full, hostssl and rotation (Temporal, Keycloak, OpenBAO)",
-    "url": "https://github.com/duynhlab/homelab/issues/1296",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-18T07:13:09Z",
-    "updated_at": "2026-10-22T15:19:06Z",
-    "closed_at": null,
-    "labels": [
-      "area/databases",
-      "task"
-    ],
-    "assignees": [],
-    "comments": 2
-  },
-  {
-    "repo": "homelab",
     "number": 1350,
     "title": "[Bug] PgDog roll: checkout queries time out at each pod's SIGINT",
     "url": "https://github.com/duynhlab/homelab/issues/1350",
@@ -831,21 +1694,6 @@
     ],
     "assignees": [],
     "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1283,
-    "title": "ADR-089 remaining obligations",
-    "url": "https://github.com/duynhlab/homelab/issues/1283",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-16T12:52:39Z",
-    "updated_at": "2026-10-22T03:09:29Z",
-    "closed_at": null,
-    "labels": [],
-    "assignees": [],
-    "comments": 14
   },
   {
     "repo": "homelab",
@@ -1034,43 +1882,6 @@
     ],
     "assignees": [],
     "comments": 2
-  },
-  {
-    "repo": "homelab",
-    "number": 1210,
-    "title": "clickhouse: keyValuePairs index on otel_traces.SpanAttributes",
-    "url": "https://github.com/duynhlab/homelab/issues/1210",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-05T04:32:38Z",
-    "updated_at": "2026-10-05T04:32:38Z",
-    "closed_at": null,
-    "labels": [
-      "hold",
-      "area/observability",
-      "task"
-    ],
-    "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 1209,
-    "title": "payment: a mockpay restart pages PaymentReconciliationDiscrepancy for about an hour",
-    "url": "https://github.com/duynhlab/homelab/issues/1209",
-    "state": "OPEN",
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-10-05T04:32:36Z",
-    "updated_at": "2026-10-05T04:32:36Z",
-    "closed_at": null,
-    "labels": [
-      "bug",
-      "area/observability"
-    ],
-    "assignees": [],
-    "comments": 0
   },
   {
     "repo": "homelab",
