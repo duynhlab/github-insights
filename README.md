@@ -92,7 +92,7 @@ org: duynhlab
 repos:
   include: ["*"]
   exclude: [".github", "action-test", "pkg"]
-bots: [dependabot[bot], renovate[bot], github-actions[bot], duynebot]
+bots: [dependabot[bot], renovate[bot], github-actions[bot], duynhbot]
 window_days: 90
 stale_pr_days: 14
 ```
