@@ -66,6 +66,9 @@ GitHub Pages  ← deployed by .github/workflows/insights.yml
 CI is two jobs in one workflow: `collect` (cron / manual; runs the collector and
 commits `data/`) → `deploy` (checks out `main`, `npm ci && npm run build`,
 uploads `web/dist` to Pages). Pushes that only touch `web/**` skip `collect`.
+The deploy job also downloads the homelab changelog and generates a searchable
+static page at `https://duynhlab.github.io/github-insights/changelog/`. It is
+refreshed on each deployment; a failed download blocks that deployment.
 
 ## Local dev
 
