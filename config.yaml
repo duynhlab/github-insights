@@ -14,7 +14,7 @@ bots:
   - dependabot[bot]
   - renovate[bot]
   - github-actions[bot]
-  - duynebot
+  - duynhbot
   - copilot-swe-agent[bot]
 
 # Time window for rolling metrics (days)

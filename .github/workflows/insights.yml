@@ -61,8 +61,8 @@ jobs:
 
       - name: Commit data snapshot
         run: |
-          git config user.name  "duynebot"
-          git config user.email "duynebot@users.noreply.github.com"
+          git config user.name  "duynhbot"
+          git config user.email "188557823+duynhbot@users.noreply.github.com"
           git add data/processed data/archive data/state.json
           git diff --cached --quiet || git commit -m "chore(data): refresh $(date -u +%FT%TZ)"
           # main may have moved while the collector ran (merged PRs); the data
