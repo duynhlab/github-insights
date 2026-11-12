@@ -140,6 +140,11 @@
     "commits": 29
   },
   {
+    "repo": "grafana-dashboards",
+    "week": "2026-W38",
+    "commits": 8
+  },
+  {
     "repo": "homelab",
     "week": "2026-W38",
     "commits": 10
@@ -177,7 +182,7 @@
   {
     "repo": "grafana-dashboards",
     "week": "2026-W39",
-    "commits": 14
+    "commits": 12
   },
   {
     "repo": "homelab",
@@ -267,7 +272,7 @@
   {
     "repo": "grafana-dashboards",
     "week": "2026-W40",
-    "commits": 12
+    "commits": 7
   },
   {
     "repo": "helm-charts",
@@ -357,7 +362,7 @@
   {
     "repo": "grafana-dashboards",
     "week": "2026-W41",
-    "commits": 10
+    "commits": 9
   },
   {
     "repo": "helm-charts",
