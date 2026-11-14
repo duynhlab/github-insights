@@ -2257,33 +2257,6 @@
     "self_merged": true
   },
   {
-    "repo": "gha-workflows",
-    "number": 110,
-    "title": "Pin golangci-lint from tools/go.mod when present",
-    "url": "https://github.com/duynhlab/gha-workflows/pull/110",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T13:02:08Z",
-    "updated_at": "2026-08-16T13:03:18Z",
-    "merged_at": "2026-08-16T13:03:17Z",
-    "closed_at": "2026-08-16T13:03:17Z",
-    "additions": 82,
-    "deletions": 6,
-    "changed_files": 2,
-    "labels": [
-      "size/M"
-    ],
-    "review_decision": null,
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
     "repo": "wolfi-images",
     "number": 102,
     "title": "chore(actions)(deps): bump the actions group across 1 directory with 4 updates",
@@ -23294,33 +23267,6 @@
     "self_merged": true
   },
   {
-    "repo": "user-service",
-    "number": 149,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/user-service/pull/149",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:53:29Z",
-    "updated_at": "2026-08-16T14:57:26Z",
-    "merged_at": "2026-08-16T14:57:24Z",
-    "closed_at": "2026-08-16T14:57:24Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
-    ],
-    "review_decision": "REVIEW_REQUIRED",
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
     "repo": "product-service",
     "number": 256,
     "title": "build(deps): bump the gha-workflows group with 10 updates",
@@ -26020,33 +25966,6 @@
     "self_merged": true
   },
   {
-    "repo": "product-service",
-    "number": 171,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/product-service/pull/171",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:53:38Z",
-    "updated_at": "2026-08-16T14:56:28Z",
-    "merged_at": "2026-08-16T14:56:26Z",
-    "closed_at": "2026-08-16T14:56:26Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
-    ],
-    "review_decision": "REVIEW_REQUIRED",
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
     "repo": "cart-service",
     "number": 232,
     "title": "build(deps): bump github.com/duynhlab/pkg/authmw from 0.38.0 to 0.39.0 in the duynhlab-pkg group across 1 directory",
@@ -28490,33 +28409,6 @@
     "changed_files": 20,
     "labels": [
       "size/XXL"
-    ],
-    "review_decision": "REVIEW_REQUIRED",
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
-    "repo": "cart-service",
-    "number": 160,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/cart-service/pull/160",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:53:20Z",
-    "updated_at": "2026-08-16T14:56:19Z",
-    "merged_at": "2026-08-16T14:56:17Z",
-    "closed_at": "2026-08-16T14:56:17Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
     ],
     "review_decision": "REVIEW_REQUIRED",
     "first_human_review_at": null,
@@ -31337,33 +31229,6 @@
     "self_merged": true
   },
   {
-    "repo": "order-service",
-    "number": 201,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/order-service/pull/201",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:54:33Z",
-    "updated_at": "2026-08-16T14:57:12Z",
-    "merged_at": "2026-08-16T14:57:10Z",
-    "closed_at": "2026-08-16T14:57:10Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
-    ],
-    "review_decision": "REVIEW_REQUIRED",
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
     "repo": "review-service",
     "number": 218,
     "title": "build(deps): bump github.com/duynhlab/pkg/authmw from 0.38.0 to 0.39.0 in the duynhlab-pkg group across 1 directory",
@@ -33806,33 +33671,6 @@
     "self_merged": true
   },
   {
-    "repo": "review-service",
-    "number": 146,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/review-service/pull/146",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:53:48Z",
-    "updated_at": "2026-08-16T14:56:38Z",
-    "merged_at": "2026-08-16T14:56:36Z",
-    "closed_at": "2026-08-16T14:56:36Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
-    ],
-    "review_decision": "REVIEW_REQUIRED",
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
     "repo": "notification-service",
     "number": 225,
     "title": "build(deps): bump github.com/duynhlab/pkg/authmw from 0.38.0 to 0.39.0 in the duynhlab-pkg group across 1 directory",
@@ -36247,33 +36085,6 @@
     "changed_files": 14,
     "labels": [
       "size/XXL"
-    ],
-    "review_decision": "REVIEW_REQUIRED",
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
-    "repo": "notification-service",
-    "number": 154,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/notification-service/pull/154",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:54:15Z",
-    "updated_at": "2026-08-16T14:56:53Z",
-    "merged_at": "2026-08-16T14:56:51Z",
-    "closed_at": "2026-08-16T14:56:51Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
     ],
     "review_decision": "REVIEW_REQUIRED",
     "first_human_review_at": null,
@@ -38795,33 +38606,6 @@
     "changed_files": 17,
     "labels": [
       "size/XXL"
-    ],
-    "review_decision": "REVIEW_REQUIRED",
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
-    "repo": "shipping-service",
-    "number": 160,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/shipping-service/pull/160",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:54:06Z",
-    "updated_at": "2026-08-16T14:56:46Z",
-    "merged_at": "2026-08-16T14:56:43Z",
-    "closed_at": "2026-08-16T14:56:43Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
     ],
     "review_decision": "REVIEW_REQUIRED",
     "first_human_review_at": null,
@@ -44475,33 +44259,6 @@
     "self_merged": true
   },
   {
-    "repo": "payment-service",
-    "number": 84,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/payment-service/pull/84",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:54:24Z",
-    "updated_at": "2026-08-16T14:57:03Z",
-    "merged_at": "2026-08-16T14:57:01Z",
-    "closed_at": "2026-08-16T14:57:01Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
-    ],
-    "review_decision": null,
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
     "repo": "checkout-service",
     "number": 136,
     "title": "chore(deps): bump github.com/duynhlab/pkg/authmw from 0.38.0 to 0.39.0 in the duynhlab-pkg group across 1 directory",
@@ -46998,33 +46755,6 @@
     "changed_files": 18,
     "labels": [
       "size/XXL"
-    ],
-    "review_decision": null,
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
-    "repo": "checkout-service",
-    "number": 69,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/checkout-service/pull/69",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:54:42Z",
-    "updated_at": "2026-08-16T14:57:16Z",
-    "merged_at": "2026-08-16T14:57:15Z",
-    "closed_at": "2026-08-16T14:57:15Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
     ],
     "review_decision": null,
     "first_human_review_at": null,
@@ -50336,60 +50066,6 @@
     "additions": 85,
     "deletions": 101,
     "changed_files": 3,
-    "labels": [
-      "size/L"
-    ],
-    "review_decision": null,
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
-    "repo": "inventory-service",
-    "number": 49,
-    "title": "Build on Go 1.26.6 to drop three reachable stdlib flaws",
-    "url": "https://github.com/duynhlab/inventory-service/pull/49",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:53:10Z",
-    "updated_at": "2026-08-16T14:56:08Z",
-    "merged_at": "2026-08-16T14:56:06Z",
-    "closed_at": "2026-08-16T14:56:06Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1,
-    "labels": [
-      "size/XS"
-    ],
-    "review_decision": null,
-    "first_human_review_at": null,
-    "first_ai_review_at": null,
-    "human_reviews": 0,
-    "ai_reviews": 0,
-    "reviews": [],
-    "self_merged": true
-  },
-  {
-    "repo": "inventory-service",
-    "number": 48,
-    "title": "Take span helpers from obsx and drop the middleware copy",
-    "url": "https://github.com/duynhlab/inventory-service/pull/48",
-    "state": "MERGED",
-    "draft": false,
-    "author": "duynhne",
-    "author_is_bot": false,
-    "created_at": "2026-08-16T14:30:04Z",
-    "updated_at": "2026-08-16T14:33:06Z",
-    "merged_at": "2026-08-16T14:33:04Z",
-    "closed_at": "2026-08-16T14:33:04Z",
-    "additions": 16,
-    "deletions": 128,
-    "changed_files": 5,
     "labels": [
       "size/L"
     ],
