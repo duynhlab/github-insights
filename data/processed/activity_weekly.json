@@ -1,23 +1,13 @@
 [
   {
-    "repo": "checkout-service",
-    "week": "2026-W36",
-    "commits": 2
-  },
-  {
     "repo": "github-insights",
     "week": "2026-W36",
-    "commits": 23
+    "commits": 25
   },
   {
     "repo": "homelab",
     "week": "2026-W36",
-    "commits": 45
-  },
-  {
-    "repo": "order-service",
-    "week": "2026-W36",
-    "commits": 2
+    "commits": 40
   },
   {
     "repo": "release-radar",
@@ -37,7 +27,7 @@
   {
     "repo": "homelab",
     "week": "2026-W37",
-    "commits": 48
+    "commits": 43
   },
   {
     "repo": "release-radar",
@@ -57,7 +47,7 @@
   {
     "repo": "homelab",
     "week": "2026-W38",
-    "commits": 10
+    "commits": 15
   },
   {
     "repo": "release-radar",
@@ -72,12 +62,12 @@
   {
     "repo": "cart-service",
     "week": "2026-W39",
-    "commits": 4
+    "commits": 6
   },
   {
     "repo": "checkout-service",
     "week": "2026-W39",
-    "commits": 5
+    "commits": 7
   },
   {
     "repo": "gha-workflows",
@@ -92,37 +82,42 @@
   {
     "repo": "grafana-dashboards",
     "week": "2026-W39",
-    "commits": 12
+    "commits": 14
+  },
+  {
+    "repo": "helm-charts",
+    "week": "2026-W39",
+    "commits": 1
   },
   {
     "repo": "homelab",
     "week": "2026-W39",
-    "commits": 26
+    "commits": 30
   },
   {
     "repo": "inventory-service",
     "week": "2026-W39",
-    "commits": 4
+    "commits": 6
   },
   {
     "repo": "notification-service",
     "week": "2026-W39",
-    "commits": 4
+    "commits": 6
   },
   {
     "repo": "order-service",
     "week": "2026-W39",
-    "commits": 4
+    "commits": 6
   },
   {
     "repo": "payment-service",
     "week": "2026-W39",
-    "commits": 4
+    "commits": 8
   },
   {
     "repo": "product-service",
     "week": "2026-W39",
-    "commits": 4
+    "commits": 6
   },
   {
     "repo": "release-radar",
@@ -132,17 +127,17 @@
   {
     "repo": "review-service",
     "week": "2026-W39",
-    "commits": 4
+    "commits": 6
   },
   {
     "repo": "shipping-service",
     "week": "2026-W39",
-    "commits": 4
+    "commits": 6
   },
   {
     "repo": "user-service",
     "week": "2026-W39",
-    "commits": 4
+    "commits": 6
   },
   {
     "repo": "wolfi-images",
@@ -157,12 +152,12 @@
   {
     "repo": "cart-service",
     "week": "2026-W40",
-    "commits": 16
+    "commits": 17
   },
   {
     "repo": "checkout-service",
     "week": "2026-W40",
-    "commits": 15
+    "commits": 17
   },
   {
     "repo": "frontend",
@@ -172,52 +167,57 @@
   {
     "repo": "gha-workflows",
     "week": "2026-W40",
-    "commits": 6
+    "commits": 17
   },
   {
     "repo": "github-insights",
     "week": "2026-W40",
-    "commits": 27
+    "commits": 26
   },
   {
     "repo": "grafana-dashboards",
     "week": "2026-W40",
-    "commits": 7
+    "commits": 5
   },
   {
     "repo": "helm-charts",
     "week": "2026-W40",
-    "commits": 4
+    "commits": 3
   },
   {
     "repo": "homelab",
     "week": "2026-W40",
-    "commits": 94
+    "commits": 111
+  },
+  {
+    "repo": "images",
+    "week": "2026-W40",
+    "commits": 5
   },
   {
     "repo": "inventory-service",
     "week": "2026-W40",
-    "commits": 13
+    "commits": 14
   },
   {
     "repo": "notification-service",
     "week": "2026-W40",
-    "commits": 15
+    "commits": 16
   },
   {
     "repo": "order-service",
     "week": "2026-W40",
-    "commits": 15
+    "commits": 16
   },
   {
     "repo": "payment-service",
     "week": "2026-W40",
-    "commits": 18
+    "commits": 17
   },
   {
     "repo": "product-service",
     "week": "2026-W40",
-    "commits": 23
+    "commits": 24
   },
   {
     "repo": "release-radar",
@@ -227,42 +227,42 @@
   {
     "repo": "review-service",
     "week": "2026-W40",
-    "commits": 14
+    "commits": 15
   },
   {
     "repo": "shipping-service",
     "week": "2026-W40",
-    "commits": 14
+    "commits": 15
   },
   {
     "repo": "user-service",
     "week": "2026-W40",
-    "commits": 13
+    "commits": 14
   },
   {
     "repo": "admin-service",
     "week": "2026-W41",
-    "commits": 13
+    "commits": 15
   },
   {
     "repo": "cart-service",
     "week": "2026-W41",
-    "commits": 11
+    "commits": 9
   },
   {
     "repo": "checkout-service",
     "week": "2026-W41",
-    "commits": 11
+    "commits": 8
   },
   {
     "repo": "frontend",
     "week": "2026-W41",
-    "commits": 12
+    "commits": 18
   },
   {
     "repo": "gha-workflows",
     "week": "2026-W41",
-    "commits": 14
+    "commits": 3
   },
   {
     "repo": "github-insights",
@@ -282,37 +282,42 @@
   {
     "repo": "homelab",
     "week": "2026-W41",
-    "commits": 72
+    "commits": 47
   },
   {
     "repo": "images",
     "week": "2026-W41",
-    "commits": 7
+    "commits": 2
   },
   {
     "repo": "inventory-service",
     "week": "2026-W41",
-    "commits": 9
+    "commits": 7
   },
   {
     "repo": "notification-service",
     "week": "2026-W41",
-    "commits": 11
+    "commits": 9
   },
   {
     "repo": "order-service",
     "week": "2026-W41",
-    "commits": 12
+    "commits": 10
+  },
+  {
+    "repo": "packages",
+    "week": "2026-W41",
+    "commits": 1
   },
   {
     "repo": "payment-service",
     "week": "2026-W41",
-    "commits": 12
+    "commits": 10
   },
   {
     "repo": "product-service",
     "week": "2026-W41",
-    "commits": 11
+    "commits": 9
   },
   {
     "repo": "release-radar",
@@ -322,17 +327,17 @@
   {
     "repo": "review-service",
     "week": "2026-W41",
-    "commits": 11
+    "commits": 10
   },
   {
     "repo": "shipping-service",
     "week": "2026-W41",
-    "commits": 12
+    "commits": 10
   },
   {
     "repo": "user-service",
     "week": "2026-W41",
-    "commits": 11
+    "commits": 8
   },
   {
     "repo": "wolfi-images",
@@ -340,29 +345,9 @@
     "commits": 3
   },
   {
-    "repo": "admin-service",
-    "week": "2026-W42",
-    "commits": 2
-  },
-  {
     "repo": "analytics-service",
     "week": "2026-W42",
     "commits": 1
-  },
-  {
-    "repo": "cart-service",
-    "week": "2026-W42",
-    "commits": 1
-  },
-  {
-    "repo": "checkout-service",
-    "week": "2026-W42",
-    "commits": 1
-  },
-  {
-    "repo": "frontend",
-    "week": "2026-W42",
-    "commits": 6
   },
   {
     "repo": "gha-workflows",
@@ -372,52 +357,22 @@
   {
     "repo": "github-insights",
     "week": "2026-W42",
-    "commits": 23
+    "commits": 24
   },
   {
     "repo": "grafana-dashboards",
     "week": "2026-W42",
-    "commits": 4
+    "commits": 5
   },
   {
     "repo": "homelab",
     "week": "2026-W42",
-    "commits": 23
+    "commits": 27
   },
   {
     "repo": "images",
     "week": "2026-W42",
-    "commits": 2
-  },
-  {
-    "repo": "inventory-service",
-    "week": "2026-W42",
-    "commits": 1
-  },
-  {
-    "repo": "notification-service",
-    "week": "2026-W42",
-    "commits": 1
-  },
-  {
-    "repo": "order-service",
-    "week": "2026-W42",
-    "commits": 1
-  },
-  {
-    "repo": "packages",
-    "week": "2026-W42",
-    "commits": 1
-  },
-  {
-    "repo": "payment-service",
-    "week": "2026-W42",
-    "commits": 1
-  },
-  {
-    "repo": "product-service",
-    "week": "2026-W42",
-    "commits": 1
+    "commits": 10
   },
   {
     "repo": "release-radar",
@@ -426,11 +381,6 @@
   },
   {
     "repo": "review-service",
-    "week": "2026-W42",
-    "commits": 3
-  },
-  {
-    "repo": "shipping-service",
     "week": "2026-W42",
     "commits": 1
   },
@@ -442,17 +392,22 @@
   {
     "repo": "admin-service",
     "week": "2026-W43",
+    "commits": 3
+  },
+  {
+    "repo": "analytics-service",
+    "week": "2026-W43",
     "commits": 2
   },
   {
     "repo": "cart-service",
     "week": "2026-W43",
-    "commits": 4
+    "commits": 7
   },
   {
     "repo": "checkout-service",
     "week": "2026-W43",
-    "commits": 4
+    "commits": 7
   },
   {
     "repo": "frontend",
@@ -467,7 +422,7 @@
   {
     "repo": "github-insights",
     "week": "2026-W43",
-    "commits": 28
+    "commits": 41
   },
   {
     "repo": "grafana-dashboards",
@@ -482,37 +437,37 @@
   {
     "repo": "homelab",
     "week": "2026-W43",
-    "commits": 36
+    "commits": 43
   },
   {
     "repo": "images",
     "week": "2026-W43",
-    "commits": 10
+    "commits": 2
   },
   {
     "repo": "inventory-service",
     "week": "2026-W43",
-    "commits": 4
+    "commits": 7
   },
   {
     "repo": "notification-service",
     "week": "2026-W43",
-    "commits": 3
+    "commits": 6
   },
   {
     "repo": "order-service",
     "week": "2026-W43",
-    "commits": 4
+    "commits": 7
   },
   {
     "repo": "payment-service",
     "week": "2026-W43",
-    "commits": 4
+    "commits": 7
   },
   {
     "repo": "product-service",
     "week": "2026-W43",
-    "commits": 5
+    "commits": 9
   },
   {
     "repo": "release-radar",
@@ -522,42 +477,42 @@
   {
     "repo": "review-service",
     "week": "2026-W43",
-    "commits": 4
+    "commits": 7
   },
   {
     "repo": "shipping-service",
     "week": "2026-W43",
-    "commits": 4
+    "commits": 7
   },
   {
     "repo": "user-service",
     "week": "2026-W43",
-    "commits": 4
+    "commits": 7
   },
   {
     "repo": "admin-service",
     "week": "2026-W44",
-    "commits": 8
+    "commits": 7
   },
   {
     "repo": "analytics-service",
     "week": "2026-W44",
-    "commits": 3
+    "commits": 1
   },
   {
     "repo": "cart-service",
     "week": "2026-W44",
-    "commits": 5
+    "commits": 2
   },
   {
     "repo": "checkout-service",
     "week": "2026-W44",
-    "commits": 7
+    "commits": 4
   },
   {
     "repo": "dep-radar",
     "week": "2026-W44",
-    "commits": 4
+    "commits": 6
   },
   {
     "repo": "frontend",
@@ -567,22 +522,17 @@
   {
     "repo": "gha-workflows",
     "week": "2026-W44",
-    "commits": 3
+    "commits": 4
   },
   {
     "repo": "github-insights",
     "week": "2026-W44",
-    "commits": 40
-  },
-  {
-    "repo": "grafana-dashboards",
-    "week": "2026-W44",
-    "commits": 1
+    "commits": 26
   },
   {
     "repo": "homelab",
     "week": "2026-W44",
-    "commits": 76
+    "commits": 90
   },
   {
     "repo": "images",
@@ -592,27 +542,27 @@
   {
     "repo": "inventory-service",
     "week": "2026-W44",
-    "commits": 5
+    "commits": 2
   },
   {
     "repo": "notification-service",
     "week": "2026-W44",
-    "commits": 5
+    "commits": 2
   },
   {
     "repo": "order-service",
     "week": "2026-W44",
-    "commits": 7
+    "commits": 4
   },
   {
     "repo": "payment-service",
     "week": "2026-W44",
-    "commits": 5
+    "commits": 2
   },
   {
     "repo": "product-service",
     "week": "2026-W44",
-    "commits": 8
+    "commits": 4
   },
   {
     "repo": "release-radar",
@@ -622,17 +572,17 @@
   {
     "repo": "review-service",
     "week": "2026-W44",
-    "commits": 4
+    "commits": 1
   },
   {
     "repo": "shipping-service",
     "week": "2026-W44",
-    "commits": 5
+    "commits": 2
   },
   {
     "repo": "user-service",
     "week": "2026-W44",
-    "commits": 5
+    "commits": 2
   },
   {
     "repo": "wolfi-images",
@@ -672,12 +622,12 @@
   {
     "repo": "gha-workflows",
     "week": "2026-W45",
-    "commits": 2
+    "commits": 1
   },
   {
     "repo": "github-insights",
     "week": "2026-W45",
-    "commits": 26
+    "commits": 25
   },
   {
     "repo": "helm-charts",
@@ -687,7 +637,7 @@
   {
     "repo": "homelab",
     "week": "2026-W45",
-    "commits": 42
+    "commits": 16
   },
   {
     "repo": "images",
@@ -752,17 +702,17 @@
   {
     "repo": "github-insights",
     "week": "2026-W46",
-    "commits": 18
+    "commits": 19
   },
   {
     "repo": "homelab",
     "week": "2026-W46",
-    "commits": 3
+    "commits": 31
   },
   {
     "repo": "images",
     "week": "2026-W46",
-    "commits": 1
+    "commits": 2
   },
   {
     "repo": "release-radar",
@@ -777,21 +727,16 @@
   {
     "repo": "github-insights",
     "week": "2026-W47",
-    "commits": 20
+    "commits": 19
   },
   {
     "repo": "homelab",
-    "week": "2026-W47",
-    "commits": 29
-  },
-  {
-    "repo": "images",
     "week": "2026-W47",
     "commits": 1
   },
   {
     "repo": "release-radar",
     "week": "2026-W47",
-    "commits": 13
+    "commits": 16
   }
 ]
