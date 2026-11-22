@@ -2,12 +2,12 @@
   {
     "repo": "github-insights",
     "week": "2026-W36",
-    "commits": 27
+    "commits": 28
   },
   {
     "repo": "homelab",
     "week": "2026-W36",
-    "commits": 32
+    "commits": 44
   },
   {
     "repo": "release-radar",
@@ -27,7 +27,7 @@
   {
     "repo": "homelab",
     "week": "2026-W37",
-    "commits": 37
+    "commits": 25
   },
   {
     "repo": "release-radar",
@@ -92,7 +92,7 @@
   {
     "repo": "release-radar",
     "week": "2026-W38",
-    "commits": 14
+    "commits": 12
   },
   {
     "repo": "review-service",
@@ -177,7 +177,7 @@
   {
     "repo": "release-radar",
     "week": "2026-W39",
-    "commits": 11
+    "commits": 13
   },
   {
     "repo": "review-service",
@@ -277,7 +277,7 @@
   {
     "repo": "release-radar",
     "week": "2026-W40",
-    "commits": 14
+    "commits": 13
   },
   {
     "repo": "review-service",
@@ -377,7 +377,7 @@
   {
     "repo": "release-radar",
     "week": "2026-W41",
-    "commits": 22
+    "commits": 23
   },
   {
     "repo": "review-service",
@@ -417,7 +417,7 @@
   {
     "repo": "homelab",
     "week": "2026-W42",
-    "commits": 39
+    "commits": 42
   },
   {
     "repo": "images",
@@ -432,7 +432,7 @@
   {
     "repo": "release-radar",
     "week": "2026-W42",
-    "commits": 12
+    "commits": 11
   },
   {
     "repo": "review-service",
@@ -492,7 +492,7 @@
   {
     "repo": "homelab",
     "week": "2026-W43",
-    "commits": 42
+    "commits": 43
   },
   {
     "repo": "images",
@@ -527,7 +527,7 @@
   {
     "repo": "release-radar",
     "week": "2026-W43",
-    "commits": 17
+    "commits": 18
   },
   {
     "repo": "review-service",
@@ -567,7 +567,7 @@
   {
     "repo": "dep-radar",
     "week": "2026-W44",
-    "commits": 8
+    "commits": 10
   },
   {
     "repo": "frontend",
@@ -592,7 +592,7 @@
   {
     "repo": "homelab",
     "week": "2026-W44",
-    "commits": 81
+    "commits": 77
   },
   {
     "repo": "images",
@@ -652,7 +652,7 @@
   {
     "repo": "dep-radar",
     "week": "2026-W45",
-    "commits": 14
+    "commits": 13
   },
   {
     "repo": "gha-workflows",
@@ -662,7 +662,7 @@
   {
     "repo": "github-insights",
     "week": "2026-W45",
-    "commits": 25
+    "commits": 23
   },
   {
     "repo": "homelab",
@@ -677,12 +677,12 @@
   {
     "repo": "dep-radar",
     "week": "2026-W46",
-    "commits": 12
+    "commits": 11
   },
   {
     "repo": "github-insights",
     "week": "2026-W46",
-    "commits": 19
+    "commits": 20
   },
   {
     "repo": "homelab",
@@ -697,12 +697,12 @@
   {
     "repo": "release-radar",
     "week": "2026-W46",
-    "commits": 15
+    "commits": 14
   },
   {
     "repo": "dep-radar",
     "week": "2026-W47",
-    "commits": 10
+    "commits": 11
   },
   {
     "repo": "github-insights",
@@ -717,6 +717,6 @@
   {
     "repo": "release-radar",
     "week": "2026-W47",
-    "commits": 16
+    "commits": 17
   }
 ]
