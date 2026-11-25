@@ -16,6 +16,136 @@
   },
   {
     "repo": "homelab",
+    "number": 1608,
+    "title": "[Task] Apply the PostgreSQL 19 compatibility changes to config, alerts and docs",
+    "url": "https://github.com/duynhlab/homelab/issues/1608",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-25T13:57:18Z",
+    "updated_at": "2026-11-25T13:57:44Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases",
+      "priority/low"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1609,
+    "title": "[Task] Decide which PostgreSQL 19 features the platform adopts",
+    "url": "https://github.com/duynhlab/homelab/issues/1609",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-25T13:57:23Z",
+    "updated_at": "2026-11-25T13:57:28Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases",
+      "priority/low"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1607,
+    "title": "[Task] Choose the PostgreSQL 19 upgrade method and record it in an ADR",
+    "url": "https://github.com/duynhlab/homelab/issues/1607",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-25T13:57:13Z",
+    "updated_at": "2026-11-25T13:57:16Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases",
+      "priority/normal",
+      "blocked/decision"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1606,
+    "title": "[Task] Make the PostgreSQL extension set ready for 19 (pg_stat_ch, postgresql-cron, pgaudit)",
+    "url": "https://github.com/duynhlab/homelab/issues/1606",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-25T13:56:27Z",
+    "updated_at": "2026-11-25T13:56:39Z",
+    "closed_at": null,
+    "labels": [
+      "blocked/upstream",
+      "area/databases",
+      "priority/normal"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1605,
+    "title": "[Task] Qualify CloudNativePG for PostgreSQL 19 (1.31 or a 1.30.x backport)",
+    "url": "https://github.com/duynhlab/homelab/issues/1605",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-25T13:56:21Z",
+    "updated_at": "2026-11-25T13:56:24Z",
+    "closed_at": null,
+    "labels": [
+      "blocked/upstream",
+      "area/databases",
+      "priority/normal"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1604,
+    "title": "[Task] Run the local-stack E2E audit against PostgreSQL 19.0",
+    "url": "https://github.com/duynhlab/homelab/issues/1604",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-25T13:56:15Z",
+    "updated_at": "2026-11-25T13:56:17Z",
+    "closed_at": null,
+    "labels": [
+      "area/local-stack",
+      "priority/normal"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
+    "number": 1603,
+    "title": "[Task] Evaluate PostgreSQL 19 adoption for the CNPG clusters",
+    "url": "https://github.com/duynhlab/homelab/issues/1603",
+    "state": "OPEN",
+    "author": "duynhne",
+    "author_is_bot": false,
+    "created_at": "2026-11-25T13:55:46Z",
+    "updated_at": "2026-11-25T13:55:48Z",
+    "closed_at": null,
+    "labels": [
+      "area/databases",
+      "epic",
+      "priority/normal"
+    ],
+    "assignees": [],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
     "number": 201,
     "title": "Renovate Dashboard",
     "url": "https://github.com/duynhlab/homelab/issues/201",
@@ -23,7 +153,7 @@
     "author": "renovate",
     "author_is_bot": true,
     "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-11-24T20:26:01Z",
+    "updated_at": "2026-11-25T13:48:14Z",
     "closed_at": null,
     "labels": [],
     "assignees": [
