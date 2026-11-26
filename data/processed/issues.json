@@ -16,6 +16,23 @@
   },
   {
     "repo": "homelab",
+    "number": 201,
+    "title": "Renovate Dashboard",
+    "url": "https://github.com/duynhlab/homelab/issues/201",
+    "state": "OPEN",
+    "author": "renovate",
+    "author_is_bot": true,
+    "created_at": "2026-03-12T08:30:22Z",
+    "updated_at": "2026-11-25T23:17:11Z",
+    "closed_at": null,
+    "labels": [],
+    "assignees": [
+      "duynhne"
+    ],
+    "comments": 0
+  },
+  {
+    "repo": "homelab",
     "number": 1608,
     "title": "[Task] Apply the PostgreSQL 19 compatibility changes to config, alerts and docs",
     "url": "https://github.com/duynhlab/homelab/issues/1608",
@@ -142,23 +159,6 @@
       "priority/normal"
     ],
     "assignees": [],
-    "comments": 0
-  },
-  {
-    "repo": "homelab",
-    "number": 201,
-    "title": "Renovate Dashboard",
-    "url": "https://github.com/duynhlab/homelab/issues/201",
-    "state": "OPEN",
-    "author": "renovate",
-    "author_is_bot": true,
-    "created_at": "2026-03-12T08:30:22Z",
-    "updated_at": "2026-11-25T13:48:14Z",
-    "closed_at": null,
-    "labels": [],
-    "assignees": [
-      "duynhne"
-    ],
     "comments": 0
   },
   {
